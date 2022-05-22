@@ -44,7 +44,7 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | NeurIPS Workshop | 2019 |      | [[PDF]](https://arxiv.org/pdf/1909.12946)                    |
 | FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper | ICCAD            | 2021 |      | [[PUB.]](https://doi.org/10.1109/ICCAD51958.2021.9643440)    |
 | DAG-FL: Direct Acyclic Graph-based Blockchain Empowers On-Device Federated Learning | ICC              | 2021 |      | [[PUB.]](https://doi.org/10.1109/ICC42927.2021.9500737)      |
-| Graphical Federated Cloud Sharing Markets                    | TSUSC            |      | ?    | [[PUB.]](https://doi.org/10.1109/TSUSC.2021.3100010)         |
+| Graphical Federated Cloud Sharing Markets                    | TSUSC            | 2021 | ?    | [[PUB.]](https://doi.org/10.1109/TSUSC.2021.3100010)         |
 | Virtual Knowledge Graphs for Federated Log Analysis          | ARES             | 2021 | ?    | [[PUB.]](https://doi.org/10.1145/3465481.3465767)            |
 | FedE: Embedding Knowledge Graphs in Federated Setting **`kg.`** | IJCKG            | 2021 |      | [[PDF]](https://arxiv.org/pdf/2010.12882) [[PUB.]](https://doi.org/10.1145/3502223.3502233)[[Code]](https://github.com/AnselCmy/FedE) |
 | Federated Knowledge Graph Embeddings with Heterogeneous Data | CCKS             | 2021 | ？   | [[PUB.]](https://doi.org/10.1007/978-981-16-6471-7_2)        |
@@ -93,10 +93,6 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
 ### Private Graph Neural Networks (todo)
 
 1. [IEEE Big Data 2019] A Graph Neural Network Based Federated Learning Approach by Hiding Structure. [[PDF]](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
-
-
-
-
 
 - [Arxiv 2021] Privacy-Preserving Graph Convolutional Networks for Text Classification. [[PDF]](https://arxiv.org/pdf/2102.09604)
 - [Arxiv 2021] GraphMI: Extracting Private Graph Data from Graph Neural Networks. [[PDF]](https://arxiv.org/pdf/2106.02820)
