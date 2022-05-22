@@ -2,17 +2,11 @@
 
 [![Stars](https://img.shields.io/github/stars/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.svg?color=orange)](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/stargazers)  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) 
 
-
-
-
-
-
-
 ---
 
 **Table of Contents**
 
-[Paper](#Papers)
+[Papers](#Papers)
 
 [Framework](#Framework)
 
@@ -22,15 +16,84 @@
 
 # Papers
 
-## keywords
+**keywords**
 
 Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50
+
+**`kg.`**: Knowledge Graph |**`data.`**: dataset  |   **`surv.`**: survey
+
+
 
 ## Update log
 
 *Last updated: 2022/05/21*
 
 *2022/05/21* - update all of Federated Learning Framework
+
+
+
+This section is partially refers to this repository: [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks) 
+
+
+
+### FL on Graph Data
+
+| Title                                                        | Venue            | Year | Ref  | Materials                                                    |
+| ------------------------------------------------------------ | ---------------- | ---- | ---- | ------------------------------------------------------------ |
+| Federated Knowledge Graphs Embedding  **`kg.`**              | CIKM             | 2021 |      | [[PDF]](https://arxiv.org/pdf/2105.07615)                    |
+| Towards Federated Graph Learning for Collaborative Financial Crimes Detection | NeurIPS Workshop | 2019 |      | [[PDF]](https://arxiv.org/pdf/1909.12946)                    |
+| A Graph Federated Architecture with Privacy Preserving Learning | preprint         | 2021 |      | [[PDF]](https://arxiv.org/pdf/2104.13215)                    |
+| Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries **`kg.`** | preprint         | 2021 |      | [[PDF]](https://arxiv.org/pdf/2107.05447)                    |
+| Federated Myopic Community Detection with One-shot Communication | preprint         | 2021 |      | [[PDF]](https://arxiv.org/pdf/2106.07255)                    |
+| FedE: Embedding Knowledge Graphs in Federated Setting **`kg.`** | preprint         | 2020 |      | [[PDF]](https://arxiv.org/pdf/2010.12882) [[Code]](https://github.com/AnselCmy/FedE) |
+| Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty **`kg.`** | preprint         | 2020 |      | [[PDF]](https://arxiv.org/pdf/2011.11369)                    |
+| Peer-to-peer federated learning on graphs                    | preprint         | 2019 |      | [[PDF]](https://arxiv.org/pdf/1901.11173)                    |
+
+
+
+### FL on Graph Neural Networks
+
+| Title                                                        | Venue           | Year | Ref  | Materials                                                    |
+| ------------------------------------------------------------ | --------------- | ---- | ---- | ------------------------------------------------------------ |
+| SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks | AAAI            | 2022 |      | [[PDF]](https://arxiv.org/pdf/2106.02743) [[Code]](https://github.com/FedML-AI/SpreadGNN) |
+| Federated Graph Classification over Non-IID Graphs           | NeurIPS         | 2021 |      | [[PDF]](https://arxiv.org/pdf/2106.13423) [HomePage](https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html) |
+| Subgraph Federated Learning with Missing Neighbor Generation | NeurIPS         | 2021 |      | [[PDF]](https://arxiv.org/pdf/2106.13430)[HomePage](https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html) |
+| Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling | KDD             | 2021 |      | [[PDF]](https://arxiv.org/pdf/2106.05223) [[Code]](https://github.com/mengcz13/KDD2021_CNFGNN) |
+| FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks  **`surv.`** | ICLR-DPML       | 2021 |      | [[PDF]](https://arxiv.org/pdf/2104.07145) [[Code]](https://github.com/FedML-AI/FedGraphNN) |
+| Cluster-driven Graph Federated Learning over Multiple Domains | CVPR            | 2021 |      | [[PDF]](https://arxiv.org/pdf/2104.14628)                    |
+| Differentially Private Federated Knowledge Graphs Embedding **`kg.`** | CIKM            | 2021 |      | [[PDF]](https://arxiv.org/pdf/2105.07615) [[Code]](https://github.com/HKUST-KnowComp/FKGE) |
+| A Federated Multigraph Integration Approach for Connectional Brain Template Learning | MICCAI Workshop | 2021 |      | [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4) |
+| FedGraph: Federated Graph Learning with Intelligent Sampling | TPDS            | 2021 |      | [[PDF]](https://ieeexplore.ieee.org/abstract/document/9606516/) |
+| Federated Graph Learning -- A Position Paper  **`surv.`**    | preprint        | 2021 |      | [[PDF]](https://arxiv.org/pdf/2105.11099)                    |
+| FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation | preprint        | 2021 |      | [[PDF]](https://arxiv.org/pdf/2102.04925)                    |
+| FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search | preprint        | 2021 |      | [[PDF]](https://arxiv.org/pdf/2104.04141)                    |
+| FedGL: Federated Graph Learning Framework with Global Self-Supervision | preprint        | 2021 |      | [[PDF]](https://arxiv.org/pdf/2105.03170)                    |
+| A Vertical Federated Learning Framework for Graph Convolutional Network | preprint        | 2021 |      | [[PDF]](https://arxiv.org/pdf/2106.11593)                    |
+| Federated Dynamic GNN with Secure Aggregation                | preprint        | 2020 |      | [[PDF]](https://arxiv.org/pdf/2009.07351)                    |
+| Privacy-Preserving Graph Neural Network for Node Classification | preprint        | 2020 |      | [[PDF]](https://arxiv.org/pdf/2005.11903)                    |
+| ASFGNN: Automated Separated-Federated Graph Neural Network   | preprint        | 2020 |      | [[PDF]](https://arxiv.org/pdf/2011.03248)                    |
+| GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs | preprint        | 2020 |      | [[PDF]](https://arxiv.org/pdf/2012.04187)                    |
+
+
+
+
+
+
+
+### Private Graph Neural Networks (todo)
+
+1. [IEEE Big Data 2019] A Graph Neural Network Based Federated Learning Approach by Hiding Structure. [[PDF]](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)
+
+
+
+
+
+- [Arxiv 2021] Privacy-Preserving Graph Convolutional Networks for Text Classification. [[PDF]](https://arxiv.org/pdf/2102.09604)
+- [Arxiv 2021] GraphMI: Extracting Private Graph Data from Graph Neural Networks. [[PDF]](https://arxiv.org/pdf/2106.02820)
+- [Arxiv 2021] Towards Representation Identical Privacy-Preserving Graph Neural Network via Split Learning. [[PDF]](https://arxiv.org/abs/2107.05917)
+- [Arxiv 2020] Locally Private Graph Neural Networks. [[PDF]](https://arxiv.org/pdf/2006.05535)
+
+
 
 
 
@@ -46,7 +109,7 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50
 | [FATE](https://github.com/FederatedAI/FATE)<br />[![Stars](https://img.shields.io/github/stars/FederatedAI/FATE.svg?color=red)](https://github.com/FederatedAI/FATE/stargazers) | [FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection](https://www.jmlr.org/papers/volume22/20-815/20-815.pdf) | [WeBank](https://fedai.org/)                                 |                                      | :white_check_mark::white_check_mark: | [Doc](https://fate.readthedocs.io/en/latest/)<br />[Doc(zh)](https://fate.readthedocs.io/en/latest/zh/) |
 | [MindSpore Federated](https://github.com/mindspore-ai/mindspore/tree/master/tests/st/fl)<br />[![Stars](https://img.shields.io/github/stars/mindspore-ai/mindspore.svg?color=red)](https://github.com/mindspore-ai/mindspore/stargazers) |                                                              | HUAWEI                                                       |                                      |                                      | [Doc](https://mindspore.cn/federated/docs/zh-CN/r1.6/index.html) <br />[Homepage](https://mindspore.cn/federated) |
 | [TFF(Tensorflow-Federated)](https://github.com/tensorflow/federated) <br />[![Stars](https://img.shields.io/github/stars/tensorflow/federated.svg?color=red)](https://github.com/tensorflow/federated/stargazers) | [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) | Google                                                       |                                      |                                      | [Doc](https://www.tensorflow.org/federated) <br />[Homepage](https://www.tensorflow.org/federated) |
-| [FedML](https://github.com/FedML-AI/FedML)<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedML.svg?color=red)](https://github.com/FedML-AI/FedML/stargazers) | [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518) | [FedML](https://fedml.ai/)                                   | :white_check_mark::white_check_mark: |                                      | [Doc](https://doc.fedml.ai/)                                 |
+| [FedML](https://github.com/FedML-AI/FedML)<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedML.svg?color=red)](https://github.com/FedML-AI/FedML/stargazers) | [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518) | [FedML](https://fedml.ai/)                                   | :white_check_mark::white_check_mark: |          :white_check_mark:          | [Doc](https://doc.fedml.ai/)                                 |
 | [Flower](https://github.com/adap/flower)<br />[![Stars](https://img.shields.io/github/stars/adap/flower.svg?color=red)](https://github.com/adap/flower/stargazers) | [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/pdf/2104.03042.pdf) | [flower.dev](https://flower.dev/) [adap](https://adap.com/en) |                                      |                                      | [Doc](https://flower.dev/docs/)                              |
 | [Fedlearner](https://github.com/bytedance/fedlearner)<br />[![Stars](https://img.shields.io/github/stars/bytedance/fedlearner.svg?color=blue)](https://github.com/bytedance/fedlearner/stargazers) |                                                              | Bytedance                                                    |                                      |                                      |                                                              |
 | [LEAF](https://github.com/TalwalkarLab/leaf)<br />[![Stars](https://img.shields.io/github/stars/TalwalkarLab/leaf.svg?color=blue)](https://github.com/TalwalkarLab/leaf/stargazers) | [LEAF: A Benchmark for Federated Settings](https://arxiv.org/pdf/1812.01097.pdf) | [CMU](https://leaf.cmu.edu/)                                 |                                      |                                      |                                                              |
