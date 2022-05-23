@@ -6,11 +6,11 @@
 
 **Table of Contents**
 
-[Papers](#Papers)
-
-[Framework](#Framework)
-
-[Datasets](#Datasets)
+- [Papers](#Papers)
+  - [FL on Graph Data](#FL on Graph Data)
+  - [FL on Graph Neural Networks](#FL on Graph Neural Networks)
+- [Framework](#Framework)
+- [Datasets](#Datasets)
 
 
 
@@ -26,7 +26,9 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  |T
 
 ## Update log
 
-*Last updated: 2022/05/21*
+*Last updated: 2022/05/23*
+
+*2022/05/23 - add the paper list of FL on graph data and Graph Neural Networks*
 
 *2022/05/21* - update all of Federated Learning Framework
 
@@ -121,7 +123,7 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
 | [LEAF](https://github.com/TalwalkarLab/leaf)<br />[![Stars](https://img.shields.io/github/stars/TalwalkarLab/leaf.svg?color=blue)](https://github.com/TalwalkarLab/leaf/stargazers) | [LEAF: A Benchmark for Federated Settings](https://arxiv.org/pdf/1812.01097.pdf) | [CMU](https://leaf.cmu.edu/)                                 |                                      |                                      |                                                              |
 | [Rosetta](https://github.com/LatticeX-Foundation/Rosetta)<br />[![Stars](https://img.shields.io/github/stars/LatticeX-Foundation/Rosetta.svg?color=blue)](https://github.com/LatticeX-Foundation/Rosetta/stargazers) |                                                              | [matrixelements](https://www.matrixelements.com/product/rosetta) |                                      |                                      | [Doc](https://github.com/LatticeX-Foundation/Rosetta/blob/master/doc/DEPLOYMENT.md) <br />[Homepage](https://github.com/LatticeX-Foundation/Rosetta) |
 | [PaddleFL](https://github.com/PaddlePaddle/PaddleFL)<br />[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleFL.svg?color=blue)](https://github.com/PaddlePaddle/PaddleFL/stargazers) |                                                              | Baidu                                                        |                                      |                                      | [Doc](https://paddlefl.readthedocs.io/en/latest/index.html)  |
-| [FederatedScope](https://github.com/alibaba/FederatedScope)<br />[![Stars](https://img.shields.io/github/stars/alibaba/FederatedScope.svg?color=blue)](https://github.com/alibaba/FederatedScope/stargazers) | [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011) | [Alibaba DAMO Academy](https://damo.alibaba.com/labs/data-analytics-and-intelligence) |          :white_check_mark:          |                                      | [Doc](https://federatedscope.io/refs/index)  <br />[Homepage](https://federatedscope.io/) |
+| [FederatedScope](https://github.com/alibaba/FederatedScope)<br />[![Stars](https://img.shields.io/github/stars/alibaba/FederatedScope.svg?color=blue)](https://github.com/alibaba/FederatedScope/stargazers) | [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://arxiv.org/abs/2204.05011) | [Alibaba DAMO Academy](https://damo.alibaba.com/labs/data-analytics-and-intelligence) | :white_check_mark::white_check_mark: |                                      | [Doc](https://federatedscope.io/refs/index)  <br />[Homepage](https://federatedscope.io/) |
 | [OpenFL](https://github.com/intel/openfl)<br />[![Stars](https://img.shields.io/github/stars/intel/openfl.svg?color=blue)](https://github.com/intel/openfl/stargazers) | [OpenFL: An open-source framework for Federated Learning](https://arxiv.org/abs/2105.06413) | Intel                                                        |                                      |                                      | [Doc](https://openfl.readthedocs.io/en/latest/install.html)  |
 | [IBM Federated Learning](https://github.com/IBM/federated-learning-lib)<br />[![Stars](https://img.shields.io/github/stars/IBM/federated-learning-lib.svg?color=blue)](https://github.com/IBM/federated-learning-lib/stargazers) | [IBM Federated Learning: an Enterprise Framework White Paper](https://arxiv.org/pdf/2007.10987.pdf) | IBM                                                          |                                      |          :white_check_mark:          | [Papers](https://github.com/IBM/federated-learning-lib/blob/main/docs/papers.md) |
 | [Fedlab](https://github.com/SMILELab-FL/FedLab)<br />[![Stars](https://img.shields.io/github/stars/SMILELab-FL/FedLab.svg?color=blue)](https://github.com/SMILELab-FL/FedLab/stargazers) | [FedLab: A Flexible Federated Learning Framework](https://arxiv.org/abs/2107.11621) | [SMILELab](https://github.com/SMILELab-FL/)                  |                                      |                                      | [Doc](https://fedlab.readthedocs.io/en/master/)<br />[Doc(zh)](https://fedlab.readthedocs.io/zh_CN/latest/) <br />[Homepage](https://github.com/SMILELab-FL/FedLab-benchmarks) |
