@@ -7,8 +7,8 @@
 **Table of Contents**
 
 - [Papers](#Papers)
-  - [FL on Graph Data](#FL on Graph Data)
-  - [FL on Graph Neural Networks](#FL on Graph Neural Networks)
+  - [FL on Graph Data](#FL-on-Graph-Data)
+  - [FL on Graph Neural Networks](#FL-on-Graph-Neural-Networks)
 - [Framework](#Framework)
 - [Datasets](#Datasets)
 
