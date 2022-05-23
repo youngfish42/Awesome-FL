@@ -34,11 +34,9 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  |T
 
 
 
-This section is partially refers to this repository: [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks) 
-
-
-
 ### FL on Graph Data
+
+This section is partially refers to repositorys [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks)  and [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine.
 
 | Title                                                        | Venue            | Year | Ref  | Materials                                                    |
 | ------------------------------------------------------------ | ---------------- | ---- | ---- | ------------------------------------------------------------ |
@@ -59,6 +57,8 @@ This section is partially refers to this repository: [Awesome-Federated-Learning
 
 
 ### FL on Graph Neural Networks
+
+This section is partially refers to repositorys [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks)  and [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine.
 
 | Title                                                        | Venue                  | Year | Ref  | Materials                                                    |
 | ------------------------------------------------------------ | ---------------------- | ---- | ---- | ------------------------------------------------------------ |
