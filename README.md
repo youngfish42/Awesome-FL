@@ -28,7 +28,7 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  |T
 
 *Last updated: 2022/05/24*
 
-*2022/05/24 - complete the paper and code lits of FL on graph data and Graph Neural Networks*
+*2022/05/24 - complete the paper and code lists of FL on graph data and Graph Neural Networks*
 
 *2022/05/23 - add the paper list of FL on graph data and Graph Neural Networks*
 
@@ -38,7 +38,7 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  |T
 
 ### FL on Graph Data and Graph Neural Networks
 
-This section is partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine and repositorys [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks).
+This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine and repositorys [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks).
 
 | Title                                                        | Venue                  | Year | Ref  | Materials                                                    |
 | ------------------------------------------------------------ | ---------------------- | ---- | ---- | ------------------------------------------------------------ |
@@ -109,6 +109,14 @@ This section is partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Fe
 
 
 ### FL on Tabular Data
+
+This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest) search engine.
+
+| Title                                                        | Venue                 | Year | Ref  | Materials                                                    |
+| ------------------------------------------------------------ | --------------------- | ---- | ---- | ------------------------------------------------------------ |
+| VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | SIGMOD :mortar_board: | 2021 |      | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).]     |
+| An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee | TPDS :mortar_board:   | 2021 |      | [[PUB](https://ieeexplore.ieee.org/document/9272649/).]      |
+| Practical Federated Gradient Boosting Decision Trees         | AAAI                  | 2020 |      | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/5895).] |
 
 
 
