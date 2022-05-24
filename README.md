@@ -116,7 +116,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | ------------------------------------------------------------ | --------------------- | ---- | ---- | ------------------------------------------------------------ |
 | VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | SIGMOD :mortar_board: | 2021 |      | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).]     |
 | An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee | TPDS :mortar_board:   | 2021 |      | [[PUB](https://ieeexplore.ieee.org/document/9272649/).]      |
-| Practical Federated Gradient Boosting Decision Trees         | AAAI                  | 2020 |      | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/5895).] |
+| Practical Federated Gradient Boosting Decision Trees         | AAAI :mortar_board:   | 2020 |      | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/5895).] |
 
 
 
