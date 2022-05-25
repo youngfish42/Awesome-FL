@@ -18,7 +18,7 @@
 
 **keywords**
 
-Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  |Top-tier venue :mortar_board:
+Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  | :mortar_board: Top-tier venue 
 
 **`kg.`**: Knowledge Graph |     **`data.`**: dataset  |   **`surv.`**: survey
 
