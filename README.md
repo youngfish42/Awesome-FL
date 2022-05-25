@@ -24,23 +24,22 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  | 
 
 
 
-## Update log
+**Update log**
 
 *Last updated: 2022/05/25*
 
-*2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
+- *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
+- *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
 
-*2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
+- *2022/05/24 - complete the paper and code lists of FL on graph data and Graph Neural Networks*
 
-*2022/05/24 - complete the paper and code lists of FL on graph data and Graph Neural Networks*
+- *2022/05/23 - add the paper list of FL on graph data and Graph Neural Networks*
 
-*2022/05/23 - add the paper list of FL on graph data and Graph Neural Networks*
-
-*2022/05/21 - update all of Federated Learning Framework*
-
+- *2022/05/21 - update all of Federated Learning Framework*
 
 
-### FL on Graph Data and Graph Neural Networks
+
+## FL on Graph Data and Graph Neural Networks
 
 This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine and repositories [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks).
 
@@ -112,7 +111,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 
 
-### FL on Tabular Data
+## FL on Tabular Data
 
 This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest) search engine.
 
@@ -210,19 +209,16 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 
 Many thanks :heart: to the other awesome list:
 
-Lists of Federated Learning field:
+- Federated Learning
 
-- [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers)  
+  - [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers)  
+  - [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
+  - [Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
+  - [awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning)
+  - [Federated-Learning](https://github.com/lokinko/Federated-Learning)
+  - [FLsystem-paper](https://github.com/AmberLJC/FLsystem-paper)
+- Other fields
 
-- [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
-
-- [Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
-- [awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning)
-- [Federated-Learning](https://github.com/lokinko/Federated-Learning)
-- [FLsystem-paper](https://github.com/AmberLJC/FLsystem-paper)
-
-Lists of other fields:
-
-- [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)
-- [awesome-image-registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration)
+  - [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)
+  - [awesome-image-registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration)
 
