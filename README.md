@@ -123,7 +123,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees | IEEE Access                 | 2022 |      | [[PUB](https://ieeexplore.ieee.org/document/9761890).]       |
 | Federated Forest                                             | TBD                         | 2022 |      | [[PDF](https://arxiv.org/pdf/1905.10053)] [[PUB](https://ieeexplore.ieee.org/document/9088965).] |
 | Cross-silo federated learning based decision trees           | SAC                         | 2022 |      | [[PUB](https://dl.acm.org/doi/10.1145/3477314.3507149).]     |
-| VF$^{2}$Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | SIGMOD :mortar_board:       | 2021 |      | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).]     |
+| VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | SIGMOD :mortar_board:       | 2021 |      | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).]     |
 | An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee | TPDS :mortar_board:         | 2021 |      | [[PDF](https://arxiv.org/pdf/2011.01783)] [[PUB](https://ieeexplore.ieee.org/document/9272649/).] |
 | A Blockchain-Based Federated Forest for SDN-Enabled In-Vehicle Network Intrusion Detection System | IEEE Access                 | 2021 |      | [[PUB](https://ieeexplore.ieee.org/document/9471858).]       |
 | Research on privacy protection of multi source data based on improved gbdt federated ensemble method with different metrics | Phys.  Commun.              | 2021 |      | [[PUB](https://www.sciencedirect.com/science/article/pii/S1874490721000847?via%3Dihub).] |
@@ -151,7 +151,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | FederBoost: Private Federated Learning for GBDT              | preprint                    | 2020 |      | [[PDF](https://arxiv.org/pdf/2011.02796)]                    |
 | Privacy Preserving Text Recognition with Gradient-Boosting for Federated Learning | preprint                    | 2020 |      | [[PDF](https://arxiv.org/pdf/2007.07296)] [[Code](https://github.com/rand2ai/fedboost)] |
 | Cloud-based Federated Boosting for Mobile Crowdsensing       | preprint                    | 2020 |      | [[arxiv](https://arxiv.org/abs/2005.05304)]                  |
-| Federated Extra-Trees with Privacy Preserving                | preprint                    | 2020 |      | [PDF]                                                        |
+| Federated Extra-Trees with Privacy Preserving                | preprint                    | 2020 |      | [[PDF](https://arxiv.org/pdf/2002.07323.pdf)]                |
 | Bandwidth Slicing to Boost Federated Learning in Edge Computing | preprint                    | 2019 |      | [[PDF](https://arxiv.org/pdf/1911.07615)]                    |
 | Revocable Federated Learning: A Benchmark of Federated Forest | preprint                    | 2019 |      | [[PDF](https://arxiv.org/pdf/1911.03242)]                    |
 
