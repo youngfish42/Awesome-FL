@@ -28,6 +28,8 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  |T
 
 *Last updated: 2022/05/25*
 
+*2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
+
 *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
 
 *2022/05/24 - complete the paper and code lists of FL on graph data and Graph Neural Networks*
@@ -117,28 +119,41 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Title                                                        | Venue                       | Year | Ref  | Materials                                                    |
 | ------------------------------------------------------------ | --------------------------- | ---- | ---- | ------------------------------------------------------------ |
 | Federated Random Forests can improve local performance of predictive models for various healthcare applications | Bioinform.                  | 2022 |      | [[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214).] [[Code](https://featurecloud.ai/)] |
-| Federated Functional Gradient Boosting                       | AISTATS                     | 2022 |      | [[PUB](https://proceedings.mlr.press/v151/shen22a.html).] [[Code](https://github.com/shenzebang/Federated-Learning-Pytorch)] |
+| Federated Functional Gradient Boosting                       | AISTATS                     | 2022 |      | [[PDF](https://arxiv.org/pdf/2103.06972)] [[PUB](https://proceedings.mlr.press/v151/shen22a.html).] [[Code](https://github.com/shenzebang/Federated-Learning-Pytorch)] |
 | eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees | IEEE Access                 | 2022 |      | [[PUB](https://ieeexplore.ieee.org/document/9761890).]       |
-| Federated Forest                                             | TBD                         | 2022 |      | [[PUB](https://ieeexplore.ieee.org/document/9088965).]       |
+| Federated Forest                                             | TBD                         | 2022 |      | [[PDF](https://arxiv.org/pdf/1905.10053)] [[PUB](https://ieeexplore.ieee.org/document/9088965).] |
 | Cross-silo federated learning based decision trees           | SAC                         | 2022 |      | [[PUB](https://dl.acm.org/doi/10.1145/3477314.3507149).]     |
 | VF$^{2}$Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | SIGMOD :mortar_board:       | 2021 |      | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).]     |
-| An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee | TPDS :mortar_board:         | 2021 |      | [[PUB](https://ieeexplore.ieee.org/document/9272649/).]      |
+| An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee | TPDS :mortar_board:         | 2021 |      | [[PDF](https://arxiv.org/pdf/2011.01783)] [[PUB](https://ieeexplore.ieee.org/document/9272649/).] |
 | A Blockchain-Based Federated Forest for SDN-Enabled In-Vehicle Network Intrusion Detection System | IEEE Access                 | 2021 |      | [[PUB](https://ieeexplore.ieee.org/document/9471858).]       |
 | Research on privacy protection of multi source data based on improved gbdt federated ensemble method with different metrics | Phys.  Commun.              | 2021 |      | [[PUB](https://www.sciencedirect.com/science/article/pii/S1874490721000847?via%3Dihub).] |
-| Fed-EINI: An Efficient and Interpretable Inference Framework for Decision Tree Ensembles in Vertical Federated Learning | IEEE BigData                | 2021 |      | [[PUB](https://ieeexplore.ieee.org/document/9671749).]       |
+| Fed-EINI: An Efficient and Interpretable Inference Framework for Decision Tree Ensembles in Vertical Federated Learning | IEEE BigData                | 2021 |      | [[PDF](https://arxiv.org/pdf/2105.09540)] [[PUB](https://ieeexplore.ieee.org/document/9671749).] |
 | Gradient Boosting Forest: a Two-Stage Ensemble Method Enabling Federated Learning of GBDTs | ICONIP                      | 2021 |      | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_7).] |
 | A k-Anonymised Federated Learning Framework with Decision Trees | DPM/CBT @ESORICS            | 2021 |      | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-93944-1_7).] |
 | AF-DNDF: Asynchronous Federated Learning of Deep Neural Decision Forests | SEAA                        | 2021 |      | [[PUB](https://ieeexplore.ieee.org/document/9582575).]       |
-| Compression Boosts Differentially Private Federated Learning | EuroS&P                     | 2021 |      | [[PUB](https://ieeexplore.ieee.org/document/9581200).]       |
-| Practical Federated Gradient Boosting Decision Trees         | AAAI :mortar_board:         | 2020 |      | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/5895).] |
-| Boosting Privately: Federated Extreme Gradient Boosting for Mobile Crowdsensing | ICDCS                       | 2020 |      | [[PUB](https://ieeexplore.ieee.org/document/9355600).]       |
-| FedCluster: Boosting the Convergence of Federated Learning via Cluster-Cycling | IEEE BigData                | 2020 |      | [[PUB](https://ieeexplore.ieee.org/document/9377960).]       |
+| Compression Boosts Differentially Private Federated Learning | EuroS&P                     | 2021 |      | [[PDF](https://arxiv.org/pdf/2011.05578)] [[PUB](https://ieeexplore.ieee.org/document/9581200).] |
+| Practical Federated Gradient Boosting Decision Trees         | AAAI :mortar_board:         | 2020 |      | [[PDF](https://arxiv.org/pdf/1911.04206)] [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/5895).] [[Code](https://github.com/Xtra-Computing/SimFL)] |
+| Boosting Privately: Federated Extreme Gradient Boosting for Mobile Crowdsensing | ICDCS                       | 2020 |      | [[PDF](https://arxiv.org/pdf/1907.10218)] [[PUB](https://ieeexplore.ieee.org/document/9355600).] |
+| FedCluster: Boosting the Convergence of Federated Learning via Cluster-Cycling | IEEE BigData                | 2020 |      | [[PDF](https://arxiv.org/pdf/2009.10748)] [[PUB](https://ieeexplore.ieee.org/document/9377960).] |
 | Bandwidth Slicing to Boost Federated Learning Over Passive Optical Networks | IEEE Communications Letters | 2020 |      | [[PUB](https://ieeexplore.ieee.org/document/9044640).]       |
-| Privacy Preserving Vertical Federated Learning for Tree-based Models | Proc. VLDB Endow.           | 2020 |      | [[PUB](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf).]       |
+| Privacy Preserving Vertical Federated Learning for Tree-based Models | Proc. VLDB Endow.           | 2020 |      | [[PDF](https://arxiv.org/pdf/2008.06170)] [[PUB](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf).] |
 | DFedForest: Decentralized Federated Forest                   | Blockchain                  | 2020 |      | [[PUB](https://ieeexplore.ieee.org/document/9284805/).]      |
 | Straggler Remission for Federated Learning via Decentralized Redundant Cayley Tree | LATINCOM                    | 2020 |      | [[PUB](https://ieeexplore.ieee.org/document/9282334).]       |
 | Federated Soft Gradient Boosting Machine for Streaming Data  | Federated Learning          | 2020 |      | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_7).] |
 | Federated Learning of Deep Neural Decision Forests           | LOD                         | 2019 |      | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58).] |
+| FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging | preprint                    | 2022 |      | [[PDF](https://arxiv.org/pdf/2204.00976)]                    |
+| An Efficient and Robust System for Vertically Federated Random Forest | preprint                    | 2022 |      | [[PDF](https://arxiv.org/pdf/2201.10761)]                    |
+| Guess what? You can boost Federated Learning for free        | preprint                    | 2021 |      | [[PDF](https://arxiv.org/pdf/2110.11486)]                    |
+| SecureBoost+ : A High Performance Gradient Boosting Tree Framework for Large Scale Vertical Federated Learning | preprint                    | 2021 |      | [[PDF](https://arxiv.org/pdf/2110.10927)] [[Code](https://github.com/FederatedAI/FATE)] |
+| Fed-TGAN: Federated Learning Framework for Synthesizing Tabular Data | preprint                    | 2021 |      | [[PDF](https://arxiv.org/pdf/2108.07927)]                    |
+| A Tree-based Federated Learning Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources | preprint                    | 2021 |      | [[PDF](https://arxiv.org/pdf/2103.06261)] [[Code](https://github.com/ellenxtan/ifedtree)] |
+| Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning | preprint                    | 2020 |      | [[PDF](https://arxiv.org/pdf/2012.06670)]                    |
+| FederBoost: Private Federated Learning for GBDT              | preprint                    | 2020 |      | [[PDF](https://arxiv.org/pdf/2011.02796)]                    |
+| Privacy Preserving Text Recognition with Gradient-Boosting for Federated Learning | preprint                    | 2020 |      | [[PDF](https://arxiv.org/pdf/2007.07296)] [[Code](https://github.com/rand2ai/fedboost)] |
+| Cloud-based Federated Boosting for Mobile Crowdsensing       | preprint                    | 2020 |      | [[arxiv](https://arxiv.org/abs/2005.05304)]                  |
+| Federated Extra-Trees with Privacy Preserving                | preprint                    | 2020 |      | [PDF]                                                        |
+| Bandwidth Slicing to Boost Federated Learning in Edge Computing | preprint                    | 2019 |      | [[PDF](https://arxiv.org/pdf/1911.07615)]                    |
+| Revocable Federated Learning: A Benchmark of Federated Forest | preprint                    | 2019 |      | [[PDF](https://arxiv.org/pdf/1911.03242)]                    |
 
 
 
