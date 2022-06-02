@@ -46,7 +46,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Title                                                        | Venue                  | Year | Ref  | Materials                                                    |
 | ------------------------------------------------------------ | ---------------------- | ---- | ---- | ------------------------------------------------------------ |
 | Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting  **`kg.`** | IJCAI                  | 2022 |      | [[PDF]](https://doi.org/10.48550/arXiv.2205.04692) [[Code](https://github.com/zjukg/maker)] |
-| Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation | ACL Workshop           | 2022 |      | [[PDF](https://arxiv.org/format/2203.09553)] [[Code](https://github.com/taokz/FedR)] |
+| Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** | ACL Workshop           | 2022 |      | [[PDF](https://arxiv.org/format/2203.09553)] [[Code](https://github.com/taokz/FedR)] |
 | SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks | AAAI :mortar_board:    | 2022 |      | [[PDF]](https://arxiv.org/pdf/2106.02743) [[Code]](https://github.com/FedML-AI/SpreadGNN) |
 | Decentralized Graph Federated Multitask Learning for Streaming Data | CISS                   | 2022 |      | [[PUB.]](https://doi.org/10.1109/CISS53076.2022.9751160)     |
 | Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications | JBHI                   | 2022 |      | [[PDF]](https://ieeexplore.ieee.org/document/9648036)        |
