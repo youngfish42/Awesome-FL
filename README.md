@@ -26,7 +26,7 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  | 
 
 **Update log**
 
-*Last updated: 2022/05/25*
+*Last updated: 2022/06/14*
 
 - *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
 - *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
