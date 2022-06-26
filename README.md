@@ -26,7 +26,7 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  | 
 
 **Update log**
 
-*Last updated: 2022/06/14*
+*Last updated: 2022/06/26*
 
 - *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
 - *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
@@ -73,6 +73,9 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | ASFGNN: Automated Separated-Federated Graph Neural Network   | PPNA                   | 2020 | [[PDF]](https://arxiv.org/pdf/2011.03248) [[PUB.]](https://doi.org/10.1007/s12083-021-01074-w) |
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | NeurIPS Workshop       | 2019 | [[PDF]](https://arxiv.org/pdf/1909.12946)                    |
 | SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure | BigData | 2019 | [[PDF]](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf) [[PUB](https://ieeexplore.ieee.org/document/9005983).] |
+| Federated Graph Attention Network for Rumor Detection | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.05713) [[Code](https://github.com/baichuanzheng1/fedgat)] |
+| A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.03492) |
+| FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal Graph Learning | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.03420) |
 | FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning | preprint               | 2022 | [[PDF](https://arxiv.org/pdf/2204.05562)] [[Code](https://github.com/alibaba/federatedscope)] |
 | Privatized Graph Federated Learning                          | preprint               | 2022 | [[PDF](https://arxiv.org/pdf/2203.07105)]                    |
 | Graph-Assisted Communication-Efficient Ensemble Federated Learning | preprint               | 2022 | [[PDF](https://arxiv.org/pdf/2202.13447)]                    |
@@ -118,8 +121,10 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Title                                                        | Venue                       | Year | Materials                                                    |
 | ------------------------------------------------------------ | --------------------------- | ---- | ------------------------------------------------------------ |
 | Federated Random Forests can improve local performance of predictive models for various healthcare applications | Bioinform.                  | 2022 | [[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214).] [[Code](https://featurecloud.ai/)] |
+| Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring | e-Energy                    | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3538637.3538840).]     |
 | Federated Functional Gradient Boosting                       | AISTATS                     | 2022 | [[PDF](https://arxiv.org/pdf/2103.06972)] [[PUB](https://proceedings.mlr.press/v151/shen22a.html).] [[Code](https://github.com/shenzebang/Federated-Learning-Pytorch)] |
 | eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees | IEEE Access                 | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9761890).]       |
+| Random Forest Based on Federated Learning for Intrusion Detection | AIAI                        | 2022 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-08333-4_11).] |
 | Federated Forest                                             | TBD                         | 2022 | [[PDF](https://arxiv.org/pdf/1905.10053)] [[PUB](https://ieeexplore.ieee.org/document/9088965).] |
 | Cross-silo federated learning based decision trees           | SAC                         | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3477314.3507149).]     |
 | VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | SIGMOD :mortar_board:       | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).]     |
