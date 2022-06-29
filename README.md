@@ -39,9 +39,11 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  | 
 
 
 
-## FL on Graph Data and Graph Neural Networks
+## FL on Graph Data and Graph Neural Networks 
 
-This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn)  and repositories [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks).
+[![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) 
+
+This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine  and repositories [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks).
 
 | Title                                                        | Venue                  | Year | Materials                                                    |
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------------------------------------------------ |
@@ -119,17 +121,20 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 ## FL on Tabular Data
 
-This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest) search engine [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest) .
+[![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest)
+
+This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest) search engine.
 
 | Title                                                        | Venue                       | Year | Materials                                                    |
 | ------------------------------------------------------------ | --------------------------- | ---- | ------------------------------------------------------------ |
 | Federated Random Forests can improve local performance of predictive models for various healthcare applications | Bioinform.                  | 2022 | [[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214).] [[Code](https://featurecloud.ai/)] |
-| Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring | e-Energy                    | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3538637.3538840).]     |
+| Federated Forest                                             | TBD                         | 2022 | [[PDF](https://arxiv.org/pdf/1905.10053)] [[PUB](https://ieeexplore.ieee.org/document/9088965).] |
 | Federated Functional Gradient Boosting                       | AISTATS                     | 2022 | [[PDF](https://arxiv.org/pdf/2103.06972)] [[PUB](https://proceedings.mlr.press/v151/shen22a.html).] [[Code](https://github.com/shenzebang/Federated-Learning-Pytorch)] |
+| Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring | e-Energy                    | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3538637.3538840).]     |
 | eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees | IEEE Access                 | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9761890).]       |
 | Random Forest Based on Federated Learning for Intrusion Detection | AIAI                        | 2022 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-08333-4_11).] |
-| Federated Forest                                             | TBD                         | 2022 | [[PDF](https://arxiv.org/pdf/1905.10053)] [[PUB](https://ieeexplore.ieee.org/document/9088965).] |
 | Cross-silo federated learning based decision trees           | SAC                         | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3477314.3507149).]     |
+| Leveraging Spanning Tree to Detect Colluding Attackers in Federated Learning | INFCOM Workshops            | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9798077).]       |
 | VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | SIGMOD :mortar_board:       | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).]     |
 | An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee | TPDS :mortar_board:         | 2021 | [[PDF](https://arxiv.org/pdf/2011.01783)] [[PUB](https://ieeexplore.ieee.org/document/9272649/).] |
 | A Blockchain-Based Federated Forest for SDN-Enabled In-Vehicle Network Intrusion Detection System | IEEE Access                 | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9471858).]       |
