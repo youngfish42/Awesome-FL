@@ -18,7 +18,7 @@
 
 **keywords**
 
-Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  | :mortar_board: Top-tier venue 
+Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :mortar_board: Top-tier venue 
 
 **`kg.`**: Knowledge Graph |     **`data.`**: dataset  |   **`surv.`**: survey
 
@@ -26,7 +26,7 @@ Statistics: :fire: code is available & stars >= 1000 | :star: citation >= 50  | 
 
 **Update log**
 
-*Last updated: 2022/06/28
+*Last updated: 2022/06/30*
 
 - *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
 - *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
@@ -65,7 +65,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Federated Social Recommendation with Graph Neural Network    | ACM TIST               | 2021 | [[PDF](https://arxiv.org/pdf/2111.10778)]                    |
 | Subgraph Federated Learning with Missing Neighbor Generation | NeurIPS :mortar_board: | 2021 | [[PDF]](https://arxiv.org/pdf/2106.13430) [[PUB.]](https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html) |
 | Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling | KDD :mortar_board:     | 2021 | [[PDF]](https://arxiv.org/pdf/2106.05223) [[Code]](https://github.com/mengcz13/KDD2021_CNFGNN) |
-| FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks  **`surv.`** | ICLR-DPML              | 2021 | [[PDF]](https://arxiv.org/pdf/2104.07145) [[Code]](https://github.com/FedML-AI/FedGraphNN) |
+| FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks  :fire:  **`surv.`** | ICLR-DPML              | 2021 | [[PDF]](https://arxiv.org/pdf/2104.07145) [[Code]](https://github.com/FedML-AI/FedGraphNN) |
 | Cluster-driven Graph Federated Learning over Multiple Domains | CVPR Workshop          | 2021 | [[PDF]](https://arxiv.org/pdf/2104.14628)                    |
 | Differentially Private Federated Knowledge Graphs Embedding **`kg.`** | CIKM                   | 2021 | [[PDF]](https://arxiv.org/pdf/2105.07615) [[Code]](https://github.com/HKUST-KnowComp/FKGE) |
 | Glint: Decentralized Federated Graph Learning with Traffic Throttling and Flow Scheduling | IWQoS                  | 2021 | [[PUB.]](https://doi.org/10.1109/IWQOS52092.2021.9521331)    |
@@ -80,7 +80,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Federated Graph Attention Network for Rumor Detection | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.05713) [[Code](https://github.com/baichuanzheng1/fedgat)] |
 | A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.03492) |
 | FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal Graph Learning | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.03420) |
-| FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning | preprint               | 2022 | [[PDF](https://arxiv.org/pdf/2204.05562)] [[Code](https://github.com/alibaba/federatedscope)] |
+| FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning :fire: | preprint               | 2022 | [[PDF](https://arxiv.org/pdf/2204.05562)] [[Code](https://github.com/alibaba/federatedscope)] |
 | Privatized Graph Federated Learning                          | preprint               | 2022 | [[PDF](https://arxiv.org/pdf/2203.07105)]                    |
 | Graph-Assisted Communication-Efficient Ensemble Federated Learning | preprint               | 2022 | [[PDF](https://arxiv.org/pdf/2202.13447)]                    |
 | Federated Graph Neural Networks: Overview, Techniques and Challenges  **`surv.`** | preprint               | 2022 | [[PDF](https://arxiv.org/pdf/2202.07256)]                    |
@@ -151,7 +151,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging | preprint                    | 2022 | [[PDF](https://arxiv.org/pdf/2204.00976)]                    |
 | An Efficient and Robust System for Vertically Federated Random Forest | preprint                    | 2022 | [[PDF](https://arxiv.org/pdf/2201.10761)]                    |
 | Guess what? You can boost Federated Learning for free        | preprint                    | 2021 | [[PDF](https://arxiv.org/pdf/2110.11486)]                    |
-| SecureBoost+ : A High Performance Gradient Boosting Tree Framework for Large Scale Vertical Federated Learning | preprint                    | 2021 | [[PDF](https://arxiv.org/pdf/2110.10927)] [[Code](https://github.com/FederatedAI/FATE)] |
+| SecureBoost+ : A High Performance Gradient Boosting Tree Framework for Large Scale Vertical Federated Learning :fire: | preprint                    | 2021 | [[PDF](https://arxiv.org/pdf/2110.10927)] [[Code](https://github.com/FederatedAI/FATE)] |
 | Fed-TGAN: Federated Learning Framework for Synthesizing Tabular Data | preprint                    | 2021 | [[PDF](https://arxiv.org/pdf/2108.07927)]                    |
 | A Tree-based Federated Learning Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources | preprint                    | 2021 | [[PDF](https://arxiv.org/pdf/2103.06261)] [[Code](https://github.com/ellenxtan/ifedtree)] |
 | Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning | preprint                    | 2020 | [[PDF](https://arxiv.org/pdf/2012.06670)]                    |
