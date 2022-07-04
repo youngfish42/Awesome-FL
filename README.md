@@ -26,7 +26,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
 **Update log**
 
-*Last updated: 2022/07/03*
+*Last updated: 2022/07/04*
 
 - *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
 - *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
@@ -50,6 +50,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning :fire: | KDD :mortar_board: | 2022 | [[PDF](https://arxiv.org/pdf/2204.05562)] [[Code](https://github.com/alibaba/federatedscope)] |
 | Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting  **`kg.`** | IJCAI :mortar_board:   | 2022 | [[PDF]](https://doi.org/10.48550/arXiv.2205.04692) [[Code](https://github.com/zjukg/maker)] |
 | SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks | AAAI :mortar_board:    | 2022 | [[PDF]](https://arxiv.org/pdf/2106.02743) [[Code]](https://github.com/FedML-AI/SpreadGNN) |
+| A federated graph neural network framework for privacy-preserving personalization | Nature Communications | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-30714-9).] |
 | Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** | ACL Workshop           | 2022 | [[PDF](https://arxiv.org/format/2203.09553)] [[Code](https://github.com/taokz/FedR)] |
 | Power Allocation for Wireless Federated Learning using Graph Neural Networks | ICASSP         | 2022 | [[PDF](https://arxiv.org/pdf/2111.07480)] [[PUB](https://ieeexplore.ieee.org/document/9747764).] [[Code](https://github.com/bl166/wirelessfl-pdgnet)] |
 | Privacy-Preserving Federated Multi-Task Linear Regression: A One-Shot Linear Mixing Approach Inspired By Graph Regularization | ICASSP | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9746007).] |
@@ -79,6 +80,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | GraFeHTy: Graph Neural Network using Federated Learning for Human Activity Recognition | ICMLA                  | 2021 | [[PUB.]](https://doi.org/10.1109/ICMLA52953.2021.00184)      |
 | ASFGNN: Automated Separated-Federated Graph Neural Network   | PPNA                   | 2020 | [[PDF]](https://arxiv.org/pdf/2011.03248) [[PUB.]](https://doi.org/10.1007/s12083-021-01074-w) |
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | NeurIPS Workshop       | 2019 | [[PDF]](https://arxiv.org/pdf/1909.12946)                    |
+| FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation | ICML workshop   | 2021 | [[PDF]](https://arxiv.org/pdf/2102.04925)                   |
 | SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure | BigData | 2019 | [[PDF]](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf) [[PUB](https://ieeexplore.ieee.org/document/9005983).] |
 | Personalized Subgraph Federated Learning | preprint | 2022 | [[PDF](https://arxiv.org/abs/2206.10206)] |
 | Federated Graph Attention Network for Rumor Detection | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.05713) [[Code](https://github.com/baichuanzheng1/fedgat)] |
@@ -100,7 +102,6 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | FedGL: Federated Graph Learning Framework with Global Self-Supervision | preprint               | 2021 | [[PDF]](https://arxiv.org/pdf/2105.03170)                    |
 | FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search | preprint               | 2021 | [[PDF]](https://arxiv.org/pdf/2104.04141)                    |
 | Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain Approach | preprint | 2021 | [[PDF](https://arxiv.org/pdf/2104.13092)] |
-| FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation | preprint               | 2021 | [[PDF]](https://arxiv.org/pdf/2102.04925)                    |
 | GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification on Graphs | preprint               | 2020 | [[PDF]](https://arxiv.org/pdf/2012.04187)                    |
 | Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty **`kg.`** | preprint               | 2020 | [[PDF]](https://arxiv.org/pdf/2011.11369)                    |
 | Federated Dynamic GNN with Secure Aggregation                | preprint               | 2020 | [[PDF]](https://arxiv.org/pdf/2009.07351)                    |
