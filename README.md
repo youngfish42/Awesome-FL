@@ -7,8 +7,8 @@
 **Table of Contents**
 
 - [Papers](#Papers)
-  - [FL on Graph Data and Graph Neural Networks](#FL-on-Graph-Data-and-Graph-Neural-Networks)
-  - [FL on Tabular Data](#FL-on-Tabular-Data)
+  - [FL on Graph Data and Graph Neural Networks](#FL-on-Graph-Data-and-Graph-Neural-Networks)  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) 
+  - [FL on Tabular Data](#FL-on-Tabular-Data)  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest)
 - [Framework](#Framework)
 - [Datasets](#Datasets)
 
