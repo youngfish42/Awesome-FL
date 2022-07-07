@@ -26,7 +26,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
 **Update log**
 
-*Last updated: 2022/07/06*
+*Last updated: 2022/07/07*
 
 - *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
 - *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
@@ -82,6 +82,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | NeurIPS Workshop       | 2019 | [[PDF]](https://arxiv.org/pdf/1909.12946)                    |
 | FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation | ICML workshop   | 2021 | [[PDF]](https://arxiv.org/pdf/2102.04925)                   |
 | SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure | BigData | 2019 | [[PDF]](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf) [[PUB](https://ieeexplore.ieee.org/document/9005983).] |
+| Privacy-preserving Graph Analytics: Secure Generation and Federated Learning | preprint | 2022 | [[PDF](https://arxiv.org/abs/2207.00048)] |
 | Personalized Subgraph Federated Learning | preprint | 2022 | [[PDF](https://arxiv.org/abs/2206.10206)] |
 | Federated Graph Attention Network for Rumor Detection | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.05713) [[Code](https://github.com/baichuanzheng1/fedgat)] |
 | A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy | preprint | 2022 | [[PDF]](https://arxiv.org/abs/2206.03492) |
