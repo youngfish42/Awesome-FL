@@ -9,6 +9,7 @@
 - [Papers](#Papers)
   - [FL on Graph Data and Graph Neural Networks](#FL-on-Graph-Data-and-Graph-Neural-Networks)  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) 
   - [FL on Tabular Data](#FL-on-Tabular-Data)  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest)
+  - [FL in top-tier journal](#FL-in-top-tier-journal)
 - [Framework](#Framework)
 - [Datasets](#Datasets)
 
@@ -47,7 +48,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 | Title                                                        | Venue                  | Year | Materials                                                    |
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------------------------------------------------ |
-| Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning | ICML :mortar_board: | 2022 | [[PDF](https://proceedings.mlr.press/v162/liu22k/liu22k.pdf)] [[Code](https://github.com/Thinklab-SJTU/GAMF)] |
+| Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning | ICML :mortar_board: | 2022 | [[PUB.](https://proceedings.mlr.press/v162/liu22k/liu22k.pdf)] [[Code](https://github.com/Thinklab-SJTU/GAMF)] |
 | FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning :fire: | KDD :mortar_board: | 2022 | [[PDF](https://arxiv.org/pdf/2204.05562)] [[Code](https://github.com/alibaba/federatedscope)] |
 | Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting  **`kg.`** | IJCAI :mortar_board:   | 2022 | [[PDF]](https://doi.org/10.48550/arXiv.2205.04692) [[Code](https://github.com/zjukg/maker)] |
 | SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks | AAAI :mortar_board:    | 2022 | [[PDF]](https://arxiv.org/pdf/2106.02743) [[Code]](https://github.com/FedML-AI/SpreadGNN) |
@@ -56,6 +57,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Power Allocation for Wireless Federated Learning using Graph Neural Networks | ICASSP         | 2022 | [[PDF](https://arxiv.org/pdf/2111.07480)] [[PUB](https://ieeexplore.ieee.org/document/9747764).] [[Code](https://github.com/bl166/wirelessfl-pdgnet)] |
 | Privacy-Preserving Federated Multi-Task Linear Regression: A One-Shot Linear Mixing Approach Inspired By Graph Regularization | ICASSP | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9746007).] |
 | Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning | WCNC | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9771883).] |
+| Malicious Transaction Identification in Digital Currency via Federated Graph Deep Learning | INFOCOM Workshops | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9797992/).] |
 | Federated learning of molecular properties with graph neural networks in a heterogeneous setting | Patterns | 2022 | [[PUB](https://linkinghub.elsevier.com/retrieve/pii/S2666389922001180).] |
 | Decentralized Graph Federated Multitask Learning for Streaming Data | CISS                   | 2022 | [[PUB.]](https://doi.org/10.1109/CISS53076.2022.9751160)     |
 | Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications | JBHI                   | 2022 | [[PDF]](https://ieeexplore.ieee.org/document/9648036)        |
@@ -170,6 +172,28 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Federated Extra-Trees with Privacy Preserving                | preprint                    | 2020 | [[PDF](https://arxiv.org/pdf/2002.07323.pdf)]                |
 | Bandwidth Slicing to Boost Federated Learning in Edge Computing | preprint                    | 2019 | [[PDF](https://arxiv.org/pdf/1911.07615)]                    |
 | Revocable Federated Learning: A Benchmark of Federated Forest | preprint                    | 2019 | [[PDF](https://arxiv.org/pdf/1911.03242)]                    |
+
+
+
+## FL in top-tier journal
+
+List of papers in the field of federated learning in Nature(and its sub-journals), Cell, Science(and Science Advances) and PANS refers to [WOS](https://www.webofscience.com/wos/woscc/summary/ed3f4552-5450-4de7-bf2c-55d01e20d5de-4301299e/relevance/1) search engine.
+
+| Title                                                        | Venue                 | Year | Materials                                                    |
+| ------------------------------------------------------------ | --------------------- | ---- | ------------------------------------------------------------ |
+| Shifting machine learning for healthcare from development to deployment and from models to data | Nat. Biomed. Eng      | 2022 | [[PUB](https://www.nature.com/articles/s41551-022-00898-y).] |
+| Communication-efficient federated learning via knowledge distillation | Nat Commun            | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-29763-x).] |
+| A federated graph neural network framework for privacy-preserving personalization | Nat Commun            | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-30714-9).] [[Code](https://github.com/wuch15/FedPerGNN)] |
+| Swarm Learning for decentralized and confidential clinical machine learning | Nature :mortar_board: | 2021 | [[PUB](https://www.nature.com/articles/s41586-021-03583-3).] |
+| Adversarial interference and its mitigations in privacy-preserving collaborative machine learning | Nat. Mach. Intell.    | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00390-3).] |
+| End-to-end privacy preserving deep learning on multi-institutional medical imaging | Nat. Mach. Intell.    | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00337-8).] |
+| Federated learning for predicting clinical outcomes in patients with COVID-19 | Nat Med               | 2021 | [[PUB](https://www.nature.com/articles/s41591-021-01506-3).] |
+| Communication-efficient federated learning                   | PANS                  | 2021 | [[PUB](https://www.pnas.org/doi/full/10.1073/pnas.2024789118).] [[Code](https://github.com/mzchen0/Communication-Efficient-Federated-Learning)] |
+| Advancing COVID-19 diagnosis with privacy-preserving collaboration in artificial intelligence | Nat. Mach. Intell.    | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00421-z).] |
+| Secure, privacy-preserving and federated machine learning in medical imaging | Nat Mach Intell       | 2020 | [[PUB](https://www.nature.com/articles/s42256-020-0186-1).]  |
+| Breaking medical data sharing boundaries by using synthesized radiographs | Science Advances      | 2020 | [[PUB](https://www.science.org/doi/10.1126/sciadv.abb7973).] |
+
+
 
 
 
