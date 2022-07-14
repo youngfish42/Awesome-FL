@@ -29,7 +29,8 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
-- 2022/07/12 - added information about the last commit time of the federated learning open source framework (can be used to determine the maintenance of the code base)
+- *2022/07/14 - give a list of papers in the field of federated learning in top ML/CV/AI/DM conferences from  [innovation-cat](https://github.com/innovation-cat)‘s’    [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)*
+- *2022/07/12 - added information about the last commit time of the federated learning open source framework (can be used to determine the maintenance of the code base)*
 - *2022/07/12 - give a list of papers in the field of federated learning in top journals*
 - *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
 - *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
@@ -331,7 +332,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 ## FL in top CV conferences
 
-In this section, we will summarize Federated Learning papers accepted by top computer vision conference, Including CVPR, ICCV, ECCV.
+In this section, we will summarize Federated Learning papers accepted by top CV(computer vision) conference, Including CVPR, ICCV, ECCV.
 
 | Title                                                        | Affiliation                                                  | Venue | Year | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
@@ -351,11 +352,15 @@ In this section, we will summarize Federated Learning papers accepted by top com
 
 
 
+## FL in top NLP conferences
+
+(todo)
+
 
 
 ## FL in top AI and DM Conferences
 
-In this section, we will summarize Federated Learning papers accepted by top AI and DM conference, Including AAAI, AISTATS, KDD.
+In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence) and DM(Data Mining) conference, Including AAAI, AISTATS, KDD.
 
 | Title                                                        | Affiliation                                                  | Venue  | Year | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- | ------------------------------------------------------------ |
@@ -413,6 +418,10 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 | [Federated Heavy Hitters Discovery with Differential Privacy](http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf) | RPI; Google                                                  | AISTAT | 2020 | [video](https://papertalk.org/papertalks/8129) [Supplementary](http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf) |
 
 
+
+## FL in top secure conferences
+
+(todo)
 
 
 
