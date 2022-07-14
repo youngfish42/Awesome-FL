@@ -204,6 +204,12 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference, Including NeurIPS, ICML, ICLR.
 
+- NeurIPS [2021](https://papers.nips.cc/paper/2021), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
+- ICML [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
+- ICLR 2022,2021,2019
+
+
+
 | Title                                                        | Affiliation                                                  | Venue          | Year | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
 | [Bayesian Framework for Gradient Leakage](https://arxiv.org/pdf/2111.04706.pdf) | ETH Zurich                                                   | ICLR           | 2022 | [[Code]](https://github.com/eth-sri/bayes-framework-leakage) |
@@ -336,6 +342,10 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 In this section, we will summarize Federated Learning papers accepted by top CV(computer vision) conference, Including CVPR, ICCV, ECCV.
 
+- CVPR 2022,2021
+- ICCV 2021
+- ECCV 2020
+
 | Title                                                        | Affiliation                                                  | Venue | Year | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
 | [FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction](https://arxiv.org/pdf/2203.11751.pdf) | National University of Defense Technology                    | CVPR  | 2022 | [[Code]](https://github.com/gaoliang13/FedDC)                |
@@ -363,6 +373,10 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 ## FL in top AI and DM Conferences
 
 In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence) and DM(Data Mining) conference, Including AAAI, AISTATS, KDD.
+
+- AAAI [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf),[2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf),[2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
+- AISTATS [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
+- KDD [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
 
 | Title                                                        | Affiliation                                                  | Venue  | Year | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- | ------------------------------------------------------------ |
