@@ -333,131 +333,25 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 In this section, we will summarize Federated Learning papers accepted by top computer vision conference, Including CVPR, ICCV, ECCV.
 
-### CVPR 
-
-<table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
-	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
-	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
-		<td class=xl6519452 width="65%" align="center">Title</td>
-		<td class=xl6519452 width="25%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Materials</td>
-	</tr>	
-	<tr height=19 style='height:14.15pt'>
-		<td rowspan=5 height=95 class=xl6519452 style='height:242.25pt' align="center">CVPR 2022</td>
-		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2203.11751.pdf">FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction</a></td>
-        <td class=xl6519452 align="center"><font size="2">National University of Defense Technology</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/gaoliang13/FedDC">code</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.11473.pdf">Federated Class-Incremental Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Chinese Academy of Sciences;<br>Northwestern University; <br>University of Technology Sydney</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/conditionWang/FCIL">code</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.09249.pdf">Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2"> Peking University; <br> JD Explore Academy; <br> The University of Sydney</font></td>
-		<td class=xl6519452 align="center"></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.03106.pdf">Differentially Private Federated Learning with Local Regularization and Sparsification</a></td>
-        <td class=xl6519452 align="center"><font size="2">Chinese Academy of Sciences</font></td>
-		<td class=xl6519452 align="center"></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2203.15696.pdf">Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage</a></td>
-        <td class=xl6519452 align="center"><font size="2">University of Tennessee;<br>Oak Ridge National Laboratory;<br>Google Research</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/zhuohangli/GGL">code</a></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt'></td>
-		<td class=xl6519452></td>
-		<td class=xl6519452></td>
-        <td class=xl6519452></td>
-	</tr>
-    <tr height=19 style='height:14.15pt'>
-		<td rowspan=4 height=76 class=xl6519452 style='height:242.25pt' align="center">CVPR 2021</td>
-		<td class=xl6519452 align="center"><a href="https://arxiv.org/pdf/2103.02148.pdf">Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Johns Hopkins University</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/guopengf/FL-MRCM">code</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.16257.pdf">Model-Contrastive Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">National University of Singapore;<br>UC Berkeley</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/QinbinLi/MOON">code</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-        <td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2103.06030.pdf">FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space</a></td>
-        <td class=xl6519452 align="center"><font size="2">The Chinese University of Hong Kong</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/liuquande/FedDG-ELCFS">code</a></td>
-	</tr>
-    <tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2012.06043.pdf">Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective</a></td>
-        <td class=xl6519452 align="center"><font size="2"> Duke University</font></td>
-		<td class=xl6519452 align="center"><a href="https://github.com/jeremy313/Soteria">code</a></td>
-	</tr>
-</table>
-
-
-### ECCV 
-
-<table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
-	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
-	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
-		<td class=xl6519452 width="65%" align="center">Title</td>
-		<td class=xl6519452 width="25%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Materials</td>
-	</tr>	
-    <tr height=19 style='height:14.15pt'>
-		<td rowspan=1 height=19 class=xl6519452 style='height:242.25pt' align="center">ECCV 2020</td>
-		<td class=xl6519452 align="center"><a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550086.pdf">Federated Visual Classification with Real-World Data Distribution</a></td>
-        <td class=xl6519452 align="center"><font size="2">MIT;<br>Google</font></td>
-		<td class=xl6519452 align="center"><a href="https://www.youtube.com/watch?v=Rc67rZzPDDY&ab_channel=TzuMingHsu">Video</a></td>
-	</tr>
-</table>
-
-
-### ICCV 
-
-<table border=0 cellpadding=0 cellspacing=0 >
-    <col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
-	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
-	<col width="25%" style='mso-width-source:userset;mso-width-alt:4032'>
-	<col width="5%" style='mso-width-source:userset;mso-width-alt:4032'>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 width="5%" align="center">Years</td>
-		<td class=xl6519452 width="65%" align="center">Title</td>
-		<td class=xl6519452 width="25%" align="center">Affiliation</td>
-		<td class=xl6519452 width="5%" align="center">Materials</td>
-	</tr>	
-    <tr height=19 style='height:14.15pt'>
-		<td rowspan=3 height=57 class=xl6519452 style='height:242.25pt' align="center">ICCV 2021</td>
-		<td class=xl6519452 align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf">Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment</a></td>
-        <td class=xl6519452 align="center"><font size="2">Peking University</font></td>
-		<td class=xl6519452 align="center"></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.pdf">Ensemble Attention Distillation for Privacy-Preserving Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">University at Buffalo</font></td>
-		<td class=xl6519452 align="center"></td>
-	</tr>
-	<tr height=19 style='height:14.25pt'>
-		<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.pdf">Collaborative Unsupervised Visual Representation Learning from Decentralized Data</a></td>
-        <td class=xl6519452 align="center"><font size="2">Nanyang Technological University;<br>SenseTime</font></td>
-		<td class=xl6519452 align="center"></td>
-	</tr>
-</table>
+| Title                                                        | Affiliation                                                  | Venue | Year | Materials                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
+| [FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction](https://arxiv.org/pdf/2203.11751.pdf) | National University of Defense Technology                    | CVPR  | 2022 | [code](https://github.com/gaoliang13/FedDC)                  |
+| [Federated Class-Incremental Learning](https://arxiv.org/pdf/2203.11473.pdf) | Chinese Academy of Sciences; Northwestern University;  University of Technology Sydney | CVPR  | 2022 | [code](https://github.com/conditionWang/FCIL)                |
+| [Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning](https://arxiv.org/pdf/2203.09249.pdf) | Peking University;   JD Explore Academy;   The University of Sydney | CVPR  | 2022 |                                                              |
+| [Differentially Private Federated Learning with Local Regularization and Sparsification](https://arxiv.org/pdf/2203.03106.pdf) | Chinese Academy of Sciences                                  | CVPR  | 2022 |                                                              |
+| [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://arxiv.org/pdf/2203.15696.pdf) | University of Tennessee; Oak Ridge National Laboratory; Google Research | CVPR  | 2022 | [code](https://github.com/zhuohangli/GGL)                    |
+| [Multi-Institutional  Collaborations for Improving Deep Learning-Based Magnetic Resonance  Image Reconstruction Using Federated Learning](https://arxiv.org/pdf/2103.02148.pdf) | Johns Hopkins University                                     | CVPR  | 2021 | [code](https://github.com/guopengf/FL-MRCM)                  |
+| [Model-Contrastive Federated Learning](https://arxiv.org/pdf/2103.16257.pdf) | National University of Singapore; UC Berkeley                | CVPR  | 2021 | [code](https://github.com/QinbinLi/MOON)                     |
+| [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/pdf/2103.06030.pdf) | The Chinese University of Hong Kong                          | CVPR  | 2021 | [code](https://github.com/liuquande/FedDG-ELCFS)             |
+| [Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective](https://arxiv.org/pdf/2012.06043.pdf) | Duke University                                              | CVPR  | 2021 | [code](https://github.com/jeremy313/Soteria)                 |
+| [Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Federated_Learning_for_Non-IID_Data_via_Unified_Feature_Learning_and_ICCV_2021_paper.pdf) | Peking University                                            | ICCV  | 2021 |                                                              |
+| [Ensemble Attention Distillation for Privacy-Preserving Federated Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_Ensemble_Attention_Distillation_for_Privacy-Preserving_Federated_Learning_ICCV_2021_paper.pdf) | University at Buffalo                                        | ICCV  | 2021 |                                                              |
+| [Collaborative Unsupervised Visual Representation Learning from Decentralized Data](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.pdf) | Nanyang Technological University; SenseTime                  | ICCV  | 2021 |                                                              |
+| [Federated Visual Classification with Real-World Data Distribution](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550086.pdf) | MIT; Google                                                  | ECCV  | 2020 | [Video](https://www.youtube.com/watch?v=Rc67rZzPDDY&ab_channel=TzuMingHsu) |
 
 
 
-&nbsp; 
+
 
 ## FL in top AI and DM Conferences
 
