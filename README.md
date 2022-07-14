@@ -162,6 +162,8 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Straggler Remission for Federated Learning via Decentralized Redundant Cayley Tree | LATINCOM                    | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9282334).]       |
 | Federated Soft Gradient Boosting Machine for Streaming Data  | Federated Learning          | 2020 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_7).] |
 | Federated Learning of Deep Neural Decision Forests           | LOD                         | 2019 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58).] |
+| Statistical Detection of Adversarial examples in Blockchain-based Federated Forest In-vehicle Network Intrusion Detection Systems | preprint                    | 2022 | [[PDF](https://arxiv.org/abs/2207.04843)]                    |
+| Hercules: Boosting the Performance of Privacy-preserving Federated Learning | preprint                    | 2022 | [[PDF](https://arxiv.org/abs/2207.04620)]                    |
 | FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging | preprint                    | 2022 | [[PDF](https://arxiv.org/pdf/2204.00976)]                    |
 | An Efficient and Robust System for Vertically Federated Random Forest | preprint                    | 2022 | [[PDF](https://arxiv.org/pdf/2201.10761)]                    |
 | Guess what? You can boost Federated Learning for free        | preprint                    | 2021 | [[PDF](https://arxiv.org/pdf/2110.11486)]                    |
