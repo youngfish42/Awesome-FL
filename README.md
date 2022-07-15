@@ -10,6 +10,8 @@
   - [FL on Graph Data and Graph Neural Networks](#FL-on-Graph-Data-and-Graph-Neural-Networks)  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) 
   - [FL on Tabular Data](#FL-on-Tabular-Data)  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest)
   - [FL in top-tier journal](#FL-in-top-tier-journal)
+  - FL in top-tier conferences
+    - [AI](#FL-in-top-AI-Conferences)   [ML](#FL-in-top-ML-Conferences)   [DM](#FL-in-top-DM-Conferences)   [Secure](#FL-in-top-Secure-Conferences)   [CV](#FL-in-top-CV-Conferences)   [NLP](#FL-in-top-NLP-Conferences) 
 - [Framework](#Framework)
 - [Datasets](#Datasets)
 
@@ -200,6 +202,68 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 
 
+
+
+## FL in top AI Conferences
+
+In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence)  conference, Including AAAI, AISTATS.
+
+- AAAI [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf),[2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf),[2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
+- AISTATS [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
+
+
+
+| Title                                                        | Affiliation                                                  | Venue  | Year | Materials                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- | ------------------------------------------------------------ |
+| [HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images](https://arxiv.org/pdf/2112.10775.pdf) | The Chinese University of Hong Kong; Beihang University      | AAAI   | 2022 | [[Code]](https://github.com/med-air/HarmoFL)                 |
+| [Federated Learning for Face Recognition with Gradient Correction](https://arxiv.org/pdf/2112.07246.pdf) | Beijing University of Posts and Telecommunications           | AAAI   | 2022 |                                                              |
+| [SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data](https://arxiv.org/pdf/2106.02743.pdf) | university of Southern California                            | AAAI   | 2022 | [[Code]](https://github.com/FedML-AI/SpreadGNN)              |
+| [SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures](https://ojs.aaai.org/index.php/AAAI/article/view/16920) | Harbin Institute of Technology; Peng Cheng Laboratory        | AAAI   | 2022 |                                                              |
+| [Bridging between Cognitive Processing Signals and Linguistic Features via a Unified Attentional Network](https://arxiv.org/pdf/2112.08831.pdf) | Tianjin University                                           | AAAI   | 2022 |                                                              |
+| [Seizing Critical Learning Periods in Federated Learning](https://arxiv.org/pdf/2109.05613.pdf) | SUNY-Binghamton University; Louisiana State University       | AAAI   | 2022 |                                                              |
+| [Coordinating Momenta for Cross-silo Federated Learning](https://arxiv.org/pdf/2102.03970.pdf) | University of Pittsburgh                                     | AAAI   | 2022 |                                                              |
+| [FedProto: Federated Prototype Learning over Heterogeneous Devices](https://arxiv.org/pdf/2105.00243.pdf) | University of Technology Sydney; University of Washington    | AAAI   | 2022 | [[Code]](https://github.com/yuetan031/fedproto)              |
+| [FedSoft: Soft Clustered Federated Learning with Proximal Local Updating](https://arxiv.org/pdf/2112.06053.pdf) | Carnegie Mellon University                                   | AAAI   | 2022 |                                                              |
+| [Federated Dynamic Sparse Training: Computing Less, Communicating Less, Yet Learning Better](https://arxiv.org/pdf/2112.09824.pdf) | The University of Texas at Austin                            | AAAI   | 2022 | [[Code]](https://github.com/bibikar/feddst)                  |
+| [FedFR: Joint Optimization Federated Framework for Generic and Personalized Face Recognition](https://arxiv.org/pdf/2112.12496.pdf) | National Taiwan University                                   | AAAI   | 2022 | [[Code]](https://github.com/jackie840129/fedfr)              |
+| [SplitFed: When Federated Learning Meets Split Learning](https://arxiv.org/pdf/2004.12088.pdf) | CSIRO; Lehigh University                                     | AAAI   | 2022 | [[Code]](https://github.com/chandra2thapa/SplitFed-When-Federated-Learning-Meets-Split-Learning) |
+| [Efficient Device Scheduling with Multi-Job Federated Learning](https://arxiv.org/pdf/2112.05928.pdf) | Soochow University; Baidu                                    | AAAI   | 2022 |                                                              |
+| [Implicit Gradient Alignment in Distributed and Federated Learning](https://arxiv.org/pdf/2106.13897.pdf) | IIT Kanpur; EPFL                                             | AAAI   | 2022 |                                                              |
+| [Federated Nearest Neighbor Classification with a Colony of Fruit-Flies](https://arxiv.org/pdf/2112.07157.pdf) | IBM Research; Wichita State University                       | AAAI   | 2022 |                                                              |
+| [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://arxiv.org/pdf/2103.00958.pdf) | Xidian University; JD Tech                                   | AAAI   | 2021 | [video](https://slideslive.com/38947765/secure-bilevel-asynchronous-vertical-federated-learning-with-backward-updating) |
+| [ FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | Shenzhen University                                          | AAAI   | 2021 | [video](https://slideslive.com/38947798/fedrec-lossless-federated-recommendation-with-explicit-feedback) |
+| [Federated Multi-Armed Bandits](https://arxiv.org/pdf/2101.12204.pdf) | University of Virginia                                       | AAAI   | 2021 | [[Code]](https://github.com/ShenGroup/FMAB) [video](https://slideslive.com/38947985/federated-multiarmed-bandits) |
+| [On the Convergence of Communication-Efficient Local SGD for Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/16920) | Temple University; University of Pittsburgh                  | AAAI   | 2021 | [video](https://slideslive.com/38948341/on-the-convergence-of-communicationefficient-local-sgd-for-federated-learning) |
+| [FLAME: Differentially Private Federated Learning in the Shuffle Model](https://arxiv.org/pdf/2009.08063.pdf) | Renmin University of China; Kyoto University                 | AAAI   | 2021 | [video](https://slideslive.com/38948496/flame-differentially-private-federated-learning-in-the-shuffle-model) [[Code]](https://github.com/Rachelxuan11/FLAME) |
+| [Toward Understanding the Influence of Individual Clients in Federated Learning](https://arxiv.org/pdf/2012.10936.pdf) | Shanghai Jiao Tong University; The University of Texas at Dallas | AAAI   | 2021 | [video](https://slideslive.com/38948549/toward-understanding-the-influence-of-individual-clients-in-federated-learning) |
+| [Provably Secure Federated Learning against Malicious Clients](https://arxiv.org/pdf/2102.01854.pdf) | Duke University                                              | AAAI   | 2021 | [video](https://www.youtube.com/watch?v=LP4uqW18yA0&ab_channel=PurdueCERIAS) [slides](https://people.duke.edu/~zg70/code/Secure_Federated_Learning.pdf) |
+| [Personalized Cross-Silo Federated Learning on Non-IID Data](https://arxiv.org/pdf/2007.03797.pdf) | Simon Fraser University; McMaster University                 | AAAI   | 2021 | [video](https://slideslive.com/38948676/personalized-crosssilo-federated-learning-on-noniid-data) |
+| [Model-Sharing Games: Analyzing Federated Learning under Voluntary Participation](https://arxiv.org/pdf/2010.00753.pdf) | Cornell University                                           | AAAI   | 2021 | [[Code]](https://github.com/kpdonahue/model_sharing_games) [video](https://slideslive.com/38948684/modelsharing-games-analyzing-federated-learning-under-voluntary-participation) |
+| [Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning](https://arxiv.org/pdf/2102.00655.pdf) | University of Nevada; IBM Research                           | AAAI   | 2021 | [video](https://slideslive.com/38949098/curse-or-redemption-how-data-heterogeneity-affects-the-robustness-of-federated-learning) |
+| [Game of Gradients: Mitigating Irrelevant Clients in Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17093) | IIT Bombay; IBM Research                                     | AAAI   | 2021 | [video](https://slideslive.com/38949109/game-of-gradients-mitigating-irrelevant-clients-in-federated-learning) [Supplementary](https://github.com/nlokeshiisc/SFedAvg-AAAI21) |
+| [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://arxiv.org/pdf/2012.13900.pdf) | The Chinese University of Hong Kong; Arizona State University | AAAI   | 2021 | [video](https://slideslive.com/38949195/federated-block-coordinate-descent-scheme-for-learning-global-and-personalized-models) [[Code]](https://github.com/REIYANG/FedBCD) |
+| [Adressing Class Imbalance in Federated Learning](https://arxiv.org/pdf/2008.06217.pdf) | Northwestern University                                      | AAAI   | 2021 | [video](https://slideslive.com/38949283/adressing-class-imbalance-in-federated-learning) [[Code]](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL) |
+| [Defending against Backdoors in Federated Learning with Robust Learning Rate](https://arxiv.org/pdf/2007.03767.pdf) | The University of Texas at Dallas                            | AAAI   | 2021 | [video](https://slideslive.com/38949344/defending-against-backdoors-in-federated-learning-with-robust-learning-rate) [[Code]](https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate) |
+| [Free-rider Attacks on Model Aggregation in Federated Learning](http://proceedings.mlr.press/v130/fraboni21a/fraboni21a.pdf) | Accenture Labs                                               | AISTAT | 2021 | [video](https://papertalk.org/papertalks/27640) [Supplementary](http://proceedings.mlr.press/v130/fraboni21a/fraboni21a-supp.pdf) |
+| [Federated f-differential privacy](http://proceedings.mlr.press/v130/zheng21a/zheng21a.pdf) | University of Pennsylvania                                   | AISTAT | 2021 | [[Code]](https://github.com/enosair/federated-fdp) [video](https://papertalk.org/papertalks/27595) [Supplementary](http://proceedings.mlr.press/v130/zheng21a/zheng21a-supp.pdf) |
+| [Federated learning with compression: Unified analysis and sharp guarantees](http://proceedings.mlr.press/v130/haddadpour21a/haddadpour21a.pdf) :fire: | The Pennsylvania State University; The University of Texas at Austin | AISTAT | 2021 | [[Code]](https://github.com/MLOPTPSU/FedTorch) [video](https://papertalk.org/papertalks/27584) [Supplementary](http://proceedings.mlr.press/v130/haddadpour21a/haddadpour21a-supp.pdf) |
+| [Shuffled Model of Differential Privacy in Federated Learning](http://proceedings.mlr.press/v130/girgis21a/girgis21a.pdf) | UCLA; Google                                                 | AISTAT | 2021 | [video](https://papertalk.org/papertalks/27565) [Supplementary](http://proceedings.mlr.press/v130/girgis21a/girgis21a-supp.pdf) |
+| [Convergence and Accuracy Trade-Offs in Federated Learning and Meta-Learning](http://proceedings.mlr.press/v130/charles21a/charles21a.pdf) | Google                                                       | AISTAT | 2021 | [video](https://papertalk.org/papertalks/27559) [Supplementary](http://proceedings.mlr.press/v130/charles21a/charles21a-supp.pdf) |
+| [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | University of Virginia; The Pennsylvania State University    | AISTAT | 2021 | [[Code]](https://github.com/ShenGroup/PF_MAB) [video](https://papertalk.org/papertalks/27521) [Supplementary](http://proceedings.mlr.press/v130/shi21c/shi21c-supp.pdf) |
+| [Towards Flexible Device Participation in Federated Learning](http://proceedings.mlr.press/v130/ruan21a/ruan21a.pdf) | CMU;  Sun Yat-Sen University                                 | AISTAT | 2021 | [video](https://papertalk.org/papertalks/27467) [Supplementary](http://proceedings.mlr.press/v130/ruan21a/ruan21a-supp.pdf) |
+| [Practical Federated Gradient Boosting Decision Trees](https://arxiv.org/pdf/1911.04206.pdf) | National University of Singapore;  The University of Western Australia | AAAI   | 2020 | [[Code]](https://github.com/Xtra-Computing/PrivML)           |
+| [Federated Learning for Vision-and-Language Grounding Problems](https://ojs.aaai.org/index.php/AAAI/article/view/6824) | Peking University; Tencent                                   | AAAI   | 2020 |                                                              |
+| [Federated Latent Dirichlet Allocation: A Local Differential Privacy Based Framework](https://ojs.aaai.org/index.php/AAAI/article/view/6096) | Beihang University                                           | AAAI   | 2020 |                                                              |
+| [Federated Patient Hashing](https://ojs.aaai.org/index.php/AAAI/article/view/6121) | Cornell University                                           | AAAI   | 2020 |                                                              |
+| [Robust Federated Learning via Collaborative Machine Teaching](https://arxiv.org/pdf/1905.02941.pdf) | Symantec Research Labs; KAUST                                | AAAI   | 2020 |                                                              |
+| [FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf) | UC Santa Barbara;  UT Austin                                 | AISTAT | 2020 | [video](https://papertalk.org/papertalks/7961) [Supplementary](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf) |
+| [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf) :fire: | Cornell Tech                                                 | AISTAT | 2020 | [video](https://papertalk.org/papertalks/8046) [[Code]](https://github.com/ebagdasa/backdoor_federated_learning) [Supplementary](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf) |
+| [Federated Heavy Hitters Discovery with Differential Privacy](http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf) | RPI; Google                                                  | AISTAT | 2020 | [video](https://papertalk.org/papertalks/8129) [Supplementary](http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf) |
+
+
+
+
+
 ## FL in top ML conferences
 
 In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference, Including NeurIPS, ICML, ICLR.
@@ -334,6 +398,33 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 
 
+## FL in top DM conferences
+
+In this section, we will summarize Federated Learning papers accepted by top DM(Data Mining) conference, Including KDD.
+
+- KDD [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
+
+
+
+| Title                                                        | Affiliation                                                | Venue | Year | Materials                                                    |
+| ------------------------------------------------------------ | ---------------------------------------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| [Fed2: Feature-Aligned Federated Learning ](https://arxiv.org/pdf/2111.14248.pdf) | George Mason University; Microsoft; University of Maryland | KDD   | 2021 |                                                              |
+| [FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data](http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf) | Nanjing University                                         | KDD   | 2021 |                                                              |
+| [Federated Adversarial Debiasing for Fair and Trasnferable Representations](https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf) | Michigan State University                                  | KDD   | 2021 | [HomePage](https://jyhong.gitlab.io/publication/fade2021kdd/) |
+| [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://dl.acm.org/doi/pdf/10.1145/3447548.3467371) | University of Southern California                          | KDD   | 2021 | [[Code]](https://github.com/mengcz13/KDD2021_CNFGNN)         |
+| [AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization](https://arxiv.org/pdf/2109.12519.pdf) |                                                            | KDD   | 2021 |                                                              |
+| [FLOP: Federated Learning on Medical Datasets using Partial Networks](https://arxiv.org/pdf/2102.05218.pdf) | Duke University                                            | KDD   | 2021 | [[Code]](https://github.com/jianyizhang123/FLOP)             |
+| [FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3394486.3403176) | University College Dublin                                  | KDD   | 2020 | [video](https://papertalk.org/papertalks/23422)              |
+| [Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data](https://arxiv.org/pdf/2008.06197.pdf) | JD Tech                                                    | KDD   | 2020 | [video](https://papertalk.org/papertalks/23301)              |
+
+
+
+## FL in top Secure conferences
+
+(todo)
+
+
+
 
 
 
@@ -365,77 +456,6 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 
 
 ## FL in top NLP conferences
-
-(todo)
-
-
-
-## FL in top AI and DM Conferences
-
-In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence) and DM(Data Mining) conference, Including AAAI, AISTATS, KDD.
-
-- AAAI [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf),[2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf),[2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
-- AISTATS [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
-- KDD [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
-
-| Title                                                        | Affiliation                                                  | Venue  | Year | Materials                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- | ------------------------------------------------------------ |
-| [HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images](https://arxiv.org/pdf/2112.10775.pdf) | The Chinese University of Hong Kong; Beihang University      | AAAI   | 2022 | [[Code]](https://github.com/med-air/HarmoFL)                 |
-| [Federated Learning for Face Recognition with Gradient Correction](https://arxiv.org/pdf/2112.07246.pdf) | Beijing University of Posts and Telecommunications           | AAAI   | 2022 |                                                              |
-| [SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data](https://arxiv.org/pdf/2106.02743.pdf) | university of Southern California                            | AAAI   | 2022 | [[Code]](https://github.com/FedML-AI/SpreadGNN)              |
-| [SmartIdx: Reducing Communication Cost in Federated Learning by Exploiting the CNNs Structures](https://ojs.aaai.org/index.php/AAAI/article/view/16920) | Harbin Institute of Technology; Peng Cheng Laboratory        | AAAI   | 2022 |                                                              |
-| [Bridging between Cognitive Processing Signals and Linguistic Features via a Unified Attentional Network](https://arxiv.org/pdf/2112.08831.pdf) | Tianjin University                                           | AAAI   | 2022 |                                                              |
-| [Seizing Critical Learning Periods in Federated Learning](https://arxiv.org/pdf/2109.05613.pdf) | SUNY-Binghamton University; Louisiana State University       | AAAI   | 2022 |                                                              |
-| [Coordinating Momenta for Cross-silo Federated Learning](https://arxiv.org/pdf/2102.03970.pdf) | University of Pittsburgh                                     | AAAI   | 2022 |                                                              |
-| [FedProto: Federated Prototype Learning over Heterogeneous Devices](https://arxiv.org/pdf/2105.00243.pdf) | University of Technology Sydney; University of Washington    | AAAI   | 2022 | [[Code]](https://github.com/yuetan031/fedproto)              |
-| [FedSoft: Soft Clustered Federated Learning with Proximal Local Updating](https://arxiv.org/pdf/2112.06053.pdf) | Carnegie Mellon University                                   | AAAI   | 2022 |                                                              |
-| [Federated Dynamic Sparse Training: Computing Less, Communicating Less, Yet Learning Better](https://arxiv.org/pdf/2112.09824.pdf) | The University of Texas at Austin                            | AAAI   | 2022 | [[Code]](https://github.com/bibikar/feddst)                  |
-| [FedFR: Joint Optimization Federated Framework for Generic and Personalized Face Recognition](https://arxiv.org/pdf/2112.12496.pdf) | National Taiwan University                                   | AAAI   | 2022 | [[Code]](https://github.com/jackie840129/fedfr)              |
-| [SplitFed: When Federated Learning Meets Split Learning](https://arxiv.org/pdf/2004.12088.pdf) | CSIRO; Lehigh University                                     | AAAI   | 2022 | [[Code]](https://github.com/chandra2thapa/SplitFed-When-Federated-Learning-Meets-Split-Learning) |
-| [Efficient Device Scheduling with Multi-Job Federated Learning](https://arxiv.org/pdf/2112.05928.pdf) | Soochow University; Baidu                                    | AAAI   | 2022 |                                                              |
-| [Implicit Gradient Alignment in Distributed and Federated Learning](https://arxiv.org/pdf/2106.13897.pdf) | IIT Kanpur; EPFL                                             | AAAI   | 2022 |                                                              |
-| [Federated Nearest Neighbor Classification with a Colony of Fruit-Flies](https://arxiv.org/pdf/2112.07157.pdf) | IBM Research; Wichita State University                       | AAAI   | 2022 |                                                              |
-| [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://arxiv.org/pdf/2103.00958.pdf) | Xidian University; JD Tech                                   | AAAI   | 2021 | [video](https://slideslive.com/38947765/secure-bilevel-asynchronous-vertical-federated-learning-with-backward-updating) |
-| [ FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | Shenzhen University                                          | AAAI   | 2021 | [video](https://slideslive.com/38947798/fedrec-lossless-federated-recommendation-with-explicit-feedback) |
-| [Federated Multi-Armed Bandits](https://arxiv.org/pdf/2101.12204.pdf) | University of Virginia                                       | AAAI   | 2021 | [[Code]](https://github.com/ShenGroup/FMAB) [video](https://slideslive.com/38947985/federated-multiarmed-bandits) |
-| [On the Convergence of Communication-Efficient Local SGD for Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/16920) | Temple University; University of Pittsburgh                  | AAAI   | 2021 | [video](https://slideslive.com/38948341/on-the-convergence-of-communicationefficient-local-sgd-for-federated-learning) |
-| [FLAME: Differentially Private Federated Learning in the Shuffle Model](https://arxiv.org/pdf/2009.08063.pdf) | Renmin University of China; Kyoto University                 | AAAI   | 2021 | [video](https://slideslive.com/38948496/flame-differentially-private-federated-learning-in-the-shuffle-model) [[Code]](https://github.com/Rachelxuan11/FLAME) |
-| [Toward Understanding the Influence of Individual Clients in Federated Learning](https://arxiv.org/pdf/2012.10936.pdf) | Shanghai Jiao Tong University; The University of Texas at Dallas | AAAI   | 2021 | [video](https://slideslive.com/38948549/toward-understanding-the-influence-of-individual-clients-in-federated-learning) |
-| [Provably Secure Federated Learning against Malicious Clients](https://arxiv.org/pdf/2102.01854.pdf) | Duke University                                              | AAAI   | 2021 | [video](https://www.youtube.com/watch?v=LP4uqW18yA0&ab_channel=PurdueCERIAS) [slides](https://people.duke.edu/~zg70/code/Secure_Federated_Learning.pdf) |
-| [Personalized Cross-Silo Federated Learning on Non-IID Data](https://arxiv.org/pdf/2007.03797.pdf) | Simon Fraser University; McMaster University                 | AAAI   | 2021 | [video](https://slideslive.com/38948676/personalized-crosssilo-federated-learning-on-noniid-data) |
-| [Model-Sharing Games: Analyzing Federated Learning under Voluntary Participation](https://arxiv.org/pdf/2010.00753.pdf) | Cornell University                                           | AAAI   | 2021 | [[Code]](https://github.com/kpdonahue/model_sharing_games) [video](https://slideslive.com/38948684/modelsharing-games-analyzing-federated-learning-under-voluntary-participation) |
-| [Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning](https://arxiv.org/pdf/2102.00655.pdf) | University of Nevada; IBM Research                           | AAAI   | 2021 | [video](https://slideslive.com/38949098/curse-or-redemption-how-data-heterogeneity-affects-the-robustness-of-federated-learning) |
-| [Game of Gradients: Mitigating Irrelevant Clients in Federated Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17093) | IIT Bombay; IBM Research                                     | AAAI   | 2021 | [video](https://slideslive.com/38949109/game-of-gradients-mitigating-irrelevant-clients-in-federated-learning) [Supplementary](https://github.com/nlokeshiisc/SFedAvg-AAAI21) |
-| [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://arxiv.org/pdf/2012.13900.pdf) | The Chinese University of Hong Kong; Arizona State University | AAAI   | 2021 | [video](https://slideslive.com/38949195/federated-block-coordinate-descent-scheme-for-learning-global-and-personalized-models) [[Code]](https://github.com/REIYANG/FedBCD) |
-| [Adressing Class Imbalance in Federated Learning](https://arxiv.org/pdf/2008.06217.pdf) | Northwestern University                                      | AAAI   | 2021 | [video](https://slideslive.com/38949283/adressing-class-imbalance-in-federated-learning) [[Code]](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL) |
-| [Defending against Backdoors in Federated Learning with Robust Learning Rate](https://arxiv.org/pdf/2007.03767.pdf) | The University of Texas at Dallas                            | AAAI   | 2021 | [video](https://slideslive.com/38949344/defending-against-backdoors-in-federated-learning-with-robust-learning-rate) [[Code]](https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate) |
-| [Fed2: Feature-Aligned Federated Learning ](https://arxiv.org/pdf/2111.14248.pdf) | George Mason University; Microsoft; University of Maryland   | KDD    | 2021 |                                                              |
-| [FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data](http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf) | Nanjing University                                           | KDD    | 2021 |                                                              |
-| [Federated Adversarial Debiasing for Fair and Trasnferable Representations](https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf) | Michigan State University                                    | KDD    | 2021 | [HomePage](https://jyhong.gitlab.io/publication/fade2021kdd/) |
-| [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://dl.acm.org/doi/pdf/10.1145/3447548.3467371) | University of Southern California                            | KDD    | 2021 | [[Code]](https://github.com/mengcz13/KDD2021_CNFGNN)         |
-| [AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization](https://arxiv.org/pdf/2109.12519.pdf) |                                                              | KDD    | 2021 |                                                              |
-| [FLOP: Federated Learning on Medical Datasets using Partial Networks](https://arxiv.org/pdf/2102.05218.pdf) | Duke University                                              | KDD    | 2021 | [[Code]](https://github.com/jianyizhang123/FLOP)             |
-| [Free-rider Attacks on Model Aggregation in Federated Learning](http://proceedings.mlr.press/v130/fraboni21a/fraboni21a.pdf) | Accenture Labs                                               | AISTAT | 2021 | [video](https://papertalk.org/papertalks/27640) [Supplementary](http://proceedings.mlr.press/v130/fraboni21a/fraboni21a-supp.pdf) |
-| [Federated f-differential privacy](http://proceedings.mlr.press/v130/zheng21a/zheng21a.pdf) | University of Pennsylvania                                   | AISTAT | 2021 | [[Code]](https://github.com/enosair/federated-fdp) [video](https://papertalk.org/papertalks/27595) [Supplementary](http://proceedings.mlr.press/v130/zheng21a/zheng21a-supp.pdf) |
-| [Federated learning with compression: Unified analysis and sharp guarantees](http://proceedings.mlr.press/v130/haddadpour21a/haddadpour21a.pdf) :fire: | The Pennsylvania State University; The University of Texas at Austin | AISTAT | 2021 | [[Code]](https://github.com/MLOPTPSU/FedTorch) [video](https://papertalk.org/papertalks/27584) [Supplementary](http://proceedings.mlr.press/v130/haddadpour21a/haddadpour21a-supp.pdf) |
-| [Shuffled Model of Differential Privacy in Federated Learning](http://proceedings.mlr.press/v130/girgis21a/girgis21a.pdf) | UCLA; Google                                                 | AISTAT | 2021 | [video](https://papertalk.org/papertalks/27565) [Supplementary](http://proceedings.mlr.press/v130/girgis21a/girgis21a-supp.pdf) |
-| [Convergence and Accuracy Trade-Offs in Federated Learning and Meta-Learning](http://proceedings.mlr.press/v130/charles21a/charles21a.pdf) | Google                                                       | AISTAT | 2021 | [video](https://papertalk.org/papertalks/27559) [Supplementary](http://proceedings.mlr.press/v130/charles21a/charles21a-supp.pdf) |
-| [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | University of Virginia; The Pennsylvania State University    | AISTAT | 2021 | [[Code]](https://github.com/ShenGroup/PF_MAB) [video](https://papertalk.org/papertalks/27521) [Supplementary](http://proceedings.mlr.press/v130/shi21c/shi21c-supp.pdf) |
-| [Towards Flexible Device Participation in Federated Learning](http://proceedings.mlr.press/v130/ruan21a/ruan21a.pdf) | CMU;  Sun Yat-Sen University                                 | AISTAT | 2021 | [video](https://papertalk.org/papertalks/27467) [Supplementary](http://proceedings.mlr.press/v130/ruan21a/ruan21a-supp.pdf) |
-| [Practical Federated Gradient Boosting Decision Trees](https://arxiv.org/pdf/1911.04206.pdf) | National University of Singapore;  The University of Western Australia | AAAI   | 2020 | [[Code]](https://github.com/Xtra-Computing/PrivML)           |
-| [Federated Learning for Vision-and-Language Grounding Problems](https://ojs.aaai.org/index.php/AAAI/article/view/6824) | Peking University; Tencent                                   | AAAI   | 2020 |                                                              |
-| [Federated Latent Dirichlet Allocation: A Local Differential Privacy Based Framework](https://ojs.aaai.org/index.php/AAAI/article/view/6096) | Beihang University                                           | AAAI   | 2020 |                                                              |
-| [Federated Patient Hashing](https://ojs.aaai.org/index.php/AAAI/article/view/6121) | Cornell University                                           | AAAI   | 2020 |                                                              |
-| [Robust Federated Learning via Collaborative Machine Teaching](https://arxiv.org/pdf/1905.02941.pdf) | Symantec Research Labs; KAUST                                | AAAI   | 2020 |                                                              |
-| [FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3394486.3403176) | University College Dublin                                    | KDD    | 2020 | [video](https://papertalk.org/papertalks/23422)              |
-| [Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data](https://arxiv.org/pdf/2008.06197.pdf) | JD Tech                                                      | KDD    | 2020 | [video](https://papertalk.org/papertalks/23301)              |
-| [FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf) | UC Santa Barbara;  UT Austin                                 | AISTAT | 2020 | [video](https://papertalk.org/papertalks/7961) [Supplementary](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf) |
-| [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf) :fire: | Cornell Tech                                                 | AISTAT | 2020 | [video](https://papertalk.org/papertalks/8046) [[Code]](https://github.com/ebagdasa/backdoor_federated_learning) [Supplementary](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf) |
-| [Federated Heavy Hitters Discovery with Differential Privacy](http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf) | RPI; Google                                                  | AISTAT | 2020 | [video](https://papertalk.org/papertalks/8129) [Supplementary](http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf) |
-
-
-
-## FL in top secure conferences
 
 (todo)
 
