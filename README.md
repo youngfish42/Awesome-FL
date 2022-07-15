@@ -465,6 +465,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 - [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A)  [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), 2020
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) 2021
 
+
 | Title                                                        | Affiliation                                                  | Venue | Year | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
 | [SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran) | Microsoft Research | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_chandran.pdf)
@@ -483,7 +484,6 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 | [Poster: A Reliable and Accountable Privacy-Preserving Federated Learning Framework using the Blockchain](https://dl.acm.org/doi/10.1145/3319535.3363256) |             | CCS             | 2019 |                                                              |
 | [IOTFLA : A Secured and Privacy-Preserving Smart Home Architecture Implementing Federated Learning](https://ieeexplore.ieee.org/document/8844592) |             | S&P             | 2019 |                                                              |
 | [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/document/8835245) |             | S&P             | 2019 |                                                              |
-
 
 
 ## FL in top CV conferences
