@@ -496,10 +496,10 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 
 In this section, we will summarize Federated Learning papers accepted by top AI and NLP conference, including ACL, NAACL, EMNLP and so on.
 
-- ACL [2022]([Annual Meeting of the Association for Computational Linguistics (2022) - ACL Anthology](https://aclanthology.org/events/acl-2022/)), [2021]([Annual Meeting of the Association for Computational Linguistics (2021) - ACL Anthology](https://aclanthology.org/events/acl-2021/))
-- NAACL [2022]([North American Chapter of the Association for Computational Linguistics (2022) - ACL Anthology](https://aclanthology.org/events/naacl-2022/)), [2021]([North American Chapter of the Association for Computational Linguistics (2021) - ACL Anthology](https://aclanthology.org/events/naacl-2021/))
-- EMNLP [2021]([Conference on Empirical Methods in Natural Language Processing (and forerunners) (2021) - ACL Anthology](https://aclanthology.org/events/emnlp-2021/)), [2020]([Conference on Empirical Methods in Natural Language Processing (and forerunners) (2020) - ACL Anthology](https://aclanthology.org/events/emnlp-2020/))
-- COLING [2020]([International Conference on Computational Linguistics (2020) - ACL Anthology](https://aclanthology.org/events/coling-2020/))
+- ACL [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/)
+- NAACL [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
+- EMNLP [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
+- COLING [2020](https://aclanthology.org/events/coling-2020/)
 
 
 
