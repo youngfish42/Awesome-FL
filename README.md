@@ -421,7 +421,7 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 
 ## FL in top Secure conferences
 
-In this section, we will summarize Federated Learning papers accepted by top Secure conferences, Including S&Pm,CCS,USENIX Security,NDSS.
+In this section, we will summarize Federated Learning papers accepted by top Secure conferences, Including S&P, CCS, USENIX Security and NDSS.
 
 
 
