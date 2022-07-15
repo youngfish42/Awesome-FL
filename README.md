@@ -423,11 +423,22 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 
 In this section, we will summarize Federated Learning papers accepted by top Secure conferences, Including S&P, CCS, USENIX Security and NDSS.
 
+- CCS
+- USENIX Security [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions)
+- NDSS
+- S&P
 
-
-
-
-
+| Title                                                        | Affiliation                                                  | Venue | Year | Materials                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
+|
+|[SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran) | Microsoft Research | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_chandran.pdf)
+| [Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors](https://www.usenix.org/conference/usenixsecurity22/presentation/stevens) | University of Vermont | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22fall_stevens.pdf)
+| [Label Inference Attacks Against Vertical Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong) | Zhejiang University | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_fu.pdf)
+| [FLAME: Taming Backdoors in Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen) | Technical University of Darmstadt | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22fall_nguyen.pdf)
+|Local and Central Differential Privacy for Robustness and Privacy in Federated Learning| University at Buffalo, SUNY| NDSS | 2022 | [PDF](https://arxiv.org/pdf/2009.03561)
+|Interpretable Federated Transformer Log Learning for Cloud Threat Forensics|University of the Incarnate Word, TX, USA | NDSS | 2022 | [PDF](https://www.ndss-symposium.org/wp-content/uploads/2022-102-paper.pdf)
+|FedCRI: Federated Mobile Cyber-Risk Intelligence| Technical University of Darmstadt| NDSS | 2022 | [PDF](https://www.ndss-symposium.org/wp-content/uploads/2022-153-paper.pdf)
+|DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection| Technical University of Darmstadt| NDSS | 2022 |[PDF](https://arxiv.org/pdf/2201.00763)
 
 ## FL in top CV conferences
 
