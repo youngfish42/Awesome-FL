@@ -433,7 +433,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 
 In this section, we will summarize Federated Learning papers accepted by top CV(computer vision) conference, Including CVPR, ICCV, ECCV.
 
-- CVPR 2022,2021
+- CVPR 2022, 2021
 - ICCV 2021
 - ECCV 2020
 
