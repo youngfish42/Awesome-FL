@@ -462,11 +462,19 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 
 - [S&P](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Symposium%20on%20Security%20and%20Privacy%3A) 2019
 - [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) 2021, 2019
-- [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A)  2020
+- [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A)  [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), 2020
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) 2021
 
-| Title                                                        | Affiliation | Venue           | Year | Materials                                                    |
-| ------------------------------------------------------------ | ----------- | --------------- | ---- | ------------------------------------------------------------ |
+| Title                                                        | Affiliation                                                  | Venue | Year | Materials                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
+| [SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran) | Microsoft Research | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_chandran.pdf)
+| [Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors](https://www.usenix.org/conference/usenixsecurity22/presentation/stevens) | University of Vermont | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22fall_stevens.pdf)
+| [Label Inference Attacks Against Vertical Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong) | Zhejiang University | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_fu.pdf)
+| [FLAME: Taming Backdoors in Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen) | Technical University of Darmstadt | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22fall_nguyen.pdf)
+|Local and Central Differential Privacy for Robustness and Privacy in Federated Learning| University at Buffalo, SUNY| NDSS | 2022 | [PDF](https://arxiv.org/pdf/2009.03561)
+|Interpretable Federated Transformer Log Learning for Cloud Threat Forensics|University of the Incarnate Word, TX, USA | NDSS | 2022 | [PDF](https://www.ndss-symposium.org/wp-content/uploads/2022-102-paper.pdf)
+|FedCRI: Federated Mobile Cyber-Risk Intelligence| Technical University of Darmstadt| NDSS | 2022 | [PDF](https://www.ndss-symposium.org/wp-content/uploads/2022-153-paper.pdf)
+|DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection| Technical University of Darmstadt| NDSS | 2022 |[PDF](https://arxiv.org/pdf/2201.00763)
 | [Private Hierarchical Clustering in Federated Networks](https://dl.acm.org/doi/10.1145/3460120.3484822) |             | CCS             | 2021 |                                                              |
 | [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://www.ndss-symposium.org/ndss-paper/fltrust-byzantine-robust-federated-learning-via-trust-bootstrapping/) |             | NDSS            | 2021 | [Video](https://www.youtube.com/watch?v=zhhdPgKPCN0&list=PLfUWWM-POgQvaqlGPwlOa0JR3bryB1KCS&index=2) |
 | [POSEIDON: Privacy-Preserving Federated Neural Network Learning](https://www.ndss-symposium.org/ndss-paper/poseidon-privacy-preserving-federated-neural-network-learning/) |             | NDSS            | 2021 | [Video](https://www.youtube.com/watch?v=kX6-PMzxZ3c&list=PLfUWWM-POgQvaqlGPwlOa0JR3bryB1KCS&index=1) |
@@ -475,8 +483,6 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 | [Poster: A Reliable and Accountable Privacy-Preserving Federated Learning Framework using the Blockchain](https://dl.acm.org/doi/10.1145/3319535.3363256) |             | CCS             | 2019 |                                                              |
 | [IOTFLA : A Secured and Privacy-Preserving Smart Home Architecture Implementing Federated Learning](https://ieeexplore.ieee.org/document/8844592) |             | S&P             | 2019 |                                                              |
 | [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/document/8835245) |             | S&P             | 2019 |                                                              |
-
-
 
 
 
