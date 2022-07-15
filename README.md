@@ -206,7 +206,7 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 ## FL in top AI Conferences
 
-In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence)  conference, Including AAAI, AISTATS.
+In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence)  conference, Including [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)(AAAI Conference on Artificial Intelligence), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/index.html)(Artificial Intelligence and Statistics).
 
 - [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf),[2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf),[2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
@@ -266,7 +266,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 
 ## FL in top ML conferences
 
-In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference, Including NeurIPS, ICML, ICLR.
+In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations).
 
 - [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) [2021](https://papers.nips.cc/paper/2021), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
 - [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
@@ -437,7 +437,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 ## FL in top DM conferences
 
-In this section, we will summarize Federated Learning papers accepted by top DM(Data Mining) conference, Including KDD.
+In this section, we will summarize Federated Learning papers accepted by top DM(Data Mining) conference, Including [KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html)(ACM SIGKDD Conference on Knowledge Discovery and Data Mining).
 
 - [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
 
@@ -458,9 +458,23 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 
 ## FL in top Secure conferences
 
-In this section, we will summarize Federated Learning papers accepted by top Secure conferences, Including S&P, CCS, USENIX Security and NDSS.
+In this section, we will summarize Federated Learning papers accepted by top Secure conferences, Including [S&P](https://dblp.uni-trier.de/db/conf/sp/index.html)(IEEE Symposium on Security and Privacy), [CCS](https://dblp.uni-trier.de/db/conf/ccs/index.html)(Conference on Computer and Communications Security), [USENIX Security](https://dblp.uni-trier.de/db/conf/uss/index.html)(Usenix Security Symposium) and [NDSS](https://dblp.uni-trier.de/db/conf/ndss/index.html)(Network and Distributed System Security Symposium).
 
+- [S&P](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Symposium%20on%20Security%20and%20Privacy%3A) 2019
+- [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) 2021, 2019
+- [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A)  2020
+- [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) 2021
 
+| Title                                                        | Affiliation | Venue           | Year | Materials                                                    |
+| ------------------------------------------------------------ | ----------- | --------------- | ---- | ------------------------------------------------------------ |
+| [Private Hierarchical Clustering in Federated Networks](https://dl.acm.org/doi/10.1145/3460120.3484822) |             | CCS             | 2021 |                                                              |
+| [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://www.ndss-symposium.org/ndss-paper/fltrust-byzantine-robust-federated-learning-via-trust-bootstrapping/) |             | NDSS            | 2021 | [Video](https://www.youtube.com/watch?v=zhhdPgKPCN0&list=PLfUWWM-POgQvaqlGPwlOa0JR3bryB1KCS&index=2) |
+| [POSEIDON: Privacy-Preserving Federated Neural Network Learning](https://www.ndss-symposium.org/ndss-paper/poseidon-privacy-preserving-federated-neural-network-learning/) |             | NDSS            | 2021 | [Video](https://www.youtube.com/watch?v=kX6-PMzxZ3c&list=PLfUWWM-POgQvaqlGPwlOa0JR3bryB1KCS&index=1) |
+| [Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning](https://www.ndss-symposium.org/ndss-paper/manipulating-the-byzantine-optimizing-model-poisoning-attacks-and-defenses-for-federated-learning/) |             | NDSS            | 2021 | [Video](https://www.youtube.com/watch?v=G2VYRnLqAXE&list=PLfUWWM-POgQvaqlGPwlOa0JR3bryB1KCS&index=3) |
+| [Local Model Poisoning Attacks to Byzantine-Robust Federated Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/fang) |             | USENIX Security | 2020 | [Video](https://www.youtube.com/watch?v=SQ12UpYrUVU&feature=emb_imp_woyt) [Slides](https://www.usenix.org/system/files/sec20_slides_fang.pdf) |
+| [Poster: A Reliable and Accountable Privacy-Preserving Federated Learning Framework using the Blockchain](https://dl.acm.org/doi/10.1145/3319535.3363256) |             | CCS             | 2019 |                                                              |
+| [IOTFLA : A Secured and Privacy-Preserving Smart Home Architecture Implementing Federated Learning](https://ieeexplore.ieee.org/document/8844592) |             | S&P             | 2019 |                                                              |
+| [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/document/8835245) |             | S&P             | 2019 |                                                              |
 
 
 
