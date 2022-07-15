@@ -464,6 +464,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 - [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) 2021, 2019
 - [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A)  [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), 2020
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) 2021
+
 | Title                                                        | Affiliation                                                  | Venue | Year | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
 | [SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran) | Microsoft Research | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_chandran.pdf)
