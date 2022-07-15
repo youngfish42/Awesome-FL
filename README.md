@@ -496,34 +496,35 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 
 In this section, we will summarize Federated Learning papers accepted by top AI and NLP conference, including ACL, NAACL, EMNLP and so on.
 
-- ACL [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/)
+- ACL [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
 - NAACL [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
-- EMNLP [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
-- COLING [2020](https://aclanthology.org/events/coling-2020/)
+- [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
+- [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2020](https://aclanthology.org/events/coling-2020/)
 
 
 
-| Title                                                        | Affiliation                                    | Venue          | Year | Materials                                  |
-| ------------------------------------------------------------ | ---------------------------------------------- | -------------- | ---- | ------------------------------------------ |
-| [Scaling Language Model Size in Cross-Device Federated Learning](https://aclanthology.org/2022.fl4nlp-1.2.pdf) | Google                                         | ACL workshop   | 2022 |                                            |
-| [Intrinsic Gradient Compression for Scalable and Efficient Federated Learning](https://aclanthology.org/2022.fl4nlp-1.4.pdf) | Oxford, UK                                     | ACL workshop   | 2022 |                                            |
-| [ActPerFL: Active Personalized Federated Learning](https://aclanthology.org/2022.fl4nlp-1.1.pdf) | Alexa AI, Amazon                               | ACL workshop   | 2022 |                                            |
-| [FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks ](https://openreview.net/forum?id=ru-l-scWHWq) :fire: | USC                                            | NAACL          | 2022 | [Code](https://github.com/FedML-AI/FedNLP) |
-| [Federated Learning with Noisy User Feedback](https://aclanthology.org/2022.naacl-main.196.pdf) | USC, Amazon                                    | NAACL          | 2022 |                                            |
-| [Training Mixed-Domain Translation Models via Federated Learning](https://aclanthology.org/2022.naacl-main.186.pdf) | Amazon                                         | NAACL          | 2022 |                                            |
-| [Pretrained Models for Multilingual Federated Learning](https://aclanthology.org/2022.naacl-main.101.pdf) | Johns Hopkins University                       | NAACL          | 2022 |                                            |
-| [Training Mixed-Domain Translation Models via Federated Learning](https://aclanthology.org/2022.naacl-main.186.pdf) | Amazon                                         | NAACL          | 2022 |                                            |
-| [Federated Chinese Word Segmentation with Global Character Associations](https://aclanthology.org/2021.findings-acl.376.pdf) | University of Washington                       | ACL workshop   | 2021 |                                            |
-| [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) | University of Science and Technology of China  | EMNLP          | 2021 |                                            |
-| [Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories](https://aclanthology.org/2021.emnlp-main.321.pdf) | The Chinese University of Hong Kong (Shenzhen) | EMNLP          | 2021 |                                            |
-| [A Secure and Efficient Federated Learning Framework for NLP](https://aclanthology.org/2021.emnlp-main.606.pdf) | University of Connecticut                      | EMNLP          | 2021 |                                            |
-| [Distantly Supervised Relation Extraction in Federated Settings](https://aclanthology.org/2021.findings-emnlp.52.pdf) | Institute of Automation, CAS                   | EMNLP workshop | 2021 |                                            |
-| [Federated Learning with Noisy User Feedback](https://aclanthology.org/2022.naacl-main.196.pdf) | USC, Amazon                                    | NAACL workshop | 2021 |                                            |
-| [An Investigation towards Differentially Private Sequence Tagging in a Federated Framework](https://aclanthology.org/2021.privatenlp-1.4.pdf) | Universität Hamburg, Germany                   | NAACL workshop | 2021 |                                            |
-| [Understanding Unintended Memorization in Language Models Under Federated Learning](https://aclanthology.org/2021.privatenlp-1.1/) | Google                                         | NAACL workshop | 2021 |                                            |
-| [FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction](https://aclanthology.org/2020.emnlp-main.165/) | Institute of Automation, CAS                   | EMNLP          | 2020 |                                            |
-| [Empirical Studies of Institutional Federated Learning For Natural Language Processing](https://aclanthology.org/2020.findings-emnlp.55/) | Shenzhen, P.R.China                            | EMNLP workshop | 2020 |                                            |
-| [Federated Learning for Spoken Language Understanding](https://aclanthology.org/2020.coling-main.310/) | Peking University                              | COLING         | 2020 |                                            |
+| Title                                                        | Affiliation                                       | Venue          | Year | Materials                                  |
+| ------------------------------------------------------------ | ------------------------------------------------- | -------------- | ---- | ------------------------------------------ |
+| [Scaling Language Model Size in Cross-Device Federated Learning](https://aclanthology.org/2022.fl4nlp-1.2.pdf) | Google                                            | ACL workshop   | 2022 |                                            |
+| [Intrinsic Gradient Compression for Scalable and Efficient Federated Learning](https://aclanthology.org/2022.fl4nlp-1.4.pdf) | Oxford, UK                                        | ACL workshop   | 2022 |                                            |
+| [ActPerFL: Active Personalized Federated Learning](https://aclanthology.org/2022.fl4nlp-1.1.pdf) | Alexa AI, Amazon                                  | ACL workshop   | 2022 |                                            |
+| [FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks ](https://openreview.net/forum?id=ru-l-scWHWq) :fire: | USC                                               | NAACL          | 2022 | [Code](https://github.com/FedML-AI/FedNLP) |
+| [Federated Learning with Noisy User Feedback](https://aclanthology.org/2022.naacl-main.196.pdf) | USC, Amazon                                       | NAACL          | 2022 |                                            |
+| [Training Mixed-Domain Translation Models via Federated Learning](https://aclanthology.org/2022.naacl-main.186.pdf) | Amazon                                            | NAACL          | 2022 |                                            |
+| [Pretrained Models for Multilingual Federated Learning](https://aclanthology.org/2022.naacl-main.101.pdf) | Johns Hopkins University                          | NAACL          | 2022 |                                            |
+| [Training Mixed-Domain Translation Models via Federated Learning](https://aclanthology.org/2022.naacl-main.186.pdf) | Amazon                                            | NAACL          | 2022 |                                            |
+| [Federated Chinese Word Segmentation with Global Character Associations](https://aclanthology.org/2021.findings-acl.376.pdf) | University of Washington                          | ACL workshop   | 2021 |                                            |
+| [Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation](https://aclanthology.org/2021.emnlp-main.223.pdf) | University of Science and Technology of China     | EMNLP          | 2021 |                                            |
+| [Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories](https://aclanthology.org/2021.emnlp-main.321.pdf) | The Chinese University of Hong Kong (Shenzhen)    | EMNLP          | 2021 |                                            |
+| [A Secure and Efficient Federated Learning Framework for NLP](https://aclanthology.org/2021.emnlp-main.606.pdf) | University of Connecticut                         | EMNLP          | 2021 |                                            |
+| [Distantly Supervised Relation Extraction in Federated Settings](https://aclanthology.org/2021.findings-emnlp.52.pdf) | Institute of Automation, CAS                      | EMNLP workshop | 2021 |                                            |
+| [Federated Learning with Noisy User Feedback](https://aclanthology.org/2022.naacl-main.196.pdf) | USC, Amazon                                       | NAACL workshop | 2021 |                                            |
+| [An Investigation towards Differentially Private Sequence Tagging in a Federated Framework](https://aclanthology.org/2021.privatenlp-1.4.pdf) | Universität Hamburg, Germany                      | NAACL workshop | 2021 |                                            |
+| [Understanding Unintended Memorization in Language Models Under Federated Learning](https://aclanthology.org/2021.privatenlp-1.1/) | Google                                            | NAACL workshop | 2021 |                                            |
+| [FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction](https://aclanthology.org/2020.emnlp-main.165/) | Institute of Automation, CAS                      | EMNLP          | 2020 |                                            |
+| [Empirical Studies of Institutional Federated Learning For Natural Language Processing](https://aclanthology.org/2020.findings-emnlp.55/) | Shenzhen, P.R.China                               | EMNLP workshop | 2020 |                                            |
+| [Federated Learning for Spoken Language Understanding](https://aclanthology.org/2020.coling-main.310/) | Peking University                                 | COLING         | 2020 |                                            |
+| [Two-stage Federated Phenotyping and Patient Representation Learning](https://aclanthology.org/W19-5030.pdf) | Boston Children’s Hospital Harvard Medical School | ACL            | 2019 |                                            |
 
 
 
