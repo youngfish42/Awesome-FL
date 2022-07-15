@@ -428,11 +428,9 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 - NDSS
 - S&P
 
-
 | Title                                                        | Affiliation                                                  | Venue | Year | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
-|
-|[SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran) | Microsoft Research | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_chandran.pdf)
+| [SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran) | Microsoft Research | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_chandran.pdf)
 | [Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors](https://www.usenix.org/conference/usenixsecurity22/presentation/stevens) | University of Vermont | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22fall_stevens.pdf)
 | [Label Inference Attacks Against Vertical Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong) | Zhejiang University | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22summer_fu.pdf)
 | [FLAME: Taming Backdoors in Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen) | Technical University of Darmstadt | USENIX Security | 2022 | [PDF](https://www.usenix.org/system/files/sec22fall_nguyen.pdf)
