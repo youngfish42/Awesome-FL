@@ -490,7 +490,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 
 ## FL in top CV conferences
 
-In this section, we will summarize Federated Learning papers accepted by top CV(computer vision) conference, Including CVPR, ICCV, ECCV.
+In this section, we will summarize Federated Learning papers accepted by top CV(computer vision) conference, Including [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/index.html)(Computer Vision and Pattern Recognition), [ICCV](https://dblp.uni-trier.de/db/conf/iccv/index.html)(IEEE International Conference on Computer Vision), [ECCV](https://dblp.uni-trier.de/db/conf/eccv/index.html)(European Conference on Computer Vision).
 
 - [CVPR](https://dblp.uni-trier.de/search?q=federate%20venue%3ACVPR%3A) 2022, 2021
 - [ICCV](https://dblp.uni-trier.de/search?q=federate%20venue%3AICCV%3A) 2021
@@ -516,10 +516,10 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 
 ## FL in top NLP conferences
 
-In this section, we will summarize Federated Learning papers accepted by top AI and NLP conference, including ACL, NAACL, EMNLP and so on.
+In this section, we will summarize Federated Learning papers accepted by top AI and NLP conference, including [ACL](https://dblp.uni-trier.de/db/conf/acl/index.html)(Annual Meeting of the Association for Computational Linguistics), [NAACL](https://dblp.uni-trier.de/db/conf/naacl/index.html)(North American Chapter of the Association for Computational Linguistics), [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/index.html)(Conference on Empirical Methods in Natural Language Processing) and [COLING](https://dblp.uni-trier.de/db/conf/coling/index.html)(International Conference on Computational Linguistics).
 
 - ACL [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
-- NAACL [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
+- [NAACL](https://dblp.uni-trier.de/search?q=federate%20venue%3ANAACL-HLT%3A) [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
 - [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
 - [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2020](https://aclanthology.org/events/coling-2020/)
 
@@ -546,7 +546,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 | [FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction](https://aclanthology.org/2020.emnlp-main.165/) | Institute of Automation, CAS                      | EMNLP          | 2020 |                                                              |
 | [Empirical Studies of Institutional Federated Learning For Natural Language Processing](https://aclanthology.org/2020.findings-emnlp.55/) | Shenzhen, P.R.China                               | EMNLP workshop | 2020 |                                                              |
 | [Federated Learning for Spoken Language Understanding](https://aclanthology.org/2020.coling-main.310/) | Peking University                                 | COLING         | 2020 |                                                              |
-| [Two-stage Federated Phenotyping and Patient Representation Learning](https://aclanthology.org/W19-5030.pdf) | Boston Children’s Hospital Harvard Medical School | ACL            | 2019 | [PDF](https://arxiv.org/abs/1908.05596)                      |
+| [Two-stage Federated Phenotyping and Patient Representation Learning](https://aclanthology.org/W19-5030.pdf) | Boston Children’s Hospital Harvard Medical School | ACL workshop   | 2019 | [PDF](https://arxiv.org/abs/1908.05596)                      |
 
 
 
