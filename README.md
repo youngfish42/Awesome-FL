@@ -62,6 +62,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** | ACL Workshop           | 2022 | [[PDF](https://arxiv.org/format/2203.09553)] [[Code](https://github.com/taokz/FedR)] |
 | Power Allocation for Wireless Federated Learning using Graph Neural Networks | ICASSP         | 2022 | [[PDF](https://arxiv.org/pdf/2111.07480)] [[PUB](https://ieeexplore.ieee.org/document/9747764).] [[Code](https://github.com/bl166/wirelessfl-pdgnet)] |
 | Privacy-Preserving Federated Multi-Task Linear Regression: A One-Shot Linear Mixing Approach Inspired By Graph Regularization | ICASSP | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9746007).] |
+| Federated Graph Learning with Periodic Neighbour Sampling | IWQoS | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9812908).] |
 | Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning | WCNC | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9771883).] |
 | Malicious Transaction Identification in Digital Currency via Federated Graph Deep Learning | INFOCOM Workshops | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9797992/).] |
 | Federated learning of molecular properties with graph neural networks in a heterogeneous setting | Patterns | 2022 | [[PUB](https://linkinghub.elsevier.com/retrieve/pii/S2666389922001180).] |
