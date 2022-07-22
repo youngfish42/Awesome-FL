@@ -65,6 +65,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Power Allocation for Wireless Federated Learning using Graph Neural Networks |          | ICASSP         | 2022 |  | [[PDF](https://arxiv.org/pdf/2111.07480)] [[PUB](https://ieeexplore.ieee.org/document/9747764).] [[Code](https://github.com/bl166/wirelessfl-pdgnet)] |
 | Privacy-Preserving Federated Multi-Task Linear Regression: A One-Shot Linear Mixing Approach Inspired By Graph Regularization |  | ICASSP | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9746007).] |
 | Federated Graph Learning with Periodic Neighbour Sampling |  | IWQoS | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9812908).] |
+| A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy |                               | KSEM                   | 2022 |  | [[PDF]](https://arxiv.org/abs/2206.03492) [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14).] |
 | Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning |  | WCNC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9771883).] |
 | Malicious Transaction Identification in Digital Currency via Federated Graph Deep Learning |  | INFOCOM Workshops | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9797992/).] |
 | Federated learning of molecular properties with graph neural networks in a heterogeneous setting |  | Patterns | 2022 |  | [[PUB](https://linkinghub.elsevier.com/retrieve/pii/S2666389922001180).] |
@@ -100,7 +101,6 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Privacy-preserving Graph Analytics: Secure Generation and Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.00048)] |
 | Personalized Subgraph Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.10206)] |
 | Federated Graph Attention Network for Rumor Detection |  | preprint | 2022 |  | [[PDF]](https://arxiv.org/abs/2206.05713) [[Code](https://github.com/baichuanzheng1/fedgat)] |
-| A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy |  | preprint | 2022 |  | [[PDF]](https://arxiv.org/abs/2206.03492) |
 | FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal Graph Learning |  | preprint | 2022 |  | [[PDF]](https://arxiv.org/abs/2206.03420) |
 | Privatized Graph Federated Learning                          |                | preprint               | 2022 |                     | [[PDF](https://arxiv.org/pdf/2203.07105)]                    |
 | Graph-Assisted Communication-Efficient Ensemble Federated Learning |                | preprint               | 2022 |                     | [[PDF](https://arxiv.org/pdf/2202.13447)]                    |
