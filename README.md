@@ -98,6 +98,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection |        | NeurIPS Workshop       | 2019 |                     | [[PDF]](https://arxiv.org/pdf/1909.12946)                    |
 | FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation |    | ICML workshop   | 2021 |                    | [[PDF]](https://arxiv.org/pdf/2102.04925) [[Interpret(zh)](https://zhuanlan.zhihu.com/p/428783383)] |
 | SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure |  | BigData | 2019 |  | [[PDF]](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf) [[PUB](https://ieeexplore.ieee.org/document/9005983).] |
+| Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`** | University of Virginia | preprint | 2022 | FGML [^FGML] | [[PDF](https://arxiv.org/abs/2207.11812)] |
 | FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.05750)] |
 | Privacy-preserving Graph Analytics: Secure Generation and Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.00048)] |
 | Personalized Subgraph Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.10206)] |
@@ -708,3 +709,6 @@ Many thanks :heart: to the other awesome list:
 [^FedDG-ELCFS]: FedDG-ELCFS A novel problem setting of federated domain generalization (FedDG), which aims to learn a federated model from multiple distributed source domains such that it can directly generalize to unseen target domains. Episodic Learning in Continuous Frequency Space (ELCFS), for this problem by enabling each client to exploit multi-source data distributions under the challenging constraint of data decentralization. FedDG-ELCFS 联邦域泛化（FedDG）旨在从多个分布式源域中学习一个联邦模型，使其能够直接泛化到未见过的目标域中。连续频率空间中的偶发学习（ELCFS），使每个客户能够在数据分散的挑战约束下利用多源数据分布。
 [^Soteria]: Soteria propose a defense against model inversion attack in FL,  learning to perturb data representation such that the quality of the reconstructed data is severely degraded, while FL performance is maintained. Soteria 一种防御FL中模型反转攻击的方法,关键思想是学习扰乱数据表示，使重建数据的质量严重下降，而FL性能保持不变。
 
+
+
+[^FGML]: FGML a comprehensive review of the literature in Federated Graph Machine Learning. FGML 对图联邦机器学习的文献进行了全面回顾。
