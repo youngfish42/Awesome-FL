@@ -31,6 +31,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/07/27 -  add some ECCV 2022 papers*
 - *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
 - *2022/07/21 - give TL;DR and interpret information of papers. And add KDD 2022 papers*
 - *2022/07/15 - give a list of papers in the field of federated learning in top NLP/Secure conferences. And add ICML 2022 papers*
@@ -518,6 +519,8 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 
 | Title                                                        | Affiliation                                                  | Venue | Year | TL;DR                                       | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------- | ------------------------------------------------------------ |
+| Personalizing Federated Medical Image Segmentation via Local Calibration | Xiamen University                                            | ECCV  | 2022 | LC-Fed [^LC-Fed]                            | [[PDF](https://arxiv.org/abs/2207.04655)] [Code](https://github.com/jcwang123/fedlc) |
+| Improving Generalization in Federated Learning by Seeking Flat Minima | Politecnico di Torino                                        | ECCV  | 2022 | FedSAM [^FedSAM]                            | [[PDF](https://arxiv.org/abs/2203.11834)] [Code](https://github.com/debcaldarola/fedsam) |
 | [ATPFL: Automatic Trajectory Prediction Model Design Under Federated Learning Framework](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.html) | Harbin Institute of Technology                               | CVPR  | 2022 | ATPFL [^ATPFL]                              | [[PUB](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.pdf).] |
 | [Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.html) | Stanford University                                          | CVPR  | 2022 | ViT-FL [^ViT-FL]                            | [[PUB.](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Qu_Rethinking_Architecture_Design_CVPR_2022_supplemental.pdf)] [[PDF](http://arxiv.org/abs/2106.06047)] [[Code]](https://github.com/Liangqiong/ViT-FL-main) |
 | [FedCorr: Multi-Stage Federated Learning for Label Noise Correction](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_FedCorr_Multi-Stage_Federated_Learning_for_Label_Noise_Correction_CVPR_2022_paper.html) | Singapore University of Technology and Design                | CVPR  | 2022 | FedCorr[^FedCorr]                           | [[PUB.](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FedCorr_Multi-Stage_Federated_Learning_for_Label_Noise_Correction_CVPR_2022_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_FedCorr_Multi-Stage_Federated_CVPR_2022_supplemental.pdf)] [[PDF](http://arxiv.org/abs/2204.04677)] [[Code]](https://github.com/xu-jingyi/fedcorr) |
@@ -709,6 +712,10 @@ Many thanks :heart: to the other awesome list:
 [^FedDG-ELCFS]: FedDG-ELCFS A novel problem setting of federated domain generalization (FedDG), which aims to learn a federated model from multiple distributed source domains such that it can directly generalize to unseen target domains. Episodic Learning in Continuous Frequency Space (ELCFS), for this problem by enabling each client to exploit multi-source data distributions under the challenging constraint of data decentralization. FedDG-ELCFS 联邦域泛化（FedDG）旨在从多个分布式源域中学习一个联邦模型，使其能够直接泛化到未见过的目标域中。连续频率空间中的偶发学习（ELCFS），使每个客户能够在数据分散的挑战约束下利用多源数据分布。
 [^Soteria]: Soteria propose a defense against model inversion attack in FL,  learning to perturb data representation such that the quality of the reconstructed data is severely degraded, while FL performance is maintained. Soteria 一种防御FL中模型反转攻击的方法,关键思想是学习扰乱数据表示，使重建数据的质量严重下降，而FL性能保持不变。
 
+[^LC-Fed]: LC-Fed propose a personalized federated framework with Local Calibration, to leverage the inter-site in-consistencies in both feature- and prediction- levels to boost the segmentation. LC-Fed提出了一个带有本地校准的个性化联邦学习框架，以利用特征和预测层面的站点间不一致来提高分割效果。
+[^FedSAM]: Models trained in federated settings often suffer from degraded performances and fail at generalizing, especially when facing heterogeneous scenarios. FedSAM investigate such behavior through the lens of geometry of the loss and Hessian eigenspectrum, linking the model's lack of generalization capacity to the sharpness of the solution. 联邦学习环境下训练的模型经常会出现性能下降和泛化失败的情况，特别是在面对异质场景时。FedSAM 通过损失和Hessian特征谱的几何角度来研究这种行为，将模型缺乏泛化能力与解决方案的锐度联系起来。
+
 
 
 [^FGML]: FGML a comprehensive review of the literature in Federated Graph Machine Learning. FGML 对图联邦机器学习的文献进行了全面回顾。
+
