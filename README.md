@@ -47,7 +47,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
-- *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE papers*
+- *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE,WWW,SIGCOMM.INFOCOM,WWW papers*
 - *2022/07/27 -  add some ECCV 2022 papers*
 - *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
 - *2022/07/21 - give TL;DR and interpret information of papers. And add KDD 2022 papers*
