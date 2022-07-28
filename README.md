@@ -89,6 +89,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Federated learning of molecular properties with graph neural networks in a heterogeneous setting |  | Patterns | 2022 |  | [[PUB](https://linkinghub.elsevier.com/retrieve/pii/S2666389922001180).] |
 | Decentralized Graph Federated Multitask Learning for Streaming Data |                    | CISS                   | 2022 |      | [[PUB.]](https://doi.org/10.1109/CISS53076.2022.9751160) [[[Interpret(zh)]](https://zhuanlan.zhihu.com/p/430508567)] |
 | Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking in Healthcare Applications |                    | JBHI                   | 2022 |         | [[PDF]](https://ieeexplore.ieee.org/document/9648036)        |
+| [Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation.](https://ieeexplore.ieee.org/document/9488906) |  | INFOCOM :mortar_board: | 2021 |  | [PDF](https://arxiv.org/abs/2101.00787) |
 | Federated Knowledge Graphs Embedding  **`kg.`**              |                    | CIKM                   | 2021 |  | [[PDF]](https://arxiv.org/pdf/2105.07615) [[Code](https://github.com/HKUST-KnowComp/FKGE)] [[Interpret(zh)](https://zhuanlan.zhihu.com/p/437895959)] |
 | Federated Graph Classification over Non-IID Graphs           |  | NeurIPS :mortar_board: | 2021 |  | [[PDF]](https://arxiv.org/pdf/2106.13423) [[PUB.]](https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html) [[Code](https://github.com/Oxfordblue7/GCFL)] [[Interpret(zh)](https://zhuanlan.zhihu.com/p/430623053)] |
 | Decentralized Federated Graph Neural Networks |  | IJCAI Workshop | 2021 |  | [[PDF](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf)] |
@@ -679,9 +680,36 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) NULL
 - [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A)  2022, 2021
 
-| Title | Affiliation | Venue | Year | TL;DR | Materials |
-| ----- | ----------- | ----- | ---- | ----- | --------- |
-|       |             |       |      |       |           |
+| Title                                                        | Affiliation | Venue   | Year | TL;DR | Materials                               |
+| ------------------------------------------------------------ | ----------- | ------- | ---- | ----- | --------------------------------------- |
+| [Joint Superposition Coding and Training for Federated Learning over Multi-Width Neural Networks](https://ieeexplore.ieee.org/document/9796733) |             | INFOCOM | 2022 |       |                                         |
+| [Towards Optimal Multi-Modal Federated Learning on Non-IID Data with Hierarchical Gradient Blending](https://ieeexplore.ieee.org/document/9796724) |             | INFOCOM | 2022 |       |                                         |
+| [Optimal Rate Adaption in Federated Learning with Compressed Communications](https://ieeexplore.ieee.org/document/9796982) |             | INFOCOM | 2022 |       |                                         |
+| [The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining.](https://ieeexplore.ieee.org/document/9796721) |             | INFOCOM | 2022 |       |                                         |
+| [Tackling System and Statistical Heterogeneity for Federated Learning with Adaptive Client Sampling.](https://ieeexplore.ieee.org/document/9796935) |             | INFOCOM | 2022 |       |                                         |
+| [Communication-Efficient Device Scheduling for Federated Learning Using Stochastic Optimization](https://ieeexplore.ieee.org/document/9796818) |             | INFOCOM | 2022 |       |                                         |
+| [FLASH: Federated Learning for Automated Selection of High-band mmWave Sectors](https://ieeexplore.ieee.org/document/9796865/) |             | INFOCOM | 2022 |       |                                         |
+| [A Profit-Maximizing Model Marketplace with Differentially Private Federated Learning]() |             | INFOCOM | 2022 |       |                                         |
+| [Protect Privacy from Gradient Leakage Attack in Federated Learning](https://ieeexplore.ieee.org/document/9796841/) |             | INFOCOM | 2022 |       |                                         |
+| [FedFPM: A Unified Federated Analytics Framework for Collaborative Frequent Pattern Mining.](https://ieeexplore.ieee.org/document/9796719) |             | INFOCOM | 2022 |       | [Code](https://github.com/HuskyW/FFPA)  |
+| [Learning for Learning: Predictive Online Control of Federated Learning with Edge Provisioning.](https://ieeexplore.ieee.org/document/9488733/) |             | INFOCOM | 2021 |       |                                         |
+| [Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation.](https://ieeexplore.ieee.org/document/9488906) |             | INFOCOM | 2021 |       | [PDF](https://arxiv.org/abs/2101.00787) |
+| [FAIR: Quality-Aware Federated Learning with Precise User Incentive and Model Aggregation](https://ieeexplore.ieee.org/document/9488743) |             | INFOCOM | 2021 |       |                                         |
+| [Sample-level Data Selection for Federated Learning](https://ieeexplore.ieee.org/document/9488723) |             | INFOCOM | 2021 |       |                                         |
+| [To Talk or to Work: Flexible Communication Compression for Energy Efficient Federated Learning over Heterogeneous Mobile Edge Devices](https://ieeexplore.ieee.org/document/9488839) |             | INFOCOM | 2021 |       |                                         |
+| [Cost-Effective Federated Learning Design](https://ieeexplore.ieee.org/document/9488679) |             | INFOCOM | 2021 |       |                                         |
+| [An Incentive Mechanism for Cross-Silo Federated Learning: A Public Goods Perspective](https://ieeexplore.ieee.org/document/9488705) |             | INFOCOM | 2021 |       |                                         |
+| [Resource-Efficient Federated Learning with Hierarchical Aggregation in Edge Computing](https://ieeexplore.ieee.org/document/9488756/) |             | INFOCOM | 2021 |       |                                         |
+| [FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism.](https://ieeexplore.ieee.org/document/9488807) |             | INFOCOM | 2021 |       |                                         |
+| [Federated Learning over Wireless Networks: A Band-limited Coordinated Descent Approach](https://ieeexplore.ieee.org/document/9488818) |             | INFOCOM | 2021 |       |                                         |
+| [Dual Attention-Based Federated Learning for Wireless Traffic Prediction](https://ieeexplore.ieee.org/document/9488883) |             | INFOCOM | 2021 |       |                                         |
+| [FedSens: A Federated Learning Approach for Smart Health Sensing with Class Imbalance in Resource Constrained Edge Computing](https://ieeexplore.ieee.org/document/9488776/) |             | INFOCOM | 2021 |       |                                         |
+| [P-FedAvg: Parallelizing Federated Learning with Theoretical Guarantees](https://ieeexplore.ieee.org/document/9488877) |             | INFOCOM | 2021 |       |                                         |
+| [Physical-Layer Arithmetic for Federated Learning in Uplink MU-MIMO Enabled Wireless Networks.](https://ieeexplore.ieee.org/document/9155479) |             | INFOCOM | 2020 |       |                                         |
+| [Optimizing Federated Learning on Non-IID Data with Reinforcement Learning](https://ieeexplore.ieee.org/document/9155494) |             | INFOCOM | 2020 |       |                                         |
+| [Enabling Execution Assurance of Federated Learning at Untrusted Participants](https://ieeexplore.ieee.org/document/9155414) |             | INFOCOM | 2020 |       |                                         |
+| [Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464) |             | INFOCOM | 2019 |       |                                         |
+| [Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning](https://ieeexplore.ieee.org/document/8737416) |             | INFOCOM | 2019 |       |                                         |
 
 
 
