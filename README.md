@@ -19,6 +19,22 @@
 
 # Papers
 
+**Categories**
+
+- Artificial Intelligence (IJCAI, AAAI,AISTATS)
+- Machine Learning (NeurIPS, ICML, ICLR)
+- Data Mining (KDD)
+- Secure (S&P, CCS, USENIX Security, NDSS)
+- Computer Vision (ICCV, CVPR, ECCV, MM)
+- Natural Language Processing (ACL, EMNLP, NAACL,COLING)
+- 
+- Information Retrieval (SIGIR)
+- Database (SIGMOD, ICDE)
+- Networking (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW)
+- Other CS Meetings (SIGGRAPH, ICSE)
+
+
+
 **keywords**
 
 Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :mortar_board: Top-tier venue 
@@ -27,10 +43,13 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
 
 
+
+
 **Update log**
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI papers*
 - *2022/07/27 -  add some ECCV 2022 papers*
 - *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
 - *2022/07/21 - give TL;DR and interpret information of papers. And add KDD 2022 papers*
@@ -40,11 +59,8 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 - *2022/07/12 - give a list of papers in the field of federated learning in top journals*
 - *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
 - *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
-
 - *2022/05/24 - complete the paper and code lists of FL on graph data and Graph Neural Networks*
-
 - *2022/05/23 - add the paper list of FL on graph data and Graph Neural Networks*
-
 - *2022/05/21 - update all of Federated Learning Framework*
 
 
@@ -61,6 +77,8 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | EasyFGL: Towards a Unified, Comprehensive and Efficient Platform for Federated Graph Learning :fire: | Alibaba Group | KDD :mortar_board: | 2022 | FederatedScope-GNN [^FederatedScope-GNN] | [[PDF](https://arxiv.org/abs/2204.05562)] [Code](https://github.com/alibaba/FederatedScope) |
 | Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning |  | ICML :mortar_board: | 2022 |  | [[PUB.](https://proceedings.mlr.press/v162/liu22k/liu22k.pdf)] [[Code](https://github.com/Thinklab-SJTU/GAMF)] |
 | Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting  **`kg.`** |    | IJCAI :mortar_board:   | 2022 |  | [[PDF]](https://doi.org/10.48550/arXiv.2205.04692) [[Code](https://github.com/zjukg/maker)] |
+| Personalized Federated Learning With a Graph | | IJCAI :mortar_board: | 2022 | | [[PUB](https://www.ijcai.org/proceedings/2022/357).] [[PDF](https://arxiv.org/abs/2203.00829)] [[Code](https://github.com/dawenzi098/SFL-Structural-Federated-Learning)] |
+| Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification | | IJCAI :mortar_board: | 2022 | | [[PUB](https://www.ijcai.org/proceedings/2022/272).] [[PDF](https://arxiv.org/abs/2005.11903)] |
 | SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks |     | AAAI :mortar_board:    | 2022 |  | [[PDF]](https://arxiv.org/pdf/2106.02743) [[Code]](https://github.com/FedML-AI/SpreadGNN) [[Interpret(zh)](https://zhuanlan.zhihu.com/p/429720860)] |
 | A federated graph neural network framework for privacy-preserving personalization |  | Nature Communications | 2022 |  | [[PUB](https://www.nature.com/articles/s41467-022-30714-9).] |
 | Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** |            | ACL Workshop           | 2022 |  | [[PDF](https://arxiv.org/format/2203.09553)] [[Code](https://github.com/taokz/FedR)] |
@@ -216,8 +234,9 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 ## FL in top AI Conferences
 
-In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence)  conference, Including [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)(AAAI Conference on Artificial Intelligence), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/index.html)(Artificial Intelligence and Statistics).
+In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence)  conference, Including [IJCAI](https://dblp.org/db/conf/ijcai/index.html)(International Joint Conference on Artificial Intelligence), [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)(AAAI Conference on Artificial Intelligence), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/index.html)(Artificial Intelligence and Statistics).
 
+- [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A)  2022,[2021](https://ijcai-21.org/program-main-track/#),2020,[2019](https://www.ijcai19.org/accepted-papers.html)
 - [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf),[2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf),[2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
 
@@ -225,6 +244,20 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 
 | Title                                                        | Affiliation                                                  | Venue  | Year | TL;DR | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ---- | ----- | ------------------------------------------------------------ |
+| Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting  **`kg.`** |                                                              | IJCAI  | 2022 |       | [[PDF]](https://doi.org/10.48550/arXiv.2205.04692) [[Code](https://github.com/zjukg/maker)] |
+| Personalized Federated Learning With a Graph                 |                                                              | IJCAI  | 2022 |       | [[PUB](https://www.ijcai.org/proceedings/2022/357).] [[PDF](https://arxiv.org/abs/2203.00829)] [[Code](https://github.com/dawenzi098/SFL-Structural-Federated-Learning)] |
+| Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification |                                                              | IJCAI  | 2022 |       | [[PUB](https://www.ijcai.org/proceedings/2022/272).] [[PDF](https://arxiv.org/abs/2005.11903)] |
+| [Adapt to Adaptation: Learning Personalization for Cross-Silo Federated Learning](https://www.ijcai.org/proceedings/2022/301) |                                                              | IJCAI  | 2022 |       | [Code](https://github.com/ljaiverson/pFL-APPLE)              |
+| [Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning](https://www.ijcai.org/proceedings/2022/399) |                                                              | IJCAI  | 2022 |       |                                                              |
+| [Private Semi-Supervised Federated Learning.](https://www.ijcai.org/proceedings/2022/279) |                                                              | IJCAI  | 2022 |       |                                                              |
+| [Continual Federated Learning Based on Knowledge Distillation.](https://doi.org/10.24963/ijcai.2022/306) |                                                              | IJCAI  | 2022 |       |                                                              |
+| [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://www.ijcai.org/proceedings/2022/308) |                                                              | IJCAI  | 2022 |       | [Code](https://github.com/shangxinyi/CReFF-FL)               |
+| [Federated Multi-Task Attention for Cross-Individual Human Activity Recognition](https://www.ijcai.org/proceedings/2022/475) |                                                              | IJCAI  | 2022 |       |                                                              |
+| [Personalized Federated Learning with Contextualized Generalization.](https://www.ijcai.org/proceedings/2022/311) |                                                              | IJCAI  | 2022 |       |                                                              |
+| [Shielding Federated Learning: Robust Aggregation with Adaptive Client Selection](https://www.ijcai.org/proceedings/2022/106). |                                                              | IJCAI  | 2022 |       |                                                              |
+| [FedCG: Leverage Conditional GAN for Protecting Privacy and Maintaining Competitive Performance in Federated Learning](https://www.ijcai.org/proceedings/2022/324) |                                                              | IJCAI  | 2022 |       |                                                              |
+| [FedDUAP: Federated Learning with Dynamic Update and Adaptive Pruning Using Shared Data on the Server.](https://www.ijcai.org/proceedings/2022/385) |                                                              | IJCAI  | 2022 |       |                                                              |
+| [Towards Verifiable Federated Learning](https://www.ijcai.org/proceedings/2022/792)  **`surv.`** |                                                              | IJCAI  | 2022 |       |                                                              |
 | [HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images](https://arxiv.org/pdf/2112.10775.pdf) | The Chinese University of Hong Kong; Beihang University      | AAAI   | 2022 |       | [[Code]](https://github.com/med-air/HarmoFL)                 |
 | [Federated Learning for Face Recognition with Gradient Correction](https://arxiv.org/pdf/2112.07246.pdf) | Beijing University of Posts and Telecommunications           | AAAI   | 2022 |       |                                                              |
 | [SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data](https://arxiv.org/pdf/2106.02743.pdf) | university of Southern California                            | AAAI   | 2022 |       | [[Code]](https://github.com/FedML-AI/SpreadGNN)              |
@@ -240,6 +273,15 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 | [Efficient Device Scheduling with Multi-Job Federated Learning](https://arxiv.org/pdf/2112.05928.pdf) | Soochow University; Baidu                                    | AAAI   | 2022 |       |                                                              |
 | [Implicit Gradient Alignment in Distributed and Federated Learning](https://arxiv.org/pdf/2106.13897.pdf) | IIT Kanpur; EPFL                                             | AAAI   | 2022 |       |                                                              |
 | [Federated Nearest Neighbor Classification with a Colony of Fruit-Flies](https://arxiv.org/pdf/2112.07157.pdf) | IBM Research; Wichita State University                       | AAAI   | 2022 |       |                                                              |
+| [Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization](https://www.ijcai.org/proceedings/2021/202) |                                                              | IJCAI  | 2021 |       |                                                              |
+| [Behavior Mimics Distribution: Combining Individual and Group Behaviors for Federated Learning](https://www.ijcai.org/proceedings/2021/352) |                                                              | IJCAI  | 2021 |       |                                                              |
+| [FedSpeech: Federated Text-to-Speech with Continual Learning](https://www.ijcai.org/proceedings/2021/527) |                                                              | IJCAI  | 2021 |       |                                                              |
+| [Practical One-Shot Federated Learning for Cross-Silo Setting](https://www.ijcai.org/proceedings/2021/205) |                                                              | IJCAI  | 2021 |       |                                                              |
+| [Federated Model Distillation with Noise-Free Differential Privacy](https://www.ijcai.org/proceedings/2021/216) |                                                              | IJCAI  | 2021 |       |                                                              |
+| [LDP-FL: Practical Private Aggregation in Federated Learning with Local Differential Privacy](https://www.ijcai.org/proceedings/2021/217) |                                                              | IJCAI  | 2021 |       |                                                              |
+| [Federated Learning with Fair Averaging.](https://www.ijcai.org/proceedings/2021/223) |                                                              | IJCAI  | 2021 |       |                                                              |
+| [H-FL: A Hierarchical Communication-Efficient and Privacy-Protected Architecture for Federated Learning.](https://www.ijcai.org/proceedings/2021/67) |                                                              | IJCAI  | 2021 |       |                                                              |
+| [Communication-efficient and Scalable Decentralized Federated Edge Learning.](https://www.ijcai.org/proceedings/2021/720) |                                                              | IJCAI  | 2021 |       |                                                              |
 | [Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating](https://arxiv.org/pdf/2103.00958.pdf) | Xidian University; JD Tech                                   | AAAI   | 2021 |       | [video](https://slideslive.com/38947765/secure-bilevel-asynchronous-vertical-federated-learning-with-backward-updating) |
 | [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | Shenzhen University                                          | AAAI   | 2021 |       | [video](https://slideslive.com/38947798/fedrec-lossless-federated-recommendation-with-explicit-feedback) |
 | [Federated Multi-Armed Bandits](https://arxiv.org/pdf/2101.12204.pdf) | University of Virginia                                       | AAAI   | 2021 |       | [[Code]](https://github.com/ShenGroup/FMAB) [video](https://slideslive.com/38947985/federated-multiarmed-bandits) |
@@ -261,6 +303,8 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 | [Convergence and Accuracy Trade-Offs in Federated Learning and Meta-Learning](http://proceedings.mlr.press/v130/charles21a/charles21a.pdf) | Google                                                       | AISTAT | 2021 |       | [video](https://papertalk.org/papertalks/27559) [Supplementary](http://proceedings.mlr.press/v130/charles21a/charles21a-supp.pdf) |
 | [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | University of Virginia; The Pennsylvania State University    | AISTAT | 2021 |       | [[Code]](https://github.com/ShenGroup/PF_MAB) [video](https://papertalk.org/papertalks/27521) [Supplementary](http://proceedings.mlr.press/v130/shi21c/shi21c-supp.pdf) |
 | [Towards Flexible Device Participation in Federated Learning](http://proceedings.mlr.press/v130/ruan21a/ruan21a.pdf) | CMU;  Sun Yat-Sen University                                 | AISTAT | 2021 |       | [video](https://papertalk.org/papertalks/27467) [Supplementary](http://proceedings.mlr.press/v130/ruan21a/ruan21a-supp.pdf) |
+| [Federated Meta-Learning for Fraudulent Credit Card Detection](https://www.ijcai.org/proceedings/2020/642) |                                                              | IJCAI  | 2020 |       | [Video](https://www.ijcai.org/proceedings/2020/video/23994)  |
+| [A Multi-player Game for Studying Federated Learning Incentive Schemes](https://www.ijcai.org/proceedings/2020/769) |                                                              | IJCAI  | 2020 |       |                                                              |
 | [Practical Federated Gradient Boosting Decision Trees](https://arxiv.org/pdf/1911.04206.pdf) | National University of Singapore;  The University of Western Australia | AAAI   | 2020 |       | [[Code]](https://github.com/Xtra-Computing/PrivML)           |
 | [Federated Learning for Vision-and-Language Grounding Problems](https://ojs.aaai.org/index.php/AAAI/article/view/6824) | Peking University; Tencent                                   | AAAI   | 2020 |       |                                                              |
 | [Federated Latent Dirichlet Allocation: A Local Differential Privacy Based Framework](https://ojs.aaai.org/index.php/AAAI/article/view/6096) | Beihang University                                           | AAAI   | 2020 |       |                                                              |
@@ -269,6 +313,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 | [FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf) | UC Santa Barbara;  UT Austin                                 | AISTAT | 2020 |       | [video](https://papertalk.org/papertalks/7961) [Supplementary](http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf) |
 | [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf) :fire: | Cornell Tech                                                 | AISTAT | 2020 |       | [video](https://papertalk.org/papertalks/8046) [[Code]](https://github.com/ebagdasa/backdoor_federated_learning) [Supplementary](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf) |
 | [Federated Heavy Hitters Discovery with Differential Privacy](http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf) | RPI; Google                                                  | AISTAT | 2020 |       | [video](https://papertalk.org/papertalks/8129) [Supplementary](http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf) |
+| [Multi-Agent Visualization for Explaining Federated Learning](https://www.ijcai.org/proceedings/2019/960) | WeBank                                                       | IJCAI  | 2019 |       | [Video](https://youtu.be/NPGf_OJrzOg)                        |
 
 
 
