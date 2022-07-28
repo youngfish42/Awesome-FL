@@ -11,7 +11,7 @@
   - [FL on Tabular Data](#FL-on-Tabular-Data)  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest)
   - [FL in top-tier journal](#FL-in-top-tier-journal)
   - FL in top-tier conferences
-    - [AI](#FL-in-top-AI-Conferences)   [ML](#FL-in-top-ML-Conferences)   [DM](#FL-in-top-DM-Conferences)   [Secure](#FL-in-top-Secure-Conferences)   [CV](#FL-in-top-CV-Conferences)   [NLP](#FL-in-top-NLP-Conferences) 
+    - [AI](#FL-in-top-AI-Conferences)  [ML](#FL-in-top-ML-Conferences) [DM](#FL-in-top-DM-Conferences) [Secure](#FL-in-top-Secure-Conferences) [CV](#FL-in-top-CV-Conferences) [NLP](#FL-in-top-NLP-Conferences) [IR](#FL-in-top-IR-Conferences) [DB](#FL-in-top-DB-Conferences) [Network](#FL-in-top-Network-Conferences) 
 - [Framework](#Framework)
 - [Datasets](#Datasets)
 
@@ -27,11 +27,9 @@
 - Secure (S&P, CCS, USENIX Security, NDSS)
 - Computer Vision (ICCV, CVPR, ECCV, MM)
 - Natural Language Processing (ACL, EMNLP, NAACL,COLING)
-- 
 - Information Retrieval (SIGIR)
 - Database (SIGMOD, ICDE)
-- Networking (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW)
-- Other CS Meetings (SIGGRAPH, ICSE)
+- Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW) (todo)
 
 
 
@@ -49,7 +47,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
-- *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI papers*
+- *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE papers*
 - *2022/07/27 -  add some ECCV 2022 papers*
 - *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
 - *2022/07/21 - give TL;DR and interpret information of papers. And add KDD 2022 papers*
@@ -631,6 +629,59 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 | [Empirical Studies of Institutional Federated Learning For Natural Language Processing](https://aclanthology.org/2020.findings-emnlp.55/) | Shenzhen, P.R.China                               | EMNLP workshop | 2020 |       |                                                              |
 | [Federated Learning for Spoken Language Understanding](https://aclanthology.org/2020.coling-main.310/) | Peking University                                 | COLING         | 2020 |       |                                                              |
 | [Two-stage Federated Phenotyping and Patient Representation Learning](https://aclanthology.org/W19-5030.pdf) | Boston Children’s Hospital Harvard Medical School | ACL workshop   | 2019 |       | [PDF](https://arxiv.org/abs/1908.05596)                      |
+
+
+
+## FL in top IR conferences
+
+In this section, we will summarize Federated Learning papers accepted by top Information Retrieval conference, including [SIGIR](https://dblp.org/db/conf/sigir/index.html)(Annual International ACM SIGIR Conference on Research and Development in Information Retrieval).
+
+- [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) 2022
+
+| Title                                                        | Affiliation | Venue | Year | TL;DR | Materials |
+| ------------------------------------------------------------ | ----------- | ----- | ---- | ----- | --------- |
+| [Is Non-IID Data a Threat in Federated Online Learning to Rank?](https://dl.acm.org/doi/10.1145/3477495.3531709) |             | SIGIR | 2022 |       |           |
+| [FedCT: Federated Collaborative Transfer for Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462825) |             | SIGIR | 2021 |       |           |
+| [On the Privacy of Federated Pipelines](https://dl.acm.org/doi/10.1145/3404835.3462996) |             | SIGIR | 2021 |       |           |
+| [FedCMR: Federated Cross-Modal Retrieval.](https://dl.acm.org/doi/10.1145/3404835.3462989) |             | SIGIR | 2021 |       |           |
+| [Meta Matrix Factorization for Federated Rating Predictions.](https://dl.acm.org/doi/10.1145/3397271.3401081) |             | SIGIR | 2020 |       |           |
+
+
+
+## FL in top DB conferences
+
+In this section, we will summarize Federated Learning papers accepted by top Database conference, including [SIGMOD](https://dblp.uni-trier.de/db/conf/sigmod/index.html)(ACM SIGMOD Conference) and [ICDE](https://dblp.uni-trier.de/db/conf/icde/index.html)(IEEE International Conference on Data Engineering).
+
+- [SIGMOD](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGMOD%20Conference%3A) 2022,2021
+- [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) 2021
+
+| Title                                                        | Affiliation | Venue            | Year | TL;DR | Materials                                                |
+| ------------------------------------------------------------ | ----------- | ---------------- | ---- | ----- | -------------------------------------------------------- |
+| [An Introduction to Federated Computation](https://dl.acm.org/doi/10.1145/3514221.3522561) |             | SIGMOD           | 2022 |       |                                                          |
+| [BlindFL: Vertical Federated Machine Learning without Peeking into Your Data](https://dl.acm.org/doi/10.1145/3514221.3526127) |             | SIGMOD           | 2022 |       |                                                          |
+| [An Efficient Approach for Cross-Silo Federated Learning to Rank](https://ieeexplore.ieee.org/document/9458704) |             | ICDE             | 2021 |       |                                                          |
+| [Feature Inference Attack on Model Predictions in Vertical Federated Learning](https://ieeexplore.ieee.org/document/9458672/) |             | ICDE             | 2021 |       |                                                          |
+| [Efficient Federated-Learning Model Debugging](https://ieeexplore.ieee.org/document/9458829) |             | ICDE             | 2021 |       |                                                          |
+| VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning |             | SIGMOD           | 2021 |       | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).] |
+| [ExDRa: Exploratory Data Science on Federated Raw Data](https://dl.acm.org/doi/10.1145/3448016.3457549) |             | SIGMOD           | 2021 |       |                                                          |
+| [Joint blockchain and federated learning-based offloading in harsh edge computing environments](https://dl.acm.org/doi/10.1145/3460866.3461765) |             | SIGMOD  workshop | 2021 |       |                                                          |
+
+
+
+## FL in top Network conferences
+
+In this section, we will summarize Federated Learning papers accepted by top Database conference, including [SIGCOMM](https://dblp.org/db/conf/sigcomm/index.html)(Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication), [INFOCOM](https://dblp.org/db/conf/infocom/index.html)(IEEE Conference on Computer Communications), [MobiCom](https://dblp.org/db/conf/mobicom/index.html)(ACM/IEEE International Conference on Mobile Computing and Networking), [NSDI](https://dblp.org/db/conf/nsdi/index.html)(Symposium on Networked Systems Design and Implementation) and  [WWW](https://dblp.org/db/conf/www/index.html)(The Web Conference).
+
+- [SIGCOMM](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGCOMM%3A) NULL
+
+- [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) 2022, 2021, 2020, 2019
+- [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) 2021, 2020
+- [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) NULL
+- [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A)  2022, 2021
+
+| Title | Affiliation | Venue | Year | TL;DR | Materials |
+| ----- | ----------- | ----- | ---- | ----- | --------- |
+|       |             |       |      |       |           |
 
 
 
