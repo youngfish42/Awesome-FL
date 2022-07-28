@@ -29,7 +29,7 @@
 - Natural Language Processing (ACL, EMNLP, NAACL,COLING)
 - Information Retrieval (SIGIR)
 - Database (SIGMOD, ICDE)
-- Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW) (todo)
+- Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW) 
 
 
 
