@@ -23,7 +23,7 @@
 
 - Artificial Intelligence (IJCAI, AAAI, AISTATS)
 - Machine Learning (NeurIPS, ICML, ICLR, COLT, UAI)
-- Data Mining (KDD)
+- Data Mining (KDD, WSDM)
 - Secure (S&P, CCS, USENIX Security, NDSS)
 - Computer Vision (ICCV, CVPR, ECCV, MM)
 - Natural Language Processing (ACL, EMNLP, NAACL, COLING)
@@ -48,7 +48,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
-- *2022/07/30 -  Add top-tier system conferences papers and add COLT,UAI,OSDI, SOSP, ISCA, MLSys, AISTATS papers*
+- *2022/07/30 -  Add top-tier system conferences papers and add COLT,UAI,OSDI, SOSP, ISCA, MLSys, AISTATS,WSDM papers*
 - *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE,WWW,SIGCOMM.INFOCOM,WWW papers*
 - *2022/07/27 -  add some ECCV 2022 papers*
 - *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
@@ -510,9 +510,10 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 ## FL in top DM conferences
 
-In this section, we will summarize Federated Learning papers accepted by top DM(Data Mining) conference, Including [KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html)(ACM SIGKDD Conference on Knowledge Discovery and Data Mining).
+In this section, we will summarize Federated Learning papers accepted by top DM(Data Mining) conference, Including [KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html)(ACM SIGKDD Conference on Knowledge Discovery and Data Mining) and [WSDM](https://dblp.uni-trier.de/db/conf/wsdm/index.html)(Web Search and Data Mining).
 
 - [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) 2022([Research Track](https://kdd.org/kdd2022/paperRT.html), [Applied Data Science track](https://kdd.org/kdd2022/paperADS.html)) , [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
+- WSDM 2022, 2021, 2019
 
 
 
@@ -530,14 +531,18 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 | Felicitas: Federated Learning in Distributed Cross Device Collaborative Frameworks | USTC                                                       | KDD   | 2022 |                                          | [[PDF](https://arxiv.org/abs/2202.08036)]                    |
 | No One Left Behind: Inclusive Federated Learning over Heterogeneous Devices | Renmin University of China                                 | KDD   | 2022 | InclusiveFL [^InclusiveFL]               | [[PDF](https://arxiv.org/abs/2202.08036)]                    |
 | FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling | Tsinghua University                                        | KDD   | 2022 | FedAttack [^FedAttack]                   | [[PDF](https://arxiv.org/abs/2202.04975)]                    |
+| [PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion](https://dl.acm.org/doi/10.1145/3488560.3498386) |                                                            | WSDM  | 2022 |                                          |                                                              |
 | Fed2: Feature-Aligned Federated Learning                     | George Mason University; Microsoft; University of Maryland | KDD   | 2021 |                                          | [PDF](https://arxiv.org/abs/2111.14248)                      |
 | [FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data](http://www.lamda.nju.edu.cn/lixc/papers/FedRS-KDD2021-Lixc.pdf) | Nanjing University                                         | KDD   | 2021 |                                          | [Code](https://github.com/lxcnju/FedRepo)                    |
 | [Federated Adversarial Debiasing for Fair and Trasnferable Representations](https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf) | Michigan State University                                  | KDD   | 2021 |                                          | [HomePage](https://jyhong.gitlab.io/publication/fade2021kdd/) [Code](https://github.com/illidanlab/FADE) |
 | [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://dl.acm.org/doi/pdf/10.1145/3447548.3467371) | University of Southern California                          | KDD   | 2021 |                                          | [[Code]](https://github.com/mengcz13/KDD2021_CNFGNN)  [[Interpret(zh)](https://zhuanlan.zhihu.com/p/434839878)] |
 | [AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization](https://arxiv.org/pdf/2109.12519.pdf) | Xidian University;JD Tech                                  | KDD   | 2021 |                                          | [PDF](https://arxiv.org/abs/2109.12519)                      |
 | [FLOP: Federated Learning on Medical Datasets using Partial Networks](https://arxiv.org/pdf/2102.05218.pdf) | Duke University                                            | KDD   | 2021 |                                          | [[Code]](https://github.com/jianyizhang123/FLOP)             |
+| [A Practical Federated Learning Framework for Small Number of Stakeholders](https://dl.acm.org/doi/10.1145/3437963.3441702) |                                                            | WSDM  | 2021 |                                          |                                                              |
+| [Federated Deep Knowledge Tracing](https://dl.acm.org/doi/10.1145/3437963.3441747) |                                                            | WSDM  | 2021 |                                          |                                                              |
 | [FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3394486.3403176) | University College Dublin                                  | KDD   | 2020 |                                          | [video](https://papertalk.org/papertalks/23422)              |
 | [Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data](https://arxiv.org/pdf/2008.06197.pdf) | JD Tech                                                    | KDD   | 2020 |                                          | [PDF](https://arxiv.org/abs/2008.06197) [video](https://papertalk.org/papertalks/23301) |
+| [Federated Online Learning to Rank with Evolution Strategies](https://dl.acm.org/doi/10.1145/3289600.3290968) |                                                            | WSDM  | 2019 |                                          |                                                              |
 
 
 
