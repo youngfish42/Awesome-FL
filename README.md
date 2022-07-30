@@ -513,7 +513,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 In this section, we will summarize Federated Learning papers accepted by top DM(Data Mining) conference, Including [KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html)(ACM SIGKDD Conference on Knowledge Discovery and Data Mining) and [WSDM](https://dblp.uni-trier.de/db/conf/wsdm/index.html)(Web Search and Data Mining).
 
 - [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) 2022([Research Track](https://kdd.org/kdd2022/paperRT.html), [Applied Data Science track](https://kdd.org/kdd2022/paperADS.html)) , [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
-- WSDM 2022, 2021, 2019
+- [WSDM](https://dblp.uni-trier.de/search?q=federate%20venue%3AWSDM%3A) 2022, 2021, 2019
 
 
 
