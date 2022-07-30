@@ -11,7 +11,7 @@
   - [FL on Tabular Data](#FL-on-Tabular-Data)  [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest)
   - [FL in top-tier journal](#FL-in-top-tier-journal)
   - FL in top-tier conferences
-    - [AI](#FL-in-top-AI-Conferences)  [ML](#FL-in-top-ML-Conferences) [DM](#FL-in-top-DM-Conferences) [Secure](#FL-in-top-Secure-Conferences) [CV](#FL-in-top-CV-Conferences) [NLP](#FL-in-top-NLP-Conferences) [IR](#FL-in-top-IR-Conferences) [DB](#FL-in-top-DB-Conferences) [Network](#FL-in-top-Network-Conferences) 
+    - [AI](#FL-in-top-AI-Conferences)  [ML](#FL-in-top-ML-Conferences) [DM](#FL-in-top-DM-Conferences) [Secure](#FL-in-top-Secure-Conferences) [CV](#FL-in-top-CV-Conferences) [NLP](#FL-in-top-NLP-Conferences) [IR](#FL-in-top-IR-Conferences) [DB](#FL-in-top-DB-Conferences) [Network](#FL-in-top-Network-Conferences)  [System](#FL-in-top-System-Conferences) 
 - [Framework](#Framework)
 - [Datasets](#Datasets)
 
@@ -21,15 +21,16 @@
 
 **Categories**
 
-- Artificial Intelligence (IJCAI, AAAI,AISTATS)
-- Machine Learning (NeurIPS, ICML, ICLR)
+- Artificial Intelligence (IJCAI, AAAI, AISTATS)
+- Machine Learning (NeurIPS, ICML, ICLR, COLT, UAI)
 - Data Mining (KDD)
 - Secure (S&P, CCS, USENIX Security, NDSS)
 - Computer Vision (ICCV, CVPR, ECCV, MM)
-- Natural Language Processing (ACL, EMNLP, NAACL,COLING)
+- Natural Language Processing (ACL, EMNLP, NAACL, COLING)
 - Information Retrieval (SIGIR)
 - Database (SIGMOD, ICDE)
-- Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW) 
+- Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW)
+- System (OSDI, SOSP, ISCA, MLSys) 
 
 
 
@@ -47,6 +48,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/07/30 -  Add top-tier system conferences papers and add COLT,UAI,OSDI, SOSP, ISCA, MLSys papers*
 - *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE,WWW,SIGCOMM.INFOCOM,WWW papers*
 - *2022/07/27 -  add some ECCV 2022 papers*
 - *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
@@ -320,11 +322,13 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 
 ## FL in top ML conferences
 
-In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations).
+In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations), [COLT](https://dblp.org/db/conf/colt/index.html)(Annual Conference Computational Learning Theory) and [UAI](https://dblp.org/db/conf/uai/index.html)(Conference on Uncertainty in Artificial Intelligence).
 
 - [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) [2021](https://papers.nips.cc/paper/2021), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
 - [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 - [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) 2022,2021,2019
+- [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) NULL
+- [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) 2021
 
 
 
@@ -388,6 +392,8 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 | [Hybrid Local SGD for Federated Learning with Heterogeneous Communications ](https://openreview.net/pdf?id=H0oaWl6THa) | University of Texas; 	Pennsylvania State University       | ICLR           | 2022 |       |                                                              |
 | [On Bridging Generic and Personalized Federated Learning for Image Classification ](https://arxiv.org/pdf/2107.00778.pdf) | The Ohio State University                                    | ICLR           | 2022 |       | [[Code]](https://github.com/hongyouc/Fed-RoD)                |
 | [Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond](https://arxiv.org/pdf/2110.10342.pdf) | KAIST; MIT                                                   | ICLR           | 2022 |       |                                                              |
+| [Constrained differentially private federated learning for low-bandwidth devices](https://proceedings.mlr.press/v161/kerkouche21a.html) |                                                              | UAI            | 2021 |       |                                                              |
+| [Federated stochastic gradient Langevin dynamics](https://proceedings.mlr.press/v161/mekkaoui21a.html) |                                                              | UAI            | 2021 |       |                                                              |
 | [Federated Learning Based on Dynamic Regularization](https://openreview.net/pdf?id=B7v4QMR6Z9w) | Boston University; ARM                                       | ICLR           | 2021 |       |                                                              |
 | [Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning](https://openreview.net/pdf?id=jDdzh5ul-d) | The Ohio State University                                    | ICLR           | 2021 |       |                                                              |
 | [HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients](https://arxiv.org/pdf/2010.01264.pdf) | Duke University                                              | ICLR           | 2021 |       | [[Code]](https://github.com/dem123456789/HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients) |
@@ -723,6 +729,35 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | [Billion-scale federated learning on mobile clients: a submodel design with tunable privacy](https://dl.acm.org/doi/10.1145/3372224.3419188) |             | MobiCom | 2020 |       |                                         |
 | [Federated Learning over Wireless Networks: Optimization Model Design and Analysis](https://ieeexplore.ieee.org/document/8737464) |             | INFOCOM | 2019 |       |                                         |
 | [Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning](https://ieeexplore.ieee.org/document/8737416) |             | INFOCOM | 2019 |       |                                         |
+
+
+
+## FL in top System conferences
+
+In this section, we will summarize Federated Learning papers accepted by top Database conference, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems).
+
+- [OSDI](https://dblp.org/search?q=federated%20venue%3AOSDI%3A) 2021
+
+- [SOSP](https://dblp.org/search?q=federated%20venue%3ASOSP%3A) 2021
+
+- [ISCA](https://dblp.org/search?q=federated%20venue%3AISCA%3A) NULL
+
+- [MLSys](https://dblp.org/search?q=federated%20venue%3AMLSys%3A) 2022,2020,2019
+
+
+| Title                                                        | Affiliation | Venue         | Year | TL;DR | Materials                                                    |
+| ------------------------------------------------------------ | ----------- | ------------- | ---- | ----- | ------------------------------------------------------------ |
+| [PAPAYA: Practical, Private, and Scalable Federated Learning.](https://proceedings.mlsys.org/paper/2022/hash/f340f1b1f65b6df5b5e3f94d95b11daf-Abstract.html) |             | MLSys         | 2022 |       | [[PDF](https://arxiv.org/abs/2111.04877)]                    |
+| [LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning](https://proceedings.mlsys.org/paper/2022/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html) |             | MLSys         | 2022 |       | [[PDF](https://arxiv.org/abs/2109.14236)]                    |
+| [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) |             | OSDI          | 2021 |       | [[PDF](https://arxiv.org/abs/2010.06081)] [Code](https://github.com/SymbioticLab/Oort) [Slides](https://www.usenix.org/system/files/osdi21_slides_lai.pdf) [Video](https://www.youtube.com/watch?v=5npOel4T4Mw) |
+| [FedScale: Benchmarking Model and System Performance of Federated Learning](https://dl.acm.org/doi/10.1145/3477114.3488760) |             | SOSP workshop | 2021 |       |                                                              |
+| [Redundancy in cost functions for Byzantine fault-tolerant federated learning](https://dl.acm.org/doi/10.1145/3477114.3488761) |             | SOSP workshop | 2021 |       |                                                              |
+| [Towards an Efficient System for Differentially-private, Cross-device Federated Learning](https://dl.acm.org/doi/10.1145/3477114.3488762) |             | SOSP workshop | 2021 |       |                                                              |
+| [GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks](https://dl.acm.org/doi/10.1145/3477114.3488763) |             | SOSP workshop | 2021 |       |                                                              |
+| [Community-Structured Decentralized Learning for Resilient EI.](https://dl.acm.org/doi/10.1145/3477114.3488764) |             | SOSP workshop | 2021 |       |                                                              |
+| [Separation of Powers in Federated Learning (Poster Paper)](https://dl.acm.org/doi/10.1145/3477114.3488765) |             | SOSP workshop | 2021 |       |                                                              |
+| [Federated Optimization in Heterogeneous Networks](https://proceedings.mlsys.org/paper/2020/hash/38af86134b65d0f10fe33d30dd76442e-Abstract.html) |             | MLSys         | 2020 |       | [[PDF](https://arxiv.org/abs/1812.06127)] [Code](https://github.com/litian96/FedProx) |
+| [Towards Federated Learning at Scale: System Design](https://proceedings.mlsys.org/paper/2019/hash/bd686fd640be98efaae0091fa301e613-Abstract.html) |             | MLSys         | 2019 |       | [[PDF](https://arxiv.org/abs/1902.01046)]                    |
 
 
 
