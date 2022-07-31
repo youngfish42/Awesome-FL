@@ -28,7 +28,7 @@
 - Computer Vision (ICCV, CVPR, ECCV, MM)
 - Natural Language Processing (ACL, EMNLP, NAACL, COLING)
 - Information Retrieval (SIGIR)
-- Database (SIGMOD, ICDE)
+- Database (SIGMOD, ICDE, VLDB)
 - Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW)
 - System (OSDI, SOSP, ISCA, MLSys) 
 
@@ -48,6 +48,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/07/31 -  Add VLDB papers*
 - *2022/07/30 -  Add top-tier system conferences papers and add COLT,UAI,OSDI, SOSP, ISCA, MLSys, AISTATS,WSDM papers*
 - *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE,WWW,SIGCOMM.INFOCOM,WWW papers*
 - *2022/07/27 -  add some ECCV 2022 papers*
@@ -188,7 +189,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Boosting Privately: Federated Extreme Gradient Boosting for Mobile Crowdsensing |             | ICDCS                       | 2020 |       | [[PDF](https://arxiv.org/pdf/1907.10218)] [[PUB](https://ieeexplore.ieee.org/document/9355600).] |
 | FedCluster: Boosting the Convergence of Federated Learning via Cluster-Cycling |             | IEEE BigData                | 2020 |       | [[PDF](https://arxiv.org/pdf/2009.10748)] [[PUB](https://ieeexplore.ieee.org/document/9377960).] |
 | Bandwidth Slicing to Boost Federated Learning Over Passive Optical Networks |             | IEEE Communications Letters | 2020 |       | [[PUB](https://ieeexplore.ieee.org/document/9044640).]       |
-| Privacy Preserving Vertical Federated Learning for Tree-based Models |             | Proc. VLDB Endow.           | 2020 |       | [[PDF](https://arxiv.org/pdf/2008.06170)] [[PUB](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf).] |
+| Privacy Preserving Vertical Federated Learning for Tree-based Models |             | Proc. VLDB Endow.           | 2020 |       | [[PDF](https://arxiv.org/pdf/2008.06170)] [[PUB](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf).] [[Video](https://www.youtube.com/watch?v=sjii8oVCqiY)] |
 | DFedForest: Decentralized Federated Forest                   |             | Blockchain                  | 2020 |       | [[PUB](https://ieeexplore.ieee.org/document/9284805/).]      |
 | Straggler Remission for Federated Learning via Decentralized Redundant Cayley Tree |             | LATINCOM                    | 2020 |       | [[PUB](https://ieeexplore.ieee.org/document/9282334).]       |
 | Federated Soft Gradient Boosting Machine for Streaming Data  |             | Federated Learning          | 2020 |       | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_7).] |
@@ -675,21 +676,28 @@ In this section, we will summarize Federated Learning papers accepted by top Inf
 
 ## FL in top DB conferences
 
-In this section, we will summarize Federated Learning papers accepted by top Database conference, including [SIGMOD](https://dblp.uni-trier.de/db/conf/sigmod/index.html)(ACM SIGMOD Conference) and [ICDE](https://dblp.uni-trier.de/db/conf/icde/index.html)(IEEE International Conference on Data Engineering).
+In this section, we will summarize Federated Learning papers accepted by top Database conference, including [SIGMOD](https://dblp.uni-trier.de/db/conf/sigmod/index.html)(ACM SIGMOD Conference) , [ICDE](https://dblp.uni-trier.de/db/conf/icde/index.html)(IEEE International Conference on Data Engineering) and [VLDB](https://dblp.uni-trier.de/db/conf/vldb/index.html)(Very Large Data Bases Conference).
 
 - [SIGMOD](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGMOD%20Conference%3A) 2022,2021
 - [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) 2021
+- [VLDB](https://dblp.org/search?q=federate%20venue%3AProc%20VLDB%20Endow%3A) [2021](https://vldb.org/pvldb/vol15-volume-info/), [2021](http://www.vldb.org/pvldb/vol14/),[2020](http://vldb.org/pvldb/vol13-volume-info/)
 
-| Title                                                        | Affiliation | Venue            | Year | TL;DR | Materials                                                |
-| ------------------------------------------------------------ | ----------- | ---------------- | ---- | ----- | -------------------------------------------------------- |
-| [An Introduction to Federated Computation](https://dl.acm.org/doi/10.1145/3514221.3522561) |             | SIGMOD           | 2022 |       |                                                          |
-| [BlindFL: Vertical Federated Machine Learning without Peeking into Your Data](https://dl.acm.org/doi/10.1145/3514221.3526127) |             | SIGMOD           | 2022 |       |                                                          |
-| [An Efficient Approach for Cross-Silo Federated Learning to Rank](https://ieeexplore.ieee.org/document/9458704) |             | ICDE             | 2021 |       |                                                          |
-| [Feature Inference Attack on Model Predictions in Vertical Federated Learning](https://ieeexplore.ieee.org/document/9458672/) |             | ICDE             | 2021 |       |                                                          |
-| [Efficient Federated-Learning Model Debugging](https://ieeexplore.ieee.org/document/9458829) |             | ICDE             | 2021 |       |                                                          |
-| VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning |             | SIGMOD           | 2021 |       | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).] |
-| [ExDRa: Exploratory Data Science on Federated Raw Data](https://dl.acm.org/doi/10.1145/3448016.3457549) |             | SIGMOD           | 2021 |       |                                                          |
-| [Joint blockchain and federated learning-based offloading in harsh edge computing environments](https://dl.acm.org/doi/10.1145/3460866.3461765) |             | SIGMOD  workshop | 2021 |       |                                                          |
+| Title                                                        | Affiliation                      | Venue            | Year | TL;DR | Materials                                                |
+| ------------------------------------------------------------ | -------------------------------- | ---------------- | ---- | ----- | -------------------------------------------------------- |
+| [An Introduction to Federated Computation](https://dl.acm.org/doi/10.1145/3514221.3522561) |                                  | SIGMOD           | 2022 |       |                                                          |
+| [BlindFL: Vertical Federated Machine Learning without Peeking into Your Data](https://dl.acm.org/doi/10.1145/3514221.3526127) |                                  | SIGMOD           | 2022 |       |                                                          |
+| [An Efficient Approach for Cross-Silo Federated Learning to Rank](https://ieeexplore.ieee.org/document/9458704) |                                  | ICDE             | 2021 |       |                                                          |
+| [Feature Inference Attack on Model Predictions in Vertical Federated Learning](https://ieeexplore.ieee.org/document/9458672/) |                                  | ICDE             | 2021 |       |                                                          |
+| [Efficient Federated-Learning Model Debugging](https://ieeexplore.ieee.org/document/9458829) |                                  | ICDE             | 2021 |       |                                                          |
+| [Federated Matrix Factorization with Privacy Guarantee](https://www.vldb.org/pvldb/vol15/p900-li.pdf) | Purdue University                | VLDB             | 2021 |       |                                                          |
+| [Projected Federated Averaging with Heterogeneous Differential Privacy.](https://dl.acm.org/doi/10.14778/3503585.3503592) | Renmin University of China       | VLDB             | 2021 |       | [Code](https://github.com/Emory-AIMS/PFA)                |
+| [Enabling SQL-based Training Data Debugging for Federated Learning](http://www.vldb.org/pvldb/vol15/p388-wu.pdf) | Simon Fraser University          | VLDB             | 2021 |       | [Code](https://github.com/sfu-db/FedRain-and-Frog)       |
+| [Refiner: A Reliable Incentive-Driven Federated Learning System Powered by Blockchain](www.vldb.org/pvldb/vol14/p2659-jiang.pdf) | Zhejiang University              | VLDB             | 2021 |       |                                                          |
+| [Tanium Reveal: A Federated Search Engine for Querying Unstructured File Data on Large Enterprise Networks](http://www.vldb.org/pvldb/vol14/p3096-stoddard.pdf) | Tanium Inc.                      | VLDB             | 2021 |       |                                                          |
+| VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning |                                  | SIGMOD           | 2021 |       | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).] |
+| [ExDRa: Exploratory Data Science on Federated Raw Data](https://dl.acm.org/doi/10.1145/3448016.3457549) |                                  | SIGMOD           | 2021 |       |                                                          |
+| [Joint blockchain and federated learning-based offloading in harsh edge computing environments](https://dl.acm.org/doi/10.1145/3460866.3461765) |                                  | SIGMOD  workshop | 2021 |       |                                                          |
+| [Privacy Preserving Vertical Federated Learning for Tree-based Models](http://vldb.org/pvldb/vol13/p2090-wu.pdf) | National University of Singapore | VLDB             | 2020 |       | [[Video](https://www.youtube.com/watch?v=sjii8oVCqiY)]   |
 
 
 
