@@ -861,13 +861,9 @@ Here's a really great Benchmark for the federated learning open source framework
 
 ![workflow-design](https://unifedbenchmark.github.io/images/workflow-design.png)
 
-```html
-<p align="center">
-<img src=".\assets\UniFed_framework_benchmark.png" width="1000" height="700"/>
-</p>
-```
 
-![UniFed_framework_benchmark](.\assets\UniFed_framework_benchmark.png)
+
+![UniFed_framework_benchmark](./assets/UniFed_framework_benchmark.png)
 
 For more results, please refer to [Framework Functionality Support](https://unifedbenchmark.github.io/leaderboard/index.html)
 
