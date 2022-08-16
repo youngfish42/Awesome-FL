@@ -791,7 +791,9 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 # Framework
 
-## Federated Learning Framework
+## Federated Lea··rning Framework
+
+### Table
 
 | Platform                                                     | Papers                                                       | Affiliations                                                 |      Graph data and algorithms       |     Tabular data and algorithms      | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------: | :----------------------------------: | ------------------------------------------------------------ |
@@ -821,8 +823,8 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | [Xaynet](https://github.com/xaynetwork/xaynet)<br />[![Stars](https://img.shields.io/github/stars/xaynetwork/xaynet.svg?color=blue)](https://github.com/xaynetwork/xaynet/stargazers)<br />![](https://img.shields.io/github/last-commit/xaynetwork/xaynet) |                                                              | [XayNet](https://www.xayn.com/)                              |                                      |                                      | [HomePage](https://www.xaynet.dev/) [Doc](https://docs.rs/xaynet) [Whitepaper](https://uploads-ssl.webflow.com/5f0c5c0bb18a279f0a62919e/5f157004da6585f299fa542b_XayNet%20Whitepaper%202.1.pdf)  [Legal Review](https://uploads-ssl.webflow.com/5f0c5c0bb18a279f0a62919e/5fcfa8e3389ecc84a9309513_XAIN%20Legal%20Review%202020%20v1.pdf) |
 | [SyferText](https://github.com/OpenMined/SyferText)<br />[![Stars](https://img.shields.io/github/stars/OpenMined/SyferText.svg?color=blue)](https://github.com/OpenMined/SyferText/stargazers)<br />![](https://img.shields.io/github/last-commit/OpenMined/SyferText) |                                                              | [OpenMined](https://www.openmined.org/)                      |                                      |                                      |                                                              |
 | [PFL-Non-IID](https://github.com/TsingZ0/PFL-Non-IID)<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID.svg?color=blue)](https://github.com/TsingZ0/PFL-Non-IID/stargazers)<br />![](https://img.shields.io/github/last-commit/TsingZ0/PFL-Non-IID) |                                                              | SJTU                                                         |                                      |                                      |                                                              |
-| [FedGraphNN](https://github.com/FedML-AI/FedGraphNN)<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedGraphNN.svg?color=blue)](https://github.com/FedML-AI/FedGraphNN/stargazers)<br />![](https://img.shields.io/github/last-commit/FedML-AI/FedGraphNN) | [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/abs/2104.07145) | [FedML](https://fedml.ai/)                                   | :white_check_mark::white_check_mark: |                                      |                                                              |
 | [Galaxy Federated Learning](https://github.com/GalaxyLearning/GFL)<br />[![Stars](https://img.shields.io/github/stars/GalaxyLearning/GFL.svg?color=blue)](https://github.com/GalaxyLearning/GFL/stargazers)<br />![](https://img.shields.io/github/last-commit/GalaxyLearning/GFL) | [GFL: A Decentralized Federated Learning Framework Based On Blockchain](https://arxiv.org/pdf/2010.10996.pdf) | ZJU                                                          |                                      |                                      | [Doc](http://galaxylearning.github.io/)                      |
+| [FedGraphNN](https://github.com/FedML-AI/FedGraphNN)<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedGraphNN.svg?color=blue)](https://github.com/FedML-AI/FedGraphNN/stargazers)<br />![](https://img.shields.io/github/last-commit/FedML-AI/FedGraphNN) | [FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks](https://arxiv.org/abs/2104.07145) | [FedML](https://fedml.ai/)                                   | :white_check_mark::white_check_mark: |                                      |                                                              |
 | [plato](https://github.com/TL-System/plato)<br />[![Stars](https://img.shields.io/github/stars/TL-System/plato.svg?color=blue)](https://github.com/TL-System/plato/stargazers)<br />![](https://img.shields.io/github/last-commit/TL-System/plato) |                                                              | UofT                                                         |                                      |                                      |                                                              |
 | [NIID-Bench](https://github.com/Xtra-Computing/NIID-Bench)<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/NIID-Bench.svg?color=blue)](https://github.com/Xtra-Computing/NIID-Bench/stargazers)<br />![](https://img.shields.io/github/last-commit/Xtra-Computing/NIID-Bench) | [Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079.pdf) | [Xtra Computing Group](https://github.com/Xtra-Computing)    |                                      |                                      |                                                              |
 | [substra](https://github.com/Substra/substra) <br />[![Stars](https://img.shields.io/github/stars/Substra/substra.svg?color=blue)](https://github.com/Substra/substra/stargazers)<br />![](https://img.shields.io/github/last-commit/Substra/substra) |                                                              | [Substra](https://github.com/Substra)                        |                                      |                                      | [Doc](https://doc.substra.ai/index.html)                     |
@@ -851,6 +853,22 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 
 
+### Benchmark
+
+- UniFed leaderboard
+
+Here's a really great Benchmark for the federated learning open source framework :+1: [UniFed leaderboard](https://unifedbenchmark.github.io/leaderboard/index.html), which present both qualitative and quantitative evaluation results of existing popular open-sourced FL frameworks, from the perspectives of  **functionality, usability, and system performance**.  
+
+![](https://unifedbenchmark.github.io/images/workflow-design.png)
+
+![UniFed_framework_benchmark](.\assets\UniFed_framework_benchmark.png)
+
+
+
+
+
+
+
 # Datasets
 
 (todo)
@@ -876,6 +894,7 @@ Many thanks :heart: to the other awesome list:
   - [awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning)
   - [Federated-Learning](https://github.com/lokinko/Federated-Learning)
   - [FLsystem-paper](https://github.com/AmberLJC/FLsystem-paper)
+  - [Federated Learning Framework Benchmark (UniFed)](https://github.com/AI-secure/FLBenchmark-toolkit)
 - Other fields
 
   - [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)
@@ -893,52 +912,52 @@ Many thanks :heart: to the other awesome list:
 
 
 
-[^CE]: CE propose the concept of benefit graph which describes how each client can benefit from collaborating with other clients and advance a Pareto optimization approach to identify the optimal collaborators. CE提出了利益图的概念，描述了每个客户如何从与其他客户的合作中获益，并提出了帕累托优化方法来确定最佳合作者。
-[^Comm-FedBiO]: Comm-FedBiO propose a learning-based reweighting approach to mitigate the effect of noisy labels in FL. Comm-FedBiO提出了一种基于学习的重加权方法，以减轻FL中噪声标签的影响。
-[^FLDetector]: FLDetector detects malicious clients via checking their model-updates consistency to defend against model poisoning attacks with a large number of malicious clients. FLDetector 通过检查其模型更新的一致性来检测恶意客户，以防御大量恶意客户的模型中毒攻击。
-[^FedSVD]: FedSVD, a practical lossless federated SVD method over billion-scale data, which can simultaneously achieve lossless accuracy and high efficiency. FedSVD，是一种实用的亿级数据上的无损联合SVD方法，可以同时实现无损精度和高效率。
-[^FedWalk]: FedWalk, a random-walk-based unsupervised node embedding algorithm that operates in such a node-level visibility graph with raw graph information remaining locally. FedWalk，一个基于随机行走的无监督节点嵌入算法，在这样一个节点级可见度图中操作，原始图信息保留在本地。
-[^FederatedScope-GNN]: FederatedScope-GNN present an easy-to-use FGL (federated graph learning) package. FederatedScope-GNN提出了一个易于使用的FGL（联邦图学习）软件包。
-[^Fed-LTD]: Federated Learning-to-Dispatch (Fed-LTD), a framework that allows effective order dispatching by sharing both dispatching models and decisions while providing privacy protection of raw data and high efficiency. 解决跨平台叫车问题，即多平台在不共享数据的情况下协同进行订单分配。
-[^InclusiveFL]: InclusiveFL is to assign models of different sizes to clients with different computing capabilities, bigger models for powerful clients and smaller ones for weak clients. InclusiveFL 将不同大小的模型分配给具有不同计算能力的客户，较大的模型用于强大的客户，较小的用于弱小的客户。
-[^FedAttack]: FedAttack a simple yet effective and covert poisoning attack method on federated recommendation, core idea is using globally hardest samples to subvert model training. FedAttack是一种对联合推荐的简单而有效的隐蔽中毒攻击方法，核心思想是利用全局最难的样本来颠覆模型训练。
-[^ATPFL]: ATPFL helps users federate multi-source trajectory datasets to automatically design and train a powerful TP model. ATPFL帮助用户联合多源轨迹数据集，自动设计和训练强大的TP轨迹预测模型。
-[^ViT-FL]: ViT-FL demonstrate that self-attention-based architectures (e.g., Transformers) are more robust to distribution shifts and hence improve federated learning over heterogeneous data. ViT-FL证明了基于自注意力机制架构（如 Transformers）对分布的转变更加稳健，从而改善了异构数据的联邦学习。
-[^FedCorr]: FedCorr, a general multi-stage framework to tackle heterogeneous label noise in FL, without making any assumptions on the noise models of local clients, while still maintaining client data privacy.  FedCorr 一个通用的多阶段框架来处理FL中的异质标签噪声，不对本地客户的噪声模型做任何假设，同时仍然保持客户数据的隐私。
-[^pFedLA]: A novel pFL training framework dubbed Layer-wised Personalized Federated learning (pFedLA) that can discern the importance of each layer from different clients, and thus is able to optimize the personalized model aggregation for clients with heterogeneous data. "层级个性化联合学习"（pFedLA），它可以从不同的客户那里分辨出每一层的重要性，从而能够为拥有异质数据的客户优化个性化的模型聚合。
-[^FedAlign]: FedAlign rethinks solutions to data heterogeneity in FL with a focus on local learning generality rather than proximal restriction. 我们重新思考FL中数据异质性的解决方案，重点是本地学习的通用性(generality)而不是近似限制。
-[^PANs]: Position-Aware Neurons (PANs) , fusing position-related values (i.e., position encodings) into neuron outputs, making parameters across clients pre-aligned and facilitating coordinate-based parameter averaging. 位置感知神经元（PANs）将位置相关的值（即位置编码）融合到神经元输出中，使各客户的参数预先对齐，并促进基于坐标的参数平均化。
-[^GGL]: Generative Gradient Leakage (GGL) validate that the private training data can still be leaked under certain defense settings with a new type of leakage. 生成梯度泄漏（GGL）验证了在某些防御设置下，私人训练数据仍可被泄漏。
-[^FedDC]: FedDC propose a novel federated learning algorithm with local drift decoupling and correction. FedDC 一种带有本地漂移解耦和校正的新型联邦学习算法。
-[^RSCFed]: Federated semi-supervised learning (FSSL) aims to derive a global model by training fully-labeled and fully-unlabeled clients or training partially labeled clients.  RSCFed presents a Random Sampling Consensus Federated learning, by considering the uneven reliability among models from fully-labeled clients, fully-unlabeled clients or partially labeled clients. 联邦半监督学习（FSSL）旨在通过训练有监督和无监督的客户或半监督的客户来得出一个全局模型。 随机抽样共识联合学习，即RSCFed，考虑来自有监督的客户、无监督的客户或半监督的客户的模型之间不均匀的可靠性。
-[^FCCL]: FCCL (Federated Cross-Correlation and Continual Learning) For heterogeneity problem, FCCL leverages unlabeled public data for communication and construct cross-correlation matrix to learn a generalizable representation under domain shift. Meanwhile, for catastrophic forgetting, FCCL utilizes knowledge distillation in local updating, providing inter and intra domain information without leaking privacy.   FCCL（联邦交叉相关和持续学习）对于异质性问题，FCCL利用未标记的公共数据进行交流，并构建交叉相关矩阵来学习领域转移下的可泛化表示。同时，对于灾难性遗忘，FCCL利用局部更新中的知识提炼，在不泄露隐私的情况下提供域间和域内信息。
-[^GLFC]: Global-Local Forgetting Compensation (GLFC) model, to learn a global class incremental model for alleviating the catastrophic forgetting from both local and global perspectives. 全局-局部遗忘补偿（GLFC）模型，从局部和全局的角度学习一个全局类增量模型来缓解灾难性的遗忘问题。
-[^DP-FedAvg+BLUR+LUS]: DP-FedAvg+BLUR+LUS study the cause of model performance degradation in federated learning under user-level DP guarantee and propose two techniques, Bounded Local Update Regularization and Local Update Sparsification, to increase model quality without sacrificing privacy. DP-FedAvg+BLUR+LUS 研究了在用户级DP保证下联合学习中模型性能下降的原因,提出了两种技术，即有界局部更新正则化和局部更新稀疏化，以提高模型质量而不牺牲隐私。
-[^RHFL]: RHFL (Robust Heterogeneous Federated Learning)  simultaneously handles the label noise and performs federated learning in a single framework. RHFL（稳健模型异构联邦学习），它同时处理标签噪声并在一个框架内执行联邦学习。
-[^ResSFL]: ResSFL, a Split Federated Learning Framework that is designed to be MI-resistant during training. ResSFL一个分割学习的联邦学习框架，它被设计成在训练期间可以抵抗MI模型逆向攻击。 Model Inversion (MI) attack 模型逆向攻击 。
-[^FedCor]: FedCor, an FL framework built on a correlation-based client selection strategy, to boost the convergence rate of FL. FedCor 一个建立在基于相关性的客户选择策略上的FL框架，以提高FL的收敛率。
-[^FedFTG]: FedFTG, a data-free knowledge distillation method to fine-tune the global model in the server, which relieves the issue of direct model aggregation. FedFTG, 一种无数据的知识蒸馏方法来微调服务器中的全局模型，它缓解了直接模型聚合的问题。
-[^CD2-pFed]: CD2-pFed, a novel Cyclic Distillation-guided Channel Decoupling framework, to personalize the global model in FL, under various settings of data heterogeneity. CD2-pFed，一个新的循环蒸馏引导的通道解耦框架，在各种数据异质性的设置下，在FL中实现全局模型的个性化。
-[^FedSM]: FedSM propose a novel training framework  to avoid the client drift issue and successfully close the generalization gap compared with the centralized training for medical image segmentation tasks for the first time. 新的训练框架FedSM，以避免客户端漂移问题，并首次成功地缩小了与集中式训练相比在医学图像分割任务中的泛化差距。
-[^FedReID]: FedReID implement federated learning to person re-identification and optimize its performance affected by statistical heterogeneity in the real-world scenario. FedReID 实现了对行人重识别任务的联邦学习，并优化了其在真实世界场景中受统计异质性影响的性能。
-[^InvisibleFL]: InvisibleFL propose a privacy-preserving solution that avoids multimedia privacy leakages in federated learning.  InvisibleFL 提出了一个保护隐私的解决方案，以避免联合学习中的多媒体隐私泄漏。
-[^FedUReID]: FedUReID, a federated unsupervised person ReID system to learn person ReID models without any labels while preserving privacy. FedUReID，一个联合的无监督人物识别系统，在没有任何标签的情况下学习人物识别模型，同时保护隐私。
-[^FedVC+FedIR]: Introduce two new large-scale datasets for species and landmark classification, with realistic per-user data splits that simulate real-world edge learning scenarios. We also develop two new algorithms (FedVC, FedIR) that intelligently resample and reweight over the client pool, bringing large improvements in accuracy and stability in training.  为物种和地标分类引入了两个新的大规模数据集，每个用户的现实数据分割模拟了真实世界的边缘学习场景。我们还开发了两种新的算法（FedVC、FedIR），在客户池上智能地重新取样和重新加权，在训练中带来了准确性和稳定性的巨大改进
-[^FedU]: FedU a novel federated unsupervised learning framework. FedU 一个新颖的无监督联邦学习框架.
-[^FedAD]: FedAD propose a new distillation-based FL frame-work that can preserve privacy by design, while also consuming substantially less network communication resources when compared to the current methods. FedAD 一个新的基于蒸馏的FL框架，它可以通过设计来保护隐私，同时与目前的方法相比，消耗的网络通信资源也大大减少
-[^FedUFO]: FedUFO a Unified Feature learning and Optimization objectives alignment method for non-IID FL. FedUFO 一种针对non IID FL的统一特征学习和优化目标对齐算法。
-[^FL-MRCM]: FL-MRCM propose a federated learning (FL) based solution in which we take advantage of the MR data available at different institutions while preserving patients' privacy. FL-MRCM 一个基于联邦学习（FL）的解决方案，其中我们利用了不同机构的MR数据，同时保护了病人的隐私。
-[^MOON]: MOON: model-contrastive federated learning. MOON is to utilize the similarity between model representations to correct the local training of individual parties, i.e., conducting contrastive learning in model-level.  MOON 模型对比学习。MOON的关键思想是利用模型表征之间的相似性来修正各方的局部训练，即在模型层面进行对比学习。
-[^FedDG-ELCFS]: FedDG-ELCFS A novel problem setting of federated domain generalization (FedDG), which aims to learn a federated model from multiple distributed source domains such that it can directly generalize to unseen target domains. Episodic Learning in Continuous Frequency Space (ELCFS), for this problem by enabling each client to exploit multi-source data distributions under the challenging constraint of data decentralization. FedDG-ELCFS 联邦域泛化（FedDG）旨在从多个分布式源域中学习一个联邦模型，使其能够直接泛化到未见过的目标域中。连续频率空间中的偶发学习（ELCFS），使每个客户能够在数据分散的挑战约束下利用多源数据分布。
-[^Soteria]: Soteria propose a defense against model inversion attack in FL,  learning to perturb data representation such that the quality of the reconstructed data is severely degraded, while FL performance is maintained. Soteria 一种防御FL中模型反转攻击的方法,关键思想是学习扰乱数据表示，使重建数据的质量严重下降，而FL性能保持不变。
+[^CE]:CE propose the concept of benefit graph which describes how each client can benefit from collaborating with other clients and advance a Pareto optimization approach to identify the optimal collaborators. CE提出了利益图的概念，描述了每个客户如何从与其他客户的合作中获益，并提出了帕累托优化方法来确定最佳合作者。
+[^Comm-FedBiO]:Comm-FedBiO propose a learning-based reweighting approach to mitigate the effect of noisy labels in FL. Comm-FedBiO提出了一种基于学习的重加权方法，以减轻FL中噪声标签的影响。
+[^FLDetector]:FLDetector detects malicious clients via checking their model-updates consistency to defend against model poisoning attacks with a large number of malicious clients. FLDetector 通过检查其模型更新的一致性来检测恶意客户，以防御大量恶意客户的模型中毒攻击。
+[^FedSVD]:FedSVD, a practical lossless federated SVD method over billion-scale data, which can simultaneously achieve lossless accuracy and high efficiency. FedSVD，是一种实用的亿级数据上的无损联合SVD方法，可以同时实现无损精度和高效率。
+[^FedWalk]:FedWalk, a random-walk-based unsupervised node embedding algorithm that operates in such a node-level visibility graph with raw graph information remaining locally. FedWalk，一个基于随机行走的无监督节点嵌入算法，在这样一个节点级可见度图中操作，原始图信息保留在本地。
+[^FederatedScope-GNN]:FederatedScope-GNN present an easy-to-use FGL (federated graph learning) package. FederatedScope-GNN提出了一个易于使用的FGL（联邦图学习）软件包。
+[^Fed-LTD]:Federated Learning-to-Dispatch (Fed-LTD), a framework that allows effective order dispatching by sharing both dispatching models and decisions while providing privacy protection of raw data and high efficiency. 解决跨平台叫车问题，即多平台在不共享数据的情况下协同进行订单分配。
+[^InclusiveFL]:InclusiveFL is to assign models of different sizes to clients with different computing capabilities, bigger models for powerful clients and smaller ones for weak clients. InclusiveFL 将不同大小的模型分配给具有不同计算能力的客户，较大的模型用于强大的客户，较小的用于弱小的客户。
+[^FedAttack]:FedAttack a simple yet effective and covert poisoning attack method on federated recommendation, core idea is using globally hardest samples to subvert model training. FedAttack是一种对联合推荐的简单而有效的隐蔽中毒攻击方法，核心思想是利用全局最难的样本来颠覆模型训练。
+[^ATPFL]:ATPFL helps users federate multi-source trajectory datasets to automatically design and train a powerful TP model. ATPFL帮助用户联合多源轨迹数据集，自动设计和训练强大的TP轨迹预测模型。
+[^ViT-FL]:ViT-FL demonstrate that self-attention-based architectures (e.g., Transformers) are more robust to distribution shifts and hence improve federated learning over heterogeneous data. ViT-FL证明了基于自注意力机制架构（如 Transformers）对分布的转变更加稳健，从而改善了异构数据的联邦学习。
+[^FedCorr]:FedCorr, a general multi-stage framework to tackle heterogeneous label noise in FL, without making any assumptions on the noise models of local clients, while still maintaining client data privacy.  FedCorr 一个通用的多阶段框架来处理FL中的异质标签噪声，不对本地客户的噪声模型做任何假设，同时仍然保持客户数据的隐私。
+[^pFedLA]:A novel pFL training framework dubbed Layer-wised Personalized Federated learning (pFedLA) that can discern the importance of each layer from different clients, and thus is able to optimize the personalized model aggregation for clients with heterogeneous data. "层级个性化联合学习"（pFedLA），它可以从不同的客户那里分辨出每一层的重要性，从而能够为拥有异质数据的客户优化个性化的模型聚合。
+[^FedAlign]:FedAlign rethinks solutions to data heterogeneity in FL with a focus on local learning generality rather than proximal restriction. 我们重新思考FL中数据异质性的解决方案，重点是本地学习的通用性(generality)而不是近似限制。
+[^PANs]:Position-Aware Neurons (PANs) , fusing position-related values (i.e., position encodings) into neuron outputs, making parameters across clients pre-aligned and facilitating coordinate-based parameter averaging. 位置感知神经元（PANs）将位置相关的值（即位置编码）融合到神经元输出中，使各客户的参数预先对齐，并促进基于坐标的参数平均化。
+[^GGL]:Generative Gradient Leakage (GGL) validate that the private training data can still be leaked under certain defense settings with a new type of leakage. 生成梯度泄漏（GGL）验证了在某些防御设置下，私人训练数据仍可被泄漏。
+[^FedDC]:FedDC propose a novel federated learning algorithm with local drift decoupling and correction. FedDC 一种带有本地漂移解耦和校正的新型联邦学习算法。
+[^RSCFed]:Federated semi-supervised learning (FSSL) aims to derive a global model by training fully-labeled and fully-unlabeled clients or training partially labeled clients.  RSCFed presents a Random Sampling Consensus Federated learning, by considering the uneven reliability among models from fully-labeled clients, fully-unlabeled clients or partially labeled clients. 联邦半监督学习（FSSL）旨在通过训练有监督和无监督的客户或半监督的客户来得出一个全局模型。 随机抽样共识联合学习，即RSCFed，考虑来自有监督的客户、无监督的客户或半监督的客户的模型之间不均匀的可靠性。
+[^FCCL]:FCCL (Federated Cross-Correlation and Continual Learning) For heterogeneity problem, FCCL leverages unlabeled public data for communication and construct cross-correlation matrix to learn a generalizable representation under domain shift. Meanwhile, for catastrophic forgetting, FCCL utilizes knowledge distillation in local updating, providing inter and intra domain information without leaking privacy.   FCCL（联邦交叉相关和持续学习）对于异质性问题，FCCL利用未标记的公共数据进行交流，并构建交叉相关矩阵来学习领域转移下的可泛化表示。同时，对于灾难性遗忘，FCCL利用局部更新中的知识提炼，在不泄露隐私的情况下提供域间和域内信息。
+[^GLFC]:Global-Local Forgetting Compensation (GLFC) model, to learn a global class incremental model for alleviating the catastrophic forgetting from both local and global perspectives. 全局-局部遗忘补偿（GLFC）模型，从局部和全局的角度学习一个全局类增量模型来缓解灾难性的遗忘问题。
+[^DP-FedAvg+BLUR+LUS]:DP-FedAvg+BLUR+LUS study the cause of model performance degradation in federated learning under user-level DP guarantee and propose two techniques, Bounded Local Update Regularization and Local Update Sparsification, to increase model quality without sacrificing privacy. DP-FedAvg+BLUR+LUS 研究了在用户级DP保证下联合学习中模型性能下降的原因,提出了两种技术，即有界局部更新正则化和局部更新稀疏化，以提高模型质量而不牺牲隐私。
+[^RHFL]:RHFL (Robust Heterogeneous Federated Learning)  simultaneously handles the label noise and performs federated learning in a single framework. RHFL（稳健模型异构联邦学习），它同时处理标签噪声并在一个框架内执行联邦学习。
+[^ResSFL]:ResSFL, a Split Federated Learning Framework that is designed to be MI-resistant during training. ResSFL一个分割学习的联邦学习框架，它被设计成在训练期间可以抵抗MI模型逆向攻击。 Model Inversion (MI) attack 模型逆向攻击 。
+[^FedCor]:FedCor, an FL framework built on a correlation-based client selection strategy, to boost the convergence rate of FL. FedCor 一个建立在基于相关性的客户选择策略上的FL框架，以提高FL的收敛率。
+[^FedFTG]:FedFTG, a data-free knowledge distillation method to fine-tune the global model in the server, which relieves the issue of direct model aggregation. FedFTG, 一种无数据的知识蒸馏方法来微调服务器中的全局模型，它缓解了直接模型聚合的问题。
+[^CD2-pFed]:CD2-pFed, a novel Cyclic Distillation-guided Channel Decoupling framework, to personalize the global model in FL, under various settings of data heterogeneity. CD2-pFed，一个新的循环蒸馏引导的通道解耦框架，在各种数据异质性的设置下，在FL中实现全局模型的个性化。
+[^FedSM]:FedSM propose a novel training framework  to avoid the client drift issue and successfully close the generalization gap compared with the centralized training for medical image segmentation tasks for the first time. 新的训练框架FedSM，以避免客户端漂移问题，并首次成功地缩小了与集中式训练相比在医学图像分割任务中的泛化差距。
+[^FedReID]:FedReID implement federated learning to person re-identification and optimize its performance affected by statistical heterogeneity in the real-world scenario. FedReID 实现了对行人重识别任务的联邦学习，并优化了其在真实世界场景中受统计异质性影响的性能。
+[^InvisibleFL]:InvisibleFL propose a privacy-preserving solution that avoids multimedia privacy leakages in federated learning.  InvisibleFL 提出了一个保护隐私的解决方案，以避免联合学习中的多媒体隐私泄漏。
+[^FedUReID]:FedUReID, a federated unsupervised person ReID system to learn person ReID models without any labels while preserving privacy. FedUReID，一个联合的无监督人物识别系统，在没有任何标签的情况下学习人物识别模型，同时保护隐私。
+[^FedVC+FedIR]:Introduce two new large-scale datasets for species and landmark classification, with realistic per-user data splits that simulate real-world edge learning scenarios. We also develop two new algorithms (FedVC, FedIR) that intelligently resample and reweight over the client pool, bringing large improvements in accuracy and stability in training.  为物种和地标分类引入了两个新的大规模数据集，每个用户的现实数据分割模拟了真实世界的边缘学习场景。我们还开发了两种新的算法（FedVC、FedIR），在客户池上智能地重新取样和重新加权，在训练中带来了准确性和稳定性的巨大改进
+[^FedU]:FedU a novel federated unsupervised learning framework. FedU 一个新颖的无监督联邦学习框架.
+[^FedAD]:FedAD propose a new distillation-based FL frame-work that can preserve privacy by design, while also consuming substantially less network communication resources when compared to the current methods. FedAD 一个新的基于蒸馏的FL框架，它可以通过设计来保护隐私，同时与目前的方法相比，消耗的网络通信资源也大大减少
+[^FedUFO]:FedUFO a Unified Feature learning and Optimization objectives alignment method for non-IID FL. FedUFO 一种针对non IID FL的统一特征学习和优化目标对齐算法。
+[^FL-MRCM]:FL-MRCM propose a federated learning (FL) based solution in which we take advantage of the MR data available at different institutions while preserving patients' privacy. FL-MRCM 一个基于联邦学习（FL）的解决方案，其中我们利用了不同机构的MR数据，同时保护了病人的隐私。
+[^MOON]:MOON: model-contrastive federated learning. MOON is to utilize the similarity between model representations to correct the local training of individual parties, i.e., conducting contrastive learning in model-level.  MOON 模型对比学习。MOON的关键思想是利用模型表征之间的相似性来修正各方的局部训练，即在模型层面进行对比学习。
+[^FedDG-ELCFS]:FedDG-ELCFS A novel problem setting of federated domain generalization (FedDG), which aims to learn a federated model from multiple distributed source domains such that it can directly generalize to unseen target domains. Episodic Learning in Continuous Frequency Space (ELCFS), for this problem by enabling each client to exploit multi-source data distributions under the challenging constraint of data decentralization. FedDG-ELCFS 联邦域泛化（FedDG）旨在从多个分布式源域中学习一个联邦模型，使其能够直接泛化到未见过的目标域中。连续频率空间中的偶发学习（ELCFS），使每个客户能够在数据分散的挑战约束下利用多源数据分布。
+[^Soteria]:Soteria propose a defense against model inversion attack in FL,  learning to perturb data representation such that the quality of the reconstructed data is severely degraded, while FL performance is maintained. Soteria 一种防御FL中模型反转攻击的方法,关键思想是学习扰乱数据表示，使重建数据的质量严重下降，而FL性能保持不变。
 
-[^LC-Fed]: LC-Fed propose a personalized federated framework with Local Calibration, to leverage the inter-site in-consistencies in both feature- and prediction- levels to boost the segmentation. LC-Fed提出了一个带有本地校准的个性化联邦学习框架，以利用特征和预测层面的站点间不一致来提高分割效果。
-[^FedSAM]: Models trained in federated settings often suffer from degraded performances and fail at generalizing, especially when facing heterogeneous scenarios. FedSAM investigate such behavior through the lens of geometry of the loss and Hessian eigenspectrum, linking the model's lack of generalization capacity to the sharpness of the solution. 联邦学习环境下训练的模型经常会出现性能下降和泛化失败的情况，特别是在面对异质场景时。FedSAM 通过损失和Hessian特征谱的几何角度来研究这种行为，将模型缺乏泛化能力与解决方案的锐度联系起来。
-
-
-
-[^FGML]: FGML a comprehensive review of the literature in Federated Graph Machine Learning. FGML 对图联邦机器学习的文献进行了全面回顾。
+[^LC-Fed]:LC-Fed propose a personalized federated framework with Local Calibration, to leverage the inter-site in-consistencies in both feature- and prediction- levels to boost the segmentation. LC-Fed提出了一个带有本地校准的个性化联邦学习框架，以利用特征和预测层面的站点间不一致来提高分割效果。
+[^FedSAM]:Models trained in federated settings often suffer from degraded performances and fail at generalizing, especially when facing heterogeneous scenarios. FedSAM investigate such behavior through the lens of geometry of the loss and Hessian eigenspectrum, linking the model's lack of generalization capacity to the sharpness of the solution. 联邦学习环境下训练的模型经常会出现性能下降和泛化失败的情况，特别是在面对异质场景时。FedSAM 通过损失和Hessian特征谱的几何角度来研究这种行为，将模型缺乏泛化能力与解决方案的锐度联系起来。
 
 
 
-[^GAMF]: GAMF formulate the model fusion problem as a graph matching task, considering the second-order similarity of model weights instead of previous work merely formulating model fusion as a linear assignment problem. For the rising problem scale and multi-model consistency issues, GAMF propose an efficient graduated assignment-based model fusion method,  iteratively updates the matchings in a consistency-maintaining manner. GAMF将模型融合问题表述为图形匹配任务，考虑了模型权重的二阶相似性，而不是之前的工作仅仅将模型融合表述为一个线性赋值问题。针对问题规模的扩大和多模型的一致性问题，GAMF提出了一种高效的基于分级赋值的模型融合方法，以保持一致性的方式迭代更新匹配结果。
+[^FGML]:FGML a comprehensive review of the literature in Federated Graph Machine Learning. FGML 对图联邦机器学习的文献进行了全面回顾。
+
+
+
+[^GAMF]:GAMF formulate the model fusion problem as a graph matching task, considering the second-order similarity of model weights instead of previous work merely formulating model fusion as a linear assignment problem. For the rising problem scale and multi-model consistency issues, GAMF propose an efficient graduated assignment-based model fusion method,  iteratively updates the matchings in a consistency-maintaining manner. GAMF将模型融合问题表述为图形匹配任务，考虑了模型权重的二阶相似性，而不是之前的工作仅仅将模型融合表述为一个线性赋值问题。针对问题规模的扩大和多模型的一致性问题，GAMF提出了一种高效的基于分级赋值的模型融合方法，以保持一致性的方式迭代更新匹配结果。
