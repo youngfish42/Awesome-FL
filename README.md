@@ -791,7 +791,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 # Framework
 
-## Federated Lea··rning Framework
+## Federated Learning Framework
 
 ### Table
 
