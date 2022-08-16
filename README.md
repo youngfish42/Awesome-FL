@@ -859,11 +859,11 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 Here's a really great Benchmark for the federated learning open source framework :+1: [UniFed leaderboard](https://unifedbenchmark.github.io/leaderboard/index.html), which present both qualitative and quantitative evaluation results of existing popular open-sourced FL frameworks, from the perspectives of  **functionality, usability, and system performance**.  
 
-![](https://unifedbenchmark.github.io/images/workflow-design.png)
+![workflow-design](https://unifedbenchmark.github.io/images/workflow-design.png)
 
 ![UniFed_framework_benchmark](.\assets\UniFed_framework_benchmark.png)
 
-
+For more results, please refer to [Framework Functionality Support](https://unifedbenchmark.github.io/leaderboard/index.html)
 
 
 
