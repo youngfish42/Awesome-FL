@@ -14,6 +14,10 @@
     - [AI](#FL-in-top-AI-Conferences) [ML](#FL-in-top-ML-Conferences) [DM](#FL-in-top-DM-Conferences) [Secure](#FL-in-top-Secure-Conferences) [CV](#FL-in-top-CV-Conferences) [NLP](#FL-in-top-NLP-Conferences) [IR](#FL-in-top-IR-Conferences) [DB](#FL-in-top-DB-Conferences) [Network](#FL-in-top-Network-Conferences) [System](#FL-in-top-System-Conferences) 
 - [Framework](#Framework)
 - [Datasets](#Datasets)
+- [Tutorials](#Tutorials)
+- Key Conferences/Workshops/Journals
+  - [Workshops](#Workshops) [Special Issues](#Journal-Special-Issues) [Special Tracks](#Conference-Special-Tracks)
+
 
 
 
@@ -82,6 +86,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Personalized Federated Learning With a Graph | UTS | IJCAI :mortar_board: | 2022 | SFL[^SFL] | [[PUB](https://www.ijcai.org/proceedings/2022/357).] [[PDF](https://arxiv.org/abs/2203.00829)] [[Code](https://github.com/dawenzi098/SFL-Structural-Federated-Learning)] |
 | Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification | ZJU | IJCAI :mortar_board: | 2022 | VFGNN[^VFGNN] | [[PUB](https://www.ijcai.org/proceedings/2022/272).] [[PDF](https://arxiv.org/abs/2005.11903)] |
 | SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data | USC | AAAI:mortar_board: | 2022 | SpreadGNN[^SpreadGNN] | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/20643).] [PDF](https://arxiv.org/abs/2106.02743) [[Code]](https://github.com/FedML-AI/SpreadGNN) [[解读](https://zhuanlan.zhihu.com/p/429720860)] |
+| FedNI: Federated Graph Learning with Network Inpainting for Population-Based Disease Prediction | UESTC | IEEE Trans. Medical Imaging | 2022 | FedNI[^FedNI] | [[PUB](https://ieeexplore.ieee.org/document/9815303).] [[PDF](https://arxiv.org/abs/2112.10166)] |
 | A federated graph neural network framework for privacy-preserving personalization |  | Nature Communications | 2022 |  | [[PUB](https://www.nature.com/articles/s41467-022-30714-9).] |
 | SemiGraphFL: Semi-supervised Graph Federated Learning for Graph Classification. | | PPSN | 2022 | | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_33).] |
 | Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** |            | ACL Workshop           | 2022 |  | [[PDF](https://arxiv.org/format/2203.09553)] [[Code](https://github.com/taokz/FedR)] |
@@ -99,7 +104,8 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation. | Purdue University | INFOCOM :mortar_board: | 2021 | D2D-FedL[^D2D-FedL] | [[PUB](https://ieeexplore.ieee.org/document/9488906).] [PDF](https://arxiv.org/abs/2101.00787) |
 | Differentially Private Federated Knowledge Graphs Embedding **`kg.`** | Beihang University | CIKM                   | 2021 | FKGE[^FKGE] | [[PUB](https://dl.acm.org/doi/10.1145/3459637.3482252).] [[PDF]](https://arxiv.org/abs/2105.07615) [[Code](https://github.com/HKUST-KnowComp/FKGE)] [[解读](https://zhuanlan.zhihu.com/p/437895959)] |
 | Federated Graph Classification over Non-IID Graphs           | Emory University | NeurIPS :mortar_board: | 2021 | GCFL[^GCFL] | [[PUB.]](https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html) [[PDF]](https://arxiv.org/abs/2106.13423) [[Code](https://github.com/Oxfordblue7/GCFL)] [[解读](https://zhuanlan.zhihu.com/p/430623053)] |
-| Decentralized Federated Graph Neural Networks |  | IJCAI Workshop | 2021 |  | [[PUB.]](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf) |
+| Decentralized Federated Graph Neural Networks |  | IJCAI Workshop | 2021 |  | [[PDF.]](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_20.pdf) |
+| FedSGC: Federated Simple Graph Convolution for Node Classification | | IJCAI Workshop | 2021 | FedSGC[^FedSGC] | [PDF](https://federated-learning.org/fl-ijcai-2021/FTL-IJCAI21_paper_5.pdf) |
 | FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule Drug Discovery: Special Session Paper |                   | ICCAD                  | 2021 |     | [[PUB.]](https://doi.org/10.1109/ICCAD51958.2021.9643440)    |
 | DAG-FL: Direct Acyclic Graph-based Blockchain Empowers On-Device Federated Learning |                     | ICC                    | 2021 |       | [[PUB.]](https://doi.org/10.1109/ICC42927.2021.9500737)      |
 | Graphical Federated Cloud Sharing Markets                    |                   | TSUSC                  | 2021 |          | [[PUB.]](https://doi.org/10.1109/TSUSC.2021.3100010)         |
@@ -114,7 +120,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks :fire: **`surv.`** |               | ICLR-DPML              | 2021 |  | [[PDF]](https://arxiv.org/abs/2104.07145) [[Code]](https://github.com/FedML-AI/FedGraphNN) [[解读](https://zhuanlan.zhihu.com/p/429220636)] |
 | Cluster-driven Graph Federated Learning over Multiple Domains |           | CVPR Workshop          | 2021 |                     | [[PDF]](https://arxiv.org/abs/2104.14628) [[解读](https://zhuanlan.zhihu.com/p/440527314)] |
 | Differentially Private Federated Knowledge Graphs Embedding **`kg.`** |                    | CIKM                   | 2021 |  | [[PDF]](https://arxiv.org/abs/2105.07615) [[Code]](https://github.com/HKUST-KnowComp/FKGE) |
-| Glint: Decentralized Federated Graph Learning with Traffic Throttling and Flow Scheduling |                   | IWQoS                  | 2021 |     | [[PUB.]](https://doi.org/10.1109/IWQOS52092.2021.9521331)    |
+| Glint: Decentralized Federated Graph Learning with Traffic Throttling and Flow Scheduling |                   | IWQoS                  | 2021 | Glint[^Glint] | [[PUB.]](https://doi.org/10.1109/IWQOS52092.2021.9521331)    |
 | A Federated Multigraph Integration Approach for Connectional Brain Template Learning |         | MICCAI Workshop        | 2021 |  | [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4) |
 | Federated Graph Neural Network for Cross-graph Node Classification |                    | CCIS                   | 2021 |      | [[PUB.]](https://doi.org/10.1109/CCIS53392.2021.9754598)     |
 | GraFeHTy: Graph Neural Network using Federated Learning for Human Activity Recognition |                   | ICMLA                  | 2021 |       | [[PUB.]](https://doi.org/10.1109/ICMLA52953.2021.00184)      |
@@ -136,13 +142,13 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks |                | preprint               | 2022 |                     | [[PDF](https://arxiv.org/abs/2202.03195)]                    |
 | FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks |                | preprint               | 2022 |  | [[PDF](https://arxiv.org/abs/2201.12433)] [[Code](https://github.com/yh-yao/FedGCN)] |
 | Federated Learning with Heterogeneous Architectures using Graph HyperNetworks |                | preprint               | 2022 |                     | [[PDF](https://arxiv.org/abs/2201.08459)]                    |
-| FedNI: Federated Graph Learning with Network Inpainting for Population-Based Disease Prediction |                | preprint               | 2021 |                     | [[PDF](https://arxiv.org/abs/2112.10166)]                    |
 | STFL: A Temporal-Spatial Federated Learning Framework for Graph Neural Networks |                | preprint               | 2021 |  | [[PDF](https://arxiv.org/abs/2111.06750)] [[Code](https://github.com/jw9msjwjnpdrlfw/tsfl)] |
 | Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical Federated Learning |  | preprint | 2021 |  | [[PDF](https://arxiv.org/abs/2110.06468)] [[Code](https://github.com/hgh0545/graph-fraudster)] |
+| PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method | | preprint | 2021 | PPSGCN[^PPSGCN] | [PDF](https://arxiv.org/abs/2110.12906) |
 | Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries **`kg.`** |                | preprint               | 2021 |                     | [[PDF]](https://arxiv.org/abs/2107.05447)                    |
 | Federated Myopic Community Detection with One-shot Communication |                | preprint               | 2021 |                     | [[PDF]](https://arxiv.org/abs/2106.07255)                    |
 | Federated Graph Learning -- A Position Paper **`surv.`**    |                | preprint               | 2021 |                     | [[PDF]](https://arxiv.org/abs/2105.11099)                    |
-| A Vertical Federated Learning Framework for Graph Convolutional Network |                | preprint               | 2021 |                     | [[PDF]](https://arxiv.org/abs/2106.11593)                    |
+| A Vertical Federated Learning Framework for Graph Convolutional Network |                | preprint               | 2021 | FedVGCN[^FedVGCN] | [[PDF]](https://arxiv.org/abs/2106.11593)                    |
 | FedGL: Federated Graph Learning Framework with Global Self-Supervision |                | preprint               | 2021 |                     | [[PDF]](https://arxiv.org/abs/2105.03170)                    |
 | FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search |                | preprint               | 2021 |                     | [[PDF]](https://arxiv.org/abs/2104.04141)                    |
 | Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain Approach |  | preprint | 2021 |  | [[PDF](https://arxiv.org/abs/2104.13092)] |
@@ -896,7 +902,60 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 # Datasets
 
-(todo)
+- [LEAF](https://leaf.cmu.edu/)
+- [Federated AI Dataset](https://dataset.fedai.org/#/) 
+
+
+
+# Tutorials
+
+- [Federated Learning on MNIST using a CNN](https://colab.research.google.com/drive/1dRG3yNAlDar3tll4VOkmoU-aLslhUS8d), AI6101, 2020 ([Demo Video](https://www.youtube.com/watch?v=XKQi-CUqCsM))
+- [Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/), AAAI-19, Honolulu, HI, USA
+
+
+
+# Key Conferences/Workshops/Journals
+
+This section partially refers to [The Federated Learning Portal](https://federated-learning.org/).
+
+## Workshops
+
+- [[AI Technology School 2022](https://aitechnologyschool.github.io/)] Trustable, Verifiable and Auditable Artificial Intelligence, Singapore
+- [[FL-NeurIPS'22](http://federated-learning.org/fl-neurips-2022/)] International Workshop on Federated Learning: Recent Advances and New Challenges  in Conjunction with NeurIPS 2022 , New Orleans, LA, USA
+
+- [[FL-IJCAI'22](http://federated-learning.org/fl-ijcai-2022/)] International Workshop on Trustworthy Federated Learning  in Conjunction with IJCAI 2022, Vienna, Austria
+- [[FL-AAAI-22](http://federated-learning.org/fl-aaai-2022/)] International Workshop on Trustable, Verifiable and Auditable Federated Learning in Conjunction with AAAI 2022, Vancouver, BC, Canada (Virtual)
+- [[FL-NeurIPS'21](https://neurips2021workshopfl.github.io/NFFL-2021/)] New Frontiers in Federated Learning:  Privacy, Fairness, Robustness, Personalization and Data Ownership, (Virtual)
+- [[The Federated Learning Workshop, 2021](https://sites.google.com/view/federatedlearning-workshop/home)] , Paris, France (Hybrid)
+- [[PDFL-EMNLP'21](https://pdfl.iais.fraunhofer.de/)] Workshop on Parallel, Distributed, and Federated Learning, Bilbao, Spain (Virtual)
+- [[FTL-IJCAI'21](https://federated-learning.org/fl-ijcai-2021/)] International Workshop on Federated and Transfer Learning for Data Sparsity and Confidentiality in Conjunction with IJCAI 2021, Montreal, QB, Canada (Virtual)
+
+- [[DeepIPR-IJCAI'21](http://federated-learning.org/DeepIPR-IJCAI-2021/)] Toward Intellectual Property Protection on Deep Learning as a Services, Montreal, QB, Canada (Virtual)
+- [[FL-ICML'21](http://federated-learning.org/fl-icml-2021/)]  International Workshop on Federated Learning for User Privacy and Data Confidentiality, (Virtual)
+- [[RSEML-AAAI-21](http://federated-learning.org/rseml2021)]  Towards Robust, Secure and Efficient Machine Learning, (Virtual)
+- [[NeurIPS-SpicyFL'20](http://icfl.cc/SpicyFL/2020)] Workshop on Scalability, Privacy, and Security in Federated Learning, Vancouver, BC, Canada (Virtual)
+- [[FL-IJCAI'20](http://fl-ijcai20.federated-learning.org/)] International Workshop on Federated Learning for User Privacy and Data Confidentiality, Yokohama, Japan (Virtual)
+- [[FL-ICML'20](http://federated-learning.org/fl-icml-2020/)] International Workshop on Federated Learning for User Privacy and Data Confidentiality, Vienna, Austria (Virtual)
+- [[FL-IBM'20](https://federated-learning.bitbucket.io/ibm2020/)] Workshop on Federated Learning and Analytics, New York, NY, USA
+- [[FL-NeurIPS'19](http://federated-learning.org/fl-neurips-2019/)] Workshop on Federated Learning for Data Privacy and Confidentiality (in Conjunction with NeurIPS 2019), Vancouver, BC, Canada
+- [[FL-IJCAI'19](http://federated-learning.org/fl-ijcai-2019/)] International Workshop on Federated Learning for User Privacy and Data Confidentiality 
+  in Conjunction with IJCAI 2019, Macau
+- [[FL-Google'19](https://sites.google.com/view/federated-learning-2019/home)] Workshop on Federated Learning and Analytics, Seattle, WA, USA
+
+
+
+## Journal Special Issues
+
+- [Special Issue on Trustable, Verifiable, and Auditable Federated Learning](https://www.computer.org/digital-library/journals/bd/call-for-papers-special-issue-on-trustable-verifiable-and-auditable-federated-learning), *IEEE Transactions on Big Data (TBD)*, 2022.
+- [Special Issue on Federated Learning: Algorithms, Systems, and Applications](https://dl.acm.org/pb-assets/static_journal_pages/tist/cfps/tist-si-cfp-12-2020-federated-learning-extended2-1617161513293.pdf), *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2021.
+- [Special Issue on Federated Machine Learning](https://www.computer.org/digital-library/magazines/ex/call-for-papers-federated-machine-learning), *IEEE Intelligent Systems (IS)*, 2019.
+
+
+
+## Conference Special Tracks
+
+- "Federated Learning" included as a new keyword in [IJCAI'20](https://ijcai20.org/), Yokohama, Japan 
+- [Special Track on Federated Machine Learning](http://federated-learning.org/fl-ieeebigdata-2019/), *IEEE BigData'19*, Los Angeles, CA, USA
 
 
 
@@ -1148,3 +1207,8 @@ Many thanks :heart: to the other awesome list:
 [^SimFL]:
 [^Pivot-DT]:
 [^FKGE]:
+[^Glint]: 
+[^PPSGCN]: 
+[^FedNI]: 
+[^FedVGCN]: 
+[^FedSGC]: 
