@@ -54,7 +54,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50  | :
 - *2022/07/28 -  Add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE,WWW,SIGCOMM.INFOCOM,WWW papers*
 - *2022/07/27 -  add some ECCV 2022 papers*
 - *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
-- *2022/07/21 - give TL;DR and interpret information of papers. And add KDD 2022 papers*
+- *2022/07/21 - give TL;DR and interpret information(解读) of papers. And add KDD 2022 papers*
 - *2022/07/15 - give a list of papers in the field of federated learning in top NLP/Secure conferences. And add ICML 2022 papers*
 - *2022/07/14 - give a list of papers in the field of federated learning in top ML/CV/AI/DM conferences from  [innovation-cat](https://github.com/innovation-cat)‘s’    [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) and find :fire:  papers(code is available & stars >= 100)*
 - *2022/07/12 - added information about the last commit time of the federated learning open source framework (can be used to determine the maintenance of the code base)*
@@ -811,7 +811,9 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 ### Table
 
-| Platform                                                     | Papers                                                       | Affiliations                                                 |      Graph data and algorithms       |     Tabular data and algorithms      | Materials                                                    |
+*Note: **SG** means Support for Graph data and algorithms, **ST** means Support for Tabular data and algorithms.*
+
+| Platform                                                     | Papers                                                       | Affiliations                                                 |                  SG                  |                  ST                  | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------: | :----------------------------------: | ------------------------------------------------------------ |
 | [PySyft](https://github.com/OpenMined/PySyft)<br />[![Stars](https://img.shields.io/github/stars/OpenMined/PySyft.svg?color=red)](https://github.com/OpenMined/PySyft/stargazers)<br />![](https://img.shields.io/github/last-commit/OpenMined/PySyft) | [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017) | [OpenMined](https://www.openmined.org/)                      |                                      |                                      | [Doc](https://pysyft.readthedocs.io/en/latest/installing.html) |
 | [FATE](https://github.com/FederatedAI/FATE)<br />[![Stars](https://img.shields.io/github/stars/FederatedAI/FATE.svg?color=red)](https://github.com/FederatedAI/FATE/stargazers)<br />![](https://img.shields.io/github/last-commit/FederatedAI/FATE) | [FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection](https://www.jmlr.org/papers/volume22/20-815/20-815.pdf) | [WeBank](https://fedai.org/)                                 |                                      | :white_check_mark::white_check_mark: | [Doc](https://fate.readthedocs.io/en/latest/)<br />[Doc(zh)](https://fate.readthedocs.io/en/latest/zh/) |
@@ -985,164 +987,164 @@ Many thanks :heart: to the other awesome list:
 
 
 [^GAMF]:GAMF formulate the model fusion problem as a graph matching task, considering the second-order similarity of model weights instead of previous work merely formulating model fusion as a linear assignment problem. For the rising problem scale and multi-model consistency issues, GAMF propose an efficient graduated assignment-based model fusion method,  iteratively updates the matchings in a consistency-maintaining manner. GAMF将模型融合问题表述为图形匹配任务，考虑了模型权重的二阶相似性，而不是之前的工作仅仅将模型融合表述为一个线性赋值问题。针对问题规模的扩大和多模型的一致性问题，GAMF提出了一种高效的基于分级赋值的模型融合方法，以保持一致性的方式迭代更新匹配结果。
-[^SuPerFed]: SuPerFed, a personalized federated learning method that induces an explicit connection between the optima of the local and the federated model in weight space for boosting each other. SuPerFed，一种个性化联邦学习方法，该方法在本地模型和联邦模型的权重空间中诱导出一个明确的连接，以促进彼此的发展。
-[^FedMSplit]: FedMSplit framework, which allows federated training over multimodal distributed data without assuming similar active sensors in all clients. The key idea is to employ a dynamic and multi-view graph structure to adaptively capture the correlations amongst multimodal client models.  FedMSplit框架，该框架允许在多模态分布式数据上进行联邦训练，而不需要假设所有客户端都有类似的主动传感器。其关键思想是采用动态和多视图图结构来适应性地捕捉多模态客户模型之间的相关性。
-[^Felicitas]: Felicitas is a distributed cross-device Federated Learning (FL) framework to solve the industrial difficulties of FL in large-scale device deployment scenarios.  Felicitas是一个分布式的跨设备联邦学习（FL）框架，以解决FL在大规模设备部署场景中的工业困难。
-[^PipAttack]: PipAttack present a systematic approach to backdooring federated recommender systems for targeted item promotion. The core tactic is to take advantage of the inherent popularity bias that commonly exists in data-driven recommenders. PipAttack 提出了一种系统化的方法，为联邦推荐系统提供后门，以实现目标项目的推广。其核心策略是利用数据驱动的推荐器中普遍存在的固有的流行偏见。
-[^Fed2]: Fed2, a feature-aligned federated learning framework to resolve this issue by establishing a firm structure-feature alignment across the collaborative models.  Fed2是一个特征对齐的联邦学习框架，通过在协作模型之间建立牢固的结构-特征对齐来解决这个问题。
-[^FedRS]: FedRS focus on a special kind of non-iid scene, i.e., label distribution skew, where each client can only access a partial set of the whole class set. Considering top layers of neural networks are more task-specific, we advocate that the last classification layer is more vulnerable to the shift of label distribution. Hence, we in-depth study the classifier layer and point out that the standard softmax will encounter several problems caused by missing classes. As an alternative, we propose “Restricted Softmax" to limit the update of missing classes’ weights during the local procedure.  FedRS专注于一种特殊的非iid场景，即标签分布倾斜，每个客户端只能访问整个类集的部分集合。考虑到神经网络的顶层更具有任务针对性，我们主张最后一个分类层更容易受到标签分布偏移的影响。因此，我们深入研究了分类器层，并指出标准的softmax会遇到由缺失类引起的一些问题。作为一个替代方案，提出了 "限制性Softmax"，以限制在本地程序中对缺失类的权重进行更新。
-[^AsySQN]: To address the challenges of communication and computation resource utilization, we propose an asynchronous stochastic quasi-Newton (AsySQN) framework for Vertical federated learning(VFL), under which three algorithms, i.e. AsySQN-SGD, -SVRG and -SAGA, are proposed. The proposed AsySQN-type algorithms making descent steps scaled by approximate (without calculating the inverse Hessian matrix explicitly) Hessian information convergence much faster than SGD-based methods in practice and thus can dramatically reduce the number of communication rounds. Moreover, the adopted asynchronous computation can make better use of the computation resource. We theoretically prove the convergence rates of our proposed algorithms for strongly convex problems.  为了解决通信和计算资源利用的挑战，我们提出了一个异步随机准牛顿（AsySQN）的纵和联邦学习VFL框架，在这个框架下，我们提出了三种算法，即AsySQN-SGD、-SVRG和-SAGA。所提出的AsySQN型算法使下降步骤按近似（不明确计算逆Hessian矩阵）Hessian信息收敛的速度比基于SGD的方法在实践中快得多，因此可以极大地减少通信轮数。此外，采用异步计算可以更好地利用计算资源。我们从理论上证明了我们提出的算法在强凸问题上的收敛率。
-[^FLOP]: A simple yet effective algorithm, named Federated Learning on Medical Datasets using Partial Networks (FLOP), that shares only a partial model between the server and clients.  一种简单而有效的算法，被命名为使用部分网络的医学数据集的联邦学习（FLOP），该算法在服务器和客户之间只共享部分模型。
-[^FedFast]: FedFast accelerates distributed learning which achieves good accuracy for all users very early in the training process. We achieve this by sampling from a diverse set of participating clients in each training round and applying an active aggregation method that propagates the updated model to the other clients. Consequently, with FedFast the users benefit from far lower communication costs and more accurate models that can be consumed anytime during the training process even at the very early stages.  FedFast加速了分布式学习，在训练过程的早期为所有用户实现了良好的准确性。我们通过在每轮训练中从不同的参与客户中取样，并应用主动聚合方法，将更新的模型传播给其他客户来实现这一目标。因此，有了FedFast，用户可以从更低的通信成本和更准确的模型中受益，这些模型可以在训练过程中随时使用，即使是在最早期阶段。
+[^SuPerFed]:SuPerFed, a personalized federated learning method that induces an explicit connection between the optima of the local and the federated model in weight space for boosting each other. SuPerFed，一种个性化联邦学习方法，该方法在本地模型和联邦模型的权重空间中诱导出一个明确的连接，以促进彼此的发展。
+[^FedMSplit]:FedMSplit framework, which allows federated training over multimodal distributed data without assuming similar active sensors in all clients. The key idea is to employ a dynamic and multi-view graph structure to adaptively capture the correlations amongst multimodal client models.  FedMSplit框架，该框架允许在多模态分布式数据上进行联邦训练，而不需要假设所有客户端都有类似的主动传感器。其关键思想是采用动态和多视图图结构来适应性地捕捉多模态客户模型之间的相关性。
+[^Felicitas]:Felicitas is a distributed cross-device Federated Learning (FL) framework to solve the industrial difficulties of FL in large-scale device deployment scenarios.  Felicitas是一个分布式的跨设备联邦学习（FL）框架，以解决FL在大规模设备部署场景中的工业困难。
+[^PipAttack]:PipAttack present a systematic approach to backdooring federated recommender systems for targeted item promotion. The core tactic is to take advantage of the inherent popularity bias that commonly exists in data-driven recommenders. PipAttack 提出了一种系统化的方法，为联邦推荐系统提供后门，以实现目标项目的推广。其核心策略是利用数据驱动的推荐器中普遍存在的固有的流行偏见。
+[^Fed2]:Fed2, a feature-aligned federated learning framework to resolve this issue by establishing a firm structure-feature alignment across the collaborative models.  Fed2是一个特征对齐的联邦学习框架，通过在协作模型之间建立牢固的结构-特征对齐来解决这个问题。
+[^FedRS]:FedRS focus on a special kind of non-iid scene, i.e., label distribution skew, where each client can only access a partial set of the whole class set. Considering top layers of neural networks are more task-specific, we advocate that the last classification layer is more vulnerable to the shift of label distribution. Hence, we in-depth study the classifier layer and point out that the standard softmax will encounter several problems caused by missing classes. As an alternative, we propose “Restricted Softmax" to limit the update of missing classes’ weights during the local procedure.  FedRS专注于一种特殊的非iid场景，即标签分布倾斜，每个客户端只能访问整个类集的部分集合。考虑到神经网络的顶层更具有任务针对性，我们主张最后一个分类层更容易受到标签分布偏移的影响。因此，我们深入研究了分类器层，并指出标准的softmax会遇到由缺失类引起的一些问题。作为一个替代方案，提出了 "限制性Softmax"，以限制在本地程序中对缺失类的权重进行更新。
+[^AsySQN]:To address the challenges of communication and computation resource utilization, we propose an asynchronous stochastic quasi-Newton (AsySQN) framework for Vertical federated learning(VFL), under which three algorithms, i.e. AsySQN-SGD, -SVRG and -SAGA, are proposed. The proposed AsySQN-type algorithms making descent steps scaled by approximate (without calculating the inverse Hessian matrix explicitly) Hessian information convergence much faster than SGD-based methods in practice and thus can dramatically reduce the number of communication rounds. Moreover, the adopted asynchronous computation can make better use of the computation resource. We theoretically prove the convergence rates of our proposed algorithms for strongly convex problems.  为了解决通信和计算资源利用的挑战，我们提出了一个异步随机准牛顿（AsySQN）的纵和联邦学习VFL框架，在这个框架下，我们提出了三种算法，即AsySQN-SGD、-SVRG和-SAGA。所提出的AsySQN型算法使下降步骤按近似（不明确计算逆Hessian矩阵）Hessian信息收敛的速度比基于SGD的方法在实践中快得多，因此可以极大地减少通信轮数。此外，采用异步计算可以更好地利用计算资源。我们从理论上证明了我们提出的算法在强凸问题上的收敛率。
+[^FLOP]:A simple yet effective algorithm, named Federated Learning on Medical Datasets using Partial Networks (FLOP), that shares only a partial model between the server and clients.  一种简单而有效的算法，被命名为使用部分网络的医学数据集的联邦学习（FLOP），该算法在服务器和客户之间只共享部分模型。
+[^FedFast]:FedFast accelerates distributed learning which achieves good accuracy for all users very early in the training process. We achieve this by sampling from a diverse set of participating clients in each training round and applying an active aggregation method that propagates the updated model to the other clients. Consequently, with FedFast the users benefit from far lower communication costs and more accurate models that can be consumed anytime during the training process even at the very early stages.  FedFast加速了分布式学习，在训练过程的早期为所有用户实现了良好的准确性。我们通过在每轮训练中从不同的参与客户中取样，并应用主动聚合方法，将更新的模型传播给其他客户来实现这一目标。因此，有了FedFast，用户可以从更低的通信成本和更准确的模型中受益，这些模型可以在训练过程中随时使用，即使是在最早期阶段。
 
 
 
-[^FDSKL]: FDSKL, a federated doubly stochastic kernel learning algorithm for vertically partitioned data. Specifically, we use random features to approximate the kernel mapping function and use doubly stochastic gradients to update the solutions, which are all computed federatedly without the disclosure of data. FDSKL，一个针对纵向分割数据的联邦双随机核学习算法。具体来说，我们使用随机特征来近似核映射函数，并使用双重随机梯度来更新解决方案，这些都是在不透露数据的情况下联邦计算的。
+[^FDSKL]:FDSKL, a federated doubly stochastic kernel learning algorithm for vertically partitioned data. Specifically, we use random features to approximate the kernel mapping function and use doubly stochastic gradients to update the solutions, which are all computed federatedly without the disclosure of data. FDSKL，一个针对纵向分割数据的联邦双随机核学习算法。具体来说，我们使用随机特征来近似核映射函数，并使用双重随机梯度来更新解决方案，这些都是在不透露数据的情况下联邦计算的。
 
 
 
-[^FADE]: While adversarial learning is commonly used in centralized learning for mitigating bias, there are significant barriers when extending it to the federated framework.  In this work, we study these barriers and address them by proposing a novel approach Federated Adversarial DEbiasing (FADE). FADE does not require users' sensitive group information for debiasing and offers users the freedom to opt-out from the adversarial component when privacy or computational costs become a concern.  虽然对抗性学习通常用于集中式学习以减轻偏见，但当把它扩展到联邦式框架中时，会有很大的障碍。 在这项工作中，我们研究了这些障碍，并通过提出一种新的方法 Federated Adversarial DEbiasing（FADE）来解决它们。FADE不需要用户的敏感群体信息来进行去偏，并且当隐私或计算成本成为一个问题时，用户可以自由地选择退出对抗性部分。
-[^CNFGNN]: Cross-Node Federated Graph Neural Network (CNFGNN) , a federated spatio-temporal model, which explicitly encodes the underlying graph structure using graph neural network (GNN)-based architecture under the constraint of cross-node federated learning, which requires that data in a network of nodes is generated locally on each node and remains decentralized. CNFGNN operates by disentangling the temporal dynamics modeling on devices and spatial dynamics on the server, utilizing alternating optimization to reduce the communication cost, facilitating computations on the edge devices.  跨节点联邦图神经网络（CNFGNN），是一个联邦时空模型，在跨节点联邦学习的约束下，使用基于图神经网络（GNN）的架构对底层图结构进行显式编码，这要求节点网络中的数据是在每个节点上本地生成的，并保持分散。CNFGNN通过分解设备上的时间动态建模和服务器上的空间动态来运作，利用交替优化来降低通信成本，促进边缘设备的计算。
-[^Federated-Learning-source]: This paper have built a framework that enables Federated Learning (FL) for a small number of stakeholders. and described the framework architecture, communication protocol, and algorithms.   本文建立了一个框架，为少数利益相关者实现联邦学习（FL），并描述了框架架构、通信协议和算法。
-[^FDKT]: A novel Federated Deep Knowledge Tracing (FDKT) framework to collectively train high-quality Deep Knowledge Tracing (DKT) models for multiple silos.   一个新颖的联邦深度知识追踪（FDKT）框架，为多个筒仓集体训练高质量的深度知识追踪（DKT）模型。
-[^FOLtR-ES]: Federated Online Learning to Rank setup (FOLtR) where on-mobile ranking models are trained in a way that respects the users' privacy. FOLtR-ES that satisfies these requirement: (a) preserving the user privacy, (b) low communication and computation costs, (c) learning from noisy bandit feedback, and (d) learning with non-continuous ranking quality measures. A part of FOLtR-ES is a privatization procedure that allows it to provide ε-local differential privacy guarantees, i.e. protecting the clients from an adversary who has access to the communicated messages.  This procedure can be applied to any absolute online metric that takes finitely many values or can be discretized to a finite domain. 联邦在线学习排名设置（FOLtR）中，移动端排名模型是以尊重用户隐私的方式来训练的。FOLtR-ES满足这些要求：(a)保护用户隐私，(b)低通信和计算成本，(c)从嘈杂的强盗反馈中学习，以及(d)用非连续的排名质量指标学习。FOLtR-ES的一部分是一个私有化程序，使其能够提供ε-local差异化的隐私保证，即保护客户不受能够接触到通信信息的对手的伤害。 这个程序可以应用于任何绝对在线度量，其取值有限，或者可以离散到一个有限域。
+[^FADE]:While adversarial learning is commonly used in centralized learning for mitigating bias, there are significant barriers when extending it to the federated framework.  In this work, we study these barriers and address them by proposing a novel approach Federated Adversarial DEbiasing (FADE). FADE does not require users' sensitive group information for debiasing and offers users the freedom to opt-out from the adversarial component when privacy or computational costs become a concern.  虽然对抗性学习通常用于集中式学习以减轻偏见，但当把它扩展到联邦式框架中时，会有很大的障碍。 在这项工作中，我们研究了这些障碍，并通过提出一种新的方法 Federated Adversarial DEbiasing（FADE）来解决它们。FADE不需要用户的敏感群体信息来进行去偏，并且当隐私或计算成本成为一个问题时，用户可以自由地选择退出对抗性部分。
+[^CNFGNN]:Cross-Node Federated Graph Neural Network (CNFGNN) , a federated spatio-temporal model, which explicitly encodes the underlying graph structure using graph neural network (GNN)-based architecture under the constraint of cross-node federated learning, which requires that data in a network of nodes is generated locally on each node and remains decentralized. CNFGNN operates by disentangling the temporal dynamics modeling on devices and spatial dynamics on the server, utilizing alternating optimization to reduce the communication cost, facilitating computations on the edge devices.  跨节点联邦图神经网络（CNFGNN），是一个联邦时空模型，在跨节点联邦学习的约束下，使用基于图神经网络（GNN）的架构对底层图结构进行显式编码，这要求节点网络中的数据是在每个节点上本地生成的，并保持分散。CNFGNN通过分解设备上的时间动态建模和服务器上的空间动态来运作，利用交替优化来降低通信成本，促进边缘设备的计算。
+[^Federated-Learning-source]:This paper have built a framework that enables Federated Learning (FL) for a small number of stakeholders. and described the framework architecture, communication protocol, and algorithms.   本文建立了一个框架，为少数利益相关者实现联邦学习（FL），并描述了框架架构、通信协议和算法。
+[^FDKT]:A novel Federated Deep Knowledge Tracing (FDKT) framework to collectively train high-quality Deep Knowledge Tracing (DKT) models for multiple silos.   一个新颖的联邦深度知识追踪（FDKT）框架，为多个筒仓集体训练高质量的深度知识追踪（DKT）模型。
+[^FOLtR-ES]:Federated Online Learning to Rank setup (FOLtR) where on-mobile ranking models are trained in a way that respects the users' privacy. FOLtR-ES that satisfies these requirement: (a) preserving the user privacy, (b) low communication and computation costs, (c) learning from noisy bandit feedback, and (d) learning with non-continuous ranking quality measures. A part of FOLtR-ES is a privatization procedure that allows it to provide ε-local differential privacy guarantees, i.e. protecting the clients from an adversary who has access to the communicated messages.  This procedure can be applied to any absolute online metric that takes finitely many values or can be discretized to a finite domain. 联邦在线学习排名设置（FOLtR）中，移动端排名模型是以尊重用户隐私的方式来训练的。FOLtR-ES满足这些要求：(a)保护用户隐私，(b)低通信和计算成本，(c)从嘈杂的强盗反馈中学习，以及(d)用非连续的排名质量指标学习。FOLtR-ES的一部分是一个私有化程序，使其能够提供ε-local差异化的隐私保证，即保护客户不受能够接触到通信信息的对手的伤害。 这个程序可以应用于任何绝对在线度量，其取值有限，或者可以离散到一个有限域。
 
 
 
-[^MetaMF]: A federated matrix factorization (MF) framework, named meta matrix factorization (MetaMF) for rating prediction (RP) for mobile environments.  一个联邦矩阵分解（MF）框架，命名为元矩阵分解（MetaMF），用于移动环境的评级预测（RP）。
-[^FedCMR]: The federated cross-modal retrieval (FedCMR), which learns the model with decentralized multi-modal data. 联邦跨模式检索（FedCMR），它用分散的多模式数据学习模型。
-[^FedGWAS]: Under some circumstances, the private data can be reconstructed from the model parameters, which implies that data leakage can occur in FL.In this paper, we draw attention to another risk associated with FL: Even if federated algorithms are individually privacy-preserving, combining them into pipelines is not necessarily privacy-preserving. We provide a concrete example from genome-wide association studies, where the combination of federated principal component analysis and federated linear regression allows the aggregator to retrieve sensitive patient data by solving an instance of the multidimensional subset sum problem. This supports the increasing awareness in the field that, for FL to be truly privacy-preserving, measures have to be undertaken to protect against data leakage at the aggregator. 在某些情况下，私人数据可以从模型参数中重建，这意味着在联邦学习中可能发生数据泄漏。 在本文中，我们提请注意与FL相关的另一个风险。即使联邦算法是单独保护隐私的，将它们组合成管道也不一定是保护隐私的。我们提供了一个来自全基因组关联研究的具体例子，其中联邦主成分分析和联邦线性回归的组合允许聚合器通过解决多维子集和问题的实例来检索敏感的病人数据。这支持了该领域日益增长的意识，即为了使FL真正保护隐私，必须采取措施防止聚合器的数据泄漏。
-[^FedCT]: The cross-domain recommendation problem is formalized under a decentralized computing environment with multiple domain servers. And we identify two key challenges for this setting: the unavailability of direct transfer and the heterogeneity of the domain-specific user representations. We then propose to learn and maintain a decentralized user encoding on each user's personal space. The optimization follows a variational inference framework that maximizes the mutual information between the user's encoding and the domain-specific user information from all her interacted domains. 跨域推荐问题在具有多个域服务器的去中心化计算环境下被形式化。我们确定了这种情况下的两个关键挑战：直接传输的不可用性和特定领域用户表征的异质性。然后，我们建议在每个用户的个人空间上学习和维护一个分散的用户编码。优化遵循一个变分推理框架，使用户的编码和来自她所有互动领域的特定用户信息之间的互信息最大化。
-[^noniid-foltr]: In this perspective paper we study the effect of non independent and identically distributed (non-IID) data on federated online learning to rank (FOLTR) and chart directions for future work in this new and largely unexplored research area of Information Retrieval.  在这篇前瞻论文中，我们研究了非独立和相同分布（非IID）数据对联邦在线学习排名（FOLTR）的影响，并为这个新的、基本上未被开发的信息检索研究领域的未来工作指明了方向。
-[^FedScale]: FedScale, a federated learning (FL) benchmarking suite with realistic datasets and a scalable runtime to enable reproducible FL research. FedScale是一个联邦学习（FL）基准测试套件，具有现实的数据集和可扩展的运行时间，以实现可重复的FL研究。
-[^PAPAYA]: PAPAYA outline a production asynchronous FL system design. Empirically, we demonstrate that asynchronous FL converges faster than synchronous FL when training across nearly one hundred million devices. In particular, in high concurrency settings, asynchronous FL is 5x faster and has nearly 8x less communication overhead than synchronous FL.  PAPAYA概述了一个生产性的异步联邦系统设计。根据经验，我们证明了在近一亿台设备上进行训练时，异步FL比同步FL收敛得更快。特别是，在高并发环境下，异步FL比同步FL快5倍，通信开销少8倍。
-[^LightSecAgg]: State-of-the-art secure aggregation protocols rely on secret sharing of the random-seeds used for mask generations at the users to enable the reconstruction and cancellation of those belonging to the dropped users. The complexity of such approaches, however, grows substantially with the number of dropped users. LightSecAgg, to overcome this bottleneck by changing the design from "random-seed reconstruction of the dropped users" to "one-shot aggregate-mask reconstruction of the active users via mask encoding/decoding". 最先进的安全聚合协议依赖于在用户处秘密共享用于掩码生成的随机种子，以便能够重建和取消属于被放弃用户的随机种子。然而，这种方法的复杂性随着被放弃的用户数量的增加而大大增加。LightSecAgg 通过将设计从 "被放弃用户的随机种子重建 "改为 "通过掩码编码/解码对活跃用户进行一次性聚合掩码重建 "来克服这个瓶颈。
-[^Oort]: Oort, improve the performance of federated training and testing with guided participant selection. With an aim to improve time-to-accuracy performance in model training, Oort prioritizes the use of those clients who have both data that offers the greatest utility in improving model accuracy and the capability to run training quickly. To enable FL developers to interpret their results in model testing, Oort enforces their requirements on the distribution of participant data while improving the duration of federated testing by cherry-picking clients. Oort，通过指导性的参与者选择来提高联邦训练和测试的性能。为了提高模型训练的时间-精度性能，Oort优先使用那些既拥有对提高模型精度有最大作用的数据又有能力快速运行训练的客户。为了使FL开发者能够解释他们在模型测试中的结果，Oort强制执行他们对参与者数据分布的要求，同时通过挑选客户来改善联邦测试的持续时间。
-[^FedProx]: FedProx, to tackle heterogeneity in federated networks. FedProx can be viewed as a generalization and re-parametrization of FedAvg, the current state-of-the-art method for federated learning. While this re-parameterization makes only minor modifications to the method itself, these modifications have important ramifications both in theory and in practice. Theoretically, we provide convergence guarantees for our framework when learning over data from non-identical distributions (statistical heterogeneity), and while adhering to device-level systems constraints by allowing each participating device to perform a variable amount of work (systems heterogeneity). Practically, we demonstrate that FedProx allows for more robust convergence than FedAvg across a suite of realistic federated datasets.  FedProx，解决联邦网络中的异质性问题。FedProx可以被看作是FedAvg的概括和重新参数化，FedAvg是目前最先进的联邦学习方法。虽然这种重新参数化只对方法本身做了微小的修改，但这些修改在理论和实践上都有重要的影响。在理论上，我们为我们的框架提供了收敛保证，当对来自非相同分布的数据进行学习时（统计异质性），同时通过允许每个参与的设备执行不同数量的工作（系统异质性）来遵守设备级别的系统约束。在实践中，我们证明了FedProx比FedAvg在一系列现实的联邦数据集中能实现更稳健的收敛。
-[^System_Design]: We have built a scalable production system for Federated Learning in the domain of mobile devices, based on TensorFlow. In this paper, we describe the resulting high-level design, sketch some of the challenges and their solutions, and touch upon the open problems and future directions.  我们已经为移动设备领域的联邦学习建立了一个可扩展的生产系统，基于TensorFlow。在本文中，我们描述了由此产生的高层次设计，概述了一些挑战和它们的解决方案，并谈到了开放的问题和未来的方向。
-[^TRUDA]: TRUDA, a new cross-silo FL system, employing a trustworthy and decentralized aggregation architecture to break down information concentration with regard to a single aggregator. Based on the unique computational properties of model-fusion algorithms, all exchanged model updates in TRUDA are disassembled at the parameter-granularity and re-stitched to random partitions designated for multiple TEE-protected aggregators. TRUDA是一个新的跨机构FL系统，采用了一个可信的、分散的聚合架构，以打破对单一聚合器的信息集中。基于模型融合算法的独特计算特性，TRUDA中所有交换的模型更新都在参数粒度上被分解，并重新缝合到指定给多个受TEE保护的聚合器的随机分区。
-[^FedX]: 
-[^SIMC]: 
-[^FLAME]: 
-[^DeepSight]: 
-[^FedCRI]: 
-[^PBPFL]: 
-[^FedKC]: 
-[^LocFedMix-SL]: 
-[^FLASH]: 
-[^Hermes]: 
-[^FedServing]: 
-[^FedGTF-EF-PC]: 
-[^PFA]: 
-[^Meta-HAR]: 
-[^P-FedAvg]: 
-[^FedSens]: 
-[^FedDA]: 
-[^FAIR]: 
-[^FedFPM]: 
-[^Federated-Bandit]: 
-[^ActPerFL]: 
-[^FedNLP]: 
-[^Efficient-FedRec]: 
-[^FedADMM]: 
-[^FedMP]: 
-[^FedMigr]: 
-[^Samba]: 
-[^FedRecAttack]: 
-[^DIG-FL]: 
-[^BlindFL]: 
-[^FedRain-and-Frog]: 
-[^FLIX]: 
-[^DP-SCAFFOLD]: 
-[^SparseFed]: 
-[^QLSD]: 
-[^Fed-ET]: 
-[^CReFF]: 
-[^FedCG]: 
-[^FedDUAP]: 
-[^FedSpeech]: 
-[^FedKT]: 
-[^FEDMD-NFDP]: 
-[^LDP-FL]: 
-[^FedFV]: 
-[^H-FL]: 
-[^FedGame]: 
-[^SmartIdx]: 
-[^FedFIM]: 
-[^FedProto]: 
-[^FedSoft]: 
-[^FedFR]: 
-[^SplitFed]: 
-[^FlyNNFL]: 
-[^FedRec++]: 
-[^FLAME_D]: 
-[^FedAMP]: 
-[^FedUL]: 
-[^FedChain]: 
-[^FedReg]: 
-[^Fed-RoD]: 
-[^HeteroFL]: 
-[^FedMix]: 
-[^FedFomo]: 
-[^FedBN]: 
-[^FedBE]: 
-[^FedMA]: 
-[^fair-flearn]: 
-[^FedNew]: 
-[^DisPFL]: 
-[^DAdaQuant]: 
-[^FedNL]: 
-[^FedNest]: 
-[^EDEN]: 
-[^ProgFed]: 
-[^PPSGD]: 
-[^PBM]: 
-[^FedMLB]: 
-[^FedPU]: 
-[^Orchestra]: 
-[^DFL]: 
-[^FedHeNN]: 
-[^KNN-PER]: 
-[^ProxRR]: 
-[^VFL]: 
-[^breaching]: 
-[^QSFL]: 
-[^Neurotoxin]: 
-[^FL-NTK]: 
-[^FedBoost]: 
-[^FetchSGD]: 
-[^SCAFFOLD]: 
-[^Sageflow]: 
-[^CAFE]: 
-[^FedSplit]: 
-[^QuPeD]: 
-[^GradAttack]: 
-[^FedDR]: 
-[^Federated-EM]: 
-[^FL-WBC]: 
-[^FjORD]: 
-[^FedEx]: 
-[^Large-Cohort]: 
-[^DeepReduce]: 
-[^PartialFed]: 
-[^FCFL ]: 
-[^fbo]: 
-[^RobustFL]: 
-[^FedDF]: 
-[^DRFA]: 
-[^FedAc]: 
-[^FedNova]: 
-[^FedGKT]: 
-[^Per-FedAvg]: 
-[^SpreadGNN]: 
-[^MaKEr]: 
-[^SFL]: 
-[^VFGNN]: 
-[^GCFL]: 
-[^D2D-FedL]: 
-[^FedSage]: 
-[^RBCS-F]: 
-[^VF2Boost]: 
-[^SimFL]: 
-[^Pivot-DT]: 
-[^FKGE]: 
+[^MetaMF]:A federated matrix factorization (MF) framework, named meta matrix factorization (MetaMF) for rating prediction (RP) for mobile environments.  一个联邦矩阵分解（MF）框架，命名为元矩阵分解（MetaMF），用于移动环境的评级预测（RP）。
+[^FedCMR]:The federated cross-modal retrieval (FedCMR), which learns the model with decentralized multi-modal data. 联邦跨模式检索（FedCMR），它用分散的多模式数据学习模型。
+[^FedGWAS]:Under some circumstances, the private data can be reconstructed from the model parameters, which implies that data leakage can occur in FL.In this paper, we draw attention to another risk associated with FL: Even if federated algorithms are individually privacy-preserving, combining them into pipelines is not necessarily privacy-preserving. We provide a concrete example from genome-wide association studies, where the combination of federated principal component analysis and federated linear regression allows the aggregator to retrieve sensitive patient data by solving an instance of the multidimensional subset sum problem. This supports the increasing awareness in the field that, for FL to be truly privacy-preserving, measures have to be undertaken to protect against data leakage at the aggregator. 在某些情况下，私人数据可以从模型参数中重建，这意味着在联邦学习中可能发生数据泄漏。 在本文中，我们提请注意与FL相关的另一个风险。即使联邦算法是单独保护隐私的，将它们组合成管道也不一定是保护隐私的。我们提供了一个来自全基因组关联研究的具体例子，其中联邦主成分分析和联邦线性回归的组合允许聚合器通过解决多维子集和问题的实例来检索敏感的病人数据。这支持了该领域日益增长的意识，即为了使FL真正保护隐私，必须采取措施防止聚合器的数据泄漏。
+[^FedCT]:The cross-domain recommendation problem is formalized under a decentralized computing environment with multiple domain servers. And we identify two key challenges for this setting: the unavailability of direct transfer and the heterogeneity of the domain-specific user representations. We then propose to learn and maintain a decentralized user encoding on each user's personal space. The optimization follows a variational inference framework that maximizes the mutual information between the user's encoding and the domain-specific user information from all her interacted domains. 跨域推荐问题在具有多个域服务器的去中心化计算环境下被形式化。我们确定了这种情况下的两个关键挑战：直接传输的不可用性和特定领域用户表征的异质性。然后，我们建议在每个用户的个人空间上学习和维护一个分散的用户编码。优化遵循一个变分推理框架，使用户的编码和来自她所有互动领域的特定用户信息之间的互信息最大化。
+[^noniid-foltr]:In this perspective paper we study the effect of non independent and identically distributed (non-IID) data on federated online learning to rank (FOLTR) and chart directions for future work in this new and largely unexplored research area of Information Retrieval.  在这篇前瞻论文中，我们研究了非独立和相同分布（非IID）数据对联邦在线学习排名（FOLTR）的影响，并为这个新的、基本上未被开发的信息检索研究领域的未来工作指明了方向。
+[^FedScale]:FedScale, a federated learning (FL) benchmarking suite with realistic datasets and a scalable runtime to enable reproducible FL research. FedScale是一个联邦学习（FL）基准测试套件，具有现实的数据集和可扩展的运行时间，以实现可重复的FL研究。
+[^PAPAYA]:PAPAYA outline a production asynchronous FL system design. Empirically, we demonstrate that asynchronous FL converges faster than synchronous FL when training across nearly one hundred million devices. In particular, in high concurrency settings, asynchronous FL is 5x faster and has nearly 8x less communication overhead than synchronous FL.  PAPAYA概述了一个生产性的异步联邦系统设计。根据经验，我们证明了在近一亿台设备上进行训练时，异步FL比同步FL收敛得更快。特别是，在高并发环境下，异步FL比同步FL快5倍，通信开销少8倍。
+[^LightSecAgg]:State-of-the-art secure aggregation protocols rely on secret sharing of the random-seeds used for mask generations at the users to enable the reconstruction and cancellation of those belonging to the dropped users. The complexity of such approaches, however, grows substantially with the number of dropped users. LightSecAgg, to overcome this bottleneck by changing the design from "random-seed reconstruction of the dropped users" to "one-shot aggregate-mask reconstruction of the active users via mask encoding/decoding". 最先进的安全聚合协议依赖于在用户处秘密共享用于掩码生成的随机种子，以便能够重建和取消属于被放弃用户的随机种子。然而，这种方法的复杂性随着被放弃的用户数量的增加而大大增加。LightSecAgg 通过将设计从 "被放弃用户的随机种子重建 "改为 "通过掩码编码/解码对活跃用户进行一次性聚合掩码重建 "来克服这个瓶颈。
+[^Oort]:Oort, improve the performance of federated training and testing with guided participant selection. With an aim to improve time-to-accuracy performance in model training, Oort prioritizes the use of those clients who have both data that offers the greatest utility in improving model accuracy and the capability to run training quickly. To enable FL developers to interpret their results in model testing, Oort enforces their requirements on the distribution of participant data while improving the duration of federated testing by cherry-picking clients. Oort，通过指导性的参与者选择来提高联邦训练和测试的性能。为了提高模型训练的时间-精度性能，Oort优先使用那些既拥有对提高模型精度有最大作用的数据又有能力快速运行训练的客户。为了使FL开发者能够解释他们在模型测试中的结果，Oort强制执行他们对参与者数据分布的要求，同时通过挑选客户来改善联邦测试的持续时间。
+[^FedProx]:FedProx, to tackle heterogeneity in federated networks. FedProx can be viewed as a generalization and re-parametrization of FedAvg, the current state-of-the-art method for federated learning. While this re-parameterization makes only minor modifications to the method itself, these modifications have important ramifications both in theory and in practice. Theoretically, we provide convergence guarantees for our framework when learning over data from non-identical distributions (statistical heterogeneity), and while adhering to device-level systems constraints by allowing each participating device to perform a variable amount of work (systems heterogeneity). Practically, we demonstrate that FedProx allows for more robust convergence than FedAvg across a suite of realistic federated datasets.  FedProx，解决联邦网络中的异质性问题。FedProx可以被看作是FedAvg的概括和重新参数化，FedAvg是目前最先进的联邦学习方法。虽然这种重新参数化只对方法本身做了微小的修改，但这些修改在理论和实践上都有重要的影响。在理论上，我们为我们的框架提供了收敛保证，当对来自非相同分布的数据进行学习时（统计异质性），同时通过允许每个参与的设备执行不同数量的工作（系统异质性）来遵守设备级别的系统约束。在实践中，我们证明了FedProx比FedAvg在一系列现实的联邦数据集中能实现更稳健的收敛。
+[^System_Design]:We have built a scalable production system for Federated Learning in the domain of mobile devices, based on TensorFlow. In this paper, we describe the resulting high-level design, sketch some of the challenges and their solutions, and touch upon the open problems and future directions.  我们已经为移动设备领域的联邦学习建立了一个可扩展的生产系统，基于TensorFlow。在本文中，我们描述了由此产生的高层次设计，概述了一些挑战和它们的解决方案，并谈到了开放的问题和未来的方向。
+[^TRUDA]:TRUDA, a new cross-silo FL system, employing a trustworthy and decentralized aggregation architecture to break down information concentration with regard to a single aggregator. Based on the unique computational properties of model-fusion algorithms, all exchanged model updates in TRUDA are disassembled at the parameter-granularity and re-stitched to random partitions designated for multiple TEE-protected aggregators. TRUDA是一个新的跨机构FL系统，采用了一个可信的、分散的聚合架构，以打破对单一聚合器的信息集中。基于模型融合算法的独特计算特性，TRUDA中所有交换的模型更新都在参数粒度上被分解，并重新缝合到指定给多个受TEE保护的聚合器的随机分区。
+[^FedX]:
+[^SIMC]:
+[^FLAME]:
+[^DeepSight]:
+[^FedCRI]:
+[^PBPFL]:
+[^FedKC]:
+[^LocFedMix-SL]:
+[^FLASH]:
+[^Hermes]:
+[^FedServing]:
+[^FedGTF-EF-PC]:
+[^PFA]:
+[^Meta-HAR]:
+[^P-FedAvg]:
+[^FedSens]:
+[^FedDA]:
+[^FAIR]:
+[^FedFPM]:
+[^Federated-Bandit]:
+[^ActPerFL]:
+[^FedNLP]:
+[^Efficient-FedRec]:
+[^FedADMM]:
+[^FedMP]:
+[^FedMigr]:
+[^Samba]:
+[^FedRecAttack]:
+[^DIG-FL]:
+[^BlindFL]:
+[^FedRain-and-Frog]:
+[^FLIX]:
+[^DP-SCAFFOLD]:
+[^SparseFed]:
+[^QLSD]:
+[^Fed-ET]:
+[^CReFF]:
+[^FedCG]:
+[^FedDUAP]:
+[^FedSpeech]:
+[^FedKT]:
+[^FEDMD-NFDP]:
+[^LDP-FL]:
+[^FedFV]:
+[^H-FL]:
+[^FedGame]:
+[^SmartIdx]:
+[^FedFIM]:
+[^FedProto]:
+[^FedSoft]:
+[^FedFR]:
+[^SplitFed]:
+[^FlyNNFL]:
+[^FedRec++]:
+[^FLAME_D]:
+[^FedAMP]:
+[^FedUL]:
+[^FedChain]:
+[^FedReg]:
+[^Fed-RoD]:
+[^HeteroFL]:
+[^FedMix]:
+[^FedFomo]:
+[^FedBN]:
+[^FedBE]:
+[^FedMA]:
+[^fair-flearn]:
+[^FedNew]:
+[^DisPFL]:
+[^DAdaQuant]:
+[^FedNL]:
+[^FedNest]:
+[^EDEN]:
+[^ProgFed]:
+[^PPSGD]:
+[^PBM]:
+[^FedMLB]:
+[^FedPU]:
+[^Orchestra]:
+[^DFL]:
+[^FedHeNN]:
+[^KNN-PER]:
+[^ProxRR]:
+[^VFL]:
+[^breaching]:
+[^QSFL]:
+[^Neurotoxin]:
+[^FL-NTK]:
+[^FedBoost]:
+[^FetchSGD]:
+[^SCAFFOLD]:
+[^Sageflow]:
+[^CAFE]:
+[^FedSplit]:
+[^QuPeD]:
+[^GradAttack]:
+[^FedDR]:
+[^Federated-EM]:
+[^FL-WBC]:
+[^FjORD]:
+[^FedEx]:
+[^Large-Cohort]:
+[^DeepReduce]:
+[^PartialFed]:
+[^FCFL ]:
+[^fbo]:
+[^RobustFL]:
+[^FedDF]:
+[^DRFA]:
+[^FedAc]:
+[^FedNova]:
+[^FedGKT]:
+[^Per-FedAvg]:
+[^SpreadGNN]:
+[^MaKEr]:
+[^SFL]:
+[^VFGNN]:
+[^GCFL]:
+[^D2D-FedL]:
+[^FedSage]:
+[^RBCS-F]:
+[^VF2Boost]:
+[^SimFL]:
+[^Pivot-DT]:
+[^FKGE]:
