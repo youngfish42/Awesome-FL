@@ -195,8 +195,6 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Federated Random Forests can improve local performance of predictive models for various healthcare applications | University of Marburg      | Bioinform.                  | 2022 | FRF[^FRF]                   | [[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214).] [[Code](https://featurecloud.ai/)] |
 | Federated Forest                                             | JD                         | TBD                         | 2022 | FF[^FF]                     | [[PUB](https://ieeexplore.ieee.org/document/9088965).] [[PDF](https://arxiv.org/abs/1905.10053)] |
 | Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring | The University of Sydney   | e-Energy                    | 2022 | Fed-GBM[^Fed-GBM]           | [[PUB](https://dl.acm.org/doi/10.1145/3538637.3538840).]     |
-| eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees | kobe-u                     | IEEE Access                 | 2022 | eFL-Boost[^eFL-Boost]       | [[PUB](https://ieeexplore.ieee.org/document/9761890).]       |
-| Random Forest Based on Federated Learning for Intrusion Detection |                            | AIAI                        | 2022 |                             | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-08333-4_11).] |
 | Cross-silo federated learning based decision trees           |                            | SAC                         | 2022 |                             | [[PUB](https://dl.acm.org/doi/10.1145/3477314.3507149).]     |
 | Leveraging Spanning Tree to Detect Colluding Attackers in Federated Learning |                            | INFCOM Workshops            | 2022 |                             | [[PUB](https://ieeexplore.ieee.org/document/9798077).]       |
 | VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | PKU                        | SIGMOD :mortar_board:       | 2021 | VF2Boost[^VF2Boost]         | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241).]     |
@@ -231,7 +229,6 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization. | Tongji University          | preprint                    | 2021 | MP-FedXGB[^MP-FedXGB]       | [PDF](https://arxiv.org/abs/2105.05717) [Code](https://github.com/HikariX/MP-FedXGB) |
 | A Tree-based Federated Learning Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources |                            | preprint                    | 2021 |                             | [[PDF](https://arxiv.org/abs/2103.06261)] [[Code](https://github.com/ellenxtan/ifedtree)] |
 | Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning |                            | preprint                    | 2020 |                             | [[PDF](https://arxiv.org/abs/2012.06670)]                    |
-| FederBoost: Private Federated Learning for GBDT              |                            | preprint                    | 2020 | FederBoost[^FederBoost]     | [[PDF](https://arxiv.org/abs/2011.02796)]                    |
 | Privacy Preserving Text Recognition with Gradient-Boosting for Federated Learning |                            | preprint                    | 2020 |                             | [[PDF](https://arxiv.org/abs/2007.07296)] [[Code](https://github.com/rand2ai/fedboost)] |
 | Cloud-based Federated Boosting for Mobile Crowdsensing       |                            | preprint                    | 2020 |                             | [[arxiv](https://arxiv.org/abs/2005.05304)]                  |
 | Federated Extra-Trees with Privacy Preserving                |                            | preprint                    | 2020 |                             | [[PDF](https://arxiv.org/abs/2002.07323.pdf)]                |
@@ -1255,7 +1252,6 @@ Many thanks :heart: to the other awesome list:
 [^FedCluster]: 
 [^Hercules]: 
 [^SecureBoost+]: 
-[^FederBoost]: 
 [^FedR]: 
 [^FedPerGNN]: FedPerGNN, a federated GNN framework for both effective and privacy-preserving personalization. Through a privacy-preserving model update method, we can collaboratively train GNN models based on decentralized graphs inferred from local data. To further exploit graph information beyond local interactions, we introduce a privacy-preserving graph expansion protocol to incorporate high-order information under privacy protection.  FedPerGNN是一个既有效又保护隐私的GNN联盟框架。通过一个保护隐私的模型更新方法，我们可以根据从本地数据推断出的分散图来协作训练GNN模型。为了进一步利用本地互动以外的图信息，我们引入了一个保护隐私的图扩展协议，在保护隐私的前提下纳入高阶信息。
 [^FeSoG]: 
