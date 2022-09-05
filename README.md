@@ -583,6 +583,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 
 | Title                                                        | Affiliation                                                  | Venue | Year | TL;DR                                               | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy | Fudan University| S&P | 2023 | PEA | [[PUB](https://arxiv.org/pdf/2208.08662v1.pdf ).]  |
 | Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning | University of Massachusetts | S&P | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9833647/).] [Video](https://www.youtube.com/watch?v=tQv3CpxIyvs) |
 | SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost | Microsoft Research | USENIX Security | 2022 | SIMC[^SIMC] | [[PUB](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran).] [PDF](https://eprint.iacr.org/2021/1538) [code](https://github.com/shahakash28/simc) |
 | Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors | University of Vermont | USENIX Security | 2022 |  | [[PUB](https://www.usenix.org/conference/usenixsecurity22/presentation/stevens).] [Slides](https://www.usenix.org/system/files/sec22_slides-stevens.pdf) |
@@ -1265,3 +1266,4 @@ Many thanks :heart: to the other awesome list:
 [^cPDS]: 
 [^dFedU]: 
 [^EF-HC]: 
+[^PEA]：  We are motivated to resolve the above issue by proposing a solution, referred to as PEA (Private, Efficient, Accurate), which consists of a secure differentially private stochastic gradient descent (DPSGD for short) protocol and two optimization methods. First, we propose a secure DPSGD protocol to enforce DPSGD, which is a popular differentially private machine learning algorithm, in secret sharing-based MPL frameworks. Second, to reduce the accuracy loss led by differential privacy noise and the huge communication overhead of MPL, we propose two optimization methods for the training process of MPL. 提出一个安全差分隐私随机梯度下降协议以在基于秘密共享的安全多方学习框架中实现差分隐私随机梯度下降算法。为了降低差分隐私带来的精度损失并提升安全多方学习的效率，从安全多方学习训练过程的角度提出了两项优化方法，多方可以在MPL模型训练过程中平衡。做到隐私、效率和准确性三者之间的权衡。
