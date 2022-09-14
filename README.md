@@ -270,7 +270,7 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence) conference and journal, Including [IJCAI](https://dblp.org/db/conf/ijcai/index.html)(International Joint Conference on Artificial Intelligence), [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)(AAAI Conference on Artificial Intelligence), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/index.html)(Artificial Intelligence and Statistics).
 
-- [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A) 2022,[2021](https://ijcai-21.org/program-main-track/#),2020,[2019](https://www.ijcai19.org/accepted-papers.html)
+- [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A) [2022](https://ijcai-22.org/main-track-accepted-papers/),[2021](https://ijcai-21.org/program-main-track/#),[2020](https://static.ijcai.org/2020-accepted_papers.html),[2019](https://www.ijcai19.org/accepted-papers.html)
 - [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf),[2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf),[2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
 
@@ -584,7 +584,7 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 In this section, we will summarize Federated Learning papers accepted by top Secure conference and journal, Including [S&P](https://dblp.uni-trier.de/db/conf/sp/index.html)(IEEE Symposium on Security and Privacy), [CCS](https://dblp.uni-trier.de/db/conf/ccs/index.html)(Conference on Computer and Communications Security), [USENIX Security](https://dblp.uni-trier.de/db/conf/uss/index.html)(Usenix Security Symposium) and [NDSS](https://dblp.uni-trier.de/db/conf/ndss/index.html)(Network and Distributed System Security Symposium).
 
 - [S&P](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Symposium%20on%20Security%20and%20Privacy%3A) [2022](https://www.ieee-security.org/TC/SP2022/program-papers.html), [2019](https://www.ieee-security.org/TC/SP2019/program-papers.html)
-- [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) [2021](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [2019](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/), 2017
+- [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) [2021](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [2019](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/), [2017](https://acmccs.github.io/papers/)
 - [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A) [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [2020](https://www.usenix.org/conference/usenixsecurity20/technical-sessions)
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) [2022](https://www.ndss-symposium.org/ndss2022/accepted-papers/), [2021](https://www.ndss-symposium.org/ndss2021/accepted-papers/)
 
@@ -664,7 +664,7 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 
 In this section, we will summarize Federated Learning papers accepted by top AI and NLP conference and journal, including [ACL](https://dblp.uni-trier.de/db/conf/acl/index.html)(Annual Meeting of the Association for Computational Linguistics), [NAACL](https://dblp.uni-trier.de/db/conf/naacl/index.html)(North American Chapter of the Association for Computational Linguistics), [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/index.html)(Conference on Empirical Methods in Natural Language Processing) and [COLING](https://dblp.uni-trier.de/db/conf/coling/index.html)(International Conference on Computational Linguistics).
 
-- ACL [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
+- [ACL](https://dblp.uni-trier.de/search?q=federate%20venue%3AACL%3A) [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
 - [NAACL](https://dblp.uni-trier.de/search?q=federate%20venue%3ANAACL-HLT%3A) [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
 - [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
 - [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2020](https://aclanthology.org/events/coling-2020/)
