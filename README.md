@@ -15,6 +15,27 @@
 - [Framework](#Framework)
 - [Datasets](#Datasets)
 - [Surveys](#Surveys)
+  - [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873)
+  - [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693)
+  - [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875)
+  - [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847)
+  - [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf)
+  - [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
+  - [Federated Machine Learning: Concept and Applications](https://arxiv.org/pdf/1902.04885.pdf)
+  - [Threats to Federated Learning: A Survey](https://arxiv.org/pdf/2003.02133.pdf)
+  - [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673.pdf)
+  - [SECure: A Social and Environmental Certificate for AI Systems](https://arxiv.org/pdf/2006.06217.pdf)
+  - [From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594.pdf)
+  - [Federated Learning for 6G Communications: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/2006.02931.pdf)
+  - [A Review of Privacy Preserving Federated Learning for Private IoT Analytics](https://arxiv.org/pdf/2004.11794.pdf)
+  - [Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective](https://arxiv.org/pdf/2002.11545.pdf)
+  - [Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art](https://arxiv.org/pdf/2002.10610.pdf)
+  - [Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing](https://arxiv.org/pdf/1912.04859.pdf)
+  - [An Introduction to Communication Efficient Edge Machine Learning](https://arxiv.org/pdf/1912.01554.pdf)
+  - [Federated Learning for Healthcare Informatics](https://arxiv.org/pdf/1911.06270.pdf)
+  - [Federated Learning for Coalition Operations](https://arxiv.org/pdf/1910.06799.pdf)
+  - [No Peek: A Survey of private distributed deep learning](https://arxiv.org/pdf/1812.03288.pdf)
+  - [Communication-Efficient Edge AI: Algorithms and Systems](http://arxiv.org/pdf/2002.09668.pdf)
 - [Tutorials and Courses](#Tutorials-and-Courses)
 - Key Conferences/Workshops/Journals
   - [Workshops](#Workshops) [Special Issues](#Journal-Special-Issues) [Special Tracks](#Conference-Special-Tracks)
@@ -982,9 +1003,27 @@ For more results, please refer to [Framework Functionality Support](https://unif
 - [Federated Learning on MNIST using a CNN](https://colab.research.google.com/drive/1dRG3yNAlDar3tll4VOkmoU-aLslhUS8d), AI6101, 2020 ([Demo Video](https://www.youtube.com/watch?v=XKQi-CUqCsM))
 - [Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/), AAAI-19, Honolulu, HI, USA
 
+- [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
+- [A Brief Introduction to Differential Privacy](https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b)
+- [Deep Learning with Differential Privacy.](http://doi.acm.org/10.1145/2976749.2978318)
+- [Building Safe A.I.](http://iamtrask.github.io/2017/03/17/safe-ai/)
+  * A Tutorial for Encrypted Deep Learning
+  * Use Homomorphic Encryption (HE)
+
+- [Private Deep Learning with MPC](https://mortendahl.github.io/2017/04/17/private-deep-learning-with-mpc/)
+  * A Simple Tutorial from Scratch
+  * Use Multiparty Compuation (MPC)
+
+- [Private Image Analysis with MPC](https://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/)
+  * Training CNNs on Sensitive Data
+  * Use SPDZ as MPC protocol
 
 
-
+##### Course: Secret Sharing
+* [Simple Introduction to Sharmir's Secret Sharing and Lagrange Interpolation](https://www.youtube.com/watch?v=kkMps3X_tEE)
+* [Secret Sharing, Part 1](https://mortendahl.github.io/2017/06/04/secret-sharing-part1/): Shamir's Secret Sharing & Packed Variant
+* [Secret Sharing, Part 2](https://mortendahl.github.io/2017/06/24/secret-sharing-part2/): Improve efficiency
+* [Secret Sharing, Part 3](https://mortendahl.github.io/2017/08/13/secret-sharing-part3/)
 
 
 
