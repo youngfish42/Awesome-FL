@@ -141,7 +141,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | IBM | NeurIPS Workshop       | 2019 | FGL-DFC[^FGL-DFC] | [[PDF]](https://arxiv.org/abs/1909.12946)             |
 | Federated learning of predictive models from federated Electronic Health Records :star: | BU | Int. J. Medical Informatics | 2018 | cPDS[^cPDS] | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub).] |
 | Federated Graph Contrastive Learning | UTS | preprint | 2022 | | [[PDF](https://arxiv.org/abs/2207.11836)] |
-| Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`** | University of Virginia | preprint | 2022 | FGML [^FGML] | [[PDF](https://arxiv.org/abs/2207.11812)] |
+| Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`** | University of Virginia | CIKM Workshop (Oral) | 2022 | FGML [^FGML] | [[PDF](https://arxiv.org/abs/2207.11812)] |
 | FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR |  | preprint | 2022 | FD-GATDR[^FD-GATDR] | [[PDF](https://arxiv.org/abs/2207.05750)] |
 | Privacy-preserving Graph Analytics: Secure Generation and Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.00048)] |
 | Personalized Subgraph Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.10206)] |
