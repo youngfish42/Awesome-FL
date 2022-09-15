@@ -10,6 +10,12 @@ def read_mdfile(md_file: str):
     return md_str
 
 
+def write_mdfile(md_file: str, md_str: str):
+    """Write markdown file"""
+    with open(md_file, "w", encoding="utf-8") as f:
+        f.write(md_str)
+
+
 def read_yaml(yaml_file):
     with open(yaml_file, "r", encoding="utf-8") as f:
         data = yaml.load(f, Loader=yaml.FullLoader)
@@ -61,7 +67,7 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
 
     # check table exist
     if len(table_list) == 0:
-        return {}
+        return {}, md_ref
 
     # get table header and body
     table_header = table_list[0]
@@ -96,14 +102,13 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
 
             if header_alias[i] == "materials":
                 get_links = re.findall(r"\[.*?\]\(.*?\)", item.strip())
-                if len(get_links) > 0:
-                    links = {}
-                    for link in get_links:
-                        text = link.split("]")[0].strip("[").strip()
-                        url = link.split("(")[1].strip(")").strip()
-                        links[text.upper()] = url
-                    line_dict[header_alias[i]] = links
-                    continue
+                links = {}
+                for link in get_links:
+                    text = link.split("]")[0].strip("[").strip()
+                    url = link.split("(")[1].strip(")").strip()
+                    links[text.upper()] = url
+                line_dict[header_alias[i]] = links
+                continue
 
             line_dict[header_alias[i]] = item.strip()
 
@@ -126,20 +131,29 @@ def yaml_to_mdtable(yaml_data: dict):
 
     # parse table body to dict
     table_list = []
-    table_list.append("|" + "|".join(table_header.values()) + "|")
+    table_list.append("| " + " | ".join(table_header.values()) + " |")
     table_list.append(
-        "|" + "|".join(["-" * line for line in table_line.values()]) + "|"
+        "| " + " | ".join(["-" * line for line in table_line.values()]) + " |"
     )
     for line in table_body:
         for key in table_header.keys():
             if key == "tldr":
                 abbr = line[key].split(":")[0].strip()
-                line[key] = f"{abbr}[^{abbr}]"
+                if len(abbr) > 0:
+                    line[key] = f"{abbr}[^{abbr}]"
+                else:
+                    line[key] = ""
+
             if key == "materials":
                 links = []
-                for text, url in line[key].items():
-                    links.append(f"[[{text}]({url})]")
+                if type(line[key]) is not dict:
+                    print(f"materials is str, please check it: {line[key]}")
+                else:
+                    for text, url in line[key].items():
+                        links.append(f"[[{text}]({url})]")
                 line[key] = " ".join(links)
+
+        table_list.append("| " + " | ".join(line.values()) + " |")
 
     return "\n".join(table_list)
 
