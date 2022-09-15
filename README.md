@@ -14,7 +14,8 @@
     - [AI](#FL-in-top-AI-conference-and-journal) [ML](#FL-in-top-ML-conference-and-journal) [DM](#FL-in-top-DM-conference-and-journal) [Secure](#FL-in-top-Secure-conference-and-journal) [CV](#FL-in-top-CV-conference-and-journal) [NLP](#FL-in-top-NLP-conference-and-journal) [IR](#FL-in-top-IR-conference-and-journal) [DB](#FL-in-top-DB-conference-and-journal) [Network](#FL-in-top-Network-conference-and-journal) [System](#FL-in-top-System-conference-and-journal) 
 - [Framework](#Framework)
 - [Datasets](#Datasets)
-- [Tutorials](#Tutorials)
+- [Surveys](#Surveys)
+- [Tutorials and Courses](#Tutorials-and-Courses)
 - Key Conferences/Workshops/Journals
   - [Workshops](#Workshops) [Special Issues](#Journal-Special-Issues) [Special Tracks](#Conference-Special-Tracks)
 
@@ -955,15 +956,35 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 # Datasets
 
+## Graph datasets
+
+
+
+## Tabular datasets
+
+
+
+## FL datasets
+
 - [LEAF](https://leaf.cmu.edu/)
 - [Federated AI Dataset](https://dataset.fedai.org/#/) 
 
 
 
-# Tutorials
+# Surveys
+
+
+
+
+
+# Tutorials and Courses
 
 - [Federated Learning on MNIST using a CNN](https://colab.research.google.com/drive/1dRG3yNAlDar3tll4VOkmoU-aLslhUS8d), AI6101, 2020 ([Demo Video](https://www.youtube.com/watch?v=XKQi-CUqCsM))
 - [Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/), AAAI-19, Honolulu, HI, USA
+
+
+
+
 
 
 
