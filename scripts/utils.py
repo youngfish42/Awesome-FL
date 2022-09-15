@@ -18,7 +18,7 @@ def read_yaml(yaml_file):
 
 def write_yaml(yaml_file, data):
     with open(yaml_file, "w", encoding="utf-8") as f:
-        yaml.dump(data, f, allow_unicode=True)
+        yaml.dump(data, f, allow_unicode=True, sort_keys=False)
 
 
 def get_content(src: str, start_comment: str, end_comment: str):
@@ -50,7 +50,7 @@ def parse_header(header_str: str):
     return header_str.strip().lower().replace(" ", "_").replace(";", "")
 
 
-def mdtable_to_yaml(table_content: str):
+def mdtable_to_yaml(table_content: str, md_ref: dict):
     """Convert markdown table to yaml"""
 
     # parse table to list
@@ -86,7 +86,84 @@ def mdtable_to_yaml(table_content: str):
     for line in table_body:
         line_dict = {}
         for i, item in enumerate(line):
+            if header_alias[i] == "tldr" and len(item.strip()) > 0:
+                abbr = item.strip().split("[")[0].strip().replace(" ", "-")
+                if not abbr in md_ref:
+                    print(f"can not find {abbr} in md_ref")
+                    md_ref[abbr] = ""
+                line_dict[header_alias[i]] = f"{abbr}: {md_ref[abbr]}"
+                continue
+
+            if header_alias[i] == "materials":
+                get_links = re.findall(r"\[.*?\]\(.*?\)", item.strip())
+                if len(get_links) > 0:
+                    links = {}
+                    for link in get_links:
+                        text = link.split("]")[0].strip("[").strip()
+                        url = link.split("(")[1].strip(")").strip()
+                        links[text.upper()] = url
+                    line_dict[header_alias[i]] = links
+                    continue
+
             line_dict[header_alias[i]] = item.strip()
+
         data["body"].append(line_dict)
 
-    return data
+    return data, md_ref
+
+
+def yaml_to_mdtable(yaml_data: dict):
+    """Convert yaml to markdown table"""
+
+    # check yaml data exist
+    if len(yaml_data) == 0:
+        return ""
+
+    # get table header and body
+    table_header = yaml_data["header"]
+    table_line = yaml_data["length"]
+    table_body = yaml_data["body"]
+
+    # parse table body to dict
+    table_list = []
+    table_list.append("|" + "|".join(table_header.values()) + "|")
+    table_list.append(
+        "|" + "|".join(["-" * line for line in table_line.values()]) + "|"
+    )
+    for line in table_body:
+        for key in table_header.keys():
+            if key == "tldr":
+                abbr = line[key].split(":")[0].strip()
+                line[key] = f"{abbr}[^{abbr}]"
+            if key == "materials":
+                links = []
+                for text, url in line[key].items():
+                    links.append(f"[[{text}]({url})]")
+                line[key] = " ".join(links)
+
+    return "\n".join(table_list)
+
+
+def get_mdref(md_str: str, start_comment: str, end_comment: str):
+    ref_content = get_content(md_str, start_comment, end_comment)
+
+    ref_dict = {}
+    for line in ref_content.splitlines():
+        if line.startswith("["):
+            ref_dict[
+                line.split("]:")[0]
+                .strip("[]")
+                .replace("^", "")
+                .strip()
+                .replace(" ", "")
+            ] = line.split("]:")[1].strip()
+
+    return ref_dict
+
+
+def write_mdref(md_ref: dict):
+    ref_list = []
+    for key, value in md_ref.items():
+        ref_list.append(f"[^{key}]: {value}")
+
+    return "\n".join(ref_list)
