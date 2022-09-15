@@ -178,6 +178,8 @@ def get_mdref(md_str: str, start_comment: str, end_comment: str):
 def write_mdref(md_ref: dict):
     ref_list = []
     for key, value in md_ref.items():
+        if len(value) == 0:
+            value = "TBC"
         ref_list.append(f"[^{key}]: {value}")
 
     return "\n".join(ref_list)
