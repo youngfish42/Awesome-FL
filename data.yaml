@@ -5209,18 +5209,18 @@ fl-in-top-nlp-conference-and-journal:
       UC.: https://github.com/MarcioPorto/federated-phenotyping
 fl-in-top-db-conference-and-journal:
   header:
-    title: 'Title                                                           '
-    affiliation: '    Affiliation                        '
-    venue: '    Venue              '
-    year: '    Year    '
-    tldr: '    TL;DR                                  '
-    materials: '    Materials'
+    title: 'Title                                                        '
+    affiliation: ' Affiliation                     '
+    venue: ' Venue           '
+    year: ' Year '
+    tldr: ' TL;DR                                     '
+    materials: ' Materials'
   length:
     title: 60
     affiliation: 31
     venue: 15
     year: 4
-    tldr: 35
+    tldr: 41
     materials: 60
   body:
   - title: 'Skellam Mixture Mechanism: a Novel Approach to Federated Learning with
@@ -5286,7 +5286,7 @@ fl-in-top-db-conference-and-journal:
     affiliation: The UBC
     venue: ICDE
     year: '2022'
-    tldr: ''
+    tldr: 'Completed-Federated-Shapley-Value: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835382
       PDF: https://arxiv.org/abs/2109.09046
@@ -5295,7 +5295,27 @@ fl-in-top-db-conference-and-journal:
     affiliation: USTC
     venue: ICDE
     year: '2022'
-    tldr: 'FedADMM: TBC'
+    tldr: 'FedADMM: Federated Learning (FL) is an emerging framework for distributed
+      processing of large data volumes by edge devices subject to limited communication
+      bandwidths, heterogeneity in data distributions and computational resources,
+      as well as privacy considerations. In this paper, we introduce a new FL protocol
+      termed FedADMM based on primal-dual optimization. The proposed method leverages
+      dual variables to tackle statistical heterogeneity, and accommodates system
+      heterogeneity by tolerating variable amount of work performed by clients. FedADMM
+      maintains identical communication costs per round as FedAvg/Prox, and generalizes
+      them via the augmented Lagrangian. A convergence proof is established for nonconvex
+      objectives, under no restrictions in terms of data dissimilarity or number of
+      participants per round of the algorithm. We demonstrate the merits through extensive
+      experiments on real datasets, under both IID and non-IID data distributions
+      across clients. FedADMM consistently outperforms all baseline methods in terms
+      of communication efficiency, with the number of rounds needed to reach a prescribed
+      accuracy reduced by up to 87%. The algorithm effectively adapts to heterogeneous
+      data distributions through the use of dual variables, without the need for hyperparameter
+      tuning, and its advantages are more pronounced in large-scale systems. 联邦学习
+      (FL) 是一种新兴框架，用于边缘设备分布式处理大数据量，受限于有限的通信带宽、数据分布和计算资源的异构性以及隐私考虑。在本文中，我们介绍了一种基于原始对偶优化的称为
+      FedADMM 的新 FL 协议。所提出的方法利用双变量来解决统计异质性，并通过容忍客户执行的可变工作量来适应系统异质性。 FedADMM 保持与 FedAvg/Prox
+      相同的每轮通信成本，并通过增强的拉格朗日量对其进行推广。为非凸目标建立了收敛证明，不受数据差异或每轮算法参与者数量的限制。我们在跨客户端的 IID 和非
+      IID 数据分布下，通过对真实数据集的广泛实验证明了这些优点。 FedADMM 在通信效率方面始终优于所有基线方法，达到规定精度所需的轮数减少了高达 87%。该算法通过使用对偶变量有效适应异构数据分布，无需超参数调优，在大规模系统中优势更加明显。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835545
       PDF: https://arxiv.org/abs/2204.03529
@@ -5305,14 +5325,31 @@ fl-in-top-db-conference-and-journal:
     affiliation: USTC
     venue: ICDE
     year: '2022'
-    tldr: 'FedMP: TBC'
+    tldr: 'FedMP: The existing FL frameworks usually suffer from the difficulties
+      of resource limitation and edge heterogeneity. Herein, we design and implement
+      FedMP, an efficient FL framework through adaptive model pruning. We theoretically
+      analyze the impact of pruning ratio on model training performance, and propose
+      to employ a Multi-Armed Bandit based online learning algorithm to adaptively
+      determine different pruning ratios for heterogeneous edge nodes, even without
+      any prior knowledge of their computation and communication capabilities. With
+      adaptive model pruning, FedMP can not only reduce resource consumption but also
+      achieve promising accuracy. To prevent the diverse structures of pruned models
+      from affecting the training convergence, we further present a new parameter
+      synchronization scheme, called Residual Recovery Synchronous Parallel (R2SP),
+      and provide a theoretical convergence guarantee. Extensive experiments on the
+      classical models and datasets demonstrate that FedMP is effective for different
+      heterogeneous scenarios and data distributions, and can provide up to 4.1× speedup
+      compared to the existing FL methods.现有的 FL 框架通常存在资源限制和边缘异构的困难。在这里，我们通过自适应模型修剪设计并实现了一个高效的
+      FL 框架 FedMP。我们从理论上分析了剪枝率对模型训练性能的影响，并提出采用基于多臂老虎机的在线学习算法来自适应地确定异构边缘节点的不同剪枝率，即使对它们的计算和通信能力没有任何先验知识。通过自适应模型修剪，FedMP
+      不仅可以减少资源消耗，而且可以实现有希望的准确性。为了防止剪枝模型的多种结构影响训练收敛，我们进一步提出了一种新的参数同步方案，称为残差恢复同步并行（R2SP），并提供了理论上的收敛保证。对经典模型和数据集的大量实验表明，FedMP
+      对于不同的异构场景和数据分布是有效的，与现有的 FL 方法相比，可以提供高达 4.1 倍的加速。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835327
   - title: 'Federated Learning on Non-IID Data Silos: An Experimental Study. :fire:'
     affiliation: NUS
     venue: ICDE
     year: '2022'
-    tldr: ''
+    tldr: 'Experimental-Study-on-non-IID-data: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835537
       PDF: https://arxiv.org/abs/2102.02079
@@ -5322,14 +5359,42 @@ fl-in-top-db-conference-and-journal:
     affiliation: USTC
     venue: ICDE
     year: '2022'
-    tldr: 'FedMigr: TBC'
+    tldr: 'FedMigr: To approach the challenges of non-IID data and limited communication
+      resource raised by the emerging federated learning (FL) in mobile edge computing
+      (MEC), we propose an efficient framework, called FedMigr, which integrates a
+      deep reinforcement learning (DRL) based model migration strategy into the pioneer
+      FL algorithm FedAvg. According to the data distribution and resource constraints,
+      our FedMigr will intelligently guide one client to forward its local model to
+      another client after local updating, rather than directly sending the local
+      models to the server for global aggregation as in FedAvg. Intuitively, migrating
+      a local model from one client to another is equivalent to training it over more
+      data from different clients, contributing to alleviating the influence of non-IID
+      issue. We prove that FedMigr can help to reduce the parameter divergences between
+      different local models and the global model from a theoretical perspective,
+      even over local datasets with non-IID settings. Extensive experiments on three
+      popular benchmark datasets demonstrate that FedMigr can achieve an average accuracy
+      improvement of around 13%, and reduce bandwidth consumption for global communication
+      by 42% on average, compared with the baselines. 为了应对移动边缘计算 (MEC) 中新兴的联邦学习 (FL)
+      带来的非 IID 数据和有限通信资源的挑战，我们提出了一个名为 FedMigr 的高效框架，该框架集成了基于深度强化学习 (DRL) 的模型迁移策略进入先驱
+      FL 算法 FedAvg。根据数据分布和资源限制，我们的 FedMigr 会智能地引导一个客户端在本地更新后将其本地模型转发给另一个客户端，而不是像 FedAvg
+      那样直接将本地模型发送到服务器进行全局聚合。直观地说，将本地模型从一个客户端迁移到另一个客户端相当于在来自不同客户端的更多数据上对其进行训练，有助于减轻非
+      IID 问题的影响。我们证明 FedMigr 从理论角度可以帮助减少不同局部模型和全局模型之间的参数差异，即使在具有非 IID 设置的局部数据集上也是如此。在三个流行的基准数据集上进行的大量实验表明，与基线相比，FedMigr
+      可以实现约 13% 的平均准确度提升，并将全局通信的带宽消耗平均减少 42%。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835657
   - title: 'Samba: A System for Secure Federated Multi-Armed Bandits'
-    affiliation: ''
+    affiliation: Univ. Clermont Auvergne
     venue: ICDE
     year: '2022'
-    tldr: 'Samba: TBC'
+    tldr: 'Samba: The federated learning paradigm allows several data owners to contribute
+      to a machine learning task without exposing their potentially sensitive data.
+      We focus on cumulative reward maximization in Multi-Armed Bandits (MAB), a classical
+      reinforcement learning model for decision making under uncertainty. We demonstrate
+      Samba, a generic framework for Secure federAted Multi-armed BAndits. The demonstration
+      platform is a Web interface that simulates the distributed components of Samba,
+      and which helps the data scientist to configure the end-to-end workflow of deploying
+      a federated MAB algorithm. The user-friendly interface of Samba, allows the
+      users to examine the interaction between three key dimensions of federated MAB'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835585
       CODE: https://github.com/gamarcad/samba-demo
@@ -5337,7 +5402,35 @@ fl-in-top-db-conference-and-journal:
     affiliation: ZJU
     venue: ICDE
     year: '2022'
-    tldr: 'FedRecAttack: TBC'
+    tldr: 'FedRecAttack: Federated Recommendation (FR) has received considerable popularity
+      and attention in the past few years. In FR, for each user, its feature vector
+      and interaction data are kept locally on its own client thus are private to
+      others. Without the access to above information, most existing poisoning attacks
+      against recommender systems or federated learning lose validity. Benifiting
+      from this characteristic, FR is commonly considered fairly secured. However,
+      we argue that there is still possible and necessary security improvement could
+      be made in FR. To prove our opinion, in this paper we present FedRecAttack,
+      a model poisoning attack to FR aiming to raise the exposure ratio of target
+      items. In most recommendation scenarios, apart from private user-item interactions
+      (e.g., clicks, watches and purchases), some interactions are public (e.g., likes,
+      follows and comments). Motivated by this point, in FedRecAttack we make use
+      of the public interactions to approximate users'' feature vectors, thereby attacker
+      can generate poisoned gradients accordingly and control malicious users to upload
+      the poisoned gradients in a well-designed way. To evaluate the effectiveness
+      and side effects of FedRecAttack, we conduct extensive experiments on three
+      real-world datasets of different sizes from two completely different scenarios.
+      Experimental results demonstrate that our proposed FedRecAttack achieves the
+      state-of-the-art effectiveness while its side effects are negligible. Moreover,
+      even with small proportion (3%) of malicious users and small proportion (1%)
+      of public interactions, FedRecAttack remains highly effective, which reveals
+      that FR is more vulnerable to attack than people commonly considered. 联邦推荐（FR）在过去几年中受到了相当大的欢迎和关注。在
+      FR 中，对于每个用户，其特征向量和交互数据都本地保存在自己的客户端上，因此对其他人来说是私有的。如果无法访问上述信息，大多数现有的针对推荐系统或联邦学习的中毒攻击都会失去有效性。得益于这一特性，FR
+      通常被认为是相当安全的。然而，我们认为在 FR 中仍有可能和必要的安全改进。为了证明我们的观点，在本文中，我们提出了 FedRecAttack，这是一种针对
+      FR 的模型中毒攻击，旨在提高目标项目的曝光率。在大多数推荐场景中，除了私人用户-项目交互（例如，点击、观看和购买）之外，一些交互是公开的（例如，喜欢、关注和评论）。受此启发，在
+      FedRecAttack 中，我们利用公共交互来近似用户的特征向量，从而攻击者可以相应地生成投毒梯度，并控制恶意用户以精心设计的方式上传投毒梯度。为了评估
+      FedRecAttack 的有效性和副作用，我们对来自两个完全不同场景的三个不同大小的真实数据集进行了广泛的实验。实验结果表明，我们提出的 FedRecAttack
+      实现了最先进的效果，而其副作用可以忽略不计。此外，即使恶意用户的比例很小（3%）和公共交互的比例很小（1%），FedRecAttack 仍然非常有效，这表明
+      FR 比人们通常认为的更容易受到攻击。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835228
       PDF: https://arxiv.org/abs/2204.01499
@@ -5361,14 +5454,37 @@ fl-in-top-db-conference-and-journal:
     affiliation: USTC
     venue: ICDE
     year: '2022'
-    tldr: 'DIG-FL: TBC'
+    tldr: 'DIG-FL: The performance of the FL model heavily depends on the quality
+      of participants'' local data, which makes measuring the contributions of participants
+      an essential task for various purposes, e.g., participant selection and reward
+      allocation. The Shapley value is widely adopted by previous work for contribution
+      assessment, which, however, requires repeatedly leave-one-out retraining and
+      thus incurs the prohibitive cost for FL. In this paper, we propose a highly
+      efficient approach, named DIG-FL, to estimate the Shapley value of each participant
+      without any model retraining. It''s worth noting that our approach is applicable
+      to both vertical federated learning (VFL) and horizontal federated learning
+      (HFL), and we provide concrete design for VFL and HFL. In addition, we propose
+      a DIG-FL based reweight mechanism to improve the model training in terms of
+      accuracy and convergence speed by dynamically adjusting the weights of participants
+      according to their per-epoch contributions, and theoretically analyze the convergence
+      speed. Our extensive evaluations on 14 public datasets show that the estimated
+      Shapley value is very close to the actual Shapley value with Pearson''s correlation
+      coefficient up to 0.987, while the cost is orders of magnitude smaller than
+      state-of-the-art methods. When there are more than 80% participants holding
+      low-quality data, by dynamically adjusting the weights, DIG-FL can effectively
+      accelerate the convergence and improve the model accuracy.  FL 模型的性能在很大程度上取决于参与者本地数据的质量，这使得衡量参与者的贡献成为各种目的的基本任务，例如参与者选择和奖励分配。
+      Shapley 值被以前的贡献评估工作广泛采用，然而，这需要反复留一再培训，因此导致 FL 的成本过高。在本文中，我们提出了一种名为 DIG-FL 的高效方法来估计每个参与者的
+      Shapley 值，而无需任何模型再训练。值得注意的是，我们的方法适用于垂直联邦学习 (VFL) 和水平联邦学习 (HFL)，我们为 VFL 和 HFL
+      提供了具体设计。此外，我们提出了一种基于 DIG-FL 的重加权机制，通过根据参与者的每个时期的贡献动态调整参与者的权重来提高模型训练的准确性和收敛速度，并从理论上分析收敛速度。我们对
+      14 个公共数据集的广泛评估表明，估计的 Shapley 值非常接近实际的 Shapley 值，Pearson 相关系数高达 0.987，而成本比最先进的方法小几个数量级。当有
+      80% 以上的参与者持有低质量数据时，通过动态调整权重，DIG-FL 可以有效加速收敛，提高模型精度。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835159
   - title: An Introduction to Federated Computation
     affiliation: University of Warwick; Facebook
-    venue: SIGMOD
+    venue: SIGMOD Tutorial
     year: '2022'
-    tldr: ''
+    tldr: 'FederatedComputation: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3514221.3522561
   - title: 'BlindFL: Vertical Federated Machine Learning without Peeking into Your
@@ -5376,46 +5492,123 @@ fl-in-top-db-conference-and-journal:
     affiliation: PKU; Tencent
     venue: SIGMOD
     year: '2022'
-    tldr: 'BlindFL: TBC'
+    tldr: 'BlindFL: Due to the rising concerns on privacy protection, how to build
+      machine learning (ML) models over different data sources with security guarantees
+      is gaining more popularity. Vertical federated learning (VFL) describes such
+      a case where ML models are built upon the private data of different participated
+      parties that own disjoint features for the same set of instances, which fits
+      many real-world collaborative tasks. Nevertheless, we find that existing solutions
+      for VFL either support limited kinds of input features or suffer from potential
+      data leakage during the federated execution. To this end, this paper aims to
+      investigate both the functionality and security of ML modes in the VFL scenario.To
+      be specific, we introduce BlindFL, a novel framework for VFL training and inference.
+      First, to address the functionality of VFL models, we propose the federated
+      source layers to unite the data from different parties. Various kinds of features
+      can be supported efficiently by the federated source layers, including dense,
+      sparse, numerical, and categorical features. Second, we carefully analyze the
+      security during the federated execution and formalize the privacy requirements.
+      Based on the analysis, we devise secure and accurate algorithm protocols, and
+      further prove the security guarantees under the ideal-real simulation paradigm.
+      Extensive experiments show that BlindFL supports diverse datasets and models
+      efficiently whilst achieves robust privacy guarantees. 垂直联邦学习 (VFL) 描述了这样一种情况，其中
+      ML 模型建立在不同参与方的私有数据之上，这些参与方对同一组实例拥有不相交的特征，这适合许多现实世界的协作任务。尽管如此，我们发现现有的 VFL 解决方案要么支持有限种类的输入特征，要么在联合执行期间遭受潜在的数据泄漏。为此，本文旨在研究
+      VFL 场景中 ML 模式的功能和安全性。具体来说，我们介绍了 BlindFL，这是一种用于 VFL 训练和推理的新框架。首先，为了解决 VFL 模型的功能，我们提出了federated
+      source layers来统一来自不同方的数据。federated source layers可以有效地支持各种特征，包括密集、稀疏、数值和分类特征。其次，我们仔细分析了联邦学习执行期间的安全性，并正式确定了隐私要求。在分析的基础上，我们设计了安全准确的算法协议，进一步证明了理想-现实仿真范式下的安全保证。大量实验表明，BlindFL
+      有效地支持各种数据集和模型，同时实现了强大的隐私保证。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3514221.3526127
       PDF: https://arxiv.org/abs/2206.07975
   - title: An Efficient Approach for Cross-Silo Federated Learning to Rank
-    affiliation: ''
+    affiliation: BUAA
     venue: ICDE
     year: '2021'
-    tldr: ''
+    tldr: 'CS-F-LTR: Traditional learning-to-rank (LTR) models are usually trained
+      in a centralized approach based upon a large amount of data. However, with the
+      increasing awareness of data privacy, it is harder to collect data from multiple
+      owners as before, and the resultant data isolation problem makes the performance
+      of learned LTR models severely compromised. Inspired by the recent progress
+      in federated learning, we propose a novel framework named Cross-Silo Federated
+      Learning-to-Rank (CS-F-LTR), where the efficiency issue becomes the major bottleneck.
+      To deal with the challenge, we first devise a privacy-preserving cross-party
+      term frequency querying scheme based on sketching algorithms and differential
+      privacy. To further improve the overall efficiency, we propose a new structure
+      named reverse top-K sketch (RTK-Sketch) which significantly accelerates the
+      feature generation process while holding theoretical guarantees on accuracy
+      loss. Extensive experiments conducted on public datasets verify the effectiveness
+      and efficiency of the proposed approach. 传统的排序学习 (LTR) 模型通常基于大量数据以集中方法进行训练。然而，随着数据隐私意识的增强，像以前一样从多个所有者那里收集数据变得更加困难，由此产生的数据隔离问题使得学习到的
+      LTR 模型的性能受到严重影响。受联邦学习最近进展的启发，我们提出了一个新的框架，称为Cross-silo联邦学习排序（CS-F-LTR），其中效率问题成为主要瓶颈。为了应对这一挑战，我们首先设计了一种基于草图算法和差分隐私的隐私保护跨方词频查询方案。为了进一步提高整体效率，我们提出了一种名为反向
+      top-K 草图（RTK-Sketch）的新结构，它显着加快了特征生成过程，同时保持了精度损失的理论保证。在公共数据集上进行的大量实验验证了所提出方法的有效性和效率。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9458704
       RELATED PAPER(ZH): ZH)]
   - title: Feature Inference Attack on Model Predictions in Vertical Federated Learning
-    affiliation: ''
+    affiliation: NUS
     venue: ICDE
     year: '2021'
-    tldr: ''
+    tldr: 'FeatureInferenceAttack: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9458672/
       PDF: https://arxiv.org/abs/2010.10152
       CODE: https://github.com/xj231/featureinference-vfl
   - title: Efficient Federated-Learning Model Debugging
-    affiliation: ''
+    affiliation: USTC
     venue: ICDE
     year: '2021'
-    tldr: ''
+    tldr: 'FLDebugger: A fundamental issue in FL is the susceptibility to the erroneous
+      training data. This problem is especially challenging due to the invisibility
+      of clients'' local training data and training process, as well as the resource
+      constraints of a large number of mobile and edge devices. In this paper, we
+      try to tackle this challenging issue by introducing the first FL debugging framework,
+      FLDebugger, for mitigating test error caused by erroneous training data. The
+      pro-posed solution traces the global model''s bugs (test errors), jointly through
+      the training log and the underlying learning algorithm, back to first identify
+      the clients and subsequently their training samples that are most responsible
+      for the errors. In addition, we devise an influence-based participant selection
+      strategy to fix bugs as well as to accelerate the convergence of model retraining.
+      The performance of the identification algorithm is evaluated via extensive experiments
+      on a real AIoT system (50 clients, including 20 edge computers, 20 laptops and
+      10 desktops) and in larger-scale simulated environments. The evaluation results
+      attest to that our framework achieves accurate and efficient identification
+      of negatively influential clients and samples, and significantly improves the
+      model performance by fixing bugs. FL中的一个基本问题是对错误训练数据的敏感性。由于客户端本地训练数据和训练过程的不可见性，以及大量移动和边缘设备的资源限制，这个问题尤其具有挑战性。在本文中，我们尝试通过引入第一个
+      FL 调试框架 FLDebugger 来解决这个具有挑战性的问题，以减轻由错误训练数据引起的测试错误。所提出的解决方案通过训练日志和底层学习算法共同跟踪全局模型的错误（测试错误），以首先识别对错误负有最大责任的客户，然后是他们的训练样本。此外，我们设计了一种基于影响力的参与者选择策略来修复错误并加速模型再训练的收敛。识别算法的性能通过在真实
+      AIoT 系统（50 个客户端，包括 20 台边缘计算机、20 台笔记本电脑和 10 台台式机）和更大规模的模拟环境中的广泛实验来评估。评估结果证明，我们的框架实现了对负面影响的客户和样本的准确高效识别，并通过修复错误显着提高了模型性能。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9458829
   - title: Federated Matrix Factorization with Privacy Guarantee
     affiliation: Purdue
     venue: VLDB
     year: '2021'
-    tldr: ''
+    tldr: 'FMFPG: This paper comprehensively studies the problem of matrix factorization
+      in different *federated learning* (FL) settings, where a set of parties want
+      to cooperate in training but refuse to share data directly. We first propose
+      a generic algorithmic framework for various settings of federated matrix factorization
+      (FMF) and provide a theoretical convergence guarantee. We then systematically
+      characterize privacy-leakage risks in data collection, training, and publishing
+      stages for three different settings and introduce privacy notions to provide
+      end-to-end privacy protections. The first one is *vertical federated learning*
+      (VFL), where multiple parties have the ratings from the same set of users but
+      on disjoint sets of items. The second one is *horizontal federated learning*
+      (HFL), where parties have ratings from different sets of users but on the same
+      set of items. The third setting is *local federated learning* (LFL), where the
+      ratings of the users are only stored on their local devices. We introduce adapted
+      versions of FMF with the privacy notions guaranteed in the three settings. In
+      particular, a new private learning technique called *embedding clipping* is
+      introduced and used in all the three settings to ensure differential privacy.
+      For the LFL setting, we combine differential privacy with secure aggregation
+      to protect the communication between user devices and the server with a strength
+      similar to the local differential privacy model, but much better accuracy. We
+      perform experiments to demonstrate the effectiveness of our approaches. 本文全面研究了不同联邦学习（FL）设置中的矩阵分解问题，其中一组方希望在训练中进行合作，但拒绝直接共享数据。我们首先为federated
+      matrix factorization (FMF) 的各种设置提出了一个通用算法框架，并提供了理论上的收敛保证。然后，我们系统地描述了三种不同设置的数据收集、训练和发布阶段的隐私泄露风险，并引入了隐私概念以提供端到端的隐私保护。第一个是垂直联合学习（VFL），其中多方具有来自同一组用户但不相交的项目集的评分。第二个是横向联合学习（HFL），各方对同一组项目的不同用户集进行评分。第三个设置是本地联合学习
+      (LFL)，其中用户的评分仅存储在他们的本地设备上。我们引入了 FMF 的改编版本，并在三种设置中保证了隐私概念。特别是，在所有三种设置中引入并使用了一种称为嵌入裁剪的新私有学习技术，以确保差异隐私。对于
+      LFL 设置，我们将差分隐私与安全聚合相结合，以保护用户设备与服务器之间的通信，其强度类似于本地差分隐私模型，但精度要高得多。我们进行实验来证明我们的方法的有效性。'
     materials:
       PUB: https://www.vldb.org/pvldb/vol15/p900-li.pdf
   - title: Projected Federated Averaging with Heterogeneous Differential Privacy.
     affiliation: Renmin University of China
     venue: VLDB
     year: '2021'
-    tldr: ''
+    tldr: 'PFA: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.14778/3503585.3503592
       CODE: https://github.com/Emory-AIMS/PFA
@@ -5423,7 +5616,34 @@ fl-in-top-db-conference-and-journal:
     affiliation: Simon Fraser University
     venue: VLDB
     year: '2021'
-    tldr: 'FedRain-and-Frog: TBC'
+    tldr: 'FedRain-and-Frog: How can we debug a logistical regression model in a federated
+      learning setting when seeing the model behave unexpectedly (e.g., the model
+      rejects all high-income customers'' loan applications)? The SQL-based training
+      data debugging framework has proved effective to fix this kind of issue in a
+      non-federated learning setting. Given an unexpected query result over model
+      predictions, this framework automatically removes the label errors from training
+      data such that the unexpected behavior disappears in the retrained model. In
+      this paper, we enable this powerful framework for federated learning. The key
+      challenge is how to develop a security protocol for federated debugging which
+      is proved to be secure, efficient, and accurate. Achieving this goal requires
+      us to investigate how to seamlessly integrate the techniques from multiple fields
+      (Databases, Machine Learning, and Cybersecurity). We first propose FedRain,
+      which extends Rain, the state-of-the-art SQL-based training data debugging framework,
+      to our federated learning setting. We address several technical challenges to
+      make FedRain work and analyze its security guarantee and time complexity. The
+      analysis results show that FedRain falls short in terms of both efficiency and
+      security. To overcome these limitations, we redesign our security protocol and
+      propose Frog, a novel SQL-based training data debugging framework tailored for
+      federated learning. Our theoretical analysis shows that Frog is more secure,
+      more accurate, and more efficient than FedRain. We conduct extensive experiments
+      using several real-world datasets and a case study. The experimental results
+      are consistent with our theoretical analysis and validate the effectiveness
+      of Frog in practice. 当模型表现异常时（例如，模型拒绝所有高收入客户的贷款申请），我们如何在联邦学习环境中调试逻辑回归模型？事实证明，基于
+      SQL 的训练数据调试框架可以有效地解决非联邦学习环境中的此类问题。给定模型预测的意外查询结果，该框架会自动从训练数据中删除标签错误，从而使重新训练的模型中的意外行为消失。在本文中，我们为联邦学习启用了这个强大的框架。关键的挑战是如何为联合调试开发一种被证明是安全、高效和准确的安全协议。实现这一目标需要我们研究如何无缝集成来自多个领域（数据库、机器学习和网络安全）的技术。我们首先提出
+      FedRain，它将最先进的基于 SQL 的训练数据调试框架 Rain 扩展到我们的联邦学习设置。我们解决了几个技术挑战以使 FedRain 工作并分析其安全保证和时间复杂度。分析结果表明，FedRain
+      在效率和安全性方面都存在不足。为了克服这些限制，我们重新设计了我们的安全协议并提出了 Frog，这是一种为联邦学习量身定制的基于 SQL 的新型训练数据调试框架。我们的理论分析表明，Frog
+      比 FedRain 更安全、更准确、更高效。我们使用几个真实世界的数据集和一个案例研究进行了广泛的实验。实验结果与我们的理论分析一致，在实践中验证了 Frog
+      的有效性。'
     materials:
       PUB: http://www.vldb.org/pvldb/vol15/p388-wu.pdf
       PDF: https://arxiv.org/abs/2108.11884
@@ -5433,7 +5653,13 @@ fl-in-top-db-conference-and-journal:
     affiliation: ZJU
     venue: VLDB
     year: '2021'
-    tldr: ''
+    tldr: 'Refiner: Techniques for learning models from decentralized data must properly
+      handle two natures of such data, namely privacy and massive engagement. Federated
+      learning (FL) is a promising approach for such a learning task since the technique
+      learns models from data without exposing privacy. However, traditional FL methods
+      assume that the participating mobile devices are honest volunteers. This assumption
+      makes traditional FL methods unsuitable for applications where two kinds of
+      participants are engaged'
     materials:
       PUB: http://vldb.org/pvldb/vol14/p2659-jiang.pdf
   - title: 'Tanium Reveal: A Federated Search Engine for Querying Unstructured File
@@ -5441,7 +5667,29 @@ fl-in-top-db-conference-and-journal:
     affiliation: Tanium Inc.
     venue: VLDB
     year: '2021'
-    tldr: ''
+    tldr: 'TaniumReveal: Tanium Reveal is a federated search engine deployed on large-scale
+      enterprise networks that is capable of executing data queries across billions
+      of private data files within 60 seconds. Data resides at the *edge* of networks,
+      potentially distributed on hundreds of thousands of endpoints. The anatomy of
+      the search engine consists of local inverse indexes on each endpoint and a global
+      communication platform called Tanium for issuing search queries to all endpoints.
+      Reveal enables asynchronous parsing and indexing on endpoints without noticeable
+      impact to the endpoints'' primary functionality. The engine harnesses the Tanium
+      platform, which is based on a self-organizing, fault-tolerant, scalable, linear
+      chain communication scheme. We demonstrate a multi-tier workflow for executing
+      search queries across a network and for viewing matching snippets of text on
+      any endpoint. We analyze metrics for federated indexing and searching in multiple
+      environments including a production network with 1.05 billion searchable files
+      distributed across 4236 endpoints. While primarily focusing on Boolean, phrase,
+      and similarity query types, Reveal is compatible with further automation (e.g.,
+      semantic classification based on machine learning). Lastly, we discuss safeguards
+      for sensitive information within Reveal including cryptographic hashing of private
+      text and role-based access control (RBAC). Tanium Reveal 是一个部署在大型企业网络上的联邦搜索引擎，能够在
+      60 秒内对数十亿个私有数据文件执行数据查询。数据位于网络边缘，可能分布在数十万个端点上。搜索引擎的结构包括每个端点上的本地反向索引和一个名为 Tanium
+      的全球通信平台，用于向所有端点发出搜索查询。 Reveal 在端点上启用异步解析和索引，而不会对端点的主要功能产生明显影响。该引擎利用基于自组织、容错、可扩展、线性链通信方案的
+      Tanium 平台。我们演示了一个多层工作流程，用于在网络上执行搜索查询并在任何端点上查看匹配的文本片段。我们分析了多个环境中的联邦索引和搜索指标，包括分布在
+      4236 个端点上的 10.5 亿个可搜索文件的生产网络。虽然主要关注布尔、短语和相似性查询类型，但 Reveal 与进一步的自动化兼容（例如，基于机器学习的语义分类）。最后，我们讨论了
+      Reveal 中敏感信息的保护措施，包括私有文本的加密散列和基于角色的访问控制 (RBAC)。'
     materials:
       PUB: http://www.vldb.org/pvldb/vol14/p3096-stoddard.pdf
       VIDEO: https://www.bilibili.com/video/BV1Wg411j7aA
@@ -5460,18 +5708,52 @@ fl-in-top-db-conference-and-journal:
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3448016.3457241
   - title: 'ExDRa: Exploratory Data Science on Federated Raw Data'
-    affiliation: ''
+    affiliation: SIEMENS
     venue: SIGMOD
     year: '2021'
-    tldr: ''
+    tldr: 'ExDRa: Data science workflows are largely exploratory, dealing with under-specified
+      objectives, open-ended problems, and unknown business value. Therefore, little
+      investment is made in systematic acquisition, integration, and pre-processing
+      of data. This lack of infrastructure results in redundant manual effort and
+      computation. Furthermore, central data consolidation is not always technically
+      or economically desirable or even feasible (e.g., due to privacy, and/or data
+      ownership). The ExDRa system aims to provide system infrastructure for this
+      exploratory data science process on federated and heterogeneous, raw data sources.
+      Technical focus areas include (1) ad-hoc and federated data integration on raw
+      data, (2) data organization and reuse of intermediates, and (3) optimization
+      of the data science lifecycle, under awareness of partially accessible data.
+      In this paper, we describe use cases, the overall system architecture, selected
+      features of SystemDS'' new federated backend (for federated linear algebra programs,
+      federated parameter servers, and federated data preparation), as well as promising
+      initial results. Beyond existing work on federated learning, ExDRa focuses on
+      enterprise federated ML and related data pre-processing challenges. In this
+      context, federated ML has the potential to create a more fine-grained spectrum
+      of data ownership and thus, even new markets.数据科学工作流在很大程度上是探索性的，处理未指定的目标、开放式问题和未知的商业价值。因此，在数据的系统采集、集成和预处理方面投入很少。这种基础设施的缺乏导致了多余的人工和计算。此外，中央数据整合在技术上或经济上并不总是可取的，甚至不可行（例如，由于隐私和/或数据所有权）。
+      ExDRa 系统旨在为联邦和异构原始数据源的探索性数据科学过程提供系统基础设施。技术重点领域包括 (1) 原始数据的临时和联合数据集成，(2) 数据组织和中间体的重用，以及
+      (3) 在了解部分可访问数据的情况下优化数据科学生命周期。在本文中，我们描述了用例、整体系统架构、SystemDS 新的联合后端的选定特性（用于联合线性代数程序、联合参数服务器和联合数据准备），以及有希望的初步结果。除了现有的联合学习工作之外，ExDRa
+      还专注于企业联合 ML 和相关的数据预处理挑战。在这种情况下，联合 ML 有可能创造更细粒度的数据所有权范围，从而创造新的市场。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3448016.3457549
   - title: Joint blockchain and federated learning-based offloading in harsh edge
       computing environments
-    affiliation: ''
+    affiliation: TJU
     venue: SIGMOD workshop
     year: '2021'
-    tldr: ''
+    tldr: 'FLoffloading: With the popularity of edge computing, numerous Internet
+      of Things (IoT) applications have been developed and applied to various fields.
+      However, for the harsh environment with network fluctuations and potential attacks,
+      traditional task offloading decision-making schemes cannot meet the requirements
+      of real-time and security. For this reason, we propose a novel task offloading
+      decision framework to cope with the special requirements of the environment.
+      This framework uses a task offloading decision model based on deep reinforcement
+      learning algorithms, and is located on the user side to reduce the impact of
+      network fluctuations. To improve the efficiency and security of the model in
+      harsh edge computing environments, we adopt federated learning and introduce
+      the blockchain into the process of parameter upload and decentralization of
+      federated learning. In addition, we design a new blockchain consensus algorithm
+      to reduce the waste of computing resources and improve the embedding and propagation
+      speeds of the blockchain. Furthermore, we demonstrate the effect of task offloading
+      of this model by performing offloading decisions on a simulation platform. 随着边缘计算的普及，已经开发出大量物联网（IoT）应用并应用于各个领域。然而，对于网络波动和潜在攻击的恶劣环境，传统的任务卸载决策方案无法满足实时性和安全性的要求。出于这个原因，我们提出了一种新颖的任务卸载决策框架来应对环境的特殊要求。该框架采用基于深度强化学习算法的任务卸载决策模型，定位于用户侧，减少网络波动的影响。为了提高模型在恶劣的边缘计算环境下的效率和安全性，我们采用联邦学习，并将区块链引入到联邦学习的参数上传和去中心化过程中。此外，我们设计了一种新的区块链共识算法，以减少计算资源的浪费，提高区块链的嵌入和传播速度。此外，我们通过在仿真平台上执行卸载决策来展示该模型的任务卸载效果。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3460866.3461765
   - title: Privacy Preserving Vertical Federated Learning for Tree-based Models
