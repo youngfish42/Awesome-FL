@@ -5572,7 +5572,7 @@ fl-in-top-db-conference-and-journal:
       top-K 草图（RTK-Sketch）的新结构，它显着加快了特征生成过程，同时保持了精度损失的理论保证。在公共数据集上进行的大量实验验证了所提出方法的有效性和效率。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9458704
-      RELATED PAPER(ZH): ZH)]
+      RELATED PAPER(ZH): ZH
   - title: Feature Inference Attack on Model Predictions in Vertical Federated Learning
     affiliation: NUS
     venue: ICDE
@@ -6657,7 +6657,7 @@ federated-learning-framework:
     st: ':white_check_mark::white_check_mark:'
     materials:
       DOC: https://fate.readthedocs.io/en/latest/
-      DOC(ZH): ZH)]
+      DOC(ZH): ZH
   - platform: '[MindSpore Federated](https://github.com/mindspore-ai/mindspore/tree/master/tests/st/fl)<br
       />[![Stars](https://img.shields.io/github/stars/mindspore-ai/mindspore.svg?color=red)](https://github.com/mindspore-ai/mindspore/stargazers)<br
       />![](https://img.shields.io/github/last-commit/mindspore-ai/mindspore)'
@@ -6784,7 +6784,7 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://fedlab.readthedocs.io/en/master/
-      DOC(ZH): ZH)]
+      DOC(ZH): ZH
       PAGE: https://github.com/SMILELab-FL/FedLab-benchmarks
   - platform: '[Differentially Private Federated Learning: A Client-level Perspective](https://github.com/SAP-samples/machine-learning-diff-private-federated-learning)
       <br />[![Stars](https://img.shields.io/github/stars/SAP-samples/machine-learning-diff-private-federated-learning.svg?color=blue)](https://github.comSAP-samples/machine-learning-diff-private-federated-learning/stargazers)<br
