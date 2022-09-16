@@ -1145,9 +1145,9 @@ Many thanks :heart: to the other awesome list:
 
 
 
-[![map](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/35/5zw06d5f905.png)](https://www.revolvermaps.com/livestats/5zw06d5f905/)
+<!-- [![map](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/35/5zw06d5f905.png)](https://www.revolvermaps.com/livestats/5zw06d5f905/) -->
 
-
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ls0rpgqb4r&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
 
 <!-- START:reference-section -->
