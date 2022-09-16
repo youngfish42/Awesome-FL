@@ -40,11 +40,12 @@ class Scaffold:
 
         data = utils.read_yaml(yaml_file)
         md_str = utils.read_mdfile(md_file)
+        md_ref = ""
 
         for sec in data["section"]:
             print(sec["title"])
 
-            table_content = utils.yaml_to_mdtable(data[sec["title"]])
+            table_content, md_ref = utils.yaml_to_mdtable(data[sec["title"]], md_ref)
 
             md_str = utils.replace_content(
                 md_str,
@@ -52,6 +53,13 @@ class Scaffold:
                 Config.START_COMMENT.format(sec["title"]),
                 Config.END_COMMENT.format(sec["title"]),
             )
+
+        md_str = utils.replace_content(
+            md_str,
+            md_ref,
+            Config.START_COMMENT.format("reference-section"),
+            Config.END_COMMENT.format("reference-section"),
+        )
 
         utils.write_mdfile(md_file, md_str)
 

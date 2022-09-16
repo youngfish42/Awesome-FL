@@ -117,12 +117,12 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
     return data, md_ref
 
 
-def yaml_to_mdtable(yaml_data: dict):
+def yaml_to_mdtable(yaml_data: dict, md_ref: str):
     """Convert yaml to markdown table"""
 
     # check yaml data exist
     if len(yaml_data) == 0:
-        return ""
+        return "", md_ref
 
     # get table header and body
     table_header = yaml_data["header"]
@@ -139,8 +139,11 @@ def yaml_to_mdtable(yaml_data: dict):
         for key in table_header.keys():
             if key == "tldr":
                 abbr = line[key].split(":")[0].strip()
+
                 if len(abbr) > 0:
+                    md_ref += f"[^{abbr}]: {line[key].split(':')[1].strip()}" + "\n"
                     line[key] = f"{abbr}[^{abbr}]"
+
                 else:
                     line[key] = ""
 
@@ -155,7 +158,7 @@ def yaml_to_mdtable(yaml_data: dict):
 
         table_list.append("| " + " | ".join(line.values()) + " |")
 
-    return "\n".join(table_list)
+    return "\n".join(table_list), md_ref
 
 
 def get_mdref(md_str: str, start_comment: str, end_comment: str):
