@@ -27,7 +27,7 @@ jobs:
 
       - name: Update readme
         run: |
-          cd scripts && python main.py yaml_to_mdtable
+          cd scripts && python main.py merge_md_yaml
 
       - name: Commit Updated
         uses: stefanzweifel/git-auto-commit-action@v4

@@ -1,3 +1,4 @@
+import os
 from config import Config
 import utils
 
@@ -68,3 +69,26 @@ class Scaffold:
         data_ = {}
         data_["section"] = data["section"]
         utils.write_yaml(Config.YAML_PATH, data_)
+
+    def merge_md_yaml(self, md_file=None, yaml_file=None):
+        md_file = md_file or Config.README_PATH
+        yaml_file = yaml_file or Config.YAML_PATH
+
+        md_str = utils.read_mdfile(md_file)
+        data = utils.read_yaml(yaml_file)
+
+        md_ref = utils.get_mdref(
+            md_str,
+            Config.START_COMMENT.format("reference-section"),
+            Config.END_COMMENT.format("reference-section"),
+        )
+
+        # get latest file
+        priority = [Config.README_PATH, Config.YAML_PATH]
+        priority.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+
+        if priority[0] == Config.README_PATH:
+            print("merge md to yaml")
+            self.mdtable_to_yaml(md_file, yaml_file)
+
+        self.yaml_to_mdtable(yaml_file, md_file)
