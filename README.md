@@ -13,8 +13,8 @@
   - FL in top-tier conference and journal by category
     - [AI](#FL-in-top-AI-conference-and-journal) [ML](#FL-in-top-ML-conference-and-journal) [DM](#FL-in-top-DM-conference-and-journal) [Secure](#FL-in-top-Secure-conference-and-journal) [CV](#FL-in-top-CV-conference-and-journal) [NLP](#FL-in-top-NLP-conference-and-journal) [IR](#FL-in-top-IR-conference-and-journal) [DB](#FL-in-top-DB-conference-and-journal) [Network](#FL-in-top-Network-conference-and-journal) [System](#FL-in-top-System-conference-and-journal) 
 - [Framework](#Framework)
-- [Datasets](#Datasets)
-- [Surveys](#Surveys)
+- [Datasets](#datasets)
+- [Surveys](#surveys)
 - [Tutorials and Courses](#Tutorials-and-Courses)
 - Key Conferences/Workshops/Journals
   - [Workshops](#Workshops) [Special Issues](#Journal-Special-Issues) [Special Tracks](#Conference-Special-Tracks)
