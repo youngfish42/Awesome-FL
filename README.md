@@ -146,7 +146,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`** | University of Virginia | CIKM Workshop (Oral) | 2022 | FGML[^FGML] | [[PDF](https://arxiv.org/abs/2207.11812)] |
 | FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR |  | preprint | 2022 | FD-GATDR[^FD-GATDR] | [[PDF](https://arxiv.org/abs/2207.05750)] |
 | Privacy-preserving Graph Analytics: Secure Generation and Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.00048)] |
-| Personalized Subgraph Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.10206)] |
+| Personalized Subgraph Federated Learning |  | preprint | 2022 | FED-PUB[^FED-PUB] | [[PDF](https://arxiv.org/abs/2206.10206)] |
 | Federated Graph Attention Network for Rumor Detection |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.05713)] [[CODE](https://github.com/baichuanzheng1/fedgat)] |
 | FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal Graph Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.03420)] |
 | Privatized Graph Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2203.07105)] |
