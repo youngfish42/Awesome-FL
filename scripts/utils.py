@@ -93,7 +93,13 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
         line_dict = {}
         for i, item in enumerate(line):
             if header_alias[i] == "tldr" and len(item.strip()) > 0:
-                abbr = item.strip().split("[")[0].strip().replace(" ", "-")
+                abbr = (
+                    item.strip()
+                    .split("[")[0]
+                    .strip()
+                    .replace(" ", "-")
+                    .replace("+", "plus")
+                )
                 if not abbr in md_ref:
                     print(f"can not find {abbr} in md_ref")
                     md_ref[abbr] = "TBC"
@@ -173,6 +179,7 @@ def get_mdref(md_str: str, start_comment: str, end_comment: str):
                 .replace("^", "")
                 .strip()
                 .replace(" ", "")
+                .replace("+", "plus")
             )
             cont = line.split("]:")[1].strip()
             if len(cont) == 0:
