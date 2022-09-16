@@ -6037,7 +6037,7 @@ fl-on-graph-data-and-graph-neural-network:
   - title: 'Federated Graph Machine Learning: A Survey of Concepts, Techniques, and
       Applications **`surv.`**'
     affiliation: University of Virginia
-    venue: preprint
+    venue: CIKM Workshop (Oral)
     year: '2022'
     tldr: 'FGML: FGML a comprehensive review of the literature in Federated Graph
       Machine Learning. FGML 对图联邦机器学习的文献进行了全面回顾的综述文章。'
