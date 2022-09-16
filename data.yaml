@@ -387,7 +387,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: University of Rochester
     venue: Patterns
     year: '2022'
-    tldr: 'FLIT+: Federated learning allows end users to build a global model collaboratively
+    tldr: 'FLITplus: Federated learning allows end users to build a global model collaboratively
       while keeping their training data isolated. We ﬁrst simulate a heterogeneous
       federated-learning benchmark (FedChem) by jointly performing scaffold splitting
       and latent Dirichlet allocation on existing datasets. Our results on FedChem
@@ -1548,7 +1548,7 @@ fl-on-tabular-data:
     affiliation: ''
     venue: preprint
     year: '2021'
-    tldr: 'SecureBoost+: TBC'
+    tldr: 'SecureBoostplus: TBC'
     materials:
       PDF: https://arxiv.org/abs/2110.10927
       CODE: https://github.com/FederatedAI/FATE
@@ -1703,8 +1703,16 @@ fl-in-top-tier-journal:
     affiliation: ''
     venue: Nat. Biomed. Eng.
     year: '2022'
-    tldr: 'FL-healthy: This progress has emphasized that, from model development to model deployment, data play central roles. In this Review, we provide a data-centric view of the innovations and challenges that are defining ML for healthcare. We discuss deep generative models and federated learning as strategies to augment datasets for improved model performance, as well as the use of the more recent transformer models for handling larger datasets and enhancing the modelling of clinical text. We also discuss data-focused problems in the deployment of ML, emphasizing the need to efficiently deliver data to ML models for timely clinical predictions and to account for natural data shifts that can deteriorate model performance.
-    这一进展强调，从模型开发到模型部署，数据发挥着核心作用。在这篇评论中，我们提供了一个以数据为中心的观点，即定义医疗保健的ML的创新和挑战。我们讨论了深度生成模型和联合学习，作为增强数据集以提高模型性能的策略，以及使用最近的转化器模型来处理更大的数据集和加强临床文本的建模。我们还讨论了ML部署中以数据为重点的问题，强调需要有效地将数据交付给ML模型，以便及时进行临床预测，并考虑到可能恶化模型性能的自然数据转移。'
+    tldr: 'FL-healthy: This progress has emphasized that, from model development to
+      model deployment, data play central roles. In this Review, we provide a data-centric
+      view of the innovations and challenges that are defining ML for healthcare.
+      We discuss deep generative models and federated learning as strategies to augment
+      datasets for improved model performance, as well as the use of the more recent
+      transformer models for handling larger datasets and enhancing the modelling
+      of clinical text. We also discuss data-focused problems in the deployment of
+      ML, emphasizing the need to efficiently deliver data to ML models for timely
+      clinical predictions and to account for natural data shifts that can deteriorate
+      model performance. 这一进展强调，从模型开发到模型部署，数据发挥着核心作用。在这篇评论中，我们提供了一个以数据为中心的观点，即定义医疗保健的ML的创新和挑战。我们讨论了深度生成模型和联合学习，作为增强数据集以提高模型性能的策略，以及使用最近的转化器模型来处理更大的数据集和加强临床文本的建模。我们还讨论了ML部署中以数据为重点的问题，强调需要有效地将数据交付给ML模型，以便及时进行临床预测，并考虑到可能恶化模型性能的自然数据转移。'
     materials:
       PUB: https://www.nature.com/articles/s41551-022-00898-y
   - title: A federated graph neural network framework for privacy-preserving personalization
@@ -2319,7 +2327,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: SZU
     venue: AAAI
     year: '2021'
-    tldr: 'FedRec++: TBC'
+    tldr: 'FedRecplusplus: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/16546
       VIDEO: https://slideslive.com/38947798/fedrec-lossless-federated-recommendation-with-explicit-feedback
@@ -4844,7 +4852,7 @@ fl-in-top-cv-conference-and-journal:
     affiliation: CAS
     venue: CVPR
     year: '2022'
-    tldr: 'DP-FedAvg+BLUR+LUS: DP-FedAvg+BLUR+LUS study the cause of model performance
+    tldr: 'DP-FedAvgplusBLURplusLUS: DP-FedAvg+BLUR+LUS study the cause of model performance
       degradation in federated learning under user-level DP guarantee and propose
       two techniques, Bounded Local Update Regularization and Local Update Sparsification,
       to increase model quality without sacrificing privacy. DP-FedAvg+BLUR+LUS 研究了在用户级DP保证下联邦学习中模型性能下降的原因,提出了两种技术，即有界局部更新正则化和局部更新稀疏化，以提高模型质量而不牺牲隐私。'
@@ -4976,8 +4984,8 @@ fl-in-top-cv-conference-and-journal:
     affiliation: MIT; Google
     venue: ECCV
     year: '2020'
-    tldr: 'FedVC+FedIR: Introduce two new large-scale datasets for species and landmark
-      classification, with realistic per-user data splits that simulate real-world
+    tldr: 'FedVCplusFedIR: Introduce two new large-scale datasets for species and
+      landmark classification, with realistic per-user data splits that simulate real-world
       edge learning scenarios. We also develop two new algorithms (FedVC, FedIR) that
       intelligently resample and reweight over the client pool, bringing large improvements
       in accuracy and stability in training. 为物种和地标分类引入了两个新的大规模数据集，每个用户的现实数据分割模拟了真实世界的边缘学习场景。我们还开发了两种新的算法（FedVC、FedIR），在客户池上智能地重新取样和重新加权，在训练中带来了准确性和稳定性的巨大改进'
