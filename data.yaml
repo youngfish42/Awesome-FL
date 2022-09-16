@@ -5286,7 +5286,7 @@ fl-in-top-db-conference-and-journal:
     affiliation: The UBC
     venue: ICDE
     year: '2022'
-    tldr: 'Completed-Federated-Shapley-Value: TBC'
+    tldr: 'CSFV: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835382
       PDF: https://arxiv.org/abs/2109.09046
@@ -5349,7 +5349,21 @@ fl-in-top-db-conference-and-journal:
     affiliation: NUS
     venue: ICDE
     year: '2022'
-    tldr: 'Experimental-Study-on-non-IID-data: TBC'
+    tldr: 'ESND: A key and common challenge on distributed databases is the heterogeneity
+      of the data distribution among the parties. The data of different parties are
+      usually non-independently and identically distributed (i.e., non-IID). There
+      have been many FL algorithms to address the learning effectiveness under non-IID
+      data settings. However, there lacks an experimental study on systematically
+      understanding their advantages and disadvantages, as previous studies have very
+      rigid data partitioning strategies among parties, which are hardly representative
+      and thorough. In this paper, to help researchers better understand and study
+      the non-IID data setting in federated learning, we propose comprehensive data
+      partitioning strategies to cover the typical non-IID data cases. Moreover, we
+      conduct extensive experiments to evaluate state-of-the-art FL algorithms. We
+      find that non-IID does bring signifificant challenges in learning accuracy of
+      FL algorithms, and none of the existing state-of-the-art FL algorithms outperforms
+      others in all cases. Our experiments provide insights for future studies of
+      addressing the challenges in “data silos”. 分布式数据库的一个关键和常见挑战是各方之间数据分布的异质性。不同各方的数据通常是非独立同分布的（即非IID）。已经有许多FL算法来解决在非IID数据设置下的学习有效性。然而，由于以往的研究具有非常僵硬单一的数据划分策略，难以具有代表性和彻底，因此缺乏系统理解其优缺点的实验研究。在本文中，为了帮助研究者更好地理解和研究联邦学习中的非IID数据设置，我们提出了综合的数据划分策略来覆盖典型的非IID数据案例。此外，我们还进行了广泛的实验来评估最先进的FL算法。我们发现，非IID确实在FL算法的学习准确性方面带来了重大挑战，而且现有的最先进的FL算法在所有情况下都没有一种优于其他算法。我们的实验为未来研究解决“数据竖井”中的挑战提供了见解。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835537
       PDF: https://arxiv.org/abs/2102.02079
@@ -5394,7 +5408,13 @@ fl-in-top-db-conference-and-journal:
       platform is a Web interface that simulates the distributed components of Samba,
       and which helps the data scientist to configure the end-to-end workflow of deploying
       a federated MAB algorithm. The user-friendly interface of Samba, allows the
-      users to examine the interaction between three key dimensions of federated MAB'
+      users to examine the interaction between three key dimensions of federated MAB:
+      cumulative reward, computation time, and security guarantees. We demonstrate
+      Samba with two real-world datasets: Google Local Reviews and Steam Video Game.
+      联邦学习允许多个数据所有者为机器学习任务做出贡献，而不会暴露他们潜在的敏感数据。我们专注于多臂老虎机（MAB）中的累积奖励最大化，这是一种用于在不确定性下进行决策的经典强化学习模型。我们演示了
+      Samba，这是一个用于安全联合多臂强盗的通用框架。该演示平台是一个模拟 Samba 分布式组件的 Web 界面，可帮助数据科学家配置部署联合 MAB
+      算法的端到端工作流程。 Samba 的用户友好界面允许用户检查联合 MAB 的三个关键维度之间的交互：累积奖励、计算时间和安全保证。我们使用两个真实数据集演示
+      Samba：Google 本地评论和 Steam 视频游戏。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835585
       CODE: https://github.com/gamarcad/samba-demo
@@ -5484,7 +5504,19 @@ fl-in-top-db-conference-and-journal:
     affiliation: University of Warwick; Facebook
     venue: SIGMOD Tutorial
     year: '2022'
-    tldr: 'FederatedComputation: TBC'
+    tldr: 'FCT: Federated Computation is an emerging area that seeks to provide stronger
+      privacy for user data, by performing large scale, distributed computations where
+      the data remains in the hands of users. Only the necessary summary information
+      is shared, and additional security and privacy tools can be employed to provide
+      strong guarantees of secrecy. The most prominent application of federated computation
+      is in training machine learning models (federated learning), but many additional
+      applications are emerging, more broadly relevant to data management and querying
+      data. This tutorial gives an overview of federated computation models and algorithms.
+      It includes an introduction to security and privacy techniques and guarantees,
+      and shows how they can be applied to solve a variety of distributed computations
+      providing statistics and insights to distributed data. It also discusses the
+      issues that arise when implementing systems to support federated computation,
+      and open problems for future research. 联邦计算是一个新兴的领域，它试图为用户数据提供更强的隐私，通过执行大规模的分布式计算，数据仍然在用户手中。只有必要的摘要信息被共享，并且可以采用额外的安全和隐私工具来提供强大的保密保证。联邦计算最突出的应用是训练机器学习模型（联邦学习），但许多其他的应用正在出现，更广泛地与数据管理和数据查询有关。本教程概述了联邦计算的模型和算法。它包括对安全和隐私技术和保证的介绍，并展示了如何应用它们来解决各种分布式计算，为分布式数据提供统计和洞察力。它还讨论了在实现支持联合计算的系统时出现的问题，以及未来研究的开放问题。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3514221.3522561
   - title: 'BlindFL: Vertical Federated Machine Learning without Peeking into Your
@@ -5545,7 +5577,24 @@ fl-in-top-db-conference-and-journal:
     affiliation: NUS
     venue: ICDE
     year: '2021'
-    tldr: 'FeatureInferenceAttack: TBC'
+    tldr: 'FIA: Recently, vertical FL, where the participating organizations hold
+      the same set of samples but with disjoint features and only one organization
+      owns the labels, has received increased attention. This paper presents several
+      feature inference attack methods to investigate the potential privacy leakages
+      in the model prediction stage of vertical FL. The attack methods consider the
+      most stringent setting that the adversary controls only the trained vertical
+      FL model and the model predictions, relying on no background information of
+      the attack target''s data distribution. We first propose two specific attacks
+      on the logistic regression (LR) and decision tree (DT) models, according to
+      individual prediction output. We further design a general attack method based
+      on multiple prediction outputs accumulated by the adversary to handle complex
+      models, such as neural networks (NN) and random forest (RF) models. Experimental
+      evaluations demonstrate the effectiveness of the proposed attacks and highlight
+      the need for designing private mechanisms to protect the prediction outputs
+      in vertical FL. 最近，纵向 FL 受到越来越多的关注，其中参与组织持有相同的样本集但具有不相交的特征并且只有一个组织拥有标签。本文提出了几种特征推理攻击方法来研究纵向
+      FL 模型预测阶段潜在的隐私泄露。攻击方法考虑了最严格的设置，即对手仅控制训练好的纵向 FL 模型和模型预测，不依赖于攻击目标数据分布的背景信息。我们首先根据个体预测输出对逻辑回归
+      (LR) 和决策树 (DT) 模型提出两种特定攻击。我们进一步设计了一种基于对手累积的多个预测输出的通用攻击方法，以处理复杂的模型，例如神经网络（NN）和随机森林（RF）模型。实验评估证明了所提出的攻击的有效性，并强调需要设计私有机制来保护纵向
+      FL 中的预测输出。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9458672/
       PDF: https://arxiv.org/abs/2010.10152
@@ -5608,7 +5657,25 @@ fl-in-top-db-conference-and-journal:
     affiliation: Renmin University of China
     venue: VLDB
     year: '2021'
-    tldr: 'PFA: TBC'
+    tldr: 'PFA-DB: In practice, different clients may have different privacy requirements
+      due to varying policies or preferences.In this paper, we focus on explicitly
+      modeling and leveraging the heterogeneous privacy requirements of different
+      clients and study how to optimize utility for the joint model while minimizing
+      communication cost. As differentially private perturbations affect the model
+      utility, a natural idea is to make better use of information submitted by the
+      clients with higher privacy budgets (referred to as "public" clients, and the
+      opposite as "private" clients). The challenge is how to use such information
+      without biasing the joint model. We propose Projected Federated Averaging (PFA),
+      which extracts the top singular subspace of the model updates submitted by "public"
+      clients and utilizes them to project the model updates of "private" clients
+      before aggregating them. We then propose communication-efficient PFA+, which
+      allows "private" clients to upload projected model updates instead of original
+      ones. Our experiments verify the utility boost of both algorithms compared to
+      the baseline methods, whereby PFA+ achieves over 99% uplink communication reduction
+      for "private" clients. 在实践中，由于不同的政策或偏好，不同的客户可能有不同的隐私要求。在本文中，我们专注于显式建模和利用不同客户端的异构隐私需求，并研究如何在最小化通信成本的同时优化联合模型的效用。由于不同的私人扰动会影响模型效用，一个自然的想法是更好地利用具有较高隐私预算的客户（称为“公共”客户，反之称为“私人”客户）提交的信息。挑战在于如何在不影响联合模型的情况下使用这些信息。我们提出Projected
+      Federated Averaging (PFA)，它提取“公共”客户端提交的模型更新的顶部奇异子空间，并在聚合它们之前，利用它们来预测“私人”客户端的模型更新。然后，我们提出了高效的通信
+      PFA+，它允许“私人”客户端上传预计的模型更新而不是原始模型更新。我们的实验验证了这两种算法与基线方法相比的效用提升，其中 PFA+ 为“私人”客户端实现了超过
+      99% 的上行链路通信减少。'
     materials:
       PUB: https://dl.acm.org/doi/10.14778/3503585.3503592
       CODE: https://github.com/Emory-AIMS/PFA
@@ -5659,7 +5726,25 @@ fl-in-top-db-conference-and-journal:
       learns models from data without exposing privacy. However, traditional FL methods
       assume that the participating mobile devices are honest volunteers. This assumption
       makes traditional FL methods unsuitable for applications where two kinds of
-      participants are engaged'
+      participants are engaged: 1) self-interested participants who, without economical
+      stimulus, are reluctant to contribute their computing resources unconditionally,
+      and 2) malicious participants who send corrupt updates to disrupt the learning
+      process. This paper proposes Refiner, a reliable federated learning system for
+      tackling the challenges introduced by massive engagements of self-interested
+      and malicious participants. Refiner is built upon Ethereum, a public blockchain
+      platform. To engage self-interested participants, we introduce an incentive
+      mechanism which rewards each participant in terms of the amount of its training
+      data and the performance of its local updates. To handle malicious participants,
+      we propose an audit scheme which employs a committee of randomly chosen validators
+      for punishing them with no reward and preclude corrupt updates from the global
+      model. The proposed incentive and audit scheme is implemented with cryptocurrency
+      and smart contract, two primitives offered by Ethereum. This paper demonstrates
+      the main features of Refiner by training a digit classification model on the
+      MNIST dataset.从分散数据中学习模型的技术必须正确处理此类数据的两种性质，即隐私和大规模参与。联邦学习 (FL) 是此类学习任务的一种很有前途的方法，因为该技术从数据中学习模型而不暴露隐私。然而，传统的
+      FL 方法假设参与的移动设备是诚实的志愿者。这一假设使得传统的 FL 方法不适用于有两种参与者参与的应用程序：1）自利的参与者，在没有经济刺激的情况下，不愿意无条件地贡献他们的计算资源，以及
+      2）发送损坏更新以破坏网络的恶意参与者学习过程。本文提出了 Refiner，这是一种可靠的联合学习系统，用于应对自利和恶意参与者的大规模参与所带来的挑战。
+      Refiner 建立在公共区块链平台以太坊之上。为了吸引自利的参与者，我们引入了一种激励机制，根据每个参与者的训练数据量和本地更新的性能来奖励每个参与者。为了处理恶意参与者，我们提出了一个审计方案，该方案使用一个随机选择的验证者委员会来惩罚他们而没有奖励，并从全局模型中排除损坏的更新。提议的激励和审计计划是通过以太坊提供的两种原语加密货币和智能合约来实施的。本文通过在
+      MNIST 数据集上训练一个数字分类模型来展示 Refiner 的主要功能。'
     materials:
       PUB: http://vldb.org/pvldb/vol14/p2659-jiang.pdf
   - title: 'Tanium Reveal: A Federated Search Engine for Querying Unstructured File
