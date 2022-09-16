@@ -1703,7 +1703,8 @@ fl-in-top-tier-journal:
     affiliation: ''
     venue: Nat. Biomed. Eng.
     year: '2022'
-    tldr: ''
+    tldr: 'FL-healthy: This progress has emphasized that, from model development to model deployment, data play central roles. In this Review, we provide a data-centric view of the innovations and challenges that are defining ML for healthcare. We discuss deep generative models and federated learning as strategies to augment datasets for improved model performance, as well as the use of the more recent transformer models for handling larger datasets and enhancing the modelling of clinical text. We also discuss data-focused problems in the deployment of ML, emphasizing the need to efficiently deliver data to ML models for timely clinical predictions and to account for natural data shifts that can deteriorate model performance.
+    这一进展强调，从模型开发到模型部署，数据发挥着核心作用。在这篇评论中，我们提供了一个以数据为中心的观点，即定义医疗保健的ML的创新和挑战。我们讨论了深度生成模型和联合学习，作为增强数据集以提高模型性能的策略，以及使用最近的转化器模型来处理更大的数据集和加强临床文本的建模。我们还讨论了ML部署中以数据为重点的问题，强调需要有效地将数据交付给ML模型，以便及时进行临床预测，并考虑到可能恶化模型性能的自然数据转移。'
     materials:
       PUB: https://www.nature.com/articles/s41551-022-00898-y
   - title: A federated graph neural network framework for privacy-preserving personalization
