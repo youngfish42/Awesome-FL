@@ -131,7 +131,7 @@ def yaml_to_mdtable(yaml_data: dict, md_ref: str):
 
     # parse table body to dict
     table_list = []
-    table_list.append("| " + " | ".join(table_header.values()) + " |")
+    table_list.append("|" + "|".join(table_header.values()) + "|")
     table_list.append(
         "| " + " | ".join(["-" * line for line in table_line.values()]) + " |"
     )

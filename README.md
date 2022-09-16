@@ -82,7 +82,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 <!-- START:fl-on-graph-data-and-graph-neural-network -->
 
-| Title                                                            |     Affiliation           |     Venue                      |     Year     |     TL;DR                                                   |     Materials |
+|Title                                                           |    Affiliation          |    Venue                     |    Year    |    TL;DR                                                  |    Materials|
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy | SJTU | KDD :mortar_board: | 2022 | FedWalk[^FedWalk] | [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539308)] [[PDF](https://arxiv.org/abs/2205.15896)] |
 | FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Platform for Federated Graph Learning :fire: | Alibaba | KDD (Best Paper Award) :mortar_board: | 2022 | FederatedScope-GNN[^FederatedScope-GNN] | [[PDF](https://arxiv.org/abs/2204.05562)] [[CODE](https://github.com/alibaba/FederatedScope)] [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539112)] |
@@ -198,7 +198,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 
 <!-- START:fl-on-tabular-data -->
 
-| Title                                                            |     Affiliation                           |     Venue                           |     Year     |     TL;DR                           |     Materials |
+|Title                                                           |    Affiliation                          |    Venue                          |    Year    |    TL;DR                          |    Materials|
 | ------------------------------------------------------------ | --------------------------------- | --------------------------- | ---- | --------------------------- | ------------------------------------------------------------ |
 | Federated Functional Gradient Boosting | University of Pennsylvania | AISTATS :mortar_board: | 2022 | FFGB[^FFGB] | [[PUB](https://proceedings.mlr.press/v151/shen22a.html)] [[PDF](https://arxiv.org/abs/2103.06972)] [[CODE](https://github.com/shenzebang/Federated-Learning-Pytorch)] |
 | Federated Random Forests can improve local performance of predictive models for various healthcare applications | University of Marburg | Bioinform. | 2022 | FRF[^FRF] | [[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214)] [[CODE](https://featurecloud.ai/)] |
@@ -258,7 +258,7 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 <!-- START:fl-in-top-tier-journal -->
 
-| Title                                                            |     Affiliation     |     Venue                     |     Year     |     TL;DR                     |     Materials |
+|Title                                                           |    Affiliation    |    Venue                    |    Year    |    TL;DR                    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | --------------------- | ------------------------------------------------------------ |
 | Federated disentangled representation learning for unsupervised brain anomaly detection | TUM | Nat. Mach. Intell. | 2022 | FedDis[^FedDis] | [[PUB](https://www.nature.com/articles/s42256-022-00515-2)] [[PDF](https://doi.org/https://doi.org/10.21203/rs.3.rs-722389/v1)] [[CODE](https://doi.org/10.5281/zenodo.6604161)] |
 | Shifting machine learning for healthcare from development to deployment and from models to data |  | Nat. Biomed. Eng. | 2022 |  | [[PUB](https://www.nature.com/articles/s41551-022-00898-y)] |
@@ -289,7 +289,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 
 <!-- START:fl-in-top-ai-conference-and-journal -->
 
-| Title                                                            |     Affiliation                                                      |     Venue       |     Year     |     TL;DR                         |     Materials |
+|Title                                                           |    Affiliation                                                     |    Venue      |    Year    |    TL;DR                        |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ------------------------- | ------------------------------------------------------------ |
 | Towards Understanding Biased Client Selection in Federated Learning. | CMU | AISTATS | 2022 |  | [[PUB](https://proceedings.mlr.press/v151/jee-cho22a.html)] [[CODE](https://proceedings.mlr.press/v151/jee-cho22a/jee-cho22a-supp.zip)] |
 | FLIX: A Simple and Communication-Efficient Alternative to Local Methods in Federated Learning | KAUST | AISTATS | 2022 | FLIX[^FLIX] | [[PUB](https://proceedings.mlr.press/v151/gasanov22a.html)] [[PDF](https://arxiv.org/abs/2111.11556)] [[CODE](https://proceedings.mlr.press/v151/gasanov22a/gasanov22a-supp.zip)] |
@@ -391,7 +391,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 <!-- START:fl-in-top-ml-conference-and-journal -->
 
-| Title                                                            |     Affiliation                                                      |     Venue              |     Year     |     TL;DR                           |     Materials |
+|Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    TL;DR                          |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | --------------------------- | ------------------------------------------------------------ |
 | Fast Composite Optimization and Statistical Recovery in Federated Learning | SJTU | ICML | 2022 |  | [[PUB](https://proceedings.mlr.press/v162/bao22b.html)] [[PDF](https://arxiv.org/abs/2207.08204)] [[CODE](https://github.com/MingruiLiu-ML-Lab/Federated-Sparse-Learning)] |
 | Personalization Improves Privacy-Accuracy Tradeoffs in Federated Learning | NYU | ICML | 2022 | PPSGD[^PPSGD] | [[PUB](https://proceedings.mlr.press/v162/bietti22a.html)] [[PDF](https://arxiv.org/abs/2202.05318)] [[CODE](https://github.com/albietz/ppsgd)] |
@@ -563,7 +563,7 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 
 <!-- START:fl-in-top-dm-conference-and-journal -->
 
-| Title                                                            |     Affiliation                                                    |     Venue                      |     Year     |     TL;DR                                                     |     Materials |
+|Title                                                           |    Affiliation                                                   |    Venue                     |    Year    |    TL;DR                                                    |    Materials|
 | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- | ---- | ----------------------------------------------------- | ------------------------------------------------------------ |
 | Collaboration Equilibrium in Federated Learning | THU | KDD | 2022 | CE[^CE] | [[PDF](https://arxiv.org/abs/2108.07926)] [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539237)] [[CODE](https://github.com/cuis15/learning-to-collaborate)] |
 | Connected Low-Loss Subspace Learning for a Personalization in Federated Learning | Ulsan National Institute of Science and Technology | KDD | 2022 | SuPerFed[^SuPerFed] | [[PDF](https://arxiv.org/abs/2109.07628)] [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539254)] [[CODE](https://github.com/vaseline555/superfed)] |
@@ -603,7 +603,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 
 <!-- START:fl-in-top-secure-conference-and-journal -->
 
-| Title                                                            |     Affiliation                                                      |     Venue     |     Year     |     TL;DR                                                   |     Materials |
+|Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    TL;DR                                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy | Fudan University | S&P | 2023 | PEA[^PEA] | [[PDF](https://arxiv.org/abs/2208.08662)] |
 | Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning | University of Massachusetts | S&P | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9833647/)] [[VIDEO](https://www.youtube.com/watch?v=tQv3CpxIyvs)] |
@@ -639,7 +639,7 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 
 <!-- START:fl-in-top-cv-conference-and-journal -->
 
-| Title                                                            |     Affiliation                                                      |     Venue     |     Year     |     TL;DR                                           |     Materials |
+|Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    TL;DR                                          |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------- | ------------------------------------------------------------ |
 | FedX: Unsupervised Federated Learning with Cross Knowledge Distillation | KAIST | ECCV | 2022 | FedX[^FedX] | [[PUB.](https://arxiv.org/abs/2207.09158)] [[CODE](https://github.com/sungwon-han/fedx)] |
 | Personalizing Federated Medical Image Segmentation via Local Calibration | Xiamen University | ECCV | 2022 | LC-Fed[^LC-Fed] | [[PUB.](https://arxiv.org/abs/2207.04655)] [[CODE](https://github.com/jcwang123/fedlc)] |
@@ -689,7 +689,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 
 <!-- START:fl-in-top-nlp-conference-and-journal -->
 
-| Title                                                            |     Affiliation                                           |     Venue              |     Year     |     TL;DR                                   |     Materials |
+|Title                                                           |    Affiliation                                          |    Venue             |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------- | -------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
 | Scaling Language Model Size in Cross-Device Federated Learning | Google | ACL workshop | 2022 |  | [[PUB](https://aclanthology.org/2022.fl4nlp-1.2/)] [[PDF](https://arxiv.org/abs/2204.09715)] |
 | Intrinsic Gradient Compression for Scalable and Efficient Federated Learning | Oxford | ACL workshop | 2022 |  | [[PUB](https://aclanthology.org/2022.fl4nlp-1.4/)] [[PDF](https://arxiv.org/abs/2112.02656)] |
@@ -722,7 +722,7 @@ In this section, we will summarize Federated Learning papers accepted by top Inf
 
 <!-- START:fl-in-top-ir-conference-and-journal -->
 
-| Title                                                            |     Affiliation                         |     Venue     |     Year     |     TL;DR                           |     Materials |
+|Title                                                           |    Affiliation                        |    Venue    |    Year    |    TL;DR                          |    Materials|
 | ------------------------------------------------------------ | ------------------------------- | ----- | ---- | --------------------------- | ------------------------------------------------------------ |
 | Is Non-IID Data a Threat in Federated Online Learning to Rank? | The University of Queensland | SIGIR | 2022 | noniid-foltr[^noniid-foltr] | [[PUB](https://dl.acm.org/doi/10.1145/3477495.3531709)] [[CODE](https://github.com/ielab/2022-SIGIR-noniid-foltr)] |
 | FedCT: Federated Collaborative Transfer for Recommendation | Rutgers University | SIGIR | 2021 | FedCT[^FedCT] | [[PUB](https://dl.acm.org/doi/10.1145/3404835.3462825)] [[PDF](http://yongfeng.me/attach/liu-sigir2021.pdf)] [[CODE](https://github.com/CharlieMat/EdgeCDR)] |
@@ -742,7 +742,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 <!-- START:fl-in-top-db-conference-and-journal -->
 
-| Title                                                            |     Affiliation                         |     Venue               |     Year     |     TL;DR                                   |     Materials |
+|Title                                                           |    Affiliation                        |    Venue              |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------------- | --------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
 | Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy. | NUS | VLDB | 2022 | SMM[^SMM] | [[PUB](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf)] [[CODE](https://github.com/SkellamMixtureMechanism/SMM)] |
 | Towards Communication-efficient Vertical Federated Learning Training via Cache-enabled Local Update | PKU | VLDB | 2022 | CELU-VFL[^CELU-VFL] | [[PUB](https://dl.acm.org/doi/10.14778/3547305.3547316)] [[PDF](https://arxiv.org/abs/2207.14628)] [[CODE](https://github.com/ccchengff/FDL/tree/main/playground/celu_vfl)] |
@@ -786,7 +786,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 <!-- START:fl-in-top-network-conference-and-journal -->
 
-| Title                                                            |     Affiliation                                                      |     Venue          |     Year     |     TL;DR                                         |     Materials |
+|Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    TL;DR                                        |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ----------------------------------------- | ------------------------------------------------------------ |
 | Joint Superposition Coding and Training for Federated Learning over Multi-Width Neural Networks | Korea University | INFOCOM | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9796733)] |
 | Towards Optimal Multi-Modal Federated Learning on Non-IID Data with Hierarchical Gradient Blending | University of Toronto | INFOCOM | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9796724)] |
@@ -848,7 +848,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 <!-- START:fl-in-top-system-conference-and-journal -->
 
-| Title                                                            |     Affiliation                   |     Venue                         |     Year     |     TL;DR                                   |     Materials |
+|Title                                                           |    Affiliation                  |    Venue                        |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
 | FedGraph: Federated Graph Learning with Intelligent Sampling | UoA | TPDS | 2022 | FedGraph[^FedGraph] | [[PUB.](https://ieeexplore.ieee.org/abstract/document/9606516/)] [[CODE](https://github.com/cfh19980612/FedGraph)] [[解读](https://zhuanlan.zhihu.com/p/442233479)] |
 | AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning. | THU | TPDS | 2022 | AUCTION[^AUCTION] | [[PUB](https://ieeexplore.ieee.org/document/9647925)] |
@@ -900,7 +900,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 <!-- START:federated-learning-framework -->
 
-| Platform                                                         |     Papers                                                           |     Affiliations                                                     |                      SG                      |                      ST                      |     Materials |
+|Platform                                                        |    Papers                                                          |    Affiliations                                                    |                     SG                     |                     ST                     |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
 | [PySyft](https://github.com/OpenMined/PySyft)<br />[![Stars](https://img.shields.io/github/stars/OpenMined/PySyft.svg?color=red)](https://github.com/OpenMined/PySyft/stargazers)<br />![](https://img.shields.io/github/last-commit/OpenMined/PySyft) | [A generic framework for privacy preserving deep learning](https://arxiv.org/abs/1811.04017) | [OpenMined](https://www.openmined.org/) |  |  | [[DOC](https://pysyft.readthedocs.io/en/latest/installing.html)] |
 | [FATE](https://github.com/FederatedAI/FATE)<br />[![Stars](https://img.shields.io/github/stars/FederatedAI/FATE.svg?color=red)](https://github.com/FederatedAI/FATE/stargazers)<br />![](https://img.shields.io/github/last-commit/FederatedAI/FATE) | [FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection](https://www.jmlr.org/papers/volume22/20-815/20-815.pdf) | [WeBank](https://fedai.org/) |  | :white_check_mark::white_check_mark: | [[DOC](https://fate.readthedocs.io/en/latest/)] [[DOC(ZH)](ZH)])] |
