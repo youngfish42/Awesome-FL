@@ -5857,7 +5857,31 @@ fl-in-top-network-conference-and-journal:
     affiliation: Korea University
     venue: INFOCOM
     year: '2022'
-    tldr: ''
+    tldr: "SlimFL: This paper aims to integrate two synergetic tech\x02nologies, federated\
+      \ learning (FL) and width-adjustable slimmable neural network (SNN) architectures.\
+      \ FL preserves data privacy by exchanging the locally trained models of mobile\
+      \ devices. By adopting SNNs as local models, FL can flexibly cope with the time-varying\
+      \ energy capacities of mobile devices. Combining FL and SNNs is however non-trivial,\
+      \ particularly under wireless connections with time-varying channel conditions.\
+      \ Furthermore, existing multi-width SNN training algorithms are sensitive to\
+      \ the data distributions across devices, so are ill-suited to FL. Moti\x02vated\
+      \ by this, we propose a communication and energy efficient SNN-based FL (named\
+      \ SlimFL) that jointly utilizes superposition coding (SC) for global model aggregation\
+      \ and superposition training (ST) for updating local models. By applying SC,\
+      \ SlimFL exchanges the superposition of multiple width configurations that are\
+      \ decoded as many as possible for a given communication throughput. Leveraging\
+      \ ST, SlimFL aligns the forward propaga\x02tion of different width configurations,\
+      \ while avoiding the inter\x02width interference during back propagation. We\
+      \ formally prove the convergence of SlimFL. The result reveals that SlimFL is\
+      \ not only communication-efficient but also can counteract non-IID data distributions\
+      \ and poor channel conditions, which is also corroborated by simulations. 本文旨在整合两种协同技术，即联邦学习\
+      \ (FL) 和宽度可调的可精简神经网络 (SNN) 架构。联邦学习通过交换本地训练的移动设备模型来保护数据隐私。通过采用 SNN 作为local模型，FL\
+      \ 可以灵活地应对移动设备随时间变化的能量容量。然而，结合 FL 和 SNN 并非易事，尤其是在具有时变信道条件的无线连接下。此外，现有的多宽度 SNN\
+      \ 训练算法对跨设备的数据分布敏感，因此不适合 FL。受此启发，我们提出了一种基于 SNN 的通信和节能的 FL（命名为 SlimFL），它联合利用叠加编码（SC）进行全局模型聚合和叠加训练（ST）来更新局部模型。通过应用\
+      \ SC，SlimFL 交换多个宽度配置的叠加，这些配置为给定的通信吞吐量尽可能多地解码。利用 ST，SlimFL 对齐不同宽度配置的前向传播，同时避免反向传播期间的宽度间干扰。我们正式证明了\
+      \ SlimFL 的收敛性。结果表明，SlimFL 不仅具有通信效率，而且可以抵消非 IID 数据分布和恶劣的信道条件，这也得到了仿真的证实。我们正式证明了\
+      \ SlimFL 的收敛性。结果表明，SlimFL 不仅具有通信效率，而且可以抵消非 IID 数据分布和恶劣的信道条件，这也得到了仿真的证实。我们正式证明了\
+      \ SlimFL 的收敛性。结果表明，SlimFL 不仅具有通信效率，而且可以抵消非 IID 数据分布和恶劣的信道条件，这也得到了仿真的证实。"
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796733
   - title: Towards Optimal Multi-Modal Federated Learning on Non-IID Data with Hierarchical
@@ -5865,14 +5889,45 @@ fl-in-top-network-conference-and-journal:
     affiliation: University of Toronto
     venue: INFOCOM
     year: '2022'
-    tldr: ''
+    tldr: 'HGBFL: Recent advances in federated learning (FL) made it feasible to train
+      a machine learning model across multiple clients, even with non-IID data distributions.
+      In contrast to these unimodal models that have been studied extensively in the
+      literature, there are few in-depth studies on how multi-modal models can be
+      trained effectively with federated learning. Unfortunately, we empirically observed
+      a counter-intuitive phenomenon that, compared with its uni-modal counterpart,
+      multi-modal FL leads to a significant degradation in performance. Our in-depth
+      analysis of such a phenomenon shows that modality sub-networks and local models
+      can overfit and generalize at different rates. To alleviate these inconsistencies
+      in collaborative learning, we propose hierarchical gradient blending (HGB),
+      which simultaneously computes the optimal blending of modalities and the optimal
+      weighting of local models by adaptively measuring their overfitting and generalization
+      behaviors. When HGB is applied, we present a few important theoretical insights
+      and convergence guarantees for convex and smooth functions, and evaluate its
+      performance in multi-modal FL. Our experimental results on an extensive array
+      of non-IID multimodal data have demonstrated that HGB is not only able to outperform
+      the best uni-modal baselines but also to achieve superior accuracy and convergence
+      speed as compared to stateof-the-art frameworks. 联邦学习(FL)的最新进展使得跨多个客户端训练机器学习模型成为可能，甚至可以使用非IID数据分布。与文献中广泛研究的这些单模态模型相比，关于如何利用联邦学习有效训练多模态模型的深入研究很少。不幸的是，我们根据经验观察到一个反直觉的现象，与单模态相比，多模态FL会导致性能的显著下降。我们对这种现象的深入分析表明，模态子网络和局部模型可以以不同的速度过拟合和泛化。为了缓解协作学习中的这些不一致性，我们提出了层次梯度混合(HGB)，该方法通过自适应度量局部模型的过拟合和泛化行为，同时计算模型的最佳混合和局部模型的最佳权重。当HGB应用于凸函数和光滑函数时，我们提出了一些重要的理论见解和收敛保证，并评估了它在多模态FL中的性能。我们在大量非IID多模态数据上的实验结果表明，与最先进的框架相比，HGB不仅能够优于最好的单模态基线，而且能够获得更高的精度和收敛速度。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796724
   - title: Optimal Rate Adaption in Federated Learning with Compressed Communications
     affiliation: SZU
     venue: INFOCOM
     year: '2022'
-    tldr: ''
+    tldr: 'ORAFL: Federated Learning (FL) incurs high communication overhead, which
+      can be greatly alleviated by compression for model updates. Y et the tradeoff
+      between compression and model accuracy in the networked environment remains
+      unclear and, for simplicity, most implementations adopt a fixed compression
+      rate only. In this paper, we for the first time systematically examine this
+      tradeoff, identifying the influence of the compression error on the final model
+      accuracy with respect to the learning rate. Specifically, we factor the compression
+      error of each global iteration into the convergence rate analysis under both
+      strongly convex and non-convex loss functions. We then present an adaptation
+      framework to maximize the final model accuracy by strategically adjusting the
+      compression rate in each iteration. We have discussed the key implementation
+      issues of our framework in practical networks with representative compression
+      algorithms. Experiments over the popular MNIST and CIFAR-10 datasets confirm
+      that our solution effectively reduces network traffic yet maintains high model
+      accuracy in FL. 联邦学习(FL)会产生很高的通信开销，这可以通过对模型更新进行压缩而大大减轻。在网络环境中，压缩和模型精度之间的权衡仍然不清楚，为了简单起见，大多数实现只采用固定的压缩率。在本文中，我们第一次系统地研究了这种权衡，确定了压缩误差对最终模型精度与学习率的影响。具体而言，我们在强凸和非凸损失函数下，将每次全局迭代的压缩误差考虑到收敛速度分析中。然后，我们提出了一个自适应框架，通过在每次迭代中有策略地调整压缩率来最大化最终的模型精度。我们用代表性的压缩算法讨论了该框架在实际网络中的关键实现问题。在流行的MNIST和CIFAR-10数据集上的实验证实，我们的解决方案有效地减少了网络流量，同时在FL中保持了较高的模型精度。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796982
       PDF: https://arxiv.org/abs/2112.06694
@@ -5881,7 +5936,23 @@ fl-in-top-network-conference-and-journal:
     affiliation: CityU
     venue: INFOCOM
     year: '2022'
-    tldr: ''
+    tldr: 'RFFL: In Machine Learning, the emergence of the right to be forgotten gave
+      birth to a paradigm named machine unlearning, which enables data holders to
+      proactively erase their data from a trained model. Existing machine unlearning
+      techniques focus on centralized training, where access to all holders’ training
+      data is a must for the server to conduct the unlearning process. It remains
+      largely underexplored about how to achieve unlearning when full access to all
+      training data becomes unavailable. One noteworthy example is Federated Learning
+      (FL), where each participating data holder trains locally, without sharing their
+      training data to the central server. In this paper, we investigate the problem
+      of machine unlearning in FL systems. We start with a formal definition of the
+      unlearning problem in FL and propose a rapid retraining approach to fully erase
+      data samples from a trained FL model. The resulting design allows data holders
+      to jointly conduct the unlearning process efficiently while keeping their training
+      data locally. Our formal convergence and complexity analysis demonstrate that
+      our design can preserve model utility with high efficiency. Extensive evaluations
+      on four real-world datasets illustrate the effectiveness and performance of
+      our proposed realization. 在机器学习中，遗忘权的出现催生了一种称为机器遗忘的范式，它使数据持有者能够主动地从经过训练的模型中删除数据。现有的机器学习技术侧重于集中训练，服务器必须访问所有持有者的训练数据才能进行学习过程。在无法完全访问所有训练数据的情况下，如何实现忘却学习在很大程度上仍然没有得到充分探讨。一个值得注意的例子是联邦学习（FL），其中每个参与数据持有者在本地进行训练，而不将其训练数据共享给中央服务器。本文研究了FL系统中的机器学习问题。我们从FL中的学习问题的正式定义开始，并提出了一种快速再训练方法，从训练的FL模型中完全擦除数据样本。由此产生的设计允许数据持有者联合有效地进行学习过程，同时将他们的培训数据保存在本地。我们的形式收敛性和复杂性分析表明，我们的设计可以高效地保持模型效用。对四个真实数据集的广泛评估说明了我们提出的实现的有效性和性能。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796721
       PDF: https://arxiv.org/abs/2203.07320
@@ -5890,7 +5961,25 @@ fl-in-top-network-conference-and-journal:
     affiliation: CUHK; AIRS ;Yale University
     venue: INFOCOM
     year: '2022'
-    tldr: ''
+    tldr: 'FLACS: Federated learning (FL) algorithms usually sample a fraction of
+      clients in each round (partial participation) when the number of participants
+      is large and the server’s communication bandwidth is limited. Recent works on
+      the convergence analysis of FL have focused on unbiased client sampling, e.g.,
+      sampling uniformly at random, which suffers from slow wall-clock time for convergence
+      due to high degrees of system heterogeneity and statistical heterogeneity. This
+      paper aims to design an adaptive client sampling algorithm that tackles both
+      system and statistical heterogeneity to minimize the wall-clock convergence
+      time. We obtain a new tractable convergence bound for FL algorithms with arbitrary
+      client sampling probabilities. Based on the bound, we analytically establish
+      the relationship between the total learning time and sampling probabilities,
+      which results in a non-convex optimization problem for training time minimization.
+      We design an efficient algorithm for learning the unknown parameters in the
+      convergence bound and develop a low-complexity algorithm to approximately solve
+      the non-convex problem. Experimental results from both hardware prototype and
+      simulation demonstrate that our proposed sampling scheme significantly reduces
+      the convergence time compared to several baseline sampling schemes. Notably,
+      our scheme in hardware prototype spends 73% less time than the uniform sampling
+      baseline for reaching the same target loss. 联邦学习(FL)算法通常在每轮(部分参与)中采样一部分客户端，当参与者数量较大，且服务器的通信带宽有限时。最近关于FL的收敛性分析的工作主要集中在无偏客户端抽样，例如均匀随机抽样，由于系统异质性和统计异质性的高度，这种方法的收敛时间较慢。本文旨在设计一种兼顾系统和统计异质性的自适应客户端采样算法，使挂钟收敛时间最小化。对于具有任意客户端采样概率的FL算法，我们得到了一个新的易于处理的收敛界。基于该界限，我们解析建立了总学习时间与采样概率之间的关系，从而得到了训练时间最小化的非凸优化问题。我们设计了一种学习收敛界内未知参数的有效算法，并开发了一种近似求解非凸问题的低复杂度算法。硬件样机和仿真实验结果表明，与几种基线采样方案相比，我们提出的采样方案显著缩短了收敛时间。值得注意的是，在硬件原型中，我们的方案在达到相同目标损耗时比统一采样基线节省73%的时间。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796935
       PDF: https://arxiv.org/abs/2112.11256
@@ -5899,7 +5988,25 @@ fl-in-top-network-conference-and-journal:
     affiliation: Army Research Laboratory, Adelphi
     venue: INFOCOM
     year: '2022'
-    tldr: ''
+    tldr: 'CEDSFL: Federated learning (FL) is a useful tool in distributed machine
+      learning that utilizes users’ local datasets in a privacy-preserving manner.
+      When deploying FL in a constrained wireless environment; however, training models
+      in a time-efficient manner can be a challenging task due to intermittent connectivity
+      of devices, heterogeneous connection quality, and non-i.i.d. data. In this paper,
+      we provide a novel convergence analysis of non-convex loss functions using FL
+      on both i.i.d. and non-i.i.d. datasets with arbitrary device selection probabilities
+      for each round. Then, using the derived convergence bound, we use stochastic
+      optimization to develop a new client selection and power allocation algorithm
+      that minimizes a function of the convergence bound and the average communication
+      time under a transmit power constraint. We find an analytical solution to the
+      minimization problem. One key feature of the algorithm is that knowledge of
+      the channel statistics is not required and only the instantaneous channel state
+      information needs to be known. Using the FEMNIST and CIFAR-10 datasets, we show
+      through simulations that the communication time can be significantly decreased
+      using our algorithm, compared to uniformly random participation.联邦学习(FL)是分布式机器学习中一个有用的工具，它以保护隐私的方式利用用户的本地数据集。
+      在受限无线环境中部署FL时; 然而，由于设备的间歇性连接、异构连接质量和非同一性，以高效的方式训练模型可能是一项具有挑战性的任务。 数据。 本文给出了非凸损失函数在内id和非内id上的一种新的收敛性分析。
+      数据集的任意设备选择概率为每一轮。 然后，利用推导出的收敛界，我们利用随机优化方法开发了一种新的客户端选择和功率分配算法，该算法在传输功率约束下使收敛界和平均通信时间的函数最小。
+      我们找到了最小化问题的解析解。 该算法的一个关键特点是不需要信道统计知识，只需要知道瞬时信道状态信息。 使用FEMNIST和CIFAR-10数据集，我们通过模拟表明，与统一随机参与相比，使用我们的算法可以显著减少通信时间。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796818
       PDF: https://arxiv.org/abs/2201.07912
@@ -5917,14 +6024,49 @@ fl-in-top-network-conference-and-journal:
     affiliation: CUHK; AIRS
     venue: INFOCOM
     year: '2022'
-    tldr: ''
+    tldr: 'PMDPFL: Existing machine learning (ML) model marketplaces generally require
+      data owners to share their raw data, leading to serious privacy concerns. Federated
+      learning (FL) can partially alleviate this issue by enabling model training
+      without raw data exchange. However, data owners are still susceptible to privacy
+      leakage from gradient exposure in FL, which discourages their participation.
+      In this work, we advocate a novel differentially private FL (DPFL)-based ML
+      model marketplace. We focus on the broker-centric design. Specifically, the
+      broker first incentivizes data owners to participate in model training via DPFL
+      by offering privacy protection as per their privacy budgets and explicitly accounting
+      for their privacy costs. Then, it conducts optimal model versioning and pricing
+      to sell the obtained model versions to model buyers. In particular, we focus
+      on the broker’s profit maximization, which is challenging due to the significant
+      difficulties in the revenue characterization of model trading and the cost estimation
+      of DPFL model training. We propose a two-layer optimization framework to address
+      it, i.e., revenue maximization and cost minimization under model quality constraints.
+      The latter is still challenging due to its non-convexity and integer constraints.
+      We hence propose efficient algorithms, and their performances are both theoretically
+      guaranteed and empirically validated.  现有的机器学习(ML)模型市场通常要求数据所有者分享他们的原始数据，这导致了严重的隐私问题。联邦学习(FL)通过支持不进行原始数据交换的模型训练，可以部分地缓解这个问题。然而，数据所有者仍然容易受到FL中梯度暴露的隐私泄露，这阻碍了他们的参与。在这项工作中，我们提倡一种新的基于差分私有FL
+      (DPFL)的ML模型市场。我们专注于以代理为中心的设计。具体来说，经纪人首先通过DPFL通过提供根据隐私预算的隐私保护并明确说明其隐私成本来激励数据所有者参与模型培训。然后进行最优模型版本化和定价，将获得的模型版本卖给模型买家。我们特别关注经纪人的利润最大化，这是具有挑战性的，因为在模型交易的收入描述和DPFL模型训练的成本估计方面有很大的困难。我们提出了一个两层优化框架，即模型质量约束下的收益最大化和成本最小化。后者由于其非凸性和整数约束，仍然具有挑战性。因此，我们提出了有效的算法，其性能在理论上得到了保证，并得到了经验验证。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796833
   - title: Protect Privacy from Gradient Leakage Attack in Federated Learning
     affiliation: PolyU
     venue: INFOCOM
     year: '2022'
-    tldr: ''
+    tldr: 'PPGLFL: Federated Learning (FL) is susceptible to gradient leakage attacks,
+      as recent studies show the feasibility of obtaining private training data on
+      clients from publicly shared gradients. Existing work solves this problem by
+      incorporating a series of privacy protection mechanisms, such as homomorphic
+      encryption and local differential privacy to prevent data leakage. However,
+      these solutions either incur significant communication and computation costs,
+      or significant training accuracy loss. In this paper, we show that the sensitivity
+      of gradient changes w.r.t. training data is an essential measure of information
+      leakage risk. Based on this observation, we present a novel defense, whose intuition
+      is perturbing gradients to match information leakage risk such that the defense
+      overhead is lightweight while privacy protection is adequate. Our another key
+      observation is that global correlations of gradients could compensate for this
+      perturbation. Based on such compensation, training can achieve guaranteed accuracy.
+      We conduct experiments on MNIST, Fashion-MNIST and CIFAR-10 for defending against
+      two gradient leakage attacks. Without sacrificing accuracy, the results demonstrate
+      that our lightweight defense can decrease the PSNR and SSIM between the reconstructed
+      images and raw images by up to more than 60% for both two attacks, compared
+      with baseline defensive methods. 联邦学习(FL)容易受到梯度泄漏攻击，因为最近的研究表明，从公共共享的梯度中获取客户端的私有训练数据是可行的。现有工作通过引入同态加密、局部差分隐私等一系列隐私保护机制来防止数据泄露，从而解决了这一问题。然而，这些解决方案要么产生显著的通信和计算成本，要么产生显著的训练精度损失。在本文中，我们表明梯度变化的敏感性训练数据是一个基本的衡量信息泄漏风险。基于这一观察，我们提出了一种新的防御，其直觉是扰动梯度来匹配信息泄漏风险，这样防御开销很轻，而隐私保护足够。我们的另一个关键观察是，梯度的全局相关性可以补偿这种扰动。在这种补偿的基础上，训练可以达到有保证的精度。我们对MNIST、Fashion-MNIST和CIFAR-10进行了防御两种梯度泄漏攻击的实验。结果表明，在不牺牲准确性的情况下，与基线防御方法相比，我们的轻量级防御在两种攻击中都可以将重建图像和原始图像之间的PSNR和SSIM降低高达60%以上。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796841/
       SLIDES: https://jxiao.wang/slides/INFOCOM22.pdf
