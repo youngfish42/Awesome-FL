@@ -22,9 +22,9 @@
 
 
 
-# Papers
+# papers
 
-**Categories**
+**categories**
 
 - Artificial Intelligence (IJCAI, AAAI, AISTATS)
 - Machine Learning (NeurIPS, ICML, ICLR, COLT, UAI)
@@ -49,7 +49,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50 | :m
 
 
 
-**Update log**
+**update log**
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
@@ -75,7 +75,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50 | :m
 
 
 
-## FL on Graph Data and Graph Neural Networks 
+## fl on graph data and graph neural networks 
 
 [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) 
 
@@ -190,7 +190,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 <!-- END:private-graph-neural-networks -->
 
-## FL on Tabular Data
+## fl on tabular data
 
 [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%257CXGBoost%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest%7CXGBoost)
 
@@ -253,7 +253,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 <!-- END:fl-on-tabular-data -->
 
 
-## FL in top-tier journal
+## fl in top-tier journal
 
 List of papers in the field of federated learning in Nature(and its sub-journals), Cell, Science(and Science Advances) and PANS refers to [WOS](https://www.webofscience.com/wos/woscc/summary/ed3f4552-5450-4de7-bf2c-55d01e20d5de-4301299e/relevance/1) search engine.
 
@@ -279,7 +279,7 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 
 
-## FL in top AI conference and journal
+## fl in top ai conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence) conference and journal, Including [IJCAI](https://dblp.org/db/conf/ijcai/index.html)(International Joint Conference on Artificial Intelligence), [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)(AAAI Conference on Artificial Intelligence), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/index.html)(Artificial Intelligence and Statistics).
 
@@ -380,7 +380,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 <!-- END:fl-in-top-ai-conference-and-journal -->
 
 
-## FL in top ML conference and journal
+## fl in top ml conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference and journal, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations), [COLT](https://dblp.org/db/conf/colt/index.html)(Annual Conference Computational Learning Theory) and [UAI](https://dblp.org/db/conf/uai/index.html)(Conference on Uncertainty in Artificial Intelligence).
 
@@ -555,7 +555,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 <!-- END:fl-in-top-ml-conference-and-journal -->
 
 
-## FL in top DM conference and journal
+## fl in top dm conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top DM(Data Mining) conference and journal, Including [KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html)(ACM SIGKDD Conference on Knowledge Discovery and Data Mining) and [WSDM](https://dblp.uni-trier.de/db/conf/wsdm/index.html)(Web Search and Data Mining).
 
@@ -593,7 +593,7 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 
 <!-- END:fl-in-top-dm-conference-and-journal -->
 
-## FL in top Secure conference and journal
+## fl in top secure conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top Secure conference and journal, Including [S&P](https://dblp.uni-trier.de/db/conf/sp/index.html)(IEEE Symposium on Security and Privacy), [CCS](https://dblp.uni-trier.de/db/conf/ccs/index.html)(Conference on Computer and Communications Security), [USENIX Security](https://dblp.uni-trier.de/db/conf/uss/index.html)(Usenix Security Symposium) and [NDSS](https://dblp.uni-trier.de/db/conf/ndss/index.html)(Network and Distributed System Security Symposium).
 
@@ -629,7 +629,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 <!-- END:fl-in-top-secure-conference-and-journal -->
 
 
-## FL in top CV conference and journal
+## fl in top cv conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top CV(computer vision) conference and journal, Including [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/index.html)(Computer Vision and Pattern Recognition), [ICCV](https://dblp.uni-trier.de/db/conf/iccv/index.html)(IEEE International Conference on Computer Vision), [ECCV](https://dblp.uni-trier.de/db/conf/eccv/index.html)(European Conference on Computer Vision), [MM](https://dblp.org/db/conf/mm/index.html)(ACM International Conference on Multimedia).
 
@@ -678,7 +678,7 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 <!-- END:fl-in-top-cv-conference-and-journal -->
 
 
-## FL in top NLP conference and journal
+## fl in top nlp conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top AI and NLP conference and journal, including [ACL](https://dblp.uni-trier.de/db/conf/acl/index.html)(Annual Meeting of the Association for Computational Linguistics), [NAACL](https://dblp.uni-trier.de/db/conf/naacl/index.html)(North American Chapter of the Association for Computational Linguistics), [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/index.html)(Conference on Empirical Methods in Natural Language Processing) and [COLING](https://dblp.uni-trier.de/db/conf/coling/index.html)(International Conference on Computational Linguistics).
 
@@ -715,7 +715,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 
 <!-- END:fl-in-top-nlp-conference-and-journal -->
 
-## FL in top IR conference and journal
+## fl in top ir conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top Information Retrieval conference and journal, including [SIGIR](https://dblp.org/db/conf/sigir/index.html)(Annual International ACM SIGIR Conference on Research and Development in Information Retrieval).
 
@@ -733,7 +733,7 @@ In this section, we will summarize Federated Learning papers accepted by top Inf
 
 <!-- END:fl-in-top-ir-conference-and-journal -->
 
-## FL in top DB conference and journal
+## fl in top db conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top Database conference and journal, including [SIGMOD](https://dblp.uni-trier.de/db/conf/sigmod/index.html)(ACM SIGMOD Conference) , [ICDE](https://dblp.uni-trier.de/db/conf/icde/index.html)(IEEE International Conference on Data Engineering) and [VLDB](https://dblp.uni-trier.de/db/conf/vldb/index.html)(Very Large Data Bases Conference).
 
@@ -774,7 +774,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 <!-- END:fl-in-top-db-conference-and-journal -->
 
-## FL in top Network conference and journal
+## fl in top network conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top Database conference and journal, including [SIGCOMM](https://dblp.org/db/conf/sigcomm/index.html)(Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication), [INFOCOM](https://dblp.org/db/conf/infocom/index.html)(IEEE Conference on Computer Communications), [MobiCom](https://dblp.org/db/conf/mobicom/index.html)(ACM/IEEE International Conference on Mobile Computing and Networking), [NSDI](https://dblp.org/db/conf/nsdi/index.html)(Symposium on Networked Systems Design and Implementation) and [WWW](https://dblp.org/db/conf/www/index.html)(The Web Conference).
 
@@ -836,7 +836,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 <!-- END:fl-in-top-network-conference-and-journal -->
 
 
-## FL in top System conference and journal
+## fl in top system conference and journal
 
 In this section, we will summarize Federated Learning papers accepted by top Database conference and journal, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems), [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)(IEEE Transactions on Parallel and Distributed Systems).
 
@@ -891,11 +891,11 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 <!-- END:fl-in-top-system-conference-and-journal -->
 
-# Framework
+# framework
 
-## Federated Learning Framework
+## federated learning framework
 
-### Table
+### table
 
 *Note: **SG** means Support for Graph data and algorithms, **ST** means Support for Tabular data and algorithms.*
 
@@ -966,7 +966,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 <!-- END:federated-learning-framework -->
 
-### Benchmark
+### benchmark
 
 - UniFed leaderboard
 
@@ -984,24 +984,24 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 
 
-# Datasets
+# datasets
 
-## Graph datasets
-
-
-
-## Tabular datasets
+## graph datasets
 
 
 
-## FL datasets
+## tabular datasets
+
+
+
+## fl datasets
 
 - [LEAF](https://leaf.cmu.edu/)
 - [Federated AI Dataset](https://dataset.fedai.org/#/) 
 
 
 
-# Surveys
+# surveys
 
 This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning), the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
 
@@ -1031,9 +1031,9 @@ This section partially refers to repository [Federated-Learning](https://github.
 
 
 
-# Tutorials and Courses
+# tutorials and courses
 
-## Tutorials
+## tutorials
 
 - [Federated Learning on MNIST using a CNN](https://colab.research.google.com/drive/1dRG3yNAlDar3tll4VOkmoU-aLslhUS8d), AI6101, 2020 ([Demo Video](https://www.youtube.com/watch?v=XKQi-CUqCsM))
 - [Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/), AAAI-19, Honolulu, HI, USA
@@ -1054,9 +1054,9 @@ This section partially refers to repository [Federated-Learning](https://github.
   * A Simple Tutorial from Scratch
   * Use Multiparty Compuation (MPC)
 
-## Course
+## course
 
-### Secret Sharing
+### secret sharing
 
 * [Simple Introduction to Sharmir's Secret Sharing and Lagrange Interpolation](https://www.youtube.com/watch?v=kkMps3X_tEE)
 * Secret Sharing
@@ -1069,11 +1069,11 @@ This section partially refers to repository [Federated-Learning](https://github.
 
 
 
-# Key Conferences/Workshops/Journals
+# key conferences/workshops/journals
 
 This section partially refers to [The Federated Learning Portal](https://federated-learning.org/).
 
-## Workshops
+## workshops
 
 - [[AI Technology School 2022](https://aitechnologyschool.github.io/)] Trustable, Verifiable and Auditable Artificial Intelligence, Singapore
 - [[FL-NeurIPS'22](http://federated-learning.org/fl-neurips-2022/)] International Workshop on Federated Learning: Recent Advances and New Challenges  in Conjunction with NeurIPS 2022 , New Orleans, LA, USA
@@ -1099,7 +1099,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
 
 
-## Journal Special Issues
+## journal special issues
 
 - [Special Issue on Trustable, Verifiable, and Auditable Federated Learning](https://www.computer.org/digital-library/journals/bd/call-for-papers-special-issue-on-trustable-verifiable-and-auditable-federated-learning), *IEEE Transactions on Big Data (TBD)*, 2022.
 - [Special Issue on Federated Learning: Algorithms, Systems, and Applications](https://dl.acm.org/pb-assets/static_journal_pages/tist/cfps/tist-si-cfp-12-2020-federated-learning-extended2-1617161513293.pdf), *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2021.
@@ -1107,20 +1107,20 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
 
 
-## Conference Special Tracks
+## conference special tracks
 
 - "Federated Learning" included as a new keyword in [IJCAI'20](https://ijcai20.org/), Yokohama, Japan 
 - [Special Track on Federated Machine Learning](http://federated-learning.org/fl-ieeebigdata-2019/), *IEEE BigData'19*, Los Angeles, CA, USA
 
 
 
-## How to contact us
+## how to contact us
 
 **More items will be added to the repository**. Please feel free to suggest other key resources by opening an [issue](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues) report, submitting a pull request, or dropping me an email @ ([im.young@foxmail.com](mailto:im.young@foxmail.com)). Enjoy reading!
 
 
 
-## Acknowledgments
+## acknowledgments
 
 Many thanks :heart: to the other awesome list:
 
