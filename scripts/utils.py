@@ -28,6 +28,20 @@ def write_yaml(yaml_file, data):
         yaml.dump(data, f, allow_unicode=True, sort_keys=False)
 
 
+def get_substr_before(src: str, split_str: str):
+    idx = src.find(split_str)
+    if idx == -1:
+        return src
+    return src[:idx]
+
+
+def get_substr_after(src: str, split_str: str):
+    idx = src.find(split_str)
+    if idx == -1:
+        return src
+    return src[idx + len(split_str) :]
+
+
 def get_content(src: str, start_comment: str, end_comment: str):
     """Get content between start and end comment"""
     pattern = f"{start_comment}[\\s\\S]+{end_comment}"
@@ -111,8 +125,8 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
                 get_links = re.findall(r"\[.*?\]\(.*?\)", item.strip())
                 links = {}
                 for link in get_links:
-                    text = link.split("]")[0].strip("[").strip()
-                    url = link.split("(")[1].strip(")").strip()
+                    text = get_substr_before(link, "](").strip("[]").strip()
+                    url = get_substr_after(link, "](").strip(")").strip()
                     links[text.upper()] = url
                 line_dict[header_alias[i]] = links
                 continue
@@ -145,11 +159,11 @@ def yaml_to_mdtable(yaml_data: dict, md_ref: str):
     for line in table_body:
         for key in table_header.keys():
             if key == "tldr":
-                abbr = line[key].split(":")[0].strip()
+                abbr = get_substr_before(line[key], ":").strip()
 
                 if len(abbr) > 0:
-                    md_ref += f"[^{abbr}]: {line[key].split(':')[1].strip()}" + "\n"
-                    line[key] = f"{abbr}[^{abbr}]"
+                    md_ref += f"[^{abbr}]: {get_substr_after(line[key], ':').strip()}\n"
+                    line[key] = f"{abbr.replace('plus', '+')}[^{abbr}]"
 
                 else:
                     line[key] = ""
@@ -175,14 +189,14 @@ def get_mdref(md_str: str, start_comment: str, end_comment: str):
     for line in ref_content.splitlines():
         if line.startswith("["):
             abbr = (
-                line.split("]:")[0]
+                get_substr_before(line, "]:")
                 .strip("[]")
                 .replace("^", "")
                 .strip()
                 .replace(" ", "")
                 .replace("+", "plus")
             )
-            cont = line.split("]:")[1].strip()
+            cont = get_substr_after(line, "]:").strip()
             if len(cont) == 0:
                 print(f"can not find content for {abbr}")
                 cont = "TBC"

@@ -70,13 +70,17 @@ class Scaffold:
         data_["section"] = data["section"]
         utils.write_yaml(Config.YAML_PATH, data_)
 
-    def merge_md_yaml(self, md_file=None, yaml_file=None):
+    def merge_md_yaml(self, md_file=None, yaml_file=None, env="prod"):
         md_file = md_file or Config.README_PATH
         yaml_file = yaml_file or Config.YAML_PATH
 
         # get latest file
         priority = [Config.README_PATH, Config.YAML_PATH]
-        priority.sort(key=lambda x: utils.get_git_log_time(x), reverse=True)
+
+        if env == "dev":
+            priority.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+        else:
+            priority.sort(key=lambda x: utils.get_git_log_time(x), reverse=True)
 
         for file in priority:
             print(file, os.path.getmtime(file), utils.get_git_log_time(file))
