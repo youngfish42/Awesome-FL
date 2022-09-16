@@ -6,18 +6,18 @@
 
 **Table of Contents**
 
-- [Papers](#Papers)
-  - [FL on Graph Data and Graph Neural Networks](#FL-on-Graph-Data-and-Graph-Neural-Networks) [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) 
-  - [FL on Tabular Data](#FL-on-Tabular-Data) [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%257CXGBoost%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest%7CXGBoost)
-  - [FL in top-tier journal](#FL-in-top-tier-journal)
+- [Papers](#papers)
+  - [FL on Graph Data and Graph Neural Networks](#fl-on-graph-data-and-graph-neural-networks) [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) 
+  - [FL on Tabular Data](#fl-on-tabular-data) [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%257CXGBoost%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest%7CXGBoost)
+  - [FL in top-tier journal](#fl-in-top-tier-journal)
   - FL in top-tier conference and journal by category
-    - [AI](#FL-in-top-AI-conference-and-journal) [ML](#FL-in-top-ML-conference-and-journal) [DM](#FL-in-top-DM-conference-and-journal) [Secure](#FL-in-top-Secure-conference-and-journal) [CV](#FL-in-top-CV-conference-and-journal) [NLP](#FL-in-top-NLP-conference-and-journal) [IR](#FL-in-top-IR-conference-and-journal) [DB](#FL-in-top-DB-conference-and-journal) [Network](#FL-in-top-Network-conference-and-journal) [System](#FL-in-top-System-conference-and-journal) 
-- [Framework](#Framework)
+    - [AI](#fl-in-top-ai-conference-and-journal) [ML](#fl-in-top-ml-conference-and-journal) [DM](#fl-in-top-dm-conference-and-journal) [Secure](#fl-in-top-secure-conference-and-journal) [CV](#fl-in-top-cv-conference-and-journal) [NLP](#fl-in-top-nlp-conference-and-journal) [IR](#fl-in-top-ir-conference-and-journal) [DB](#fl-in-top-db-conference-and-journal) [Network](#fl-in-top-network-conference-and-journal) [System](#fl-in-top-system-conference-and-journal) 
+- [Framework](#framework)
 - [Datasets](#datasets)
 - [Surveys](#surveys)
-- [Tutorials and Courses](#Tutorials-and-Courses)
+- [Tutorials and Courses](#tutorials-and-courses)
 - Key Conferences/Workshops/Journals
-  - [Workshops](#Workshops) [Special Issues](#Journal-Special-Issues) [Special Tracks](#Conference-Special-Tracks)
+  - [Workshops](#workshops) [Special Issues](#journal-special-issues) [Special Tracks](#conference-special-tracks)
 
 
 
@@ -53,6 +53,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50 | :m
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/09/16 -  We are online with [Github Pages](https://youngfish42.github.io/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/)*
 - *2022/09/06 -  Add information about FL on Tabular and Graph data*
 - *2022/09/05 -  Add some information about top journals and add TPDS papers*
 - *2022/08/31 - All papers (including 400+ papers from top conferences and top journals and 100+ papers with graph and tabular data) have been comprehensively sorted out, and information such as publication addresses, links to preprints and source codes of these papers have been compiled. The source code of 280+ papers has been obtained. We hope it can help those who use this project.*  :smiley:
@@ -1032,6 +1033,8 @@ This section partially refers to repository [Federated-Learning](https://github.
 
 # Tutorials and Courses
 
+## Tutorials
+
 - [Federated Learning on MNIST using a CNN](https://colab.research.google.com/drive/1dRG3yNAlDar3tll4VOkmoU-aLslhUS8d), AI6101, 2020 ([Demo Video](https://www.youtube.com/watch?v=XKQi-CUqCsM))
 - [Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/), AAAI-19, Honolulu, HI, USA
 
@@ -1051,11 +1054,16 @@ This section partially refers to repository [Federated-Learning](https://github.
   * A Simple Tutorial from Scratch
   * Use Multiparty Compuation (MPC)
 
-##### Course: Secret Sharing
+## Course
+
+### Secret Sharing
+
 * [Simple Introduction to Sharmir's Secret Sharing and Lagrange Interpolation](https://www.youtube.com/watch?v=kkMps3X_tEE)
-* [Secret Sharing, Part 1](https://mortendahl.github.io/2017/06/04/secret-sharing-part1/): Shamir's Secret Sharing & Packed Variant
-* [Secret Sharing, Part 2](https://mortendahl.github.io/2017/06/24/secret-sharing-part2/): Improve efficiency
-* [Secret Sharing, Part 3](https://mortendahl.github.io/2017/08/13/secret-sharing-part3/)
+* Secret Sharing
+  * [ Part 1](https://mortendahl.github.io/2017/06/04/secret-sharing-part1/): Shamir's Secret Sharing & Packed Variant
+  * [Part 2](https://mortendahl.github.io/2017/06/24/secret-sharing-part2/): Improve efficiency
+  * [Part 3](https://mortendahl.github.io/2017/08/13/secret-sharing-part3/): Robust Reconstruction
+
 
 
 
