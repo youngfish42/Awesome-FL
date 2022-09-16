@@ -142,7 +142,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure | SDU | BigData | 2019 | SGNN[^SGNN] | [[PUB](https://ieeexplore.ieee.org/document/9005983)] [[PDF](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)] |
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | IBM | NeurIPS Workshop | 2019 | FGL-DFC[^FGL-DFC] | [[PDF](https://arxiv.org/abs/1909.12946)] |
 | Federated learning of predictive models from federated Electronic Health Records :star: | BU | Int. J. Medical Informatics | 2018 | cPDS[^cPDS] | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub)] |
-| Federated Graph Contrastive Learning | UTS | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.11836)] |
+| Federated Graph Contrastive Learning | UTS | preprint | 2022 | FGCL[^FGCL] | [[PDF](https://arxiv.org/abs/2207.11836)] |
 | Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`** | University of Virginia | CIKM Workshop (Oral) | 2022 | FGML[^FGML] | [[PDF](https://arxiv.org/abs/2207.11812)] |
 | FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR |  | preprint | 2022 | FD-GATDR[^FD-GATDR] | [[PDF](https://arxiv.org/abs/2207.05750)] |
 | Privacy-preserving Graph Analytics: Secure Generation and Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.00048)] |
@@ -1470,6 +1470,6 @@ Many thanks :heart: to the other awesome list:
 [^FPPDL]: TBC
 [^FedProx]: FedProx, to tackle heterogeneity in federated networks. FedProx can be viewed as a generalization and re-parametrization of FedAvg, the current state-of-the-art method for federated learning. While this re-parameterization makes only minor modifications to the method itself, these modifications have important ramifications both in theory and in practice. Theoretically, we provide convergence guarantees for our framework when learning over data from non-identical distributions (statistical heterogeneity), and while adhering to device-level systems constraints by allowing each participating device to perform a variable amount of work (systems heterogeneity). Practically, we demonstrate that FedProx allows for more robust convergence than FedAvg across a suite of realistic federated datasets. FedProx，解决联邦网络中的异质性问题。FedProx可以被看作是FedAvg的概括和重新参数化，FedAvg是目前最先进的联邦学习方法。虽然这种重新参数化只对方法本身做了微小的修改，但这些修改在理论和实践上都有重要的影响。在理论上，我们为我们的框架提供了收敛保证，当对来自非相同分布的数据进行学习时（统计异质性），同时通过允许每个参与的设备执行不同数量的工作（系统异质性）来遵守设备级别的系统约束。在实践中，我们证明了FedProx比FedAvg在一系列现实的联邦数据集中能实现更稳健的收敛。
 [^System_Design]: We have built a scalable production system for Federated Learning in the domain of mobile devices, based on TensorFlow. In this paper, we describe the resulting high-level design, sketch some of the challenges and their solutions, and touch upon the open problems and future directions. 我们已经为移动设备领域的联邦学习建立了一个可扩展的生产系统，基于TensorFlow。在本文中，我们描述了由此产生的高层次设计，概述了一些挑战和它们的解决方案，并谈到了开放的问题和未来的方向。
-
+[^FGCL]:
 
 <!-- END:reference-section -->
