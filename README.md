@@ -759,7 +759,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | Efficient Participant Contribution Evaluation for Horizontal and Vertical Federated Learning | USTC | ICDE | 2022 | DIG-FL[^DIG-FL] | [[PUB](https://ieeexplore.ieee.org/document/9835159)] |
 | An Introduction to Federated Computation | University of Warwick; Facebook | SIGMOD Tutorial | 2022 | FederatedComputation[^FederatedComputation] | [[PUB](https://dl.acm.org/doi/10.1145/3514221.3522561)] |
 | BlindFL: Vertical Federated Machine Learning without Peeking into Your Data | PKU; Tencent | SIGMOD | 2022 | BlindFL[^BlindFL] | [[PUB](https://dl.acm.org/doi/10.1145/3514221.3526127)] [[PDF](https://arxiv.org/abs/2206.07975)] |
-| An Efficient Approach for Cross-Silo Federated Learning to Rank | BUAA | ICDE | 2021 | CS-F-LTR[^CS-F-LTR] | [[PUB](https://ieeexplore.ieee.org/document/9458704)] [[RELATED PAPER(ZH)](zh)])] |
+| An Efficient Approach for Cross-Silo Federated Learning to Rank | BUAA | ICDE | 2021 | CS-F-LTR[^CS-F-LTR] | [[PUB](https://ieeexplore.ieee.org/document/9458704)] [[RELATED PAPER(ZH)](ZH)])] |
 | Feature Inference Attack on Model Predictions in Vertical Federated Learning | NUS | ICDE | 2021 | FeatureInferenceAttack[^FeatureInferenceAttack] | [[PUB](https://ieeexplore.ieee.org/document/9458672/)] [[PDF](https://arxiv.org/abs/2010.10152)] [[CODE](https://github.com/xj231/featureinference-vfl)] |
 | Efficient Federated-Learning Model Debugging | USTC | ICDE | 2021 | FLDebugger[^FLDebugger] | [[PUB](https://ieeexplore.ieee.org/document/9458829)] |
 | Federated Matrix Factorization with Privacy Guarantee | Purdue | VLDB | 2021 | FMFPG[^FMFPG] | [[PUB](https://www.vldb.org/pvldb/vol15/p900-li.pdf)] |

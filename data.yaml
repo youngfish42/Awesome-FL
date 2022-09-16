@@ -5394,13 +5394,7 @@ fl-in-top-db-conference-and-journal:
       platform is a Web interface that simulates the distributed components of Samba,
       and which helps the data scientist to configure the end-to-end workflow of deploying
       a federated MAB algorithm. The user-friendly interface of Samba, allows the
-      users to examine the interaction between three key dimensions of federated MAB:
-      cumulative reward, computation time, and security guarantees. We demonstrate
-      Samba with two real-world datasets: Google Local Reviews and Steam Video Game.
-      联邦学习允许多个数据所有者为机器学习任务做出贡献，而不会暴露他们潜在的敏感数据。我们专注于多臂老虎机（MAB）中的累积奖励最大化，这是一种用于在不确定性下进行决策的经典强化学习模型。我们演示了
-      Samba，这是一个用于安全联合多臂强盗的通用框架。该演示平台是一个模拟 Samba 分布式组件的 Web 界面，可帮助数据科学家配置部署联合 MAB
-      算法的端到端工作流程。 Samba 的用户友好界面允许用户检查联合 MAB 的三个关键维度之间的交互：累积奖励、计算时间和安全保证。我们使用两个真实数据集演示
-      Samba：Google 本地评论和 Steam 视频游戏。'
+      users to examine the interaction between three key dimensions of federated MAB'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835585
       CODE: https://github.com/gamarcad/samba-demo
@@ -5546,7 +5540,7 @@ fl-in-top-db-conference-and-journal:
       top-K 草图（RTK-Sketch）的新结构，它显着加快了特征生成过程，同时保持了精度损失的理论保证。在公共数据集上进行的大量实验验证了所提出方法的有效性和效率。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9458704
-      RELATED PAPER(ZH): zh)]
+      RELATED PAPER(ZH): ZH)]
   - title: Feature Inference Attack on Model Predictions in Vertical Federated Learning
     affiliation: NUS
     venue: ICDE
@@ -5665,25 +5659,7 @@ fl-in-top-db-conference-and-journal:
       learns models from data without exposing privacy. However, traditional FL methods
       assume that the participating mobile devices are honest volunteers. This assumption
       makes traditional FL methods unsuitable for applications where two kinds of
-      participants are engaged: 1) self-interested participants who, without economical
-      stimulus, are reluctant to contribute their computing resources unconditionally,
-      and 2) malicious participants who send corrupt updates to disrupt the learning
-      process. This paper proposes Refiner, a reliable federated learning system for
-      tackling the challenges introduced by massive engagements of self-interested
-      and malicious participants. Refiner is built upon Ethereum, a public blockchain
-      platform. To engage self-interested participants, we introduce an incentive
-      mechanism which rewards each participant in terms of the amount of its training
-      data and the performance of its local updates. To handle malicious participants,
-      we propose an audit scheme which employs a committee of randomly chosen validators
-      for punishing them with no reward and preclude corrupt updates from the global
-      model. The proposed incentive and audit scheme is implemented with cryptocurrency
-      and smart contract, two primitives offered by Ethereum. This paper demonstrates
-      the main features of Refiner by training a digit classification model on the
-      MNIST dataset.从分散数据中学习模型的技术必须正确处理此类数据的两种性质，即隐私和大规模参与。联邦学习 (FL) 是此类学习任务的一种很有前途的方法，因为该技术从数据中学习模型而不暴露隐私。然而，传统的
-      FL 方法假设参与的移动设备是诚实的志愿者。这一假设使得传统的 FL 方法不适用于有两种参与者参与的应用程序：1）自利的参与者，在没有经济刺激的情况下，不愿意无条件地贡献他们的计算资源，以及
-      2）发送损坏更新以破坏网络的恶意参与者学习过程。本文提出了 Refiner，这是一种可靠的联合学习系统，用于应对自利和恶意参与者的大规模参与所带来的挑战。
-      Refiner 建立在公共区块链平台以太坊之上。为了吸引自利的参与者，我们引入了一种激励机制，根据每个参与者的训练数据量和本地更新的性能来奖励每个参与者。为了处理恶意参与者，我们提出了一个审计方案，该方案使用一个随机选择的验证者委员会来惩罚他们而没有奖励，并从全局模型中排除损坏的更新。提议的激励和审计计划是通过以太坊提供的两种原语加密货币和智能合约来实施的。本文通过在
-      MNIST 数据集上训练一个数字分类模型来展示 Refiner 的主要功能。'
+      participants are engaged'
     materials:
       PUB: http://vldb.org/pvldb/vol14/p2659-jiang.pdf
   - title: 'Tanium Reveal: A Federated Search Engine for Querying Unstructured File
