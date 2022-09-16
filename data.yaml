@@ -1,11 +1,11 @@
 federated-learning-framework:
   header:
-    platform: 'Platform                                                     '
-    papers: ' Papers                                                       '
-    affiliations: ' Affiliations                                                 '
-    sg: '                  SG                  '
-    st: '                  ST                  '
-    materials: ' Materials'
+    platform: 'Platform                                                      '
+    papers: '  Papers                                                        '
+    affiliations: '  Affiliations                                                  '
+    sg: '                   SG                   '
+    st: '                   ST                   '
+    materials: '  Materials'
   length:
     platform: 60
     papers: 60
@@ -31,7 +31,7 @@ federated-learning-framework:
     st: ':white_check_mark::white_check_mark:'
     materials:
       DOC: https://fate.readthedocs.io/en/latest/
-      DOC(ZH): zh)]
+      DOC(ZH): ZH)]
   - platform: '[MindSpore Federated](https://github.com/mindspore-ai/mindspore/tree/master/tests/st/fl)<br
       />[![Stars](https://img.shields.io/github/stars/mindspore-ai/mindspore.svg?color=red)](https://github.com/mindspore-ai/mindspore/stargazers)<br
       />![](https://img.shields.io/github/last-commit/mindspore-ai/mindspore)'
@@ -158,7 +158,7 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://fedlab.readthedocs.io/en/master/
-      DOC(ZH): zh)]
+      DOC(ZH): ZH)]
       PAGE: https://github.com/SMILELab-FL/FedLab-benchmarks
   - platform: '[Differentially Private Federated Learning: A Client-level Perspective](https://github.com/SAP-samples/machine-learning-diff-private-federated-learning)
       <br />[![Stars](https://img.shields.io/github/stars/SAP-samples/machine-learning-diff-private-federated-learning.svg?color=blue)](https://github.comSAP-samples/machine-learning-diff-private-federated-learning/stargazers)<br
@@ -499,12 +499,12 @@ federated-learning-framework:
     materials: {}
 fl-in-top-ai-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                                                  '
-    venue: ' Venue   '
-    year: ' Year '
-    tldr: ' TL;DR                     '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                                                   '
+    venue: '  Venue    '
+    year: '  Year  '
+    tldr: '  TL;DR                      '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 60
@@ -526,7 +526,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: KAUST
     venue: AISTATS
     year: '2022'
-    tldr: 'FLIX: '
+    tldr: 'FLIX: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v151/gasanov22a.html
       PDF: https://arxiv.org/abs/2111.11556
@@ -588,7 +588,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: Stanford
     venue: AISTATS
     year: '2022'
-    tldr: 'DP-SCAFFOLD: '
+    tldr: 'DP-SCAFFOLD: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v151/noble22a.html
       PDF: https://arxiv.org/abs/2111.09278
@@ -598,7 +598,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: Princeton
     venue: AISTATS
     year: '2022'
-    tldr: 'SparseFed: '
+    tldr: 'SparseFed: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v151/panda22a.html
       PDF: https://arxiv.org/abs/2112.06274
@@ -626,7 +626,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: Criteo AI Lab
     venue: AISTATS
     year: '2022'
-    tldr: 'QLSD: '
+    tldr: 'QLSD: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v151/vono22a.html
       PDF: https://arxiv.org/abs/2106.00797
@@ -695,7 +695,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2022'
-    tldr: 'Fed-ET: '
+    tldr: 'Fed-ET: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2022/399
       PDF: https://arxiv.org/abs/2204.12703
@@ -718,7 +718,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2022'
-    tldr: 'CReFF: '
+    tldr: 'CReFF: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2022/308
       PDF: https://arxiv.org/abs/2204.13399
@@ -752,7 +752,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2022'
-    tldr: 'FedCG: '
+    tldr: 'FedCG: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2022/324
       PDF: https://arxiv.org/abs/2111.08211
@@ -762,7 +762,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2022'
-    tldr: 'FedDUAP: '
+    tldr: 'FedDUAP: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2022/385
       PDF: https://arxiv.org/abs/2204.11536
@@ -814,7 +814,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: HIT; PCL
     venue: AAAI
     year: '2022'
-    tldr: 'SmartIdx: '
+    tldr: 'SmartIdx: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/20345
       CODE: https://github.com/wudonglei99/smartidx
@@ -831,7 +831,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: SUNY-Binghamton University
     venue: AAAI
     year: '2022'
-    tldr: 'FedFIM: '
+    tldr: 'FedFIM: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/20859
       PDF: https://arxiv.org/abs/2109.05613
@@ -847,7 +847,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: UTS
     venue: AAAI
     year: '2022'
-    tldr: 'FedProto: '
+    tldr: 'FedProto: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/20819
       PDF: https://arxiv.org/abs/2105.00243
@@ -856,7 +856,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: CMU
     venue: AAAI
     year: '2022'
-    tldr: 'FedSoft: '
+    tldr: 'FedSoft: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/20785
       PDF: https://arxiv.org/abs/2112.06053
@@ -876,7 +876,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: National Taiwan University
     venue: AAAI
     year: '2022'
-    tldr: 'FedFR: '
+    tldr: 'FedFR: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/20057
       PDF: https://arxiv.org/abs/2112.12496
@@ -885,7 +885,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: CSIRO
     venue: AAAI
     year: '2022'
-    tldr: 'SplitFed: '
+    tldr: 'SplitFed: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/20825
       PDF: https://arxiv.org/abs/2004.12088
@@ -910,7 +910,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: IBM Research
     venue: AAAI
     year: '2022'
-    tldr: 'FlyNNFL: '
+    tldr: 'FlyNNFL: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/20775
       PDF: https://arxiv.org/abs/2112.07157
@@ -937,7 +937,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2021'
-    tldr: 'FedSpeech: '
+    tldr: 'FedSpeech: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2021/527
       PDF: https://arxiv.org/abs/2110.07216
@@ -945,7 +945,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2021'
-    tldr: 'FedKT: '
+    tldr: 'FedKT: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2021/205
       PDF: https://arxiv.org/abs/2010.01017
@@ -954,7 +954,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2021'
-    tldr: 'FEDMD-NFDP: '
+    tldr: 'FEDMD-NFDP: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2021/216
       PDF: https://arxiv.org/abs/2202.08310
@@ -964,7 +964,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2021'
-    tldr: 'LDP-FL: '
+    tldr: 'LDP-FL: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2021/217
       PDF: https://arxiv.org/abs/2007.15789
@@ -972,7 +972,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2021'
-    tldr: 'FedFV: '
+    tldr: 'FedFV: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2021/223
       PDF: https://arxiv.org/abs/2104.14937
@@ -982,7 +982,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2021'
-    tldr: 'H-FL: '
+    tldr: 'H-FL: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2021/67
       PDF: https://arxiv.org/abs/2106.00275
@@ -1006,7 +1006,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: SZU
     venue: AAAI
     year: '2021'
-    tldr: 'FedRec++: '
+    tldr: 'FedRec++: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/16546
       VIDEO: https://slideslive.com/38947798/fedrec-lossless-federated-recommendation-with-explicit-feedback
@@ -1032,7 +1032,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: Renmin University of China; Kyoto University
     venue: AAAI
     year: '2021'
-    tldr: 'FLAME_D: '
+    tldr: 'FLAME_D: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/17053
       PDF: https://arxiv.org/abs/2009.08063
@@ -1061,7 +1061,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: Simon Fraser University; McMaster University
     venue: AAAI
     year: '2021'
-    tldr: 'FedAMP: '
+    tldr: 'FedAMP: TBC'
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/16960
       PDF: https://arxiv.org/abs/2007.03797
@@ -1216,7 +1216,7 @@ fl-in-top-ai-conference-and-journal:
     affiliation: ''
     venue: IJCAI
     year: '2020'
-    tldr: 'FedGame: '
+    tldr: 'FedGame: TBC'
     materials:
       PUB: https://www.ijcai.org/proceedings/2020/769
       CODE: https://github.com/benggggggggg/fedgame
@@ -1317,12 +1317,12 @@ fl-in-top-ai-conference-and-journal:
       VIDEO: https://youtu.be/NPGf_OJrzOg
 fl-in-top-cv-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                                                  '
-    venue: ' Venue '
-    year: ' Year '
-    tldr: ' TL;DR                                       '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                                                   '
+    venue: '  Venue  '
+    year: '  Year  '
+    tldr: '  TL;DR                                        '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 60
@@ -1335,7 +1335,7 @@ fl-in-top-cv-conference-and-journal:
     affiliation: KAIST
     venue: ECCV
     year: '2022'
-    tldr: 'FedX: '
+    tldr: 'FedX: TBC'
     materials:
       PUB.: https://arxiv.org/abs/2207.09158
       CODE: https://github.com/sungwon-han/fedx
@@ -1701,12 +1701,12 @@ fl-in-top-cv-conference-and-journal:
       解读: https://zhuanlan.zhihu.com/p/265987079
 fl-in-top-db-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                     '
-    venue: ' Venue           '
-    year: ' Year '
-    tldr: ' TL;DR                               '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                      '
+    venue: '  Venue            '
+    year: '  Year  '
+    tldr: '  TL;DR                                '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 31
@@ -1787,7 +1787,7 @@ fl-in-top-db-conference-and-journal:
     affiliation: USTC
     venue: ICDE
     year: '2022'
-    tldr: 'FedADMM: '
+    tldr: 'FedADMM: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835545
       PDF: https://arxiv.org/abs/2204.03529
@@ -1797,7 +1797,7 @@ fl-in-top-db-conference-and-journal:
     affiliation: USTC
     venue: ICDE
     year: '2022'
-    tldr: 'FedMP: '
+    tldr: 'FedMP: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835327
   - title: 'Federated Learning on Non-IID Data Silos: An Experimental Study. :fire:'
@@ -1814,14 +1814,14 @@ fl-in-top-db-conference-and-journal:
     affiliation: USTC
     venue: ICDE
     year: '2022'
-    tldr: 'FedMigr: '
+    tldr: 'FedMigr: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835657
   - title: 'Samba: A System for Secure Federated Multi-Armed Bandits'
     affiliation: ''
     venue: ICDE
     year: '2022'
-    tldr: 'Samba: '
+    tldr: 'Samba: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835585
       CODE: https://github.com/gamarcad/samba-demo
@@ -1829,7 +1829,7 @@ fl-in-top-db-conference-and-journal:
     affiliation: ZJU
     venue: ICDE
     year: '2022'
-    tldr: 'FedRecAttack: '
+    tldr: 'FedRecAttack: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835228
       PDF: https://arxiv.org/abs/2204.01499
@@ -1853,7 +1853,7 @@ fl-in-top-db-conference-and-journal:
     affiliation: USTC
     venue: ICDE
     year: '2022'
-    tldr: 'DIG-FL: '
+    tldr: 'DIG-FL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835159
   - title: An Introduction to Federated Computation
@@ -1868,7 +1868,7 @@ fl-in-top-db-conference-and-journal:
     affiliation: PKU; Tencent
     venue: SIGMOD
     year: '2022'
-    tldr: 'BlindFL: '
+    tldr: 'BlindFL: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3514221.3526127
       PDF: https://arxiv.org/abs/2206.07975
@@ -1879,7 +1879,7 @@ fl-in-top-db-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9458704
-      RELATED PAPER(ZH): zh)]
+      RELATED PAPER(ZH): ZH)]
   - title: Feature Inference Attack on Model Predictions in Vertical Federated Learning
     affiliation: ''
     venue: ICDE
@@ -1915,7 +1915,7 @@ fl-in-top-db-conference-and-journal:
     affiliation: Simon Fraser University
     venue: VLDB
     year: '2021'
-    tldr: 'FedRain-and-Frog: '
+    tldr: 'FedRain-and-Frog: TBC'
     materials:
       PUB: http://www.vldb.org/pvldb/vol15/p388-wu.pdf
       PDF: https://arxiv.org/abs/2108.11884
@@ -1987,12 +1987,12 @@ fl-in-top-db-conference-and-journal:
       CODE: https://github.com/nusdbsystem/pivot
 fl-in-top-dm-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                                                '
-    venue: ' Venue                  '
-    year: ' Year '
-    tldr: ' TL;DR                                                 '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                                                 '
+    venue: '  Venue                   '
+    year: '  Year  '
+    tldr: '  TL;DR                                                  '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 58
@@ -2303,12 +2303,12 @@ fl-in-top-dm-conference-and-journal:
       CODE: http://github.com/facebookresearch/foltr-es
 fl-in-top-ml-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                                                  '
-    venue: ' Venue          '
-    year: ' Year '
-    tldr: ' TL;DR                       '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                                                   '
+    venue: '  Venue           '
+    year: '  Year  '
+    tldr: '  TL;DR                        '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 60
@@ -2330,7 +2330,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: NYU
     venue: ICML
     year: '2022'
-    tldr: 'PPSGD: '
+    tldr: 'PPSGD: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/bietti22a.html
       PDF: https://arxiv.org/abs/2202.05318
@@ -2351,7 +2351,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Stanford; Google Research
     venue: ICML
     year: '2022'
-    tldr: 'PBM: '
+    tldr: 'PBM: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/chen22s.html
       PDF: https://arxiv.org/abs/2207.09916
@@ -2361,7 +2361,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: USTC
     venue: ICML
     year: '2022'
-    tldr: 'DisPFL: '
+    tldr: 'DisPFL: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/dai22b.html
       PDF: https://arxiv.org/abs/2206.00187
@@ -2371,7 +2371,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: University of Oulu
     venue: ICML
     year: '2022'
-    tldr: 'FedNew: '
+    tldr: 'FedNew: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/elgabli22a.html
       PDF: https://arxiv.org/abs/2206.08829
@@ -2381,7 +2381,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: University of Cambridge
     venue: ICML
     year: '2022'
-    tldr: 'DAdaQuant: '
+    tldr: 'DAdaQuant: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/honig22a.html
       PDF: https://arxiv.org/abs/2111.00465
@@ -2407,7 +2407,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Seoul National University
     venue: ICML
     year: '2022'
-    tldr: 'FedMLB: '
+    tldr: 'FedMLB: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/kim22a.html
       PDF: https://arxiv.org/abs/2207.06936
@@ -2428,7 +2428,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: XJTU
     venue: ICML
     year: '2022'
-    tldr: 'FedPU: '
+    tldr: 'FedPU: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/lin22b.html
       PDF: https://arxiv.org/abs/2106.10904
@@ -2446,7 +2446,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: University of Michigan
     venue: ICML
     year: '2022'
-    tldr: 'Orchestra: '
+    tldr: 'Orchestra: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/lubana22a.html
       PDF: https://arxiv.org/abs/2205.11506
@@ -2456,7 +2456,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: USTC
     venue: ICML
     year: '2022'
-    tldr: 'DFL: '
+    tldr: 'DFL: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/luo22b.html
       PDF: https://arxiv.org/abs/2206.06818
@@ -2467,7 +2467,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: The University of Texas at Austin
     venue: ICML
     year: '2022'
-    tldr: 'FedHeNN: '
+    tldr: 'FedHeNN: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/makhija22a.html
       PDF: https://proceedings.mlr.press/v162/zhang22p.html
@@ -2476,7 +2476,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Inria
     venue: ICML
     year: '2022'
-    tldr: 'KNN-PER: '
+    tldr: 'KNN-PER: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/marfoq22a.html
       PDF: https://arxiv.org/abs/2111.09360
@@ -2485,7 +2485,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: KAUST
     venue: ICML
     year: '2022'
-    tldr: 'ProxRR: '
+    tldr: 'ProxRR: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/mishchenko22a.html
       PDF: https://arxiv.org/abs/2102.06704
@@ -2511,7 +2511,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: KAUST
     venue: ICML
     year: '2022'
-    tldr: 'FedNL: '
+    tldr: 'FedNL: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/safaryan22a.html
       PDF: https://arxiv.org/abs/2106.02969
@@ -2531,7 +2531,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Hong Kong Baptist University
     venue: ICML
     year: '2022'
-    tldr: 'VFL: '
+    tldr: 'VFL: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/tang22d.html
       PDF: https://arxiv.org/abs/2206.02465
@@ -2541,7 +2541,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: University of Michigan
     venue: ICML
     year: '2022'
-    tldr: 'FedNest: '
+    tldr: 'FedNest: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/tarzanagh22a.html
       PDF: https://arxiv.org/abs/2205.02215
@@ -2551,7 +2551,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: VMware Research
     venue: ICML
     year: '2022'
-    tldr: 'EDEN: '
+    tldr: 'EDEN: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/vargaftik22a.html
       PDF: https://arxiv.org/abs/2108.08842
@@ -2569,7 +2569,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: CISPA Helmholz Center for Information Security
     venue: ICML
     year: '2022'
-    tldr: 'ProgFed: '
+    tldr: 'ProgFed: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/wang22y.html
       PDF: https://arxiv.org/abs/2110.05323
@@ -2580,7 +2580,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: University of Maryland
     venue: ICML
     year: '2022'
-    tldr: 'breaching: '
+    tldr: 'breaching: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/wen22a.html
       PDF: https://arxiv.org/abs/2202.00580
@@ -2598,7 +2598,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Nankai University
     venue: ICML
     year: '2022'
-    tldr: 'QSFL: '
+    tldr: 'QSFL: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/yi22a.html
       CODE: https://github.com/LipingYi/QSFL
@@ -2649,7 +2649,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Southeast University;Princeton
     venue: ICML
     year: '2022'
-    tldr: 'Neurotoxin: '
+    tldr: 'Neurotoxin: TBC'
     materials:
       PUB: https://proceedings.mlr.press/v162/zhang22w.html
       PDF: https://arxiv.org/abs/2206.10341
@@ -2676,7 +2676,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: The University of Tokyo; CUHK
     venue: ICLR
     year: '2022'
-    tldr: 'FedUL: '
+    tldr: 'FedUL: TBC'
     materials:
       PUB: https://openreview.net/forum?id=WHA8009laxu
       CODE: https://github.com/lunanbit/FedUL
@@ -2685,7 +2685,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: CMU; University of Illinois at Urbana-Champaign; University of Washington
     venue: ICLR
     year: '2022'
-    tldr: 'FedChain: '
+    tldr: 'FedChain: TBC'
     materials:
       PUB: https://openreview.net/forum?id=ZaVVVlcdaN
       PDF: https://arxiv.org/abs/2108.06869.
@@ -2694,7 +2694,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: THU
     venue: ICLR
     year: '2022'
-    tldr: 'FedReg: '
+    tldr: 'FedReg: TBC'
     materials:
       PUB: https://openreview.net/forum?id=541PxiEKN3F
       PDF: https://arxiv.org/abs/2203.02645
@@ -2838,7 +2838,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: The Ohio State University
     venue: ICLR
     year: '2022'
-    tldr: 'Fed-RoD: '
+    tldr: 'Fed-RoD: TBC'
     materials:
       PUB: https://openreview.net/forum?id=I1hQbx10Kxn
       PDF: https://arxiv.org/abs/2107.00778
@@ -2891,7 +2891,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Duke University
     venue: ICLR
     year: '2021'
-    tldr: 'HeteroFL: '
+    tldr: 'HeteroFL: TBC'
     materials:
       PUB: https://openreview.net/forum?id=TNkPBBYFkXg
       PDF: https://arxiv.org/abs/2010.01264
@@ -2900,7 +2900,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: KAIST
     venue: ICLR
     year: '2021'
-    tldr: 'FedMix: '
+    tldr: 'FedMix: TBC'
     materials:
       PUB: https://openreview.net/forum?id=Ogga20D2HO-
       PDF: https://arxiv.org/abs/2107.00233
@@ -2927,7 +2927,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Stanford; NVIDIA
     venue: ICLR
     year: '2021'
-    tldr: 'FedFomo: '
+    tldr: 'FedFomo: TBC'
     materials:
       PUB: https://openreview.net/forum?id=ehJqJQk9cw
       PDF: https://arxiv.org/abs/2012.08565
@@ -2938,7 +2938,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Princeton
     venue: ICLR
     year: '2021'
-    tldr: 'FedBN: '
+    tldr: 'FedBN: TBC'
     materials:
       PUB: https://openreview.net/forum?id=6YEQUn0QICG
       PDF: https://arxiv.org/abs/2102.07623
@@ -2947,7 +2947,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: The Ohio State University
     venue: ICLR
     year: '2021'
-    tldr: 'FedBE: '
+    tldr: 'FedBE: TBC'
     materials:
       PUB: https://openreview.net/forum?id=dgtpE6gKjHn
       PDF: https://arxiv.org/abs/2009.01974
@@ -2989,7 +2989,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: PKU; Princeton
     venue: ICML
     year: '2021'
-    tldr: 'FL-NTK: '
+    tldr: 'FL-NTK: TBC'
     materials:
       PUB: http://proceedings.mlr.press/v139/huang21c.html
       PDF: https://arxiv.org/abs/2105.05001
@@ -3160,14 +3160,14 @@ fl-in-top-ml-conference-and-journal:
     affiliation: KAIST
     venue: NeurIPS
     year: '2021'
-    tldr: 'Sageflow: '
+    tldr: 'Sageflow: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2021/hash/076a8133735eb5d7552dc195b125a454-Abstract.html
   - title: 'CAFE: Catastrophic Data Leakage in Vertical Federated Learning'
     affiliation: Rensselaer Polytechnic Institute; IBM Research
     venue: NeurIPS
     year: '2021'
-    tldr: 'CAFE: '
+    tldr: 'CAFE: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html
       CODE: https://github.com/DeRafael/CAFE
@@ -3194,7 +3194,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: UCLA
     venue: NeurIPS
     year: '2021'
-    tldr: 'QuPeD: '
+    tldr: 'QuPeD: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/1dba3025b159cd9354da65e2d0436a31-Abstract.html
       PDF: https://arxiv.org/abs/2107.13892
@@ -3248,7 +3248,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Princeton
     venue: NeurIPS
     year: '2021'
-    tldr: 'GradAttack: '
+    tldr: 'GradAttack: TBC'
     materials:
       PUB.: https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html
       PDF: https://arxiv.org/abs/2112.00059
@@ -3304,7 +3304,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Duke University; Accenture Labs
     venue: NeurIPS
     year: '2021'
-    tldr: 'FL-WBC: '
+    tldr: 'FL-WBC: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/692baebec3bb4b53d7ebc3b9fabac31b-Abstract.html
       PDF: https://arxiv.org/abs/2110.13864
@@ -3314,7 +3314,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: KAUST; Samsung AI Center
     venue: NeurIPS
     year: '2021'
-    tldr: 'FjORD: '
+    tldr: 'FjORD: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/6aed000af86a084f9cb0264161e29dd3-Abstract.html
       PDF: https://arxiv.org/abs/2102.13451
@@ -3363,7 +3363,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: CMU; Hewlett Packard Enterprise
     venue: NeurIPS
     year: '2021'
-    tldr: 'FedEx: '
+    tldr: 'FedEx: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/a0205b87490c847182672e8d371e9948-Abstract.html
       PDF: https://arxiv.org/abs/2106.04502
@@ -3372,7 +3372,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Google; CMU
     venue: NeurIPS
     year: '2021'
-    tldr: 'Large-Cohort: '
+    tldr: 'Large-Cohort: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/ab9ebd57177b5106ad7879f0896685d4-Abstract.html
       PDF: https://arxiv.org/abs/2106.07820
@@ -3382,7 +3382,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: KAUST; Columbia University; University of Central Florida
     venue: NeurIPS
     year: '2021'
-    tldr: 'DeepReduce: '
+    tldr: 'DeepReduce: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/b0ab42fcb7133122b38521d13da7120b-Abstract.html
       PDF: https://arxiv.org/abs/2102.03112
@@ -3391,7 +3391,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Huawei
     venue: NeurIPS
     year: '2021'
-    tldr: 'PartialFed: '
+    tldr: 'PartialFed: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html
       VIDEO: https://papertalk.org/papertalks/37327
@@ -3408,7 +3408,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: THU; Alibaba; Weill Cornell Medicine
     venue: NeurIPS
     year: '2021'
-    tldr: 'FCFL: '
+    tldr: 'FCFL: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/db8e1af0cb3aca1ae2d0018624204529-Abstract.html
       PDF: https://arxiv.org/abs/2108.08435
@@ -3442,7 +3442,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Ecole Polytechnique; Google Research
     venue: NeurIPS
     year: '2021'
-    tldr: 'Federated-EM: '
+    tldr: 'Federated-EM: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/f740c8d9c193f16d8a07d3a8a751d13f-Abstract.html
       PDF: https://arxiv.org/abs/2111.02083
@@ -3461,7 +3461,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: University of North Carolina at Chapel Hill; IBM Research
     venue: NeurIPS
     year: '2021'
-    tldr: 'FedDR: '
+    tldr: 'FedDR: TBC'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/fe7ee8fc1959cc7214fa21c4840dff0a-Abstract.html
       PDF: https://arxiv.org/abs/2103.03452
@@ -3497,7 +3497,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: CMU; Facebook AI
     venue: ICLR
     year: '2020'
-    tldr: 'fair-flearn: '
+    tldr: 'fair-flearn: TBC'
     materials:
       PUB: https://openreview.net/forum?id=ByexElSYDr
       PDF: https://arxiv.org/abs/1905.10497
@@ -3506,7 +3506,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: University of Wisconsin-Madison; IBM Research
     venue: ICLR
     year: '2020'
-    tldr: 'FedMA: '
+    tldr: 'FedMA: TBC'
     materials:
       PUB: https://openreview.net/forum?id=BkluqlSFDS
       PDF: https://arxiv.org/abs/2002.06440
@@ -3543,7 +3543,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Google
     venue: ICML
     year: '2020'
-    tldr: 'FedBoost: '
+    tldr: 'FedBoost: TBC'
     materials:
       PUB: http://proceedings.mlr.press/v119/hamer20a.html
       VIDEO: https://slideslive.com/38928463/fedboost-a-communicationefficient-algorithm-for-federated-learning?ref=speaker-16993-latest
@@ -3551,7 +3551,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: UC Berkeley; Johns Hopkins University; Amazon
     venue: ICML
     year: '2020'
-    tldr: 'FetchSGD: '
+    tldr: 'FetchSGD: TBC'
     materials:
       PUB: http://proceedings.mlr.press/v119/rothchild20a.html
       PDF: https://arxiv.org/abs/2007.07682
@@ -3561,7 +3561,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: EPFL; Google
     venue: ICML
     year: '2020'
-    tldr: 'SCAFFOLD: '
+    tldr: 'SCAFFOLD: TBC'
     materials:
       PUB: http://proceedings.mlr.press/v119/karimireddy20a.html
       PDF: https://arxiv.org/abs/1910.06378
@@ -3620,7 +3620,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: UC Berkeley
     venue: NeurIPS
     year: '2020'
-    tldr: 'FedSplit: '
+    tldr: 'FedSplit: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/4ebd440d99504722d80de606ea8507da-Abstract.html
       PDF: https://arxiv.org/abs/2005.05238
@@ -3628,7 +3628,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: NUS; MIT
     venue: NeurIPS
     year: '2020'
-    tldr: 'fbo: '
+    tldr: 'fbo: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/6dfe08eda761bd321f8a9b239f6f4ec3-Abstract.html
       PDF: https://arxiv.org/abs/2010.10154
@@ -3645,7 +3645,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: UC Santa Barbara; MIT
     venue: NeurIPS
     year: '2020'
-    tldr: 'RobustFL: '
+    tldr: 'RobustFL: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/f5e536083a438cec5b64a4954abc17f1-Abstract.html
       PDF: https://arxiv.org/abs/2006.08907
@@ -3654,7 +3654,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: UC Berkeley; DeepMind
     venue: NeurIPS
     year: '2020'
-    tldr: 'ifca: '
+    tldr: 'ifca: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/e32cc80bf07915058ce90722ee17bb71-Abstract.html
       PDF: https://arxiv.org/abs/2006.04088
@@ -3663,7 +3663,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Pennsylvania State University
     venue: NeurIPS
     year: '2020'
-    tldr: 'DRFA: '
+    tldr: 'DRFA: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/ac450d10e166657ec8f93a1b65ca1b14-Abstract.html
       PDF: https://arxiv.org/abs/2102.12660
@@ -3682,7 +3682,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: MIT; UT Austin
     venue: NeurIPS
     year: '2020'
-    tldr: 'Per-FedAvg: '
+    tldr: 'Per-FedAvg: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/24389bfe4fe2eba8bf9aa9203a44cdad-Abstract.html
       PDF: https://arxiv.org/abs/2002.07948
@@ -3691,7 +3691,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: USC
     venue: NeurIPS
     year: '2020'
-    tldr: 'FedGKT: '
+    tldr: 'FedGKT: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/a1d4c20b182ad7137ab3606f0e3fc8a4-Abstract.html
       PDF: https://arxiv.org/abs/2007.14513
@@ -3702,7 +3702,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: CMU; Princeton
     venue: NeurIPS
     year: '2020'
-    tldr: 'FedNova: '
+    tldr: 'FedNova: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/564127c03caab942e503ee6f810f54fd-Abstract.html
       PDF: https://arxiv.org/abs/2007.07481
@@ -3720,7 +3720,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: Stanford
     venue: NeurIPS
     year: '2020'
-    tldr: 'FedAc: '
+    tldr: 'FedAc: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/39d0a8908fbe6c18039ea8227f827023-Abstract.html
       PDF: https://arxiv.org/abs/2006.08950
@@ -3740,7 +3740,7 @@ fl-in-top-ml-conference-and-journal:
     affiliation: EPFL
     venue: NeurIPS
     year: '2020'
-    tldr: 'FedDF: '
+    tldr: 'FedDF: TBC'
     materials:
       PUB: https://proceedings.neurips.cc/paper/2020/hash/18df51b97ccd68128e994804f3eccc87-Abstract.html
       PDF: https://arxiv.org/abs/2006.07242
@@ -3800,12 +3800,12 @@ fl-in-top-ml-conference-and-journal:
       CODE: https://github.com/gingsmith/fmtl
 fl-in-top-network-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                                                  '
-    venue: ' Venue      '
-    year: ' Year '
-    tldr: ' TL;DR                                     '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                                                   '
+    venue: '  Venue       '
+    year: '  Year  '
+    tldr: '  TL;DR                                      '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 60
@@ -3870,7 +3870,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: NEU
     venue: INFOCOM
     year: '2022'
-    tldr: 'FLASH: '
+    tldr: 'FLASH: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796865
       CODE: https://github.com/Batool-Salehi/FL-based-Sector-Selection
@@ -3895,7 +3895,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: SJTU
     venue: INFOCOM
     year: '2022'
-    tldr: 'FedFPM: '
+    tldr: 'FedFPM: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796719
       CODE: https://github.com/HuskyW/FFPA
@@ -3904,7 +3904,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: SWJTU;THU
     venue: WWW
     year: '2022'
-    tldr: 'PBPFL: '
+    tldr: 'PBPFL: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3485447.3512233
       PDF: https://arxiv.org/abs/2002.09843
@@ -3914,7 +3914,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: Yonsei University
     venue: WWW
     year: '2022'
-    tldr: 'LocFedMix-SL: '
+    tldr: 'LocFedMix-SL: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3485447.3512153
   - title: Federated Unlearning via Class-Discriminative Pruning
@@ -3931,14 +3931,14 @@ fl-in-top-network-conference-and-journal:
     affiliation: Purdue
     venue: WWW
     year: '2022'
-    tldr: 'FedKC: '
+    tldr: 'FedKC: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3485447.3511988
   - title: 'Federated Bandit: A Gossiping Approach'
     affiliation: University of California
     venue: SIGMETRICS
     year: '2021'
-    tldr: 'Federated-Bandit: '
+    tldr: 'Federated-Bandit: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3447380
       PDF: https://arxiv.org/abs/2010.12763
@@ -3947,7 +3947,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: Duke University
     venue: MobiCom
     year: '2021'
-    tldr: 'Hermes: '
+    tldr: 'Hermes: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3447993.3483278
   - title: Federated mobile sensing for activity recognition
@@ -3994,7 +3994,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: THU
     venue: INFOCOM
     year: '2021'
-    tldr: 'FAIR: '
+    tldr: 'FAIR: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9488743
   - title: Sample-level Data Selection for Federated Learning
@@ -4042,7 +4042,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: Jinan University; CityU
     venue: INFOCOM
     year: '2021'
-    tldr: 'FedServing: '
+    tldr: 'FedServing: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9488807
       PDF: https://arxiv.org/abs/2012.10566
@@ -4059,7 +4059,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: King Abdullah University of Science and Technology
     venue: INFOCOM
     year: '2021'
-    tldr: 'FedDA: '
+    tldr: 'FedDA: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9488883
       PDF: https://arxiv.org/abs/2110.05183
@@ -4069,21 +4069,21 @@ fl-in-top-network-conference-and-journal:
     affiliation: University of Notre Dame
     venue: INFOCOM
     year: '2021'
-    tldr: 'FedSens: '
+    tldr: 'FedSens: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9488776/
   - title: 'P-FedAvg: Parallelizing Federated Learning with Theoretical Guarantees'
     affiliation: SYSU; Guangdong Key Laboratory of Big Data Analysis and Processing
     venue: INFOCOM
     year: '2021'
-    tldr: 'P-FedAvg: '
+    tldr: 'P-FedAvg: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9488877
   - title: 'Meta-HAR: Federated Representation Learning for Human Activity Recognition.'
     affiliation: University of Alberta
     venue: WWW
     year: '2021'
-    tldr: 'Meta-HAR: '
+    tldr: 'Meta-HAR: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3442381.3450006
       PDF: https://arxiv.org/abs/2106.00615
@@ -4092,7 +4092,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: PKU
     venue: WWW
     year: '2021'
-    tldr: 'PFA: '
+    tldr: 'PFA: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3442381.3449847
       PDF: https://arxiv.org/abs/2103.01548
@@ -4102,7 +4102,7 @@ fl-in-top-network-conference-and-journal:
     affiliation: Emory
     venue: WWW
     year: '2021'
-    tldr: 'FedGTF-EF-PC: '
+    tldr: 'FedGTF-EF-PC: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3442381.3449832
       CODE: https://github.com/jma78/FedGTF-EF
@@ -4195,17 +4195,17 @@ fl-in-top-network-conference-and-journal:
     affiliation: Collaborative Innovation Center of Geospatial Technology
     venue: INFOCOM
     year: '2018'
-    tldr: 'TFL: '
+    tldr: 'TFL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/8486352
 fl-in-top-nlp-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                                       '
-    venue: ' Venue          '
-    year: ' Year '
-    tldr: ' TL;DR                               '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                                        '
+    venue: '  Venue           '
+    year: '  Year  '
+    tldr: '  TL;DR                                '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 49
@@ -4234,7 +4234,7 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: Amazon
     venue: ACL workshop
     year: '2022'
-    tldr: 'ActPerFL: '
+    tldr: 'ActPerFL: TBC'
     materials:
       PUB: https://aclanthology.org/2022.fl4nlp-1.1
       PAGE: https://www.amazon.science/publications/actperfl-active-personalized-federated-learning
@@ -4243,7 +4243,7 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: USC
     venue: NAACL
     year: '2022'
-    tldr: 'FedNLP: '
+    tldr: 'FedNLP: TBC'
     materials:
       PUB: https://aclanthology.org/2022.findings-naacl.13/
       PDF: https://arxiv.org/abs/2104.08815
@@ -4296,7 +4296,7 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: USTC
     venue: EMNLP
     year: '2021'
-    tldr: 'Efficient-FedRec: '
+    tldr: 'Efficient-FedRec: TBC'
     materials:
       PUB: https://aclanthology.org/2021.emnlp-main.223
       PDF: https://arxiv.org/abs/2109.05446
@@ -4392,12 +4392,12 @@ fl-in-top-nlp-conference-and-journal:
       UC.: https://github.com/MarcioPorto/federated-phenotyping
 fl-in-top-secure-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                                                  '
-    venue: ' Venue '
-    year: ' Year '
-    tldr: ' TL;DR                                               '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                                                   '
+    venue: '  Venue  '
+    year: '  Year  '
+    tldr: '  TL;DR                                                '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 60
@@ -4434,7 +4434,7 @@ fl-in-top-secure-conference-and-journal:
     affiliation: Microsoft Research
     venue: USENIX Security
     year: '2022'
-    tldr: 'SIMC: '
+    tldr: 'SIMC: TBC'
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/chandran
       PDF: https://eprint.iacr.org/2021/1538
@@ -4461,7 +4461,7 @@ fl-in-top-secure-conference-and-journal:
     affiliation: Technical University of Darmstadt
     venue: USENIX Security
     year: '2022'
-    tldr: 'FLAME: '
+    tldr: 'FLAME: TBC'
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen
       SLIDES: https://www.usenix.org/system/files/sec22_slides-nguyen.pdf
@@ -4488,7 +4488,7 @@ fl-in-top-secure-conference-and-journal:
     affiliation: Technical University of Darmstadt
     venue: NDSS
     year: '2022'
-    tldr: 'FedCRI: '
+    tldr: 'FedCRI: TBC'
     materials:
       PUB: https://www.ndss-symposium.org/ndss-paper/auto-draft-229/
   - title: 'DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep
@@ -4496,7 +4496,7 @@ fl-in-top-secure-conference-and-journal:
     affiliation: Technical University of Darmstadt
     venue: NDSS
     year: '2022'
-    tldr: 'DeepSight: '
+    tldr: 'DeepSight: TBC'
     materials:
       PUB: https://www.ndss-symposium.org/ndss-paper/auto-draft-205/
       PDF: https://arxiv.org/abs/2201.00763
@@ -4588,12 +4588,12 @@ fl-in-top-secure-conference-and-journal:
       UC: https://github.com/corentingiraud/federated-learning-secure-aggregation
 fl-in-top-system-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation               '
-    venue: ' Venue                     '
-    year: ' Year '
-    tldr: ' TL;DR                               '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                '
+    venue: '  Venue                      '
+    year: '  Year  '
+    tldr: '  TL;DR                                '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 25
@@ -4624,14 +4624,14 @@ fl-in-top-system-conference-and-journal:
     affiliation: THU
     venue: TPDS
     year: '2022'
-    tldr: 'AUCTION: '
+    tldr: 'AUCTION: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9647925
   - title: 'DONE: Distributed Approximate Newton-type Method for Federated Edge Learning.'
     affiliation: University of Sydney
     venue: TPDS
     year: '2022'
-    tldr: 'DONE: '
+    tldr: 'DONE: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9695269
       PDF: https://arxiv.org/abs/2012.05625
@@ -4641,7 +4641,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: CQU
     venue: TPDS
     year: '2022'
-    tldr: 'FlexCFL: '
+    tldr: 'FlexCFL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9647969
       PDF: https://arxiv.org/abs/2108.09749
@@ -4659,7 +4659,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: CSU
     venue: TPDS
     year: '2022'
-    tldr: 'LightFed: '
+    tldr: 'LightFed: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9613755
   - title: On the Benefits of Multiple Gossip Steps in Communication-Constrained Decentralized
@@ -4667,7 +4667,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: Purdue
     venue: TPDS
     year: '2022'
-    tldr: 'Deli-CoCo: '
+    tldr: 'Deli-CoCo: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9664349
       PDF: https://arxiv.org/abs/2011.10643
@@ -4698,7 +4698,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: Qufu Normal University
     venue: TPDS
     year: '2022'
-    tldr: 'DPBFL: '
+    tldr: 'DPBFL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9757841
   - title: Multi-Task Federated Learning for Personalised Deep Neural Networks in
@@ -4716,7 +4716,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: BUAA
     venue: TPDS
     year: '2022'
-    tldr: 'SHFL: '
+    tldr: 'SHFL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9665214
   - title: Differentially Private Federated Temporal Difference Learning.
@@ -4731,7 +4731,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: XJTU
     venue: TPDS
     year: '2022'
-    tldr: 'WKAFL: '
+    tldr: 'WKAFL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9712243
       PDF: https://arxiv.org/abs/2203.01214
@@ -4739,7 +4739,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: SCU
     venue: TPDS
     year: '2022'
-    tldr: 'Overlap-FedAvg: '
+    tldr: 'Overlap-FedAvg: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9459540
       PDF: https://arxiv.org/abs/2012.06706
@@ -4805,7 +4805,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: CQU
     venue: TPDS
     year: '2021'
-    tldr: 'Astraea: '
+    tldr: 'Astraea: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9141436
       CODE: https://github.com/mtang724/Self-Balancing-Federated-Learning
@@ -4826,7 +4826,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: Beijing Normal University
     venue: TPDS
     year: '2021'
-    tldr: 'PoFL: '
+    tldr: 'PoFL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9347812
       PDF: https://arxiv.org/abs/1912.11745
@@ -4834,7 +4834,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: UBC
     venue: TPDS
     year: '2021'
-    tldr: 'Biscotti: '
+    tldr: 'Biscotti: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9292450
   - title: Mutual Information Driven Federated Learning.
@@ -4857,7 +4857,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: HKU
     venue: TPDS
     year: '2021'
-    tldr: 'FedSCR: '
+    tldr: 'FedSCR: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9303442
   - title: 'FedScale: Benchmarking Model and System Performance of Federated Learning
@@ -4918,7 +4918,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: USTC
     venue: TPDS
     year: '2020'
-    tldr: 'MFL: '
+    tldr: 'MFL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9003425
       PDF: https://arxiv.org/abs/1910.03197
@@ -4926,7 +4926,7 @@ fl-in-top-system-conference-and-journal:
     affiliation: NUS
     venue: TPDS
     year: '2020'
-    tldr: 'FPPDL: '
+    tldr: 'FPPDL: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9098045
       PDF: https://arxiv.org/abs/1906.01167
@@ -4964,12 +4964,12 @@ fl-in-top-system-conference-and-journal:
       解读: https://zhuanlan.zhihu.com/p/450993635
 fl-in-top-tier-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation '
-    venue: ' Venue                 '
-    year: ' Year '
-    tldr: ' TL;DR                 '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation  '
+    venue: '  Venue                  '
+    year: '  Year  '
+    tldr: '  TL;DR                  '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 11
@@ -5114,12 +5114,12 @@ fl-in-top-tier-journal:
       PUB: https://www.nature.com/articles/s42256-020-0186-1
 fl-on-graph-data-and-graph-neural-network:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation       '
-    venue: ' Venue                  '
-    year: ' Year '
-    tldr: ' TL;DR                                               '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation        '
+    venue: '  Venue                   '
+    year: '  Year  '
+    tldr: '  TL;DR                                                '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 22
@@ -5250,7 +5250,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: CMU
     venue: CIKM Workshop (Oral)
     year: '2022'
-    tldr: 'FedGCN: '
+    tldr: 'FedGCN: TBC'
     materials:
       PDF: https://arxiv.org/abs/2201.12433
       CODE: https://github.com/yh-yao/FedGCN
@@ -6048,7 +6048,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2022'
-    tldr: 'FD-GATDR: '
+    tldr: 'FD-GATDR: TBC'
     materials:
       PDF: https://arxiv.org/abs/2207.05750
   - title: 'Privacy-preserving Graph Analytics: Secure Generation and Federated Learning'
@@ -6107,7 +6107,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2022'
-    tldr: 'EF-HC: '
+    tldr: 'EF-HC: TBC'
     materials:
       PDF: https://github.com/ShahryarBQ/EF_HC
   - title: 'More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural
@@ -6148,7 +6148,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2021'
-    tldr: 'PPSGCN: '
+    tldr: 'PPSGCN: TBC'
     materials:
       PDF: https://arxiv.org/abs/2110.12906
   - title: Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in
@@ -6177,14 +6177,14 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2021'
-    tldr: 'FedVGCN: '
+    tldr: 'FedVGCN: TBC'
     materials:
       PDF: https://arxiv.org/abs/2106.11593
   - title: 'FedGL: Federated Graph Learning Framework with Global Self-Supervision'
     affiliation: ''
     venue: preprint
     year: '2021'
-    tldr: 'FedGL: '
+    tldr: 'FedGL: TBC'
     materials:
       PDF: https://arxiv.org/abs/2105.03170
   - title: 'FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional
@@ -6192,7 +6192,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2021'
-    tldr: 'FL-AGCNS: '
+    tldr: 'FL-AGCNS: TBC'
     materials:
       PDF: https://arxiv.org/abs/2104.04141
   - title: 'Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain
@@ -6208,7 +6208,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2021'
-    tldr: 'dFedU: '
+    tldr: 'dFedU: TBC'
     materials:
       PDF: https://arxiv.org/abs/2102.07148
       CODE: https://github.com/dual-grp/fedu_fmtl
@@ -6217,7 +6217,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2020'
-    tldr: 'GraphFL: '
+    tldr: 'GraphFL: TBC'
     materials:
       PDF: https://arxiv.org/abs/2012.04187
       解读: https://zhuanlan.zhihu.com/p/431479904
@@ -6226,7 +6226,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2020'
-    tldr: 'FedAlign-KG: '
+    tldr: 'FedAlign-KG: TBC'
     materials:
       PDF: https://arxiv.org/abs/2011.11369
   - title: Federated Dynamic GNN with Secure Aggregation
@@ -6254,18 +6254,18 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: UC
     venue: preprint
     year: '2019'
-    tldr: 'P2P-FLG: '
+    tldr: 'P2P-FLG: TBC'
     materials:
       PDF: https://arxiv.org/abs/1901.11173
       解读: https://zhuanlan.zhihu.com/p/441944011
 fl-on-tabular-data:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                       '
-    venue: ' Venue                       '
-    year: ' Year '
-    tldr: ' TL;DR                       '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                        '
+    venue: '  Venue                        '
+    year: '  Year  '
+    tldr: '  TL;DR                        '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 33
@@ -6638,7 +6638,7 @@ fl-on-tabular-data:
     affiliation: ''
     venue: preprint
     year: '2022'
-    tldr: 'Hercules: '
+    tldr: 'Hercules: TBC'
     materials:
       PDF: https://arxiv.org/abs/2207.04620
   - title: 'FedGBF: An efficient vertical federated learning framework via gradient
@@ -6646,7 +6646,7 @@ fl-on-tabular-data:
     affiliation: ''
     venue: preprint
     year: '2022'
-    tldr: 'FedGBF: '
+    tldr: 'FedGBF: TBC'
     materials:
       PDF: https://arxiv.org/abs/2204.00976
   - title: A Fair and Efficient Hybrid Federated Learning Framework based on XGBoost
@@ -6696,7 +6696,7 @@ fl-on-tabular-data:
     affiliation: ''
     venue: preprint
     year: '2021'
-    tldr: 'SecureBoost+: '
+    tldr: 'SecureBoost+: TBC'
     materials:
       PDF: https://arxiv.org/abs/2110.10927
       CODE: https://github.com/FederatedAI/FATE
@@ -6704,7 +6704,7 @@ fl-on-tabular-data:
     affiliation: ''
     venue: preprint
     year: '2021'
-    tldr: 'Fed-TGAN: '
+    tldr: 'Fed-TGAN: TBC'
     materials:
       PDF: https://arxiv.org/abs/2108.07927
   - title: 'FedXGBoost: Privacy-Preserving XGBoost for Federated Learning'
@@ -6831,12 +6831,12 @@ section:
 - title: federated-learning-framework
 fl-in-top-ir-conference-and-journal:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                     '
-    venue: ' Venue '
-    year: ' Year '
-    tldr: ' TL;DR                       '
-    materials: ' Materials'
+    title: 'Title                                                         '
+    affiliation: '  Affiliation                      '
+    venue: '  Venue  '
+    year: '  Year  '
+    tldr: '  TL;DR                        '
+    materials: '  Materials'
   length:
     title: 60
     affiliation: 31

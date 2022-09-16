@@ -96,7 +96,7 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
                 abbr = item.strip().split("[")[0].strip().replace(" ", "-")
                 if not abbr in md_ref:
                     print(f"can not find {abbr} in md_ref")
-                    md_ref[abbr] = ""
+                    md_ref[abbr] = "TBC"
                 line_dict[header_alias[i]] = f"{abbr}: {md_ref[abbr]}"
                 continue
 
@@ -164,13 +164,18 @@ def get_mdref(md_str: str, start_comment: str, end_comment: str):
     ref_dict = {}
     for line in ref_content.splitlines():
         if line.startswith("["):
-            ref_dict[
+            abbr = (
                 line.split("]:")[0]
                 .strip("[]")
                 .replace("^", "")
                 .strip()
                 .replace(" ", "")
-            ] = line.split("]:")[1].strip()
+            )
+            cont = line.split("]:")[1].strip()
+            if len(cont) == 0:
+                print(f"can not find content for {abbr}")
+                cont = "TBC"
+            ref_dict[abbr] = cont
 
     return ref_dict
 
@@ -178,8 +183,6 @@ def get_mdref(md_str: str, start_comment: str, end_comment: str):
 def write_mdref(md_ref: dict):
     ref_list = []
     for key, value in md_ref.items():
-        if len(value) == 0:
-            value = "TBC"
         ref_list.append(f"[^{key}]: {value}")
 
     return "\n".join(ref_list)
