@@ -15,27 +15,6 @@
 - [Framework](#Framework)
 - [Datasets](#Datasets)
 - [Surveys](#Surveys)
-  - [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/abs/1908.07873)
-  - [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693)
-  - [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875)
-  - [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/abs/1908.06847)
-  - [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf)
-  - [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
-  - [Federated Machine Learning: Concept and Applications](https://arxiv.org/pdf/1902.04885.pdf)
-  - [Threats to Federated Learning: A Survey](https://arxiv.org/pdf/2003.02133.pdf)
-  - [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673.pdf)
-  - [SECure: A Social and Environmental Certificate for AI Systems](https://arxiv.org/pdf/2006.06217.pdf)
-  - [From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594.pdf)
-  - [Federated Learning for 6G Communications: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/2006.02931.pdf)
-  - [A Review of Privacy Preserving Federated Learning for Private IoT Analytics](https://arxiv.org/pdf/2004.11794.pdf)
-  - [Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective](https://arxiv.org/pdf/2002.11545.pdf)
-  - [Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art](https://arxiv.org/pdf/2002.10610.pdf)
-  - [Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing](https://arxiv.org/pdf/1912.04859.pdf)
-  - [An Introduction to Communication Efficient Edge Machine Learning](https://arxiv.org/pdf/1912.01554.pdf)
-  - [Federated Learning for Healthcare Informatics](https://arxiv.org/pdf/1911.06270.pdf)
-  - [Federated Learning for Coalition Operations](https://arxiv.org/pdf/1910.06799.pdf)
-  - [No Peek: A Survey of private distributed deep learning](https://arxiv.org/pdf/1812.03288.pdf)
-  - [Communication-Efficient Edge AI: Algorithms and Systems](http://arxiv.org/pdf/2002.09668.pdf)
 - [Tutorials and Courses](#Tutorials-and-Courses)
 - Key Conferences/Workshops/Journals
   - [Workshops](#Workshops) [Special Issues](#Journal-Special-Issues) [Special Tracks](#Conference-Special-Tracks)
@@ -111,6 +90,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification | ZJU | IJCAI :mortar_board: | 2022 | VFGNN[^VFGNN] | [[PUB](https://www.ijcai.org/proceedings/2022/272).] [[PDF](https://arxiv.org/abs/2005.11903)] |
 | SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data | USC | AAAI:mortar_board: | 2022 | SpreadGNN[^SpreadGNN] | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/20643).] [PDF](https://arxiv.org/abs/2106.02743) [[Code]](https://github.com/FedML-AI/SpreadGNN) [[解读](https://zhuanlan.zhihu.com/p/429720860)] |
 | FedGraph: Federated Graph Learning with Intelligent Sampling | UoA | TPDS :mortar_board:    | 2022 | FedGraph[^FedGraph] | [[PUB.]](https://ieeexplore.ieee.org/abstract/document/9606516/) [Code](https://github.com/cfh19980612/FedGraph) [[解读](https://zhuanlan.zhihu.com/p/442233479)] |
+| Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`** | University of Virginia | CIKM Workshop (Oral) | 2022 | FGML [^FGML] | [[PDF](https://arxiv.org/abs/2207.11812)] |
 | FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks | CMU | CIKM Workshop (Oral) | 2022 | FedGCN[^FedGCN] | [[PDF](https://arxiv.org/abs/2201.12433)] [[Code](https://github.com/yh-yao/FedGCN)] |
 | FedNI: Federated Graph Learning with Network Inpainting for Population-Based Disease Prediction | UESTC | TMI | 2022 | FedNI[^FedNI] | [[PUB](https://ieeexplore.ieee.org/document/9815303).] [[PDF](https://arxiv.org/abs/2112.10166)] |
 | FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs | SYSU | TOIS | 2022 | FedEgo[^FedEgo] | [PUB.] [PDF](https://arxiv.org/abs/2208.13685) [Code](https://github.com/fedego/fedego) |
@@ -162,7 +142,6 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | IBM | NeurIPS Workshop       | 2019 | FGL-DFC[^FGL-DFC] | [[PDF]](https://arxiv.org/abs/1909.12946)             |
 | Federated learning of predictive models from federated Electronic Health Records :star: | BU | Int. J. Medical Informatics | 2018 | cPDS[^cPDS] | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub).] |
 | Federated Graph Contrastive Learning | UTS | preprint | 2022 | | [[PDF](https://arxiv.org/abs/2207.11836)] |
-| Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`** | University of Virginia | CIKM Workshop (Oral) | 2022 | FGML [^FGML] | [[PDF](https://arxiv.org/abs/2207.11812)] |
 | FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR |  | preprint | 2022 | FD-GATDR[^FD-GATDR] | [[PDF](https://arxiv.org/abs/2207.05750)] |
 | Privacy-preserving Graph Analytics: Secure Generation and Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.00048)] |
 | Personalized Subgraph Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.10206)] |
@@ -994,6 +973,31 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 # Surveys
 
+This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning), the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
+
+
+- [CIKM Workshop Oral] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PDF](https://arxiv.org/abs/2207.11812)
+- SECure: A Social and Environmental Certificate for AI Systems [PDF](https://arxiv.org/abs/2006.06217)
+- From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks [PDF](https://arxiv.org/abs/2006.03594)
+- Federated Learning for 6G Communications: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/2006.02931)
+- A Review of Privacy Preserving Federated Learning for Private IoT Analytics [PDF](https://arxiv.org/abs/2004.11794)
+- Survey of Personalization Techniques for Federated Learning [PDF](https://arxiv.org/abs/2003.08673)
+- Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective [PDF](https://arxiv.org/abs/2002.11545)
+- Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art [PDF](https://arxiv.org/abs/2002.10610)
+- Communication-Efficient Edge AI: Algorithms and Systems [PDF](http://arxiv.org/abs/2002.09668)
+- Federated Learning in Mobile Edge Networks: A Comprehensive Survey [PDF](https://arxiv.org/abs/1909.11875)
+- Federated Learning: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/1908.07873)
+- Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges [PDF](https://arxiv.org/abs/1908.06847)
+- Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [PDF](https://arxiv.org/abs/1907.09693)
+- Threats to Federated Learning: A Survey [PDF](https://arxiv.org/abs/2003.02133)
+- Advances and Open Problems in Federated Learning [PDF](https://arxiv.org/abs/1912.04977)
+- Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing [PDF](https://arxiv.org/abs/1912.04859)
+- An Introduction to Communication Efficient Edge Machine Learning [PDF](https://arxiv.org/abs/1912.01554)
+- Convergence of Edge Computing and Deep Learning: A Comprehensive Survey [PDF](https://arxiv.org/abs/1907.08349)
+- Federated Machine Learning: Concept and Applications [PDF](https://arxiv.org/abs/1902.04885)
+- Federated Learning for Healthcare Informatics [PDF](https://arxiv.org/abs/1911.06270)
+- Federated Learning for Coalition Operations [PDF](https://arxiv.org/abs/1910.06799)
+- No Peek: A Survey of private distributed deep learning [PDF](https://arxiv.org/abs/1812.03288)
 
 
 
