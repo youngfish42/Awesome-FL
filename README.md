@@ -1010,14 +1010,13 @@ For more results, please refer to [Framework Functionality Support](https://unif
   * A Tutorial for Encrypted Deep Learning
   * Use Homomorphic Encryption (HE)
 
-- [Private Deep Learning with MPC](https://mortendahl.github.io/2017/04/17/private-deep-learning-with-mpc/)
-  * A Simple Tutorial from Scratch
-  * Use Multiparty Compuation (MPC)
-
 - [Private Image Analysis with MPC](https://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/)
   * Training CNNs on Sensitive Data
   * Use SPDZ as MPC protocol
-
+  
+- [Private Deep Learning with MPC](https://mortendahl.github.io/2017/04/17/private-deep-learning-with-mpc/)
+  * A Simple Tutorial from Scratch
+  * Use Multiparty Compuation (MPC)
 
 ##### Course: Secret Sharing
 * [Simple Introduction to Sharmir's Secret Sharing and Lagrange Interpolation](https://www.youtube.com/watch?v=kkMps3X_tEE)
