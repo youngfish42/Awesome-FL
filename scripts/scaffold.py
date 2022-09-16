@@ -76,10 +76,10 @@ class Scaffold:
 
         # get latest file
         priority = [Config.README_PATH, Config.YAML_PATH]
-        priority.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+        priority.sort(key=lambda x: utils.get_git_log_time(x), reverse=True)
 
         for file in priority:
-            print(file, os.path.getmtime(file))
+            print(file, os.path.getmtime(file), utils.get_git_log_time(file))
 
         if priority[0] == Config.README_PATH:
             print("merge md to yaml")

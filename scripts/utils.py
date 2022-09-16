@@ -1,3 +1,4 @@
+import subprocess
 import yaml
 import os
 import re
@@ -196,3 +197,10 @@ def write_mdref(md_ref: dict):
         ref_list.append(f"[^{key}]: {value}")
 
     return "\n".join(ref_list)
+
+
+def get_git_log_time(file_path: str):
+    """Get git log time"""
+    cmd = f"git log -1 --format=%cd --date=iso {file_path}"
+    resp = subprocess.check_output(cmd, shell=True)
+    return resp.decode("utf-8").strip()
