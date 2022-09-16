@@ -976,12 +976,12 @@ For more results, please refer to [Framework Functionality Support](https://unif
 This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning), the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
 
 
-- [CIKM Workshop Oral] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PDF](https://arxiv.org/abs/2207.11812)
-- SECure: A Social and Environmental Certificate for AI Systems [PDF](https://arxiv.org/abs/2006.06217)
-- From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks [PDF](https://arxiv.org/abs/2006.03594)
-- Federated Learning for 6G Communications: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/2006.02931)
-- A Review of Privacy Preserving Federated Learning for Private IoT Analytics [PDF](https://arxiv.org/abs/2004.11794)
-- Survey of Personalization Techniques for Federated Learning [PDF](https://arxiv.org/abs/2003.08673)
+- [CIKM Workshop 2022] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PDF](https://arxiv.org/abs/2207.11812)
+- [ICML Workshop 2020] SECure: A Social and Environmental Certificate for AI Systems [PDF](https://arxiv.org/abs/2006.06217) [Page](https://ai-ethics.github.io/SECure/)
+- [IEEE Commun. Mag. 2020] From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks [PDF](https://arxiv.org/abs/2006.03594) [[PUB](https://ieeexplore.ieee.org/document/9311906).]
+- [China Communications 2020] Federated Learning for 6G Communications: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/2006.02931) [[PUB](https://ieeexplore.ieee.org/document/9205981).]
+- [Federated Learning Systems 2021] A Review of Privacy Preserving Federated Learning for Private IoT Analytics [PDF](https://arxiv.org/abs/2004.11794) [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-70604-3_2).]
+- [WorldS4 2020] Survey of Personalization Techniques for Federated Learning [PDF](https://arxiv.org/abs/2003.08673) [[PUB](https://ieeexplore.ieee.org/abstract/document/9210355).]
 - Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective [PDF](https://arxiv.org/abs/2002.11545)
 - Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art [PDF](https://arxiv.org/abs/2002.10610)
 - Communication-Efficient Edge AI: Algorithms and Systems [PDF](http://arxiv.org/abs/2002.09668)
