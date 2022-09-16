@@ -1205,6 +1205,7 @@ Many thanks :heart: to the other awesome list:
 [^FGCL]: TBC
 [^FGML]: FGML a comprehensive review of the literature in Federated Graph Machine Learning. FGML 对图联邦机器学习的文献进行了全面回顾的综述文章。
 [^FD-GATDR]: TBC
+[^FED-PUB]: TBC
 [^EF-HC]: TBC
 [^PPSGCN]: TBC
 [^FedVGCN]: TBC

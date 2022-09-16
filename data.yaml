@@ -913,7 +913,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: ''
     venue: preprint
     year: '2022'
-    tldr: ''
+    tldr: 'FED-PUB: TBC'
     materials:
       PDF: https://arxiv.org/abs/2206.10206
   - title: Federated Graph Attention Network for Rumor Detection
