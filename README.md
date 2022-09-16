@@ -1144,8 +1144,7 @@ Many thanks :heart: to the other awesome list:
 
 
 
-
-<!-- [![map](https://rf.revolvermaps.com/h/m/a/0/ff0000/128/35/5zw06d5f905.png)](https://www.revolvermaps.com/livestats/5zw06d5f905/) -->
+[<img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/80/35/5zw06d5f905.png" alt="map" style="zoom:25%;" />](https://www.revolvermaps.com/livestats/5zw06d5f905/) 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5zw06d5f905&amp;m=6&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
