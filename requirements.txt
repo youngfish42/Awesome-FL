@@ -1,0 +1,3 @@
+pyyaml~=6.0
+pytz
+fire~=0.4.0
