@@ -882,7 +882,7 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: UTS
     venue: preprint
     year: '2022'
-    tldr: ''
+    tldr: 'FGCL: TBC'
     materials:
       PDF: https://arxiv.org/abs/2207.11836
   - title: 'Federated Graph Machine Learning: A Survey of Concepts, Techniques, and
