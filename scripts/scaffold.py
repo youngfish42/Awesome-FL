@@ -79,8 +79,8 @@ class Scaffold:
 
         if env == "dev":
             priority.sort(key=lambda x: os.path.getmtime(x), reverse=True)
-        else:
-            priority.sort(key=lambda x: utils.get_git_log_time(x), reverse=True)
+        # else:
+        #     priority.sort(key=lambda x: utils.get_git_log_time(x), reverse=True)
 
         for file in priority:
             print(file, os.path.getmtime(file), utils.get_git_log_time(file))
