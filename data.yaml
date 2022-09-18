@@ -5035,7 +5035,16 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: Google
     venue: ACL workshop
     year: '2022'
-    tldr: ''
+    tldr: 'SLM-FL: Due to the server-client communication and on-device computation
+      bottlenecks, **this paper explores whether the big language model can be achieved
+      using cross-device federated learning.** First, they investigate **quantization
+      and partial model training** to address the per round communication and computation
+      cost. Then, they study fast convergence techniques by reducing the number of
+      communication rounds, using **transfer learning and centralized pretraining**
+      methods. They demonstrated that these techniques, individually or in combination,
+      can scale to larger models in cross-device federated learning. 由于通讯和计算资源受限，他们研究是否能在跨设备联邦学习中训练参数较多的模型，如21M的Transformer,
+      20.2M的Conformer。首先，他们调查了量化、部分训练技术来减少通讯和计算成本；其次，他们研究快速收敛技术通过减少通讯轮次，运用迁移学习和Centralized
+      pretraining技术。他们的研究表明，运用上述技术，或这些技术的组合，可以在跨设备联邦学习中扩展到更大的模型。'
     materials:
       PUB: https://aclanthology.org/2022.fl4nlp-1.2/
       PDF: https://arxiv.org/abs/2204.09715
@@ -5043,7 +5052,17 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: Oxford
     venue: ACL workshop
     year: '2022'
-    tldr: ''
+    tldr: 'IGC-FL: **Communication cost** is the largest barrier to the wider adoption
+      of federated learning. This paper addresses this issue by **investigating a
+      family of new gradient compression strategies**, including static compression,
+      time-varying compression and K-subspace compression. They call it intrinsic
+      gradient compression algorithms. These three gradient compression algorithms
+      can be applied to different levels of bandwidth scenarios and can be used in
+      combination in special scenarios.Moreover, they provide **theoretical guarantees**
+      on the performance. They train big models with 100M parameters compared to current
+      state-of-the-art gradient compression methods (e.g. FetchSGD). 通讯成本是联邦学习大规模部署面临的最大阻碍。这篇文章研究一系列新的梯度压缩策略来减轻这一挑战，包括static
+      compression, time-varying compression and K-subspace compression，他们称之为intrinstic
+      gradient compression algorighms. 这三种梯度压缩算法可应用于不同级别带宽的场景，在特殊的场景也可以组合使用。而且，他们提供了理论分析保证。他们训练了100M参数的大模型，与其他梯度压缩方法（如FetchSGD）相比，达到SOTA.'
     materials:
       PUB: https://aclanthology.org/2022.fl4nlp-1.4/
       PDF: https://arxiv.org/abs/2112.02656
@@ -5051,7 +5070,14 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: Amazon
     venue: ACL workshop
     year: '2022'
-    tldr: 'ActPerFL: TBC'
+    tldr: 'ActPerFL: Inspired by **Bayesian hierarchical models,** this paper investigates
+      how to achieve better personalized federated learning by balancing local model
+      improvement and global model tuning. They develop Act-PerFL, a self-aware personalized
+      FL method where leveraging local training and global aggregation via inter-
+      and intra-client uncertainty quantification. Specifically, ActPerFL **adaptively
+      adjusts local training steps** with automated hyper-parameter selection and
+      performs **uncertainty-weighted global aggregation** (Non-sample size based
+      weighted average) . 受贝叶斯分层模型的启发，本文研究如何通过平衡本地模型和全局模型实现更好的个性化联邦学习。他们提出了ActPerFL，利用客户间和客户内部的不确定性量化来指导本地训练和全局聚合。具体来说，ActPerFL通过自动超参数选择自适应地调整本次训练次数，并执行不确定性加权全局聚合（非基于样本数量的带权平均）。'
     materials:
       PUB: https://aclanthology.org/2022.fl4nlp-1.1
       PAGE: https://www.amazon.science/publications/actperfl-active-personalized-federated-learning
@@ -5060,7 +5086,9 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: USC
     venue: NAACL
     year: '2022'
-    tldr: 'FedNLP: TBC'
+    tldr: 'FedNLP: This paper present **a benchmarking framework for evaluating federated
+      learning methods on four common formulations** of NLP tasks: text classification,
+      sequence tagging, question answering, and seq2seq generation. 联邦学习在NLP领域的一个基准框架，提供常见的联邦学习算法实现（FedAvg、FedProx、FedOPT），支持四种常见NLP任务（文本分类、序列标记、问答、seq2seq）的对比。'
     materials:
       PUB: https://aclanthology.org/2022.findings-naacl.13/
       PDF: https://arxiv.org/abs/2104.08815
@@ -5069,7 +5097,13 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: USC; Amazon
     venue: NAACL
     year: '2022'
-    tldr: ''
+    tldr: 'FedNoisy: In realistic human-computer interaction, there are usually many
+      noisy user feedback signals. This paper investigates whether federated learning
+      can be trained directly based on positive and negative user feedback. They show
+      that, under mild to moderate noise conditions, incorporating feedback improves
+      model performance over self-supervised baselines.They also study different levels
+      of noise hoping to mitigate the impact of user feedback noise on model performance.
+      在现实的人机交互中，通常有很多带噪声的用户反馈信号。本文研究是否能直接基于积极和消极的用户反馈来进行联邦学习训练。他们表明，在轻度至中度噪声条件下，与自监督基准相比，结合不同反馈可以提高模型性能。他们还对不同程度的噪声展开研究，希望能减轻用户反馈噪声对模型性能的影响。'
     materials:
       PUB: https://aclanthology.org/2022.naacl-main.196/
       PDF: https://arxiv.org/abs/2205.03092
@@ -5077,7 +5111,16 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: Amazon
     venue: NAACL
     year: '2022'
-    tldr: ''
+    tldr: 'FedMDT: Due to the real-world limitations of centralized training, when
+      training mixed-domain translation models with federated learning, this paper
+      finds that the global aggregation strategy of federated learning can effectively
+      aggregate information from different domains, so that NMT (neural machine translation)
+      can benefit from federated learning. At the same time, they propose a novel
+      and practical solution to reduce the **communication bandwidth**. Specifically,
+      they design **Dynamic Pulling**, which pulls only one type of high volatility
+      tensor in each round of communication. 由于中心式训练在现实世界存在诸多限制，在用联邦学习训练mixed-domain
+      translation models时候，本文发现联邦学习的全局聚合策略可以有效融合来自不同领域的信息，使得NMT（neural machine translation）可以从联邦学习中受益。同时由于通信瓶颈，他们提出一种新颖且实用的方案来降低通信带宽。具体来说，他们设计了
+      Dynamic Pulling, 在每轮通信中只拉取一种类型的高波动张量。'
     materials:
       PUB: https://aclanthology.org/2022.naacl-main.186
       PAGE: https://www.amazon.science/publications/training-mixed-domain-translation-models-via-federated-learning
