@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: "Asia/Shanghai"
-      UPTM: $(date "+%Y-%m-%d %H:%M:%S")
 
     steps:
       - name: Checkout
@@ -33,7 +32,11 @@ jobs:
         run: |
           cd scripts && python main.py merge_md_yaml
 
+      - name: Get date time
+        id: date
+        run: echo "::set-output name=date::$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
       - name: Commit Updated
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "auto update @ ${{ env.UPTM }} ${{ env.TZ }}"
+          commit_message: "auto update @ ${{ steps.date.outputs.date }} ${{ env.TZ }}"
