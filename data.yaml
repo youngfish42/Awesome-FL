@@ -206,7 +206,14 @@ fl-on-graph-data-and-graph-neural-network:
     venue: PPSN
     year: '2022'
     tldr: 'SemiGraphFL: This work focuses on the graph classification task with partially
-      labeled data. (1) Enhancing the collaboration processes'
+      labeled data. (1) Enhancing the collaboration processes: We propose a new personalized
+      FL framework to deal with Non-IID data. Clients with more similar data have
+      greater mutual influence, where the similarities can be evaluated via unlabeled
+      data. (2) Enhancing the local training process: We introduce auxiliary loss
+      for unlabeled data that restrict the training process. We propose a new pseudo-label
+      strategy for our SemiGraphFL framework to make more effective predictions. 这项工作专注于具有部分标记数据的图分类任务。(1)
+      加强合作过程。我们提出了一个新的个性化的FL框架来处理非IID数据。拥有更多相似数据的客户有更大的相互影响，其中的相似性可以通过未标记的数据进行评估。(2)
+      加强本地训练过程。我们为未标记的数据引入了辅助损失，限制了训练过程。我们为我们的SemiGraphFL框架提出了一个新的伪标签策略，以做出更有效的预测。'
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-031-14714-2_33
   - title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving
@@ -392,7 +399,12 @@ fl-on-graph-data-and-graph-neural-network:
       federated-learning benchmark (FedChem) by jointly performing scaffold splitting
       and latent Dirichlet allocation on existing datasets. Our results on FedChem
       show that signiﬁcant learning challenges arise when working with heterogeneous
-      molecules across clients. We then propose a method to alleviate the problem'
+      molecules across clients. We then propose a method to alleviate the problem:
+      Federated Learning by Instance reweighTing (FLIT+). FLIT+ can align local training
+      across clients. Experiments conducted on FedChem validate the advantages of
+      this method. 联邦学习允许最终用户协同构建全局模型，同时保持他们的训练数据是孤立的。我们首先通过在现有数据集上联邦执行支架拆分和隐狄利克雷分配来模拟一个异构的联邦学习基准FedChem
+      。我们在FedChem上的研究结果表明，在跨客户端处理异构分子时，会出现显著的学习挑战。然后，我们提出了一种缓解该问题的方法：实例重加权联邦学习FLIT
+      + 。FLIT+可以跨客户对齐本地训练。在FedChem上进行的实验验证了这种方法的优势。'
     materials:
       PUB: https://linkinghub.elsevier.com/retrieve/pii/S2666389922001180
       PDF: https://arxiv.org/abs/2109.07258
@@ -478,7 +490,19 @@ fl-on-graph-data-and-graph-neural-network:
     affiliation: Purdue
     venue: 'INFOCOM :mortar_board:'
     year: '2021'
-    tldr: 'D2D-FedL: Two important characteristics of contemporary wireless networks'
+    tldr: 'D2D-FedL: Two important characteristics of contemporary wireless networks:
+      (i) the network may contain heterogeneous communication/computation resources,
+      while (ii) there may be significant overlaps in devices'' local data distributions.
+      In this work, we develop a novel optimization methodology that jointly accounts
+      for these factors via intelligent device sampling complemented by device-to-device
+      (D2D) offloading. Our optimization aims to select the best combination of sampled
+      nodes and data offloading configuration to maximize FedL training accuracy subject
+      to realistic constraints on the network topology and device capabilities. Theoretical
+      analysis of the D2D offloading subproblem leads to new FedL convergence bounds
+      and an efficient sequential convex optimizer. Using this result, we develop
+      a sampling methodology based on graph convolutional networks (GCNs) which learns
+      the relationship between network attributes, sampled nodes, and resulting offloading
+      that maximizes FedL accuracy. 当代无线网络的两个重要特征：( i )网络中可能包含异构的通信/计算资源( ii )设备的本地数据分布可能存在显著的重叠。在这项工作中，我们开发了一种新的优化方法，通过智能设备采样和设备到设备(D2D)卸载来共同考虑这些因素。我们的优化目标是在网络拓扑和设备能力的现实约束下，选择采样节点和数据卸载配置的最佳组合，以最大化FedL训练精度。对D2D卸载子问题的理论分析得到了新的FedL收敛界和一个有效的序列凸优化器。利用这一结果，我们开发了一种基于图卷积网络(GCN)的采样方法，该方法学习网络属性、采样节点和结果卸载之间的关系，从而最大化FedL的准确性。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9488906
       PDF: https://arxiv.org/abs/2101.00787
@@ -508,7 +532,12 @@ fl-on-graph-data-and-graph-neural-network:
     venue: 'NeurIPS :mortar_board:'
     year: '2021'
     tldr: 'FedSage: In this work, towards the novel yet realistic setting of subgraph
-      federated learning, we propose two major techniques'
+      federated learning, we propose two major techniques: (1) FedSage, which trains
+      a GraphSage model based on FedAvg to integrate node features, link structures,
+      and task labels on multiple local subgraphs; (2) FedSage+, which trains a missing
+      neighbor generator along FedSage to deal with missing links across local subgraphs.
+      在本工作中，针对子图联邦学习的新颖而现实的设置，我们提出了两个主要技术：(1) FedSage，它基于FedAvg训练一个GraphSage模型，以整合多个局部子图上的节点特征、链接结构和任务标签；(2)
+      FedSage +，它沿着FedSage训练一个缺失的邻居生成器，以处理跨本地子图的缺失链接。'
     materials:
       PUB.: https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html
       PDF: https://arxiv.org/abs/2106.13430
@@ -698,7 +727,15 @@ fl-on-graph-data-and-graph-neural-network:
     year: '2021'
     tldr: 'FedCG-MD: A novel Cluster-driven Graph Federated Learning (FedCG). In FedCG,
       clustering serves to address statistical heterogeneity, while Graph Convolutional
-      Networks (GCNs) enable sharing knowledge across them. FedCG'
+      Networks (GCNs) enable sharing knowledge across them. FedCG: i) identifies the
+      domains via an FL-compliant clustering and instantiates domain-specific modules
+      (residual branches) for each domain; ii) connects the domain-specific modules
+      through a GCN at training to learn the interactions among domains and share
+      knowledge; and iii) learns to cluster unsupervised via teacher-student classifier-training
+      iterations and to address novel unseen test domains via their domain soft-assignment
+      scores. 一种新颖的集群驱动的图联邦学习（FedCG）。 在 FedCG 中，聚类用于解决统计异质性，而图卷积网络 (GCN) 可以在它们之间共享知识。
+      FedCG：i）通过符合 FL 的集群识别域，并为每个域实例化特定于域的模块（剩余分支）； ii) 在训练时通过 GCN 连接特定领域的模块，以学习领域之间的交互并共享知识；
+      iii）通过教师-学生分类器训练迭代学习无监督聚类，并通过其域软分配分数解决新的未知测试域。'
     materials:
       PDF: https://arxiv.org/abs/2104.14628
       解读: https://zhuanlan.zhihu.com/p/440527314
@@ -736,7 +773,9 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'Glint: We study federated graph learning (FGL) under the cross-silo setting
       where several servers are connected by a wide-area network, with the objective
       of improving the Quality-of-Service (QoS) of graph learning tasks. Glint, a
-      decentralized federated graph learning system with two novel designs'
+      decentralized federated graph learning system with two novel designs: network
+      traffic throttling and priority-based flows scheduling. 我们研究了跨孤岛设置下的联邦图学习（FGL），其中多台服务器通过广域网连接，目的是提高图学习任务的服务质量（QoS）。
+      Glint，一个分散的联邦图学习系统，具有两种新颖的设计：网络流量节流和基于优先级的流调度。'
     materials:
       PUB.: https://doi.org/10.1109/IWQOS52092.2021.9521331
   - title: Federated Graph Neural Network for Cross-graph Node Classification
@@ -782,7 +821,14 @@ fl-on-graph-data-and-graph-neural-network:
       make inference in a distributed scenario where the underlying data graph is
       split among different agents. Then, we propose a distributed gradient descent
       procedure to solve the GCN training problem. The resulting model distributes
-      computation along three lines'
+      computation along three lines: during inference, during back-propagation, and
+      during optimization. Convergence to stationary solutions of the GCN training
+      problem is also established under mild conditions. Finally, we propose an optimization
+      criterion to design the communication topology between agents in order to match
+      with the graph describing data relationships. 这项工作的目的是开发一个用于训练图卷积网络（GCN）的完全分布式算法框架。
+      所提出的方法能够利用输入数据的有意义的关系结构，这些数据由一组通过稀疏网络拓扑进行通信的代理收集。 在制定了集中式 GCN 训练问题之后，我们首先展示了如何在底层数据图在不同代理之间拆分的分布式场景中进行推理。
+      然后，我们提出了一种分布式梯度下降程序来解决 GCN 训练问题。 生成的模型沿三条线分布计算：推理期间、反向传播期间和优化期间。 GCN 训练问题的平稳解的收敛性也在温和条件下建立。
+      最后，我们提出了一种优化标准来设计代理之间的通信拓扑，以便与描述数据关系的图相匹配。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9303371
       PDF: https://arxiv.org/abs/2007.06281
@@ -806,7 +852,12 @@ fl-on-graph-data-and-graph-neural-network:
       learning paradigm. ASFGNN consists of two main components, i.e., the training
       of GNN and the tuning of hyper-parameters. Specifically, to solve the data Non-IID
       problem, we first propose a separated-federated GNN learning model, which decouples
-      the training of GNN into two parts'
+      the training of GNN into two parts: the message passing part that is done by
+      clients separately, and the loss computing part that is learnt by clients federally.
+      To handle the time-consuming parameter tuning problem, we leverage Bayesian
+      optimization technique to automatically tune the hyper-parameters of all the
+      clients. 自动分离联邦图神经网络( ASFGNN )学习范式。ASFGNN由两个主要部分组成，即GNN的训练和超参数的调整。具体来说，为了解决数据Non
+      - IID问题，我们首先提出了分离联邦GNN学习模型，将GNN的训练解耦为两个部分：由客户端单独完成的消息传递部分和由客户端联邦学习的损失计算部分。为了处理耗时的参数调优问题，我们利用贝叶斯优化技术自动调优所有客户端的超参数。'
     materials:
       PUB.: https://doi.org/10.1007/s12083-021-01074-w
       PDF: https://arxiv.org/abs/2011.03248
@@ -1563,7 +1614,12 @@ fl-on-tabular-data:
     affiliation: TUM
     venue: preprint
     year: '2021'
-    tldr: 'FedXGBoost: Two variants of federated XGBoost with privacy guarantee'
+    tldr: 'FedXGBoost: Two variants of federated XGBoost with privacy guarantee: FedXGBoost-SMM
+      and FedXGBoost-LDP. Our first protocol FedXGBoost-SMM deploys enhanced secure
+      matrix multiplication method to preserve privacy with lossless accuracy and
+      lower overhead than encryption-based techniques. Developed independently, the
+      second protocol FedXGBoost-LDP is heuristically designed with noise perturbation
+      for local differential privacy. 两种具有隐私保护的联邦XGBoost的变体：FedXGBoost-SMM和FedXGBoost-LDP。FedXGBoost-SMM部署了增强的安全矩阵乘法，以无损的精度和低于基于加密的技术的开销来保护隐私。第二个协议FedXGBoost-LDP以启发式方法设计的，带有噪声扰动，用于保护局部差分隐私。'
     materials:
       PDF: https://arxiv.org/abs/2106.10662
   - title: An Efficient Learning Framework For Federated XGBoost Using Secret Sharing
@@ -4169,7 +4225,12 @@ fl-in-top-ml-conference-and-journal:
     venue: NeurIPS
     year: '2021'
     tldr: 'FedSage: In this work, towards the novel yet realistic setting of subgraph
-      federated learning, we propose two major techniques'
+      federated learning, we propose two major techniques: (1) FedSage, which trains
+      a GraphSage model based on FedAvg to integrate node features, link structures,
+      and task labels on multiple local subgraphs; (2) FedSage+, which trains a missing
+      neighbor generator along FedSage to deal with missing links across local subgraphs.
+      在本工作中，针对子图联邦学习的新颖而现实的设置，我们提出了两个主要技术：(1) FedSage，它基于FedAvg训练一个GraphSage模型，以整合多个局部子图上的节点特征、链接结构和任务标签；(2)
+      FedSage +，它沿着FedSage训练一个缺失的邻居生成器，以处理跨本地子图的缺失链接。'
     materials:
       PUB.: https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html
       PDF: https://arxiv.org/abs/2106.13430
@@ -5035,7 +5096,14 @@ fl-in-top-dm-conference-and-journal:
     year: '2019'
     tldr: 'FOLtR-ES: Federated Online Learning to Rank setup (FOLtR) where on-mobile
       ranking models are trained in a way that respects the users'' privacy. FOLtR-ES
-      that satisfies these requirement'
+      that satisfies these requirement: (a) preserving the user privacy, (b) low communication
+      and computation costs, (c) learning from noisy bandit feedback, and (d) learning
+      with non-continuous ranking quality measures. A part of FOLtR-ES is a privatization
+      procedure that allows it to provide ε-local differential privacy guarantees,
+      i.e. protecting the clients from an adversary who has access to the communicated
+      messages. This procedure can be applied to any absolute online metric that takes
+      finitely many values or can be discretized to a finite domain. 联邦在线学习排名设置（FOLtR）中，移动端排名模型是以尊重用户隐私的方式来训练的。FOLtR-ES满足这些要求：(a)保护用户隐私，(b)低通信和计算成本，(c)从嘈杂的强盗反馈中学习，以及(d)用非连续的排名质量指标学习。FOLtR-ES的一部分是一个私有化程序，使其能够提供ε-local差异化的隐私保证，即保护客户不受能够接触到通信信息的对手的伤害。
+      这个程序可以应用于任何绝对在线度量，其取值有限，或者可以离散到一个有限域。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3289600.3290968
       CODE: http://github.com/facebookresearch/foltr-es
@@ -6822,7 +6890,19 @@ fl-in-top-network-conference-and-journal:
     affiliation: Purdue
     venue: INFOCOM
     year: '2021'
-    tldr: 'D2D-FedL: Two important characteristics of contemporary wireless networks'
+    tldr: 'D2D-FedL: Two important characteristics of contemporary wireless networks:
+      (i) the network may contain heterogeneous communication/computation resources,
+      while (ii) there may be significant overlaps in devices'' local data distributions.
+      In this work, we develop a novel optimization methodology that jointly accounts
+      for these factors via intelligent device sampling complemented by device-to-device
+      (D2D) offloading. Our optimization aims to select the best combination of sampled
+      nodes and data offloading configuration to maximize FedL training accuracy subject
+      to realistic constraints on the network topology and device capabilities. Theoretical
+      analysis of the D2D offloading subproblem leads to new FedL convergence bounds
+      and an efficient sequential convex optimizer. Using this result, we develop
+      a sampling methodology based on graph convolutional networks (GCNs) which learns
+      the relationship between network attributes, sampled nodes, and resulting offloading
+      that maximizes FedL accuracy. 当代无线网络的两个重要特征：( i )网络中可能包含异构的通信/计算资源( ii )设备的本地数据分布可能存在显著的重叠。在这项工作中，我们开发了一种新的优化方法，通过智能设备采样和设备到设备(D2D)卸载来共同考虑这些因素。我们的优化目标是在网络拓扑和设备能力的现实约束下，选择采样节点和数据卸载配置的最佳组合，以最大化FedL训练精度。对D2D卸载子问题的理论分析得到了新的FedL收敛界和一个有效的序列凸优化器。利用这一结果，我们开发了一种基于图卷积网络(GCN)的采样方法，该方法学习网络属性、采样节点和结果卸载之间的关系，从而最大化FedL的准确性。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9488906
       PDF: https://arxiv.org/abs/2101.00787
@@ -7943,7 +8023,12 @@ fl-in-top-ir-conference-and-journal:
     year: '2021'
     tldr: 'FedCT: The cross-domain recommendation problem is formalized under a decentralized
       computing environment with multiple domain servers. And we identify two key
-      challenges for this setting'
+      challenges for this setting: the unavailability of direct transfer and the heterogeneity
+      of the domain-specific user representations. We then propose to learn and maintain
+      a decentralized user encoding on each user''s personal space. The optimization
+      follows a variational inference framework that maximizes the mutual information
+      between the user''s encoding and the domain-specific user information from all
+      her interacted domains. 跨域推荐问题在具有多个域服务器的去中心化计算环境下被形式化。我们确定了这种情况下的两个关键挑战：直接传输的不可用性和特定领域用户表征的异质性。然后，我们建议在每个用户的个人空间上学习和维护一个分散的用户编码。优化遵循一个变分推理框架，使用户的编码和来自她所有互动领域的特定用户信息之间的互信息最大化。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3404835.3462825
       PDF: http://yongfeng.me/attach/liu-sigir2021.pdf
@@ -7954,7 +8039,15 @@ fl-in-top-ir-conference-and-journal:
     year: '2021'
     tldr: 'FedGWAS: Under some circumstances, the private data can be reconstructed
       from the model parameters, which implies that data leakage can occur in FL.In
-      this paper, we draw attention to another risk associated with FL'
+      this paper, we draw attention to another risk associated with FL: Even if federated
+      algorithms are individually privacy-preserving, combining them into pipelines
+      is not necessarily privacy-preserving. We provide a concrete example from genome-wide
+      association studies, where the combination of federated principal component
+      analysis and federated linear regression allows the aggregator to retrieve sensitive
+      patient data by solving an instance of the multidimensional subset sum problem.
+      This supports the increasing awareness in the field that, for FL to be truly
+      privacy-preserving, measures have to be undertaken to protect against data leakage
+      at the aggregator. 在某些情况下，私人数据可以从模型参数中重建，这意味着在联邦学习中可能发生数据泄漏。 在本文中，我们提请注意与FL相关的另一个风险。即使联邦算法是单独保护隐私的，将它们组合成管道也不一定是保护隐私的。我们提供了一个来自全基因组关联研究的具体例子，其中联邦主成分分析和联邦线性回归的组合允许聚合器通过解决多维子集和问题的实例来检索敏感的病人数据。这支持了该领域日益增长的意识，即为了使FL真正保护隐私，必须采取措施防止聚合器的数据泄漏。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3404835.3462996
   - title: 'FedCMR: Federated Cross-Modal Retrieval.'
