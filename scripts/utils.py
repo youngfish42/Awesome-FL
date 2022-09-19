@@ -18,17 +18,20 @@ def write_mdfile(md_file: str, md_str: str):
 
 
 def read_yaml(yaml_file):
+    """Read yaml file"""
     with open(yaml_file, "r", encoding="utf-8") as f:
         data = yaml.load(f, Loader=yaml.FullLoader)
     return data
 
 
 def write_yaml(yaml_file, data):
+    """Write yaml file"""
     with open(yaml_file, "w", encoding="utf-8") as f:
         yaml.dump(data, f, allow_unicode=True, sort_keys=False)
 
 
 def get_substr_before(src: str, split_str: str):
+    """Get substring before split_str"""
     idx = src.find(split_str)
     if idx == -1:
         return src
@@ -36,6 +39,7 @@ def get_substr_before(src: str, split_str: str):
 
 
 def get_substr_after(src: str, split_str: str):
+    """Get substring after split_str"""
     idx = src.find(split_str)
     if idx == -1:
         return src
@@ -68,6 +72,8 @@ def replace_content(src: str, content: str, start_comment: str, end_comment: str
 
 
 def parse_header(header_str: str):
+    """Parse header string to yaml key"""
+    # to lower case || TL;DR -> tldr || " " -> "_"
     return header_str.strip().lower().replace(" ", "_").replace(";", "")
 
 
@@ -77,7 +83,7 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
     # parse table to list
     table_list = []
     for line in table_content.splitlines():
-        if line.startswith("|"):
+        if line.startswith("|"):  # skip empty line
             table_list.append(line.strip("|").strip().split("|"))
 
     # check table exist
@@ -85,22 +91,25 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
         return {}, md_ref
 
     # get table header and body
-    table_header = table_list[0]
-    table_line = table_list[1]
-    table_body = table_list[2:]
+    table_header = table_list[0]  # header
+    table_line = table_list[1]  # line length
+    table_body = table_list[2:]  # body
 
     header_alias = {}
     for i, header in enumerate(table_header):
+        # parse header to yaml key
         header_alias[i] = parse_header(header)
 
     # parse table body to dict
     data = {}
     data["header"] = {}
     for i, header in enumerate(table_header):
+        # save header
         data["header"][header_alias[i]] = header
 
     data["length"] = {}
     for i, line in enumerate(table_line):
+        # count and save line length
         data["length"][header_alias[i]] = len(line.strip())
 
     data["body"] = []
@@ -108,6 +117,8 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
         line_dict = {}
         for i, item in enumerate(line):
             if header_alias[i] == "tldr" and len(item.strip()) > 0:
+                # special handle for tldr
+                # abbr[^abbr] -> abbr || " " -> "-" || "+" -> "plus"
                 abbr = (
                     item.strip()
                     .split("[")[0]
@@ -116,21 +127,34 @@ def mdtable_to_yaml(table_content: str, md_ref: dict):
                     .replace("+", "plus")
                 )
                 if not abbr in md_ref:
+                    # can not find abbr in md_ref
                     print(f"can not find {abbr} in md_ref")
+                    # default value
                     md_ref[abbr] = "TBC"
+
+                # save content
                 line_dict[header_alias[i]] = f"{abbr}: {md_ref[abbr]}"
                 continue
 
             if header_alias[i] == "materials":
+                # special handle for materials
+
+                # get links in materials
                 get_links = re.findall(r"\[.*?\]\(.*?\)", item.strip())
+
                 links = {}
                 for link in get_links:
+                    # parse link to dict, split by "]("
+                    # [[link]](url) || [[link](url)] || [link](url) -> {link: url}
                     text = get_substr_before(link, "](").strip("[]").strip()
                     url = get_substr_after(link, "](").strip(")").strip()
+                    # to upper case
                     links[text.upper()] = url
+
                 line_dict[header_alias[i]] = links
                 continue
 
+            # other cases
             line_dict[header_alias[i]] = item.strip()
 
         data["body"].append(line_dict)
@@ -146,59 +170,82 @@ def yaml_to_mdtable(yaml_data: dict, md_ref: str):
         return "", md_ref
 
     # get table header and body
-    table_header = yaml_data["header"]
-    table_line = yaml_data["length"]
-    table_body = yaml_data["body"]
+    table_header = yaml_data["header"]  # header
+    table_line = yaml_data["length"]  # line length
+    table_body = yaml_data["body"]  # body
 
     # parse table body to dict
     table_list = []
+
+    # header
     table_list.append("|" + "|".join(table_header.values()) + "|")
+
+    # line length
     table_list.append(
         "| " + " | ".join(["-" * line for line in table_line.values()]) + " |"
     )
+
     for line in table_body:
         for key in table_header.keys():
             if key == "tldr":
+                # special handle for tldr
+                # split by first ":"
                 abbr = get_substr_before(line[key], ":").strip()
 
                 if len(abbr) > 0:
+                    # save abbr to md_ref
                     md_ref += f"[^{abbr}]: {get_substr_after(line[key], ':').strip()}\n"
+                    # revert "plus" to "+"
                     line[key] = f"{abbr.replace('plus', '+')}[^{abbr}]"
-
                 else:
+                    # empty abbr
                     line[key] = ""
 
             if key == "materials":
+                # special handle for materials
                 links = []
+
                 if type(line[key]) is not dict:
+                    # wrong type
                     print(f"materials is str, please check it: {line[key]}")
                 else:
+                    # parse dict to str
                     for text, url in line[key].items():
                         links.append(f"[[{text}]({url})]")
                 line[key] = " ".join(links)
 
+        # other cases
         table_list.append("| " + " | ".join(line.values()) + " |")
 
     return "\n".join(table_list), md_ref
 
 
 def get_mdref(md_str: str, start_comment: str, end_comment: str):
+    """Get md ref from md_str"""
     ref_content = get_content(md_str, start_comment, end_comment)
 
     ref_dict = {}
     for line in ref_content.splitlines():
+        # skip empty line
         if line.startswith("["):
+            # get abbr and content
+            # [^abbr]: content -> {abbr: content}
+            # abbr: " " -> "-" || "+" -> "plus" || "^" -> "" || "[]" -> ""
+            # split by first "]:"
             abbr = (
                 get_substr_before(line, "]:")
                 .strip("[]")
                 .replace("^", "")
                 .strip()
-                .replace(" ", "")
+                .replace(" ", "-")
                 .replace("+", "plus")
             )
+            # split by first "]:"
             cont = get_substr_after(line, "]:").strip()
             if len(cont) == 0:
+                # empty content
                 print(f"can not find content for {abbr}")
+                # default value
                 cont = "TBC"
             ref_dict[abbr] = cont
 
@@ -206,8 +253,10 @@ def get_mdref(md_str: str, start_comment: str, end_comment: str):
 
 
 def write_mdref(md_ref: dict):
+    """Write md ref to README.md"""
     ref_list = []
     for key, value in md_ref.items():
+        # parse [^abbr]: content
         ref_list.append(f"[^{key}]: {value}")
 
     return "\n".join(ref_list)
