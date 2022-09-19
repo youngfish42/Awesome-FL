@@ -1004,29 +1004,30 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 # surveys
 
-This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning), the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
+This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning) and [FederatedAI research](https://github.com/FederatedAI/research#survey) , the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
 
 
-- [CIKM Workshop Oral] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PDF](https://arxiv.org/abs/2207.11812)
-- SECure: A Social and Environmental Certificate for AI Systems [PDF](https://arxiv.org/abs/2006.06217)
-- From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks [PDF](https://arxiv.org/abs/2006.03594)
-- Federated Learning for 6G Communications: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/2006.02931)
-- A Review of Privacy Preserving Federated Learning for Private IoT Analytics [PDF](https://arxiv.org/abs/2004.11794)
-- Survey of Personalization Techniques for Federated Learning [PDF](https://arxiv.org/abs/2003.08673)
+- [CIKM Workshop 2022] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PDF](https://arxiv.org/abs/2207.11812)
+- [ACM Trans. Interact. Intell. Syst.] Toward Responsible AI: An Overview of Federated Learning for User-centered Privacy-preserving Computing [[PUB](https://dl.acm.org/doi/abs/10.1145/3485875)]
+- [ICML Workshop 2020] SECure: A Social and Environmental Certificate for AI Systems [PDF](https://arxiv.org/abs/2006.06217)
+- [IEEE Commun. Mag. 2020] From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks [PDF](https://arxiv.org/abs/2006.03594) [[PUB](https://ieeexplore.ieee.org/document/9311906)]
+- [China Communications 2020] Federated Learning for 6G Communications: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/2006.02931) [[PUB](https://ieeexplore.ieee.org/document/9205981).]
+- [Federated Learning Systems] A Review of Privacy Preserving Federated Learning for Private IoT Analytics [PDF](https://arxiv.org/abs/2004.11794) [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-70604-3_2)]
+- [WorldS4 2020] Survey of Personalization Techniques for Federated Learning [PDF](https://arxiv.org/abs/2003.08673) [[PUB](https://ieeexplore.ieee.org/document/9210355)]
 - Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective [PDF](https://arxiv.org/abs/2002.11545)
-- Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art [PDF](https://arxiv.org/abs/2002.10610)
-- Communication-Efficient Edge AI: Algorithms and Systems [PDF](http://arxiv.org/abs/2002.09668)
-- Federated Learning in Mobile Edge Networks: A Comprehensive Survey [PDF](https://arxiv.org/abs/1909.11875)
-- Federated Learning: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/1908.07873)
-- Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges [PDF](https://arxiv.org/abs/1908.06847)
-- Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [PDF](https://arxiv.org/abs/1907.09693)
-- Threats to Federated Learning: A Survey [PDF](https://arxiv.org/abs/2003.02133)
-- Advances and Open Problems in Federated Learning [PDF](https://arxiv.org/abs/1912.04977)
+- [IEEE Internet Things J. 2022] A Survey on Federated Learning for Resource-Constrained IoT Devices [PDF](https://arxiv.org/abs/2002.10610) [[PUB](https://ieeexplore.ieee.org/document/9475501/)]
+- [IEEE Communications Surveys & Tutorials 2020] Communication-Efficient Edge AI: Algorithms and Systems [PDF](http://arxiv.org/abs/2002.09668) [[PUB](https://ieeexplore.ieee.org/document/9134426)]
+- [IEEE Communications Surveys & Tutorials 2020] Federated Learning in Mobile Edge Networks: A Comprehensive Survey [PDF](https://arxiv.org/abs/1909.11875) [[PUB](https://ieeexplore.ieee.org/document/9060868)]
+- [IEEE Signal Process. Mag. 2020] Federated Learning: Challenges, Methods, and Future Directions [PDF](https://arxiv.org/abs/1908.07873) [[PUB](https://ieeexplore.ieee.org/document/9084352)]
+- [IEEE Commun. Mag. 2020] Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges [PDF](https://arxiv.org/abs/1908.06847) [[PUB](https://ieeexplore.ieee.org/document/9141214)]
+- [IEEE TKDE 2021] A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection [PDF](https://arxiv.org/abs/1907.09693) [[PUB](https://ieeexplore.ieee.org/document/9599369)]
+- [IJCAI Workshop 2020] Threats to Federated Learning: A Survey [PDF](https://arxiv.org/abs/2003.02133)
+- [Foundations and Trends in Machine Learning 2021] Advances and Open Problems in Federated Learning [PDF](https://arxiv.org/abs/1912.04977) [[PUB](https://www.nowpublishers.com/article/Details/MAL-083)]
 - Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing [PDF](https://arxiv.org/abs/1912.04859)
 - An Introduction to Communication Efficient Edge Machine Learning [PDF](https://arxiv.org/abs/1912.01554)
-- Convergence of Edge Computing and Deep Learning: A Comprehensive Survey [PDF](https://arxiv.org/abs/1907.08349)
-- Federated Machine Learning: Concept and Applications [PDF](https://arxiv.org/abs/1902.04885)
-- Federated Learning for Healthcare Informatics [PDF](https://arxiv.org/abs/1911.06270)
+- [IEEE Communications Surveys & Tutorials 2020] Convergence of Edge Computing and Deep Learning: A Comprehensive Survey [PDF](https://arxiv.org/abs/1907.08349) [[PUB](https://ieeexplore.ieee.org/document/8976180)]
+- [IEEE TIST 2019] Federated Machine Learning: Concept and Applications [PDF](https://arxiv.org/abs/1902.04885) [[PUB](https://dl.acm.org/doi/10.1145/3298981)]
+- [J. Heal. Informatics Res. 2021] Federated Learning for Healthcare Informatics [PDF](https://arxiv.org/abs/1911.06270) [[PUB](https://link.springer.com/article/10.1007/s41666-020-00082-4)]
 - Federated Learning for Coalition Operations [PDF](https://arxiv.org/abs/1910.06799)
 - No Peek: A Survey of private distributed deep learning [PDF](https://arxiv.org/abs/1812.03288)
 
@@ -1036,8 +1037,10 @@ This section partially refers to repository [Federated-Learning](https://github.
 
 ## tutorials
 
+- [联邦学习入门教程参考](https://docs.qq.com/doc/DVUxDVkd4b0FXdUpK)
+- [NeurIPS 2020] Federated Learning Tutorial [[Web\]](https://sites.google.com/view/fl-tutorial/) [[Slides\]](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view) [[Video\]](https://slideslive.com/38935813/federated-learning-tutorial)
 - [Federated Learning on MNIST using a CNN](https://colab.research.google.com/drive/1dRG3yNAlDar3tll4VOkmoU-aLslhUS8d), AI6101, 2020 ([Demo Video](https://www.youtube.com/watch?v=XKQi-CUqCsM))
-- [Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/), AAAI-19, Honolulu, HI, USA
+- [AAAI 2019] [Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)
 
 
 - [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
@@ -1133,6 +1136,7 @@ Many thanks :heart: to the other awesome list:
   - [Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
   - [awesome-federated-learning](https://github.com/weimingwill/awesome-federated-learning)
   - [Federated-Learning](https://github.com/lokinko/Federated-Learning)
+  -  [FederatedAI research](https://github.com/FederatedAI/research)
   - [FLsystem-paper](https://github.com/AmberLJC/FLsystem-paper)
   - [Federated Learning Framework Benchmark (UniFed)](https://github.com/AI-secure/FLBenchmark-toolkit)
 - Other fields
@@ -1144,7 +1148,7 @@ Many thanks :heart: to the other awesome list:
 
 
 
-[<img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/80/35/5zw06d5f905.png" alt="map" style="zoom:25%;" />](https://www.revolvermaps.com/livestats/5zw06d5f905/) 
+[<img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/80/35/5zw06d5f905.png" alt="map" style="zoom:1%;" />](https://www.revolvermaps.com/livestats/5zw06d5f905/) 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5zw06d5f905&amp;m=6&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
