@@ -18,6 +18,10 @@
 - [Tutorials and Courses](#tutorials-and-courses)
 - Key Conferences/Workshops/Journals
   - [Workshops](#workshops) [Special Issues](#journal-special-issues) [Special Tracks](#conference-special-tracks)
+- [Update log](#update-log)
+- [How to contact us](#how-to-contact-us)
+- [Acknowledgments](#acknowledgments)
+- [Citation](#citation)
 
 
 
@@ -44,35 +48,6 @@
 Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50 | :mortar_board: Top-tier venue 
 
 **`kg.`**: Knowledge Graph |   **`data.`**: dataset  |   **`surv.`**: survey
-
-
-
-
-
-**update log**
-
- ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
-
-- *2022/09/19 -  add NeurIPS 2022 papers*
-- *2022/09/16 -  repository is online with [Github Pages](https://youngfish42.github.io/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/)*
-- *2022/09/06 -  add information about FL on Tabular and Graph data*
-- *2022/09/05 -  add some information about top journals and add TPDS papers*
-- *2022/08/31 - all papers (including 400+ papers from top conferences and top journals and 100+ papers with graph and tabular data) have been comprehensively sorted out, and information such as publication addresses, links to preprints and source codes of these papers have been compiled. The source code of 280+ papers has been obtained. We hope it can help those who use this project.*  :smiley:
-- *2022/07/31 -  add VLDB papers*
-- *2022/07/30 -  add top-tier system conferences papers and add COLT,UAI,OSDI, SOSP, ISCA, MLSys, AISTATS,WSDM papers*
-- *2022/07/28 -  add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE,WWW,SIGCOMM.INFOCOM,WWW papers*
-- *2022/07/27 -  add some ECCV 2022 papers*
-- *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
-- *2022/07/21 - give TL;DR and interpret information(解读) of papers. And add KDD 2022 papers*
-- *2022/07/15 - give a list of papers in the field of federated learning in top NLP/Secure conferences. And add ICML 2022 papers*
-- *2022/07/14 - give a list of papers in the field of federated learning in top ML/CV/AI/DM conferences from  [innovation-cat](https://github.com/innovation-cat)‘s [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) and find :fire:  papers(code is available & stars >= 100)*
-- *2022/07/12 - added information about the last commit time of the federated learning open source framework (can be used to determine the maintenance of the code base)*
-- *2022/07/12 - give a list of papers in the field of federated learning in top journals*
-- *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
-- *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
-- *2022/05/24 - complete the paper and code lists of FL on graph data and Graph Neural Networks*
-- *2022/05/23 - add the paper list of FL on graph data and Graph Neural Networks*
-- *2022/05/21 - update all of Federated Learning Framework*
 
 
 
@@ -1156,6 +1131,37 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
 
 
+
+
+## update log
+
+ ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
+
+- *2022/09/19 -  add NeurIPS 2022 papers*
+- *2022/09/16 -  repository is online with [Github Pages](https://youngfish42.github.io/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/)*
+- *2022/09/06 -  add information about FL on Tabular and Graph data*
+- *2022/09/05 -  add some information about top journals and add TPDS papers*
+- *2022/08/31 - all papers (including 400+ papers from top conferences and top journals and 100+ papers with graph and tabular data) have been comprehensively sorted out, and information such as publication addresses, links to preprints and source codes of these papers have been compiled. The source code of 280+ papers has been obtained. We hope it can help those who use this project.*  :smiley:
+- *2022/07/31 -  add VLDB papers*
+- *2022/07/30 -  add top-tier system conferences papers and add COLT,UAI,OSDI, SOSP, ISCA, MLSys, AISTATS,WSDM papers*
+- *2022/07/28 -  add a list of top-tier conferences papers and add IJCAI,SIGIR,SIGMOD,ICDE,WWW,SIGCOMM.INFOCOM,WWW papers*
+- *2022/07/27 -  add some ECCV 2022 papers*
+- *2022/07/22 -  add CVPR 2022 and MM 2020,2021 papers*
+- *2022/07/21 - give TL;DR and interpret information(解读) of papers. And add KDD 2022 papers*
+- *2022/07/15 - give a list of papers in the field of federated learning in top NLP/Secure conferences. And add ICML 2022 papers*
+- *2022/07/14 - give a list of papers in the field of federated learning in top ML/CV/AI/DM conferences from  [innovation-cat](https://github.com/innovation-cat)‘s [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) and find :fire:  papers(code is available & stars >= 100)*
+- *2022/07/12 - added information about the last commit time of the federated learning open source framework (can be used to determine the maintenance of the code base)*
+- *2022/07/12 - give a list of papers in the field of federated learning in top journals*
+- *2022/05/25 - complete the paper and code lists of FL on tabular data and Tree algorithms*
+- *2022/05/25 - add the paper list of FL on tabular data and Tree algorithms*
+- *2022/05/24 - complete the paper and code lists of FL on graph data and Graph Neural Networks*
+- *2022/05/23 - add the paper list of FL on graph data and Graph Neural Networks*
+- *2022/05/21 - update all of Federated Learning Framework*
+
+
+
+
+
 ## how to contact us
 
 **More items will be added to the repository**. Please feel free to suggest other key resources by opening an [issue](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues) report, submitting a pull request, or dropping me an email @ ([im.young@foxmail.com](mailto:im.young@foxmail.com)). Enjoy reading!
@@ -1186,10 +1192,22 @@ Many thanks :heart: to the other awesome list:
 
 
 
+## citation
+
+```text
+@misc{awesomeflGTD,
+    title = {Awesome-Federated-Learning-on-Graph-and-Tabular-Data},
+    author = {Yuwen Yang, Bingjie Yan, Xuefeng Jiang, Hongcheng Li, Jian Wang, Jiao Chen, Xiangmou Qu, Chang Liu and others},
+    year = {2022},
+    howpublished = {\\url{https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data}
+}
+```
+
+
+
 [<img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/80/35/5zw06d5f905.png" alt="map" style="zoom:1%;" />](https://www.revolvermaps.com/livestats/5zw06d5f905/) 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5zw06d5f905&amp;m=6&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-
 
 <!-- START:reference-section -->
 
