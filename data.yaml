@@ -147,15 +147,6 @@ fl-on-graph-data-and-graph-neural-network:
       PUB.: https://ieeexplore.ieee.org/abstract/document/9606516/
       CODE: https://github.com/cfh19980612/FedGraph
       解读: https://zhuanlan.zhihu.com/p/442233479
-  - title: 'FedGCN: Convergence and Communication Tradeoffs in Federated Training
-      of Graph Convolutional Networks'
-    affiliation: CMU
-    venue: CIKM Workshop (Oral)
-    year: '2022'
-    tldr: 'FedGCN: TBC'
-    materials:
-      PDF: https://arxiv.org/abs/2201.12433
-      CODE: https://github.com/yh-yao/FedGCN
   - title: 'FedNI: Federated Graph Learning with Network Inpainting for Population-Based
       Disease Prediction'
     affiliation: UESTC
@@ -187,20 +178,6 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB.: https://arxiv.org/abs/2208.13685
       CODE: https://github.com/fedego/fedego
-  - title: A federated graph neural network framework for privacy-preserving personalization
-    affiliation: THU
-    venue: Nature Communications
-    year: '2022'
-    tldr: 'FedPerGNN: FedPerGNN, a federated GNN framework for both effective and
-      privacy-preserving personalization. Through a privacy-preserving model update
-      method, we can collaboratively train GNN models based on decentralized graphs
-      inferred from local data. To further exploit graph information beyond local
-      interactions, we introduce a privacy-preserving graph expansion protocol to
-      incorporate high-order information under privacy protection.  FedPerGNN是一个既有效又保护隐私的GNN联盟框架。通过一个保护隐私的模型更新方法，我们可以根据从本地数据推断出的分散图来协作训练GNN模型。为了进一步利用本地互动以外的图信息，我们引入了一个保护隐私的图扩展协议，在保护隐私的前提下纳入高阶信息。'
-    materials:
-      PUB: https://www.nature.com/articles/s41467-022-30714-9
-      CODE: https://github.com/wuch15/FedPerGNN
-      解读: https://zhuanlan.zhihu.com/p/487383715
   - title: 'SemiGraphFL: Semi-supervised Graph Federated Learning for Graph Classification.'
     affiliation: PKU
     venue: PPSN
@@ -216,6 +193,34 @@ fl-on-graph-data-and-graph-neural-network:
       加强本地训练过程。我们为未标记的数据引入了辅助损失，限制了训练过程。我们为我们的SemiGraphFL框架提出了一个新的伪标签策略，以做出更有效的预测。'
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-031-14714-2_33
+  - title: A federated graph neural network framework for privacy-preserving personalization
+    affiliation: THU
+    venue: Nature Communications
+    year: '2022'
+    tldr: 'FedPerGNN: FedPerGNN, a federated GNN framework for both effective and
+      privacy-preserving personalization. Through a privacy-preserving model update
+      method, we can collaboratively train GNN models based on decentralized graphs
+      inferred from local data. To further exploit graph information beyond local
+      interactions, we introduce a privacy-preserving graph expansion protocol to
+      incorporate high-order information under privacy protection.  FedPerGNN是一个既有效又保护隐私的GNN联盟框架。通过一个保护隐私的模型更新方法，我们可以根据从本地数据推断出的分散图来协作训练GNN模型。为了进一步利用本地互动以外的图信息，我们引入了一个保护隐私的图扩展协议，在保护隐私的前提下纳入高阶信息。'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-022-30714-9
+      CODE: https://github.com/wuch15/FedPerGNN
+      解读: https://zhuanlan.zhihu.com/p/487383715
+  - title: Malicious Transaction Identification in Digital Currency via Federated
+      Graph Deep Learning
+    affiliation: BIT
+    venue: INFOCOM Workshops
+    year: '2022'
+    tldr: 'GraphSniffer: A graph neural network model based on federated learning
+      named GraphSniffer to identify malicious transactions in the digital currency
+      market. GraphSniffer leverages federated learning and graph neural networks
+      to model graph-structured Bitcoin transaction data distributed at different
+      worker nodes, and transmits the gradients of the local model to the server node
+      for aggregation to update the parameters of the global model. GraphSniffer 一种基于联邦学习的图神经网络模型来识别数字货币市场中的恶意交易。GraphSniffer
+      利用联邦学习和图神经网络对分布在不同工作节点的图结构比特币交易数据进行建模，并将局部模型的梯度传递到服务器节点进行聚合，更新全局模型的参数。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9797992/
   - title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving
       Relation Embedding Aggregation **`kg.`**
     affiliation: Lehigh University
@@ -231,6 +236,33 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PDF: https://arxiv.org/abs/2203.09553
       CODE: https://github.com/taokz/FedR
+  - title: 'FedGCN: Convergence and Communication Tradeoffs in Federated Training
+      of Graph Convolutional Networks'
+    affiliation: CMU
+    venue: CIKM Workshop (Oral)
+    year: '2022'
+    tldr: 'FedGCN: TBC'
+    materials:
+      PDF: https://arxiv.org/abs/2201.12433
+      CODE: https://github.com/yh-yao/FedGCN
+  - title: 'Federated Graph Machine Learning: A Survey of Concepts, Techniques, and
+      Applications **`surv.`**'
+    affiliation: University of Virginia
+    venue: CIKM Workshop (Oral)
+    year: '2022'
+    tldr: 'FGML: FGML a comprehensive review of the literature in Federated Graph
+      Machine Learning. FGML 对图联邦机器学习的文献进行了全面回顾的综述文章。'
+    materials:
+      PDF: https://arxiv.org/abs/2207.11812
+  - title: Investigating the Predictive Reproducibility of Federated Graph Neural
+      Networks using Medical Datasets.
+    affiliation: ''
+    venue: MICCAI Workshop
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2209.06032
+      CODE: https://github.com/basiralab/reproducibleFedGNN
   - title: Power Allocation for Wireless Federated Learning using Graph Neural Networks
     affiliation: Rice University
     venue: ICASSP
@@ -365,20 +397,6 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://ieeexplore.ieee.org/abstract/document/9832778
       PDF: https://fl-icml.github.io/2021/papers/FL-ICML21_paper_74.pdf
-  - title: Malicious Transaction Identification in Digital Currency via Federated
-      Graph Deep Learning
-    affiliation: BIT
-    venue: INFOCOM Workshops
-    year: '2022'
-    tldr: 'GraphSniffer: A graph neural network model based on federated learning
-      named GraphSniffer to identify malicious transactions in the digital currency
-      market. GraphSniffer leverages federated learning and graph neural networks
-      to model graph-structured Bitcoin transaction data distributed at different
-      worker nodes, and transmits the gradients of the local model to the server node
-      for aggregation to update the parameters of the global model. GraphSniffer 一种基于联邦学习的图神经网络模型来识别数字货币市场中的恶意交易。GraphSniffer
-      利用联邦学习和图神经网络对分布在不同工作节点的图结构比特币交易数据进行建模，并将局部模型的梯度传递到服务器节点进行聚合，更新全局模型的参数。'
-    materials:
-      PUB: https://ieeexplore.ieee.org/document/9797992/
   - title: Leveraging Spanning Tree to Detect Colluding Attackers in Federated Learning
     affiliation: Missouri S&T
     venue: INFCOM Workshops
@@ -929,6 +947,13 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
+  - title: Heterogeneous Federated Learning on a Graph.
+    affiliation: ''
+    venue: preprint
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2209.08737
   - title: Federated Graph Contrastive Learning
     affiliation: UTS
     venue: preprint
@@ -936,15 +961,6 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'FGCL: TBC'
     materials:
       PDF: https://arxiv.org/abs/2207.11836
-  - title: 'Federated Graph Machine Learning: A Survey of Concepts, Techniques, and
-      Applications **`surv.`**'
-    affiliation: University of Virginia
-    venue: CIKM Workshop (Oral)
-    year: '2022'
-    tldr: 'FGML: FGML a comprehensive review of the literature in Federated Graph
-      Machine Learning. FGML 对图联邦机器学习的文献进行了全面回顾的综述文章。'
-    materials:
-      PDF: https://arxiv.org/abs/2207.11812
   - title: 'FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for
       Doctor Recommendation Using EHR'
     affiliation: ''
@@ -1529,6 +1545,21 @@ fl-on-tabular-data:
       can be computed which some/several federated learning algorithms utilize. 深度神经决策森林（DNDF），将分治策略与属性表示学习结合起来。通过对森林预测节点的概率分布进行参数化，并将森林中的所有树木纳入损失函数中，可以计算出整个森林的梯度，一些/一些联邦学习算法利用了这一梯度。'
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58
+  - title: Boost Decentralized Federated Learning in Vehicular Networks by Diversifying
+      Data Sources
+    affiliation: ''
+    venue: preprint
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2209.01750
+  - title: Federated XGBoost on Sample-Wise Non-IID Data
+    affiliation: ''
+    venue: preprint
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2209.01340
   - title: Statistical Detection of Adversarial examples in Blockchain-based Federated
       Forest In-vehicle Network Intrusion Detection Systems
     affiliation: ''
@@ -7669,6 +7700,13 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://nvflare.readthedocs.io/en/2.1.1/
+  - platform: '[PFL-Non-IID](https://github.com/TsingZ0/PFL-Non-IID)<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID.svg?color=blue)](https://github.com/TsingZ0/PFL-Non-IID/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/TsingZ0/PFL-Non-IID)'
+    papers: ''
+    affiliations: SJTU
+    sg: ''
+    st: ''
+    materials: {}
   - platform: '[easyFL](https://github.com/WwZzz/easyFL)<br />[![Stars](https://img.shields.io/github/stars/WwZzz/easyFL.svg?color=blue)](https://github.com/WwZzz/easyFL/stargazers)<br
       />![](https://img.shields.io/github/last-commit/WwZzz/easyFL)'
     papers: '[Federated Learning with Fair Averaging](https://www.ijcai.org/proceedings/2021/223)'
@@ -7684,10 +7722,10 @@ federated-learning-framework:
     sg: ''
     st: ''
     materials: {}
-  - platform: '[PFL-Non-IID](https://github.com/TsingZ0/PFL-Non-IID)<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID.svg?color=blue)](https://github.com/TsingZ0/PFL-Non-IID/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/TsingZ0/PFL-Non-IID)'
-    papers: ''
-    affiliations: SJTU
+  - platform: '[Backdoors 101](https://github.com/ebagdasa/backdoors101)<br />[![Stars](https://img.shields.io/github/stars/ebagdasa/backdoors101.svg?color=blue)](https://github.com/ebagdasa/backdoors101/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/ebagdasa/backdoors101)'
+    papers: '[Blind Backdoors in Deep Learning Models](https://arxiv.org/abs/2005.03823)'
+    affiliations: Cornell Tech
     sg: ''
     st: ''
     materials: {}
@@ -7699,10 +7737,18 @@ federated-learning-framework:
     sg: ''
     st: ''
     materials: {}
-  - platform: '[Backdoors 101](https://github.com/ebagdasa/backdoors101)<br />[![Stars](https://img.shields.io/github/stars/ebagdasa/backdoors101.svg?color=blue)](https://github.com/ebagdasa/backdoors101/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/ebagdasa/backdoors101)'
-    papers: '[Blind Backdoors in Deep Learning Models](https://arxiv.org/abs/2005.03823)'
-    affiliations: Cornell Tech
+  - platform: '[Primihub](https://github.com/primihub/primihub)<br />[![Stars](https://img.shields.io/github/stars/primihub/primihub.svg?color=blue)](https://github.com/primihub/primihub/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/primihub/primihub)'
+    papers: ''
+    affiliations: '[primihub](https://github.com/primihub)'
+    sg: ''
+    st: ''
+    materials:
+      DOC: ''
+  - platform: '[NIID-Bench](https://github.com/Xtra-Computing/NIID-Bench)<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/NIID-Bench.svg?color=blue)](https://github.com/Xtra-Computing/NIID-Bench/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/Xtra-Computing/NIID-Bench)'
+    papers: '[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079.pdf)'
+    affiliations: '[Xtra Computing Group](https://github.com/Xtra-Computing)'
     sg: ''
     st: ''
     materials: {}
@@ -7713,14 +7759,6 @@ federated-learning-framework:
     sg: ''
     st: ''
     materials: {}
-  - platform: '[Primihub](https://github.com/primihub/primihub)<br />[![Stars](https://img.shields.io/github/stars/primihub/primihub.svg?color=blue)](https://github.com/primihub/primihub/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/primihub/primihub)'
-    papers: ''
-    affiliations: '[primihub](https://github.com/primihub)'
-    sg: ''
-    st: ''
-    materials:
-      DOC: ''
   - platform: '[Xaynet](https://github.com/xaynetwork/xaynet)<br />[![Stars](https://img.shields.io/github/stars/xaynetwork/xaynet.svg?color=blue)](https://github.com/xaynetwork/xaynet/stargazers)<br
       />![](https://img.shields.io/github/last-commit/xaynetwork/xaynet)'
     papers: ''
@@ -7748,13 +7786,6 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: http://galaxylearning.github.io/
-  - platform: '[NIID-Bench](https://github.com/Xtra-Computing/NIID-Bench)<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/NIID-Bench.svg?color=blue)](https://github.com/Xtra-Computing/NIID-Bench/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/Xtra-Computing/NIID-Bench)'
-    papers: '[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079.pdf)'
-    affiliations: '[Xtra Computing Group](https://github.com/Xtra-Computing)'
-    sg: ''
-    st: ''
-    materials: {}
   - platform: '[SWARM LEARNING](https://github.com/HewlettPackard/swarm-learning)
       <br />[![Stars](https://img.shields.io/github/stars/HewlettPackard/swarm-learning.svg?color=blue)](https://github.com/HewlettPackard/swarm-learning/stargazers)<br
       />![](https://img.shields.io/github/last-commit/HewlettPackard/swarm-learning)'
@@ -7764,19 +7795,19 @@ federated-learning-framework:
     st: ''
     materials:
       VIDEO: https://github.com/HewlettPackard/swarm-learning/blob/master/docs/videos.md
+  - platform: '[plato](https://github.com/TL-System/plato)<br />[![Stars](https://img.shields.io/github/stars/TL-System/plato.svg?color=blue)](https://github.com/TL-System/plato/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/TL-System/plato)'
+    papers: ''
+    affiliations: UofT
+    sg: ''
+    st: ''
+    materials: {}
   - platform: '[FedGraphNN](https://github.com/FedML-AI/FedGraphNN)<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedGraphNN.svg?color=blue)](https://github.com/FedML-AI/FedGraphNN/stargazers)<br
       />![](https://img.shields.io/github/last-commit/FedML-AI/FedGraphNN)'
     papers: '[FedGraphNN: A Federated Learning System and Benchmark for Graph Neural
       Networks](https://arxiv.org/abs/2104.07145)'
     affiliations: '[FedML](https://fedml.ai/)'
     sg: ':white_check_mark::white_check_mark:'
-    st: ''
-    materials: {}
-  - platform: '[plato](https://github.com/TL-System/plato)<br />[![Stars](https://img.shields.io/github/stars/TL-System/plato.svg?color=blue)](https://github.com/TL-System/plato/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/TL-System/plato)'
-    papers: ''
-    affiliations: UofT
-    sg: ''
     st: ''
     materials: {}
   - platform: '[substra](https://github.com/Substra/substra) <br />[![Stars](https://img.shields.io/github/stars/Substra/substra.svg?color=blue)](https://github.com/Substra/substra/stargazers)<br
@@ -7850,6 +7881,13 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://g-k.ai/PriMIA/
+  - platform: '[EasyFL](https://github.com/EasyFL-AI/EasyFL)<br />[![Stars](https://img.shields.io/github/stars/EasyFL-AI/EasyFL.svg?color=blue)](https://github.com/EasyFL-AI/EasyFL/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/EasyFL-AI/EasyFL)'
+    papers: '[EasyFL: A Low-code Federated Learning Platform For Dummies](https://ieeexplore.ieee.org/abstract/document/9684558)'
+    affiliations: NTU
+    sg: ''
+    st: ''
+    materials: {}
   - platform: '[FLSim](https://github.com/iQua/flsim) <br />[![Stars](https://img.shields.io/github/stars/iQua/flsim.svg?color=blue)](https://github.com/iQua/flsim/stargazers)<br
       />![](https://img.shields.io/github/last-commit/iQua/flsim)'
     papers: '[Optimizing Federated Learning on Non-IID Data with Reinforcement Learning](https://ieeexplore.ieee.org/document/9155494/)'
@@ -7861,13 +7899,6 @@ federated-learning-framework:
       />![](https://img.shields.io/github/last-commit/jd-9n/9nfl)'
     papers: ''
     affiliations: JD
-    sg: ''
-    st: ''
-    materials: {}
-  - platform: '[EasyFL](https://github.com/EasyFL-AI/EasyFL)<br />[![Stars](https://img.shields.io/github/stars/EasyFL-AI/EasyFL.svg?color=blue)](https://github.com/EasyFL-AI/EasyFL/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/EasyFL-AI/EasyFL)'
-    papers: '[EasyFL: A Low-code Federated Learning Platform For Dummies](https://ieeexplore.ieee.org/abstract/document/9684558)'
-    affiliations: NTU
     sg: ''
     st: ''
     materials: {}
@@ -7960,6 +7991,13 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://di-chai.github.io/FedEval/
+  - platform: '[Flame](https://github.com/cisco-open/flame)<br />[![Stars](https://img.shields.io/github/stars/cisco-open/flame.svg?color=blue)](https://github.com/cisco-open/flame/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/cisco-open/flame)'
+    papers: ''
+    affiliations: Cisco
+    sg: ''
+    st: ''
+    materials: {}
   - platform: '[APPFL](https://github.com/APPFL/APPFL)<br />[![Stars](https://img.shields.io/github/stars/APPFL/APPFL.svg?color=blue)](https://github.com/APPFL/APPFL/stargazers)<br
       />![](https://img.shields.io/github/last-commit/APPFL/APPFL)'
     papers: ''
@@ -7968,13 +8006,6 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://appfl.readthedocs.io/en/stable/
-  - platform: '[Flame](https://github.com/cisco-open/flame)<br />[![Stars](https://img.shields.io/github/stars/cisco-open/flame.svg?color=blue)](https://github.com/cisco-open/flame/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/cisco-open/flame)'
-    papers: ''
-    affiliations: Cisco
-    sg: ''
-    st: ''
-    materials: {}
   - platform: '[Federated-Learning-source](https://github.com/MTC-ETH/Federated-Learning-source)
       <br />[![Stars](https://img.shields.io/github/stars/MTC-ETH/Federated-Learning-source.svg?color=blue)](https://github.com/MTC-ETH/Federated-Learning-source/stargazers)<br
       />![](https://img.shields.io/github/last-commit/MTC-ETH/Federated-Learning-source)'
