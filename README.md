@@ -207,6 +207,8 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Straggler Remission for Federated Learning via Decentralized Redundant Cayley Tree | Stevens Institute of Technology | LATINCOM | 2020 | DRC-tree[^DRC-tree] | [[PUB](https://ieeexplore.ieee.org/document/9282334)] |
 | Federated Soft Gradient Boosting Machine for Streaming Data | Sinovation Ventures AI Institute | Federated Learning | 2020 | Fed-sGBM[^Fed-sGBM] | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_7)] [[解读](https://www.leiphone.com/category/academic/4tVdYDuYTA293NCy.html)] |
 | Federated Learning of Deep Neural Decision Forests | Fraunhofer-Chalmers Centre | LOD | 2019 | FL-DNDF[^FL-DNDF] | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58)] |
+| Boost Decentralized Federated Learning in Vehicular Networks by Diversifying Data Sources |  | preprint | 2022 |  | [pdf](https://arxiv.org/abs/2209.01750) |
+| Federated XGBoost on Sample-Wise Non-IID Data |  | preprint | 2022 |  | [PDF](https://arxiv.org/abs/2209.01340) |
 | Statistical Detection of Adversarial examples in Blockchain-based Federated Forest In-vehicle Network Intrusion Detection Systems |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.04843)] |
 | Hercules: Boosting the Performance of Privacy-preserving Federated Learning |  | preprint | 2022 | Hercules[^Hercules] | [[PDF](https://arxiv.org/abs/2207.04620)] |
 | FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging |  | preprint | 2022 | FedGBF[^FedGBF] | [[PDF](https://arxiv.org/abs/2204.00976)] |
