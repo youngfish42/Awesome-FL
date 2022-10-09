@@ -1799,7 +1799,7 @@ fl-in-top-tier-journal:
       of clinical text. We also discuss data-focused problems in the deployment of
       ML, emphasizing the need to efficiently deliver data to ML models for timely
       clinical predictions and to account for natural data shifts that can deteriorate
-      model performance. 这一进展强调，从模型开发到模型部署，数据发挥着核心作用。在这篇评论中，我们提供了一个以数据为中心的观点，即定义医疗保健的ML的创新和挑战。我们讨论了深度生成模型和联合学习，作为增强数据集以提高模型性能的策略，以及使用最近的转化器模型来处理更大的数据集和加强临床文本的建模。我们还讨论了ML部署中以数据为重点的问题，强调需要有效地将数据交付给ML模型，以便及时进行临床预测，并考虑到可能恶化模型性能的自然数据转移。'
+      model performance. 这一进展强调，从模型开发到模型部署，数据发挥着核心作用。在这篇评论中，我们提供了一个以数据为中心的观点，即定义医疗保健的ML的创新和挑战。我们讨论了深度生成模型和联邦学习，作为增强数据集以提高模型性能的策略，以及使用最近的转化器模型来处理更大的数据集和加强临床文本的建模。我们还讨论了ML部署中以数据为重点的问题，强调需要有效地将数据交付给ML模型，以便及时进行临床预测，并考虑到可能恶化模型性能的自然数据转移。'
     materials:
       PUB: https://www.nature.com/articles/s41551-022-00898-y
   - title: A federated graph neural network framework for privacy-preserving personalization
@@ -2752,7 +2752,7 @@ fl-in-top-ml-conference-and-journal:
       the proposed methodology has important benefits: it is robust to client drift,
       practical for inference on new clients, and above all, enables **uncertainty
       quantification** under mild computational and memory overheads. We provide non-asymptotic
-      convergence guarantees for the proposed algorithms. 一种新的方法被称为FedPop，它将个性化的FL重塑为群体建模范式，客户的模型涉及固定的共同群体参数和随机的个体参数，旨在解释数据的异质性。为了得出我们方案的收敛保证，我们引入了一类新的联合随机优化算法，该算法依赖于马尔科夫链蒙特卡洛方法。与现有的个性化FL方法相比，所提出的方法具有重要的优势：它对客户的漂移是稳健的，对新客户的推断是实用的，最重要的是，在温和的计算和内存开销下，可以进行**不确定性量化**。我们为提议的算法提供了非渐进收敛保证。'
+      convergence guarantees for the proposed algorithms. 一种新的方法被称为FedPop，它将个性化的FL重塑为群体建模范式，客户的模型涉及固定的共同群体参数和随机的个体参数，旨在解释数据的异质性。为了得出我们方案的收敛保证，我们引入了一类新的联邦随机优化算法，该算法依赖于马尔科夫链蒙特卡洛方法。与现有的个性化FL方法相比，所提出的方法具有重要的优势：它对客户的漂移是稳健的，对新客户的推断是实用的，最重要的是，在温和的计算和内存开销下，可以进行**不确定性量化**。我们为提议的算法提供了非渐进收敛保证。'
     materials:
       PUB: https://openreview.net/forum?id=KETwimTQexH
       PDF: https://arxiv.org/abs/2206.03611
@@ -2776,7 +2776,7 @@ fl-in-top-ml-conference-and-journal:
       predictor when the loss functions of the agents are convex. CoreFed also determines
       approximate core-stable predictors when the loss functions are not convex, like
       mooth neural networks. We further show the existence of core-stable predictors
-      in more general settings using Kakutani''s fixed point theorema. 我们旨在利用合作博弈理论和社会选择理论的概念来正式表示这个问题并解决这些公平性问题。我们把在联盟环境中学习共享预测器的任务建模为一个公平的公共决策问题，然后定义核心稳定的公平概念。给定N个代理人，没有一个代理人的子集S可以通过在他们之间形成一个基于他们的效用UN和US的联盟而显著受益。核心稳定的预测器对一些代理人的低质量本地数据具有鲁棒性，此外，它们还满足Proportionality（每个代理人从任何预测器中得到的最佳效用的至少1/n部分）和Pareto-optimality（不存在任何模型可以在增加一个代理人的效用的同时不减少另一个代理人的效用），这是社会选择中两个广受欢迎的公平和效率概念。然后，我们提出了一个高效的联合学习协议CoreFed来优化一个核心稳定的预测器。当代理人的损失函数是凸的时候，CoreFed确定了一个核心稳定的预测器。当损失函数不是凸的时候，CoreFed也能确定近似的核心稳定预测器，比如摩斯神经网络。我们利用Kakutani的固定点定理，进一步证明了在更一般的情况下核心稳定预测器的存在。'
+      in more general settings using Kakutani''s fixed point theorema. 我们旨在利用合作博弈理论和社会选择理论的概念来正式表示这个问题并解决这些公平性问题。我们把在联盟环境中学习共享预测器的任务建模为一个公平的公共决策问题，然后定义核心稳定的公平概念。给定N个代理人，没有一个代理人的子集S可以通过在他们之间形成一个基于他们的效用UN和US的联盟而显著受益。核心稳定的预测器对一些代理人的低质量本地数据具有鲁棒性，此外，它们还满足Proportionality（每个代理人从任何预测器中得到的最佳效用的至少1/n部分）和Pareto-optimality（不存在任何模型可以在增加一个代理人的效用的同时不减少另一个代理人的效用），这是社会选择中两个广受欢迎的公平和效率概念。然后，我们提出了一个高效的联邦学习协议CoreFed来优化一个核心稳定的预测器。当代理人的损失函数是凸的时候，CoreFed确定了一个核心稳定的预测器。当损失函数不是凸的时候，CoreFed也能确定近似的核心稳定预测器，比如摩斯神经网络。我们利用Kakutani的固定点定理，进一步证明了在更一般的情况下核心稳定预测器的存在。'
     materials:
       PUB: https://openreview.net/forum?id=lKULHf7oFDo
   - title: 'SecureFedYJ: a safe feature Gaussianization protocol for Federated Learning'
@@ -2796,7 +2796,7 @@ fl-in-top-ml-conference-and-journal:
       than the final fitted  parameters do. Quantitative experiments on real data
       demonstrate that,  in addition to being secure, our approach reliably normalizes
       features  across silos as well as if data were pooled, making it a viable approach
-      for safe federated feature Gaussianization. Yeo-Johnson（YJ）变换是一个标准的参数化的每特征单维变换，通常用于机器学习的高斯化特征。在本文中，我们研究了在隐私约束下，在跨语境的联合学习环境中应用YJ转换的问题。我们首次证明了YJ负对数可能性实际上是凸的，这使我们能够用指数搜索来优化它。我们在数值上表明，所得到的算法比基于布伦特最小化方法的最先进的方法更稳定。在这个简单的算法和安全多方计算程序的基础上，我们提出了SECUREFEDYJ，这是一个联合算法，在不泄露比最终拟合参数更多信息的情况下执行集合等效的YJ转换。在真实数据上的定量实验表明，除了安全之外，我们的方法还能可靠地将不同筒仓的特征归一化，就像数据被汇集起来一样，这使得它成为安全联合特征高斯化的可行方法。'
+      for safe federated feature Gaussianization. Yeo-Johnson（YJ）变换是一个标准的参数化的每特征单维变换，通常用于机器学习的高斯化特征。在本文中，我们研究了在隐私约束下，在跨语境的联邦学习环境中应用YJ转换的问题。我们首次证明了YJ负对数可能性实际上是凸的，这使我们能够用指数搜索来优化它。我们在数值上表明，所得到的算法比基于布伦特最小化方法的最先进的方法更稳定。在这个简单的算法和安全多方计算程序的基础上，我们提出了SECUREFEDYJ，这是一个联邦算法，在不泄露比最终拟合参数更多信息的情况下执行集合等效的YJ转换。在真实数据上的定量实验表明，除了安全之外，我们的方法还能可靠地将不同筒仓的特征归一化，就像数据被汇集起来一样，这使得它成为安全联邦特征高斯化的可行方法。'
     materials:
       PUB: https://openreview.net/forum?id=25XIE30VHZE
   - title: 'FedRolex: Model-Heterogeneous Federated Learning with Rolling Submodel
@@ -2810,7 +2810,7 @@ fl-in-top-ml-conference-and-journal:
       model are trained on heterogeneous data distributions. FedRolex addresses this
       challenge by rolling the submodel in each federated iteration so that the parameters
       of the global model are evenly trained on the global data distribution across
-      all devices, making it more akin to model-homogeneous training. 一个名为FedRolex的简单而有效的模型-异质性FL方法来解决这一约束。与模型同质化的情况不同，FL中模型异质化的根本挑战是全局模型的不同参数是在异质的数据分布上训练的。FedRolex通过在每个联合迭代中滚动子模型来解决这个挑战，这样全局模型的参数就会在所有设备的全局数据分布上均匀地训练，使其更类似于模型同质化训练。'
+      all devices, making it more akin to model-homogeneous training. 一个名为FedRolex的简单而有效的模型-异质性FL方法来解决这一约束。与模型同质化的情况不同，FL中模型异质化的根本挑战是全局模型的不同参数是在异质的数据分布上训练的。FedRolex通过在每个联邦迭代中滚动子模型来解决这个挑战，这样全局模型的参数就会在所有设备的全局数据分布上均匀地训练，使其更类似于模型同质化训练。'
     materials:
       PUB: https://openreview.net/forum?id=OtxyysUdBE
   - title: On Sample Optimality in Personalized Collaborative and Federated Learning
@@ -2836,7 +2836,7 @@ fl-in-top-ml-conference-and-journal:
       at the server, the gradient has to be a polynomial function in a finite field,
       and thus we construct polynomial integer neural networks (PINNs) to enable our
       framework. Theoretical analysis shows that DReS-FL is resilient to client dropouts
-      and provides privacy protection for the local datasets. 拥有数据的客户可能会任意退出训练过程。这些特点将大大降低训练性能。本文提出了一个基于拉格朗日编码计算（LCC）的辍学弹性安全联合学习（DReS-FL）框架来解决非IID和辍学问题。其关键思想是利用拉格朗日编码在客户之间秘密分享私人数据集，以便在本地梯度计算中补偿非IID分布和客户退出的影响。为了给本地数据集提供严格的隐私保证并在服务器上正确解码梯度，梯度必须是有限域中的多项式函数，因此我们构建了多项式整数神经网络（PINNs）来实现我们的框架。理论分析表明，DReS-FL对客户端辍学有弹性，并为本地数据集提供隐私保护。'
+      and provides privacy protection for the local datasets. 拥有数据的客户可能会任意退出训练过程。这些特点将大大降低训练性能。本文提出了一个基于拉格朗日编码计算（LCC）的辍学弹性安全联邦学习（DReS-FL）框架来解决非IID和辍学问题。其关键思想是利用拉格朗日编码在客户之间秘密分享私人数据集，以便在本地梯度计算中补偿非IID分布和客户退出的影响。为了给本地数据集提供严格的隐私保证并在服务器上正确解码梯度，梯度必须是有限域中的多项式函数，因此我们构建了多项式整数神经网络（PINNs）来实现我们的框架。理论分析表明，DReS-FL对客户端辍学有弹性，并为本地数据集提供隐私保护。'
     materials:
       PUB: https://openreview.net/forum?id=hPkGV4BPsmv
   - title: 'FairVFL: A Fair Vertical Federated Learning Framework with Contrastive
@@ -2861,7 +2861,7 @@ fl-in-top-ml-conference-and-journal:
       inherited from the biased data. Moreover, for protecting user privacy, we further
       propose a contrastive adversarial learning method to remove private information
       from the unified representation in server before sending it to the platforms
-      keeping fairness-sensitive features. 由于在现实世界的应用中，数据可能包含对公平性敏感的特征（如性别）的偏见，VFL模型可能会从训练数据中继承偏见，并对一些用户群体变得不公平。然而，现有的公平机器学习方法通常依赖于公平性敏感特征的集中存储来实现模型的公平性，这在联盟场景中通常是不适用的。在本文中，我们提出了一个公平的垂直联合学习框架（FairVFL），它可以提高VFL模型的公平性。FairVFL的核心思想是以保护隐私的方式，基于分散的特征场学习统一的、公平的样本表示。具体来说，每个具有公平性不敏感特征的平台首先从本地特征中学习本地数据表示。然后，这些本地表征被上传到服务器上，并聚合成目标任务的一个统一表征。为了学习一个公平的统一表征，我们将其发送到每个存储公平性敏感特征的平台，并应用对抗性学习来消除从有偏见的数据中继承的统一表征的偏见。此外，为了保护用户的隐私，我们进一步提出了一种对比性的对抗性学习方法，在将统一表示发送到保存公平性敏感特征的平台之前，从服务器中去除私人信息。'
+      keeping fairness-sensitive features. 由于在现实世界的应用中，数据可能包含对公平性敏感的特征（如性别）的偏见，VFL模型可能会从训练数据中继承偏见，并对一些用户群体变得不公平。然而，现有的公平机器学习方法通常依赖于公平性敏感特征的集中存储来实现模型的公平性，这在联盟场景中通常是不适用的。在本文中，我们提出了一个公平的垂直联邦学习框架（FairVFL），它可以提高VFL模型的公平性。FairVFL的核心思想是以保护隐私的方式，基于分散的特征场学习统一的、公平的样本表示。具体来说，每个具有公平性不敏感特征的平台首先从本地特征中学习本地数据表示。然后，这些本地表征被上传到服务器上，并聚合成目标任务的一个统一表征。为了学习一个公平的统一表征，我们将其发送到每个存储公平性敏感特征的平台，并应用对抗性学习来消除从有偏见的数据中继承的统一表征的偏见。此外，为了保护用户的隐私，我们进一步提出了一种对比性的对抗性学习方法，在将统一表示发送到保存公平性敏感特征的平台之前，从服务器中去除私人信息。'
     materials:
       PUB: https://openreview.net/forum?id=5vVSA_cdRqe
   - title: 'Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated
@@ -2890,7 +2890,7 @@ fl-in-top-ml-conference-and-journal:
       this threshold theoretically, and confirm our theoretical predictions with empirical
       results. Our treatment of variance reduction is generic, and can work with a
       large number of variance reduction techniques, which may lead to future applications
-      in the future. 我们研究了基于局部训练（LT）范式的分布式优化方法，即在允许进行（昂贵的）参数平均化之前，通过在客户端进行更丰富的基于局部梯度的训练来实现通信效率。虽然这些方法是在大约十年前首次提出的，并且形成了联合学习的算法支柱，但是在它们的实际性能和我们的理论理解之间存在着巨大的差距。回顾该领域的进展，我们确定了5代LT方法：1）启发式，2）同质式，3）亚线性，4）线性，以及5）加速式。第5代是由Mishchenko等人（2022）的ProxSkip方法发起的，其分析首次从理论上证实了LT是一种通信加速机制。受这一最新进展的启发，我们为第5代LT方法做出了贡献，表明有可能利用方差减少来进一步增强ProxSkip。虽然之前所有关于LT方法的理论结果都完全忽略了局部工作的成本，而仅仅是以通信轮数为框架，但我们构建了一种方法，在理论和实践中，当局部计算足够昂贵时，其总训练时间可以比最先进的方法ProxSkip快很多。我们从理论上描述了这个阈值，并通过经验结果证实了我们的理论预测。我们对方差减少的处理是通用的，可以与大量的方差减少技术一起工作，这可能导致未来的应用。'
+      in the future. 我们研究了基于局部训练（LT）范式的分布式优化方法，即在允许进行（昂贵的）参数平均化之前，通过在客户端进行更丰富的基于局部梯度的训练来实现通信效率。虽然这些方法是在大约十年前首次提出的，并且形成了联邦学习的算法支柱，但是在它们的实际性能和我们的理论理解之间存在着巨大的差距。回顾该领域的进展，我们确定了5代LT方法：1）启发式，2）同质式，3）亚线性，4）线性，以及5）加速式。第5代是由Mishchenko等人（2022）的ProxSkip方法发起的，其分析首次从理论上证实了LT是一种通信加速机制。受这一最新进展的启发，我们为第5代LT方法做出了贡献，表明有可能利用方差减少来进一步增强ProxSkip。虽然之前所有关于LT方法的理论结果都完全忽略了局部工作的成本，而仅仅是以通信轮数为框架，但我们构建了一种方法，在理论和实践中，当局部计算足够昂贵时，其总训练时间可以比最先进的方法ProxSkip快很多。我们从理论上描述了这个阈值，并通过经验结果证实了我们的理论预测。我们对方差减少的处理是通用的，可以与大量的方差减少技术一起工作，这可能导致未来的应用。'
     materials:
       PUB: https://openreview.net/forum?id=edkno3SvKo
   - title: 'VF-PS: How to Select Important Participants in Vertical Federated Learning,
@@ -2909,7 +2909,7 @@ fl-in-top-ml-conference-and-journal:
       INformation Estimator---that uses one of the most celebrated algorithms in database
       theory---Fagin''s algorithm as a building block. Our second contribution is
       to further optimize VF-MINE to enable VF-PS, a group testing-based participant
-      selection framework. 垂直联合学习（VFL）方法面临着两个挑战：（1）当参与者数量增长到一定规模时的可扩展性；（2）对参与者的回报递减：不是所有的参与者都同样重要，许多参与者不会在一个大型联盟中引入质量改进。受这两个挑战的启发，在本文中，我们问：我们如何从m个参与者中选择l个，其中l≪m，是最重要的。我们称这个问题为垂直联合参与者选择，并以基于相互信息的原则性观点为其建模。我们的第一个技术贡献是VF-MINE--一个垂直联合的相互信息估计器--它使用数据库理论中最著名的算法之一--Fagin的算法作为构建模块。我们的第二个贡献是进一步优化VF-MINE，以实现VF-PS，一个基于小组测试的参与者选择框架。'
+      selection framework. 垂直联邦学习（VFL）方法面临着两个挑战：（1）当参与者数量增长到一定规模时的可扩展性；（2）对参与者的回报递减：不是所有的参与者都同样重要，许多参与者不会在一个大型联盟中引入质量改进。受这两个挑战的启发，在本文中，我们问：我们如何从m个参与者中选择l个，其中l≪m，是最重要的。我们称这个问题为垂直联邦参与者选择，并以基于相互信息的原则性观点为其建模。我们的第一个技术贡献是VF-MINE--一个垂直联邦的相互信息估计器--它使用数据库理论中最著名的算法之一--Fagin的算法作为构建模块。我们的第二个贡献是进一步优化VF-MINE，以实现VF-PS，一个基于小组测试的参与者选择框架。'
     materials:
       PUB: https://openreview.net/forum?id=vNrSXIFJ9wz
   - title: 'DENSE: Data-Free One-Shot Federated Learning'
@@ -2923,7 +2923,7 @@ fl-in-top-ml-conference-and-journal:
       compared with other methods (except the model parameters) to be transferred
       between clients and the server;(2) DENSE does not require any auxiliary dataset
       for training;(3) DENSE considers model heterogeneity in FL, i.e. different clients
-      can have different model architectures. 一种新颖的两阶段无数据单次联合学习（DENSE）框架，它通过数据生成阶段和模型提炼阶段来训练全局模型。DENSE是一种实用的一次性FL方法，由于以下优点可以在现实中应用：（1）与其他方法相比，DENSE不需要在客户端和服务器之间传输额外的信息（除了模型参数）；（2）DENSE不需要任何辅助数据集进行训练；（3）DENSE考虑了FL中的模型异质性，即不同客户端可以有不同的模型架构。'
+      can have different model architectures. 一种新颖的两阶段无数据单次联邦学习（DENSE）框架，它通过数据生成阶段和模型提炼阶段来训练全局模型。DENSE是一种实用的一次性FL方法，由于以下优点可以在现实中应用：（1）与其他方法相比，DENSE不需要在客户端和服务器之间传输额外的信息（除了模型参数）；（2）DENSE不需要任何辅助数据集进行训练；（3）DENSE考虑了FL中的模型异质性，即不同客户端可以有不同的模型架构。'
     materials:
       PUB: https://openreview.net/forum?id=QFQoxCFYEkA
   - title: 'CalFAT: Calibrated Federated Adversarial Training with Label Skewness'
@@ -2935,7 +2935,7 @@ fl-in-top-ml-conference-and-journal:
       and natural accuracy degradation issues: skewed labels lead to non-identical
       class probabilities and heterogeneous local models. We then propose a Calibrated
       FAT (CalFAT) approach to tackle the instability issue by calibrating the logits
-      adaptively to balance the classes. 我们研究了标签偏斜下的FAT（联合对抗训练）问题，首先揭示了训练不稳定和自然准确率下降问题的一个根本原因：偏斜的标签导致了非相同的类概率和异质的局部模型。然后，我们提出了一种校准的FAT（CalFAT）方法，通过自适应地校准对数来平衡类，来解决不稳定问题。'
+      adaptively to balance the classes. 我们研究了标签偏斜下的FAT（联邦对抗训练）问题，首先揭示了训练不稳定和自然准确率下降问题的一个根本原因：偏斜的标签导致了非相同的类概率和异质的局部模型。然后，我们提出了一种校准的FAT（CalFAT）方法，通过自适应地校准对数来平衡类，来解决不稳定问题。'
     materials:
       PUB: https://openreview.net/forum?id=8N1NDRGQSQ
       PDF: https://arxiv.org/abs/2205.14926
@@ -2957,7 +2957,7 @@ fl-in-top-ml-conference-and-journal:
       special version of SAGDA, we immediately arrive at an O(ϵ−2) communication complexity
       result for FSGDA. Therefore, through the lens of SAGDA, we also advance the
       current understanding on communication complexity of the standard FSGDA method
-      for federated min-max learning. 近年来，由于其在各种学习范式中的广泛应用，联合最小-最大学习得到了越来越多的关注。我们提出了一个新的算法框架，称为随机抽样平均梯度下降上升法（SAGDA），它i）从随机抽样的客户端组装随机梯度估计器作为控制变量，ii）在服务器和客户端利用两个学习速率。我们表明，SAGDA在客户数量和局部更新步骤方面都实现了线性加速，这产生了O(ϵ-2)的通信复杂度，比目前的技术水平要低几个数量级。有趣的是，通过注意到标准联合随机梯度下降法（FSGDA）实际上是SAGDA的无控制变量的特殊版本，我们立即得出了FSGDA的O(ϵ-2)通信复杂度结果。因此，通过SAGDA的视角，我们也推进了目前对标准FSGDA方法的通信复杂度的理解，以实现联合的最小最大学习。'
+      for federated min-max learning. 近年来，由于其在各种学习范式中的广泛应用，联邦最小-最大学习得到了越来越多的关注。我们提出了一个新的算法框架，称为随机抽样平均梯度下降上升法（SAGDA），它i）从随机抽样的客户端组装随机梯度估计器作为控制变量，ii）在服务器和客户端利用两个学习速率。我们表明，SAGDA在客户数量和局部更新步骤方面都实现了线性加速，这产生了O(ϵ-2)的通信复杂度，比目前的技术水平要低几个数量级。有趣的是，通过注意到标准联邦随机梯度下降法（FSGDA）实际上是SAGDA的无控制变量的特殊版本，我们立即得出了FSGDA的O(ϵ-2)通信复杂度结果。因此，通过SAGDA的视角，我们也推进了目前对标准FSGDA方法的通信复杂度的理解，以实现联邦的最小最大学习。'
     materials:
       PUB: https://openreview.net/forum?id=wTp4KgVIJ5
   - title: Taming Fat-Tailed (“Heavier-Tailed” with Potentially Infinite Variance)
@@ -2976,7 +2976,7 @@ fl-in-top-ml-conference-and-journal:
       fat-tailed noise. This motivates us to fill this gap in this paper by proposing
       an algorithmic framework called FAT-Clipping  (federated averaging with two-sided
       learning rates and clipping), which contains two variants: FAT-Clipping  per-round
-      (FAT-Clipping-PR) and FAT-Clipping  per-iteration (FAT-Clipping-PI). 在大多数现有的关于FL算法收敛性分析的工作中，一个关键的假设是随机一阶信息中的噪声具有有限的方差。尽管这一假设涵盖了所有轻尾（即亚指数）和一些重尾噪声分布（如对数正态分布、Weibull分布和一些Pareto分布），但对于FL文献中实证观察到的许多肥尾噪声分布（即可能具有无限方差的重尾''''）来说，它是失败的。到目前为止，我们还不清楚是否可以为经历肥尾噪声的FL系统设计收敛算法。这促使我们在本文中提出了一个名为FAT-Clipping（具有双面学习率和剪切的联合平均法）的算法框架来填补这一空白，该框架包含两个变体。FAT-Clipping
+      (FAT-Clipping-PR) and FAT-Clipping  per-iteration (FAT-Clipping-PI). 在大多数现有的关于FL算法收敛性分析的工作中，一个关键的假设是随机一阶信息中的噪声具有有限的方差。尽管这一假设涵盖了所有轻尾（即亚指数）和一些重尾噪声分布（如对数正态分布、Weibull分布和一些Pareto分布），但对于FL文献中实证观察到的许多肥尾噪声分布（即可能具有无限方差的重尾''''）来说，它是失败的。到目前为止，我们还不清楚是否可以为经历肥尾噪声的FL系统设计收敛算法。这促使我们在本文中提出了一个名为FAT-Clipping（具有双面学习率和剪切的联邦平均法）的算法框架来填补这一空白，该框架包含两个变体。FAT-Clipping
       per-round（FAT-Clipping-PR）和FAT-Clipping per-iteration（FAT-Clipping-PI）。'
     materials:
       PUB: https://openreview.net/forum?id=8SilFGuXgmk
@@ -3007,7 +3007,7 @@ fl-in-top-ml-conference-and-journal:
       aggregation of submodel updates. We prove that due to the dispersion of feature
       heat, the global objective is ill-conditioned, and FedSubAvg works as a suitable
       diagonal preconditioner. We also rigorously analyze FedSubAvg’s convergence
-      rate to stationary points. 我们从特征热的新角度来研究联合学习，不同的数据特征通常涉及不同数量的客户端，产生了冷热特征的区分。同时，每个客户的本地数据往往与部分特征交互，只更新完整模型中与特征相关的部分，称为子模型。我们进一步确定，经典的联合平均算法（FedAvg）或其变体，即随机选择客户参与并统一平均他们的子模型更新，将被严重减慢，因为全局模型的不同参数是以不同的速度优化。更具体地说，与热（或冷）特征相关的模型参数将被快速（或缓慢）更新。因此，我们提出了联合子模型平均法（FedSubAvg），它引入了与特征相关的客户数量作为特征热度的度量，以修正子模型更新的聚合。我们证明，由于特征热度的分散，全局目标是无条件的，而FedSubAvg作为一个合适的对角线先决条件发挥作用。我们还严格分析了FedSubAvg对静止点的收敛率。'
+      rate to stationary points. 我们从特征热的新角度来研究联邦学习，不同的数据特征通常涉及不同数量的客户端，产生了冷热特征的区分。同时，每个客户的本地数据往往与部分特征交互，只更新完整模型中与特征相关的部分，称为子模型。我们进一步确定，经典的联邦平均算法（FedAvg）或其变体，即随机选择客户参与并统一平均他们的子模型更新，将被严重减慢，因为全局模型的不同参数是以不同的速度优化。更具体地说，与热（或冷）特征相关的模型参数将被快速（或缓慢）更新。因此，我们提出了联邦子模型平均法（FedSubAvg），它引入了与特征相关的客户数量作为特征热度的度量，以修正子模型更新的聚合。我们证明，由于特征热度的分散，全局目标是无条件的，而FedSubAvg作为一个合适的对角线先决条件发挥作用。我们还严格分析了FedSubAvg对静止点的收敛率。'
     materials:
       PUB: https://openreview.net/forum?id=sj9l1JCrAk6
   - title: 'BooNTK: Convexifying Federated Learning using Bootstrapped Neural Tangent
@@ -3025,7 +3025,7 @@ fl-in-top-ml-conference-and-journal:
       this observation, we propose a Train-Convexify-Train (TCT) procedure to sidestep
       this issue: first, learn features using off-the-shelf methods (e.g., FedAvg);
       then, optimize a convexified problem obtained from the network''s empirical
-      neural tangent kernel approximation. 当客户具有不同的数据分布时，最先进的联合学习方法的表现会比集中式的对应方法差很多。我们表明，这种性能差异主要归因于非凸性带来的优化挑战。具体来说，我们发现网络的早期层确实学到了有用的特征，但最后一层却无法利用它们。也就是说，应用于这个非凸问题的联合优化扭曲了最终层的学习。利用这一观察，我们提出了一个Train-Convexify-Train（TCT）程序来回避这一问题：首先，使用现成的方法（如FedAvg）学习特征；然后，优化一个从网络的经验神经切线核近似中得到的凸化问题。'
+      neural tangent kernel approximation. 当客户具有不同的数据分布时，最先进的联邦学习方法的表现会比集中式的对应方法差很多。我们表明，这种性能差异主要归因于非凸性带来的优化挑战。具体来说，我们发现网络的早期层确实学到了有用的特征，但最后一层却无法利用它们。也就是说，应用于这个非凸问题的联邦优化扭曲了最终层的学习。利用这一观察，我们提出了一个Train-Convexify-Train（TCT）程序来回避这一问题：首先，使用现成的方法（如FedAvg）学习特征；然后，优化一个从网络的经验神经切线核近似中得到的凸化问题。'
     materials:
       PUB: https://openreview.net/forum?id=jzd2bE5MxW
       PDF: https://arxiv.org/abs/2207.06343
@@ -3083,7 +3083,7 @@ fl-in-top-ml-conference-and-journal:
       training. Despite its simplicity, we demonstrate that FILM can work well with
       several large-scale datasets---it can extract single sentences with high fidelity
       even for large batch sizes and recover multiple sentences from the batch successfully
-      if the attack is applied iteratively. 一种新颖的针对语言模型联合学习的攻击方法FILM (针对语言模型的联合反演攻击)
+      if the attack is applied iteratively. 一种新颖的针对语言模型联邦学习的攻击方法FILM (针对语言模型的联邦反演攻击)
       - -首次展示了从多达128个句子的大批量文本中恢复文本的可行性。与为匹配梯度而优化的图像恢复方法不同，我们采取了一种独特的方法，首先从梯度中识别一组单词，然后根据光束搜索和基于先验的重新排序策略直接重建句子。我们攻击的关键见解是在预训练的语言模型中利用先验知识，或者在训练过程中进行记忆。尽管FILM简单，但我们证明了它可以在几个大规模数据集上很好地工作-
       -即使对于大批量的数据集，它也可以高保真地提取单个句子，如果迭代地应用攻击，它可以成功地从批处理中恢复多个句子。'
     materials:
@@ -3105,7 +3105,7 @@ fl-in-top-ml-conference-and-journal:
       a prototype-wise contrastive manner. Sharing prototypes rather than learnable
       model parameters allows each client to fuse the representations in a personalized
       way while keeping the shared knowledge in a compact form for efficient communication.
-      一个轻量级的框架，客户共同学习融合多个固定的预训练模型所产生的表征，而不是从头开始训练一个大规模的模型。这将我们引向一个更实际的FL问题，即考虑如何从预训练的模型中获取更多特定于客户和与类相关的信息，并共同提高每个客户利用这些现成的模型的能力。在这里，我们设计了一个联合原型对比学习（FedPCL）的方法，通过客户的类别原型在客户之间分享知识，并以原型对比的方式建立客户的特定表征。分享原型而不是可学习的模型参数允许每个客户以个性化的方式融合表征，同时将共享的知识保持在一个紧凑的形式，以便有效沟通。'
+      一个轻量级的框架，客户共同学习融合多个固定的预训练模型所产生的表征，而不是从头开始训练一个大规模的模型。这将我们引向一个更实际的FL问题，即考虑如何从预训练的模型中获取更多特定于客户和与类相关的信息，并共同提高每个客户利用这些现成的模型的能力。在这里，我们设计了一个联邦原型对比学习（FedPCL）的方法，通过客户的类别原型在客户之间分享知识，并以原型对比的方式建立客户的特定表征。分享原型而不是可学习的模型参数允许每个客户以个性化的方式融合表征，同时将共享的知识保持在一个紧凑的形式，以便有效沟通。'
     materials:
       PUB: https://openreview.net/forum?id=mhQLcMjWw75
   - title: Global Convergence of Federated Learning for Mixed Regression
@@ -3172,7 +3172,7 @@ fl-in-top-ml-conference-and-journal:
       converges linearly with a constant stepsize to global ϵ-approximation solution
       with O(log(1/ϵ)) rounds of communication, which matches the time complexity
       of centralized GDA method. Finally, we numerically show that FedGDA-GT outperforms
-      Local SGDA. 在本文中，我们研究了一个大规模的多代理最小优化问题，它模拟了统计学习和博弈论中许多有趣的应用，包括生成对抗网络（GANs）。总体目标是代理人的私有局部目标函数的总和。我们首先分析了一个重要的特例，即经验最小值问题，其中总体目标是通过统计样本逼近真实的群体最小值风险。我们通过Rademacher复杂度分析，为这个目标的学习提供泛化界线。然后，我们专注于联盟环境，其中代理可以执行本地计算并与中央服务器通信。大多数现有的联合最小化算法要么需要每次迭代都进行通信，要么缺乏性能保证，但本地随机梯度上升算法（SGDA）除外，它是一种多本地更新的下降上升算法，保证在步长减小的情况下收敛。通过在没有梯度噪声的理想条件下分析Local
+      Local SGDA. 在本文中，我们研究了一个大规模的多代理最小优化问题，它模拟了统计学习和博弈论中许多有趣的应用，包括生成对抗网络（GANs）。总体目标是代理人的私有局部目标函数的总和。我们首先分析了一个重要的特例，即经验最小值问题，其中总体目标是通过统计样本逼近真实的群体最小值风险。我们通过Rademacher复杂度分析，为这个目标的学习提供泛化界线。然后，我们专注于联盟环境，其中代理可以执行本地计算并与中央服务器通信。大多数现有的联邦最小化算法要么需要每次迭代都进行通信，要么缺乏性能保证，但本地随机梯度上升算法（SGDA）除外，它是一种多本地更新的下降上升算法，保证在步长减小的情况下收敛。通过在没有梯度噪声的理想条件下分析Local
       SGDA，我们发现一般来说它不能保证在恒定的步长下准确收敛，因此存在收敛速度慢的问题。为了解决这个问题，我们提出了FedGDA-GT，一种基于梯度跟踪（GT）的改进的联邦（Fed）梯度下降上升（GDA）方法。当局部目标是Lipschitz平滑和强凸-强凹时，我们证明FedGDA-GT以恒定的步长线性收敛到全局的ϵ近似解，只需O(log(1/ϵ))
       轮通信，这与集中式GDA方法的时间复杂度相符。最后，我们用数字表明，FedGDA-GT优于Local SGDA。'
     materials:
@@ -3280,7 +3280,7 @@ fl-in-top-ml-conference-and-journal:
       labels and tasks and the other captures knowledge specific to the task for each
       local model. Moreover, based on the distance in the client-specific vector space,
       Factorized-FL performs selective aggregation scheme to utilize only the knowledge
-      from the relevant participants for each client. 在现实世界的联合学习场景中，由于使用不同的标签组合或处理完全不同的任务或领域，参与者可能有自己的个性化标签，而这些标签与其他客户的标签不兼容。然而，大多数现有的FL方法不能有效地处理这种极端异质的场景，因为它们通常假设（1）所有参与者使用同步的标签集，以及（2）他们在同一领域的相同任务上训练。在这项工作中，为了应对这些挑战，我们引入了Factorized-FL，它可以通过将模型参数分解为一对等级1的向量来有效地解决标签和任务异质的联合学习环境，其中一个捕捉不同标签和任务的共同知识，另一个捕捉每个本地模型的特定任务知识。此外，根据客户特定向量空间中的距离，Factorized-FL执行选择性聚合方案，只利用每个客户的相关参与者的知识。'
+      from the relevant participants for each client. 在现实世界的联邦学习场景中，由于使用不同的标签组合或处理完全不同的任务或领域，参与者可能有自己的个性化标签，而这些标签与其他客户的标签不兼容。然而，大多数现有的FL方法不能有效地处理这种极端异质的场景，因为它们通常假设（1）所有参与者使用同步的标签集，以及（2）他们在同一领域的相同任务上训练。在这项工作中，为了应对这些挑战，我们引入了Factorized-FL，它可以通过将模型参数分解为一对等级1的向量来有效地解决标签和任务异质的联邦学习环境，其中一个捕捉不同标签和任务的共同知识，另一个捕捉每个本地模型的特定任务知识。此外，根据客户特定向量空间中的距离，Factorized-FL执行选择性聚合方案，只利用每个客户的相关参与者的知识。'
     materials:
       PUB: https://openreview.net/forum?id=Ql75oqz1npy
       PDF: https://arxiv.org/abs/2202.00270
@@ -6156,8 +6156,8 @@ fl-in-top-db-conference-and-journal:
       cumulative reward, computation time, and security guarantees. We demonstrate
       Samba with two real-world datasets: Google Local Reviews and Steam Video Game.
       联邦学习允许多个数据所有者为机器学习任务做出贡献，而不会暴露他们潜在的敏感数据。我们专注于多臂老虎机（MAB）中的累积奖励最大化，这是一种用于在不确定性下进行决策的经典强化学习模型。我们演示了
-      Samba，这是一个用于安全联合多臂强盗的通用框架。该演示平台是一个模拟 Samba 分布式组件的 Web 界面，可帮助数据科学家配置部署联合 MAB
-      算法的端到端工作流程。 Samba 的用户友好界面允许用户检查联合 MAB 的三个关键维度之间的交互：累积奖励、计算时间和安全保证。我们使用两个真实数据集演示
+      Samba，这是一个用于安全联邦多臂强盗的通用框架。该演示平台是一个模拟 Samba 分布式组件的 Web 界面，可帮助数据科学家配置部署联邦 MAB
+      算法的端到端工作流程。 Samba 的用户友好界面允许用户检查联邦 MAB 的三个关键维度之间的交互：累积奖励、计算时间和安全保证。我们使用两个真实数据集演示
       Samba：Google 本地评论和 Steam 视频游戏。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9835585
@@ -6260,7 +6260,7 @@ fl-in-top-db-conference-and-journal:
       and shows how they can be applied to solve a variety of distributed computations
       providing statistics and insights to distributed data. It also discusses the
       issues that arise when implementing systems to support federated computation,
-      and open problems for future research. 联邦计算是一个新兴的领域，它试图为用户数据提供更强的隐私，通过执行大规模的分布式计算，数据仍然在用户手中。只有必要的摘要信息被共享，并且可以采用额外的安全和隐私工具来提供强大的保密保证。联邦计算最突出的应用是训练机器学习模型（联邦学习），但许多其他的应用正在出现，更广泛地与数据管理和数据查询有关。本教程概述了联邦计算的模型和算法。它包括对安全和隐私技术和保证的介绍，并展示了如何应用它们来解决各种分布式计算，为分布式数据提供统计和洞察力。它还讨论了在实现支持联合计算的系统时出现的问题，以及未来研究的开放问题。'
+      and open problems for future research. 联邦计算是一个新兴的领域，它试图为用户数据提供更强的隐私，通过执行大规模的分布式计算，数据仍然在用户手中。只有必要的摘要信息被共享，并且可以采用额外的安全和隐私工具来提供强大的保密保证。联邦计算最突出的应用是训练机器学习模型（联邦学习），但许多其他的应用正在出现，更广泛地与数据管理和数据查询有关。本教程概述了联邦计算的模型和算法。它包括对安全和隐私技术和保证的介绍，并展示了如何应用它们来解决各种分布式计算，为分布式数据提供统计和洞察力。它还讨论了在实现支持联邦计算的系统时出现的问题，以及未来研究的开放问题。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3514221.3522561
   - title: 'BlindFL: Vertical Federated Machine Learning without Peeking into Your
@@ -6287,7 +6287,7 @@ fl-in-top-db-conference-and-journal:
       further prove the security guarantees under the ideal-real simulation paradigm.
       Extensive experiments show that BlindFL supports diverse datasets and models
       efficiently whilst achieves robust privacy guarantees. 垂直联邦学习 (VFL) 描述了这样一种情况，其中
-      ML 模型建立在不同参与方的私有数据之上，这些参与方对同一组实例拥有不相交的特征，这适合许多现实世界的协作任务。尽管如此，我们发现现有的 VFL 解决方案要么支持有限种类的输入特征，要么在联合执行期间遭受潜在的数据泄漏。为此，本文旨在研究
+      ML 模型建立在不同参与方的私有数据之上，这些参与方对同一组实例拥有不相交的特征，这适合许多现实世界的协作任务。尽管如此，我们发现现有的 VFL 解决方案要么支持有限种类的输入特征，要么在联邦执行期间遭受潜在的数据泄漏。为此，本文旨在研究
       VFL 场景中 ML 模式的功能和安全性。具体来说，我们介绍了 BlindFL，这是一种用于 VFL 训练和推理的新框架。首先，为了解决 VFL 模型的功能，我们提出了federated
       source layers来统一来自不同方的数据。federated source layers可以有效地支持各种特征，包括密集、稀疏、数值和分类特征。其次，我们仔细分析了联邦学习执行期间的安全性，并正式确定了隐私要求。在分析的基础上，我们设计了安全准确的算法协议，进一步证明了理想-现实仿真范式下的安全保证。大量实验表明，BlindFL
       有效地支持各种数据集和模型，同时实现了强大的隐私保证。'
@@ -6392,7 +6392,7 @@ fl-in-top-db-conference-and-journal:
       to protect the communication between user devices and the server with a strength
       similar to the local differential privacy model, but much better accuracy. We
       perform experiments to demonstrate the effectiveness of our approaches. 本文全面研究了不同联邦学习（FL）设置中的矩阵分解问题，其中一组方希望在训练中进行合作，但拒绝直接共享数据。我们首先为federated
-      matrix factorization (FMF) 的各种设置提出了一个通用算法框架，并提供了理论上的收敛保证。然后，我们系统地描述了三种不同设置的数据收集、训练和发布阶段的隐私泄露风险，并引入了隐私概念以提供端到端的隐私保护。第一个是垂直联合学习（VFL），其中多方具有来自同一组用户但不相交的项目集的评分。第二个是横向联合学习（HFL），各方对同一组项目的不同用户集进行评分。第三个设置是本地联合学习
+      matrix factorization (FMF) 的各种设置提出了一个通用算法框架，并提供了理论上的收敛保证。然后，我们系统地描述了三种不同设置的数据收集、训练和发布阶段的隐私泄露风险，并引入了隐私概念以提供端到端的隐私保护。第一个是垂直联邦学习（VFL），其中多方具有来自同一组用户但不相交的项目集的评分。第二个是横向联邦学习（HFL），各方对同一组项目的不同用户集进行评分。第三个设置是本地联邦学习
       (LFL)，其中用户的评分仅存储在他们的本地设备上。我们引入了 FMF 的改编版本，并在三种设置中保证了隐私概念。特别是，在所有三种设置中引入并使用了一种称为嵌入裁剪的新私有学习技术，以确保差异隐私。对于
       LFL 设置，我们将差分隐私与安全聚合相结合，以保护用户设备与服务器之间的通信，其强度类似于本地差分隐私模型，但精度要高得多。我们进行实验来证明我们的方法的有效性。'
     materials:
@@ -6416,7 +6416,7 @@ fl-in-top-db-conference-and-journal:
       allows "private" clients to upload projected model updates instead of original
       ones. Our experiments verify the utility boost of both algorithms compared to
       the baseline methods, whereby PFA+ achieves over 99% uplink communication reduction
-      for "private" clients. 在实践中，由于不同的政策或偏好，不同的客户可能有不同的隐私要求。在本文中，我们专注于显式建模和利用不同客户端的异构隐私需求，并研究如何在最小化通信成本的同时优化联合模型的效用。由于不同的私人扰动会影响模型效用，一个自然的想法是更好地利用具有较高隐私预算的客户（称为“公共”客户，反之称为“私人”客户）提交的信息。挑战在于如何在不影响联合模型的情况下使用这些信息。我们提出Projected
+      for "private" clients. 在实践中，由于不同的政策或偏好，不同的客户可能有不同的隐私要求。在本文中，我们专注于显式建模和利用不同客户端的异构隐私需求，并研究如何在最小化通信成本的同时优化联邦模型的效用。由于不同的私人扰动会影响模型效用，一个自然的想法是更好地利用具有较高隐私预算的客户（称为“公共”客户，反之称为“私人”客户）提交的信息。挑战在于如何在不影响联邦模型的情况下使用这些信息。我们提出Projected
       Federated Averaging (PFA)，它提取“公共”客户端提交的模型更新的顶部奇异子空间，并在聚合它们之前，利用它们来预测“私人”客户端的模型更新。然后，我们提出了高效的通信
       PFA+，它允许“私人”客户端上传预计的模型更新而不是原始模型更新。我们的实验验证了这两种算法与基线方法相比的效用提升，其中 PFA+ 为“私人”客户端实现了超过
       99% 的上行链路通信减少。'
@@ -6450,7 +6450,7 @@ fl-in-top-db-conference-and-journal:
       using several real-world datasets and a case study. The experimental results
       are consistent with our theoretical analysis and validate the effectiveness
       of Frog in practice. 当模型表现异常时（例如，模型拒绝所有高收入客户的贷款申请），我们如何在联邦学习环境中调试逻辑回归模型？事实证明，基于
-      SQL 的训练数据调试框架可以有效地解决非联邦学习环境中的此类问题。给定模型预测的意外查询结果，该框架会自动从训练数据中删除标签错误，从而使重新训练的模型中的意外行为消失。在本文中，我们为联邦学习启用了这个强大的框架。关键的挑战是如何为联合调试开发一种被证明是安全、高效和准确的安全协议。实现这一目标需要我们研究如何无缝集成来自多个领域（数据库、机器学习和网络安全）的技术。我们首先提出
+      SQL 的训练数据调试框架可以有效地解决非联邦学习环境中的此类问题。给定模型预测的意外查询结果，该框架会自动从训练数据中删除标签错误，从而使重新训练的模型中的意外行为消失。在本文中，我们为联邦学习启用了这个强大的框架。关键的挑战是如何为联邦调试开发一种被证明是安全、高效和准确的安全协议。实现这一目标需要我们研究如何无缝集成来自多个领域（数据库、机器学习和网络安全）的技术。我们首先提出
       FedRain，它将最先进的基于 SQL 的训练数据调试框架 Rain 扩展到我们的联邦学习设置。我们解决了几个技术挑战以使 FedRain 工作并分析其安全保证和时间复杂度。分析结果表明，FedRain
       在效率和安全性方面都存在不足。为了克服这些限制，我们重新设计了我们的安全协议并提出了 Frog，这是一种为联邦学习量身定制的基于 SQL 的新型训练数据调试框架。我们的理论分析表明，Frog
       比 FedRain 更安全、更准确、更高效。我们使用几个真实世界的数据集和一个案例研究进行了广泛的实验。实验结果与我们的理论分析一致，在实践中验证了 Frog
@@ -6486,7 +6486,7 @@ fl-in-top-db-conference-and-journal:
       the main features of Refiner by training a digit classification model on the
       MNIST dataset.从分散数据中学习模型的技术必须正确处理此类数据的两种性质，即隐私和大规模参与。联邦学习 (FL) 是此类学习任务的一种很有前途的方法，因为该技术从数据中学习模型而不暴露隐私。然而，传统的
       FL 方法假设参与的移动设备是诚实的志愿者。这一假设使得传统的 FL 方法不适用于有两种参与者参与的应用程序：1）自利的参与者，在没有经济刺激的情况下，不愿意无条件地贡献他们的计算资源，以及
-      2）发送损坏更新以破坏网络的恶意参与者学习过程。本文提出了 Refiner，这是一种可靠的联合学习系统，用于应对自利和恶意参与者的大规模参与所带来的挑战。
+      2）发送损坏更新以破坏网络的恶意参与者学习过程。本文提出了 Refiner，这是一种可靠的联邦学习系统，用于应对自利和恶意参与者的大规模参与所带来的挑战。
       Refiner 建立在公共区块链平台以太坊之上。为了吸引自利的参与者，我们引入了一种激励机制，根据每个参与者的训练数据量和本地更新的性能来奖励每个参与者。为了处理恶意参与者，我们提出了一个审计方案，该方案使用一个随机选择的验证者委员会来惩罚他们而没有奖励，并从全局模型中排除损坏的更新。提议的激励和审计计划是通过以太坊提供的两种原语加密货币和智能合约来实施的。本文通过在
       MNIST 数据集上训练一个数字分类模型来展示 Refiner 的主要功能。'
     materials:
@@ -6558,9 +6558,9 @@ fl-in-top-db-conference-and-journal:
       enterprise federated ML and related data pre-processing challenges. In this
       context, federated ML has the potential to create a more fine-grained spectrum
       of data ownership and thus, even new markets.数据科学工作流在很大程度上是探索性的，处理未指定的目标、开放式问题和未知的商业价值。因此，在数据的系统采集、集成和预处理方面投入很少。这种基础设施的缺乏导致了多余的人工和计算。此外，中央数据整合在技术上或经济上并不总是可取的，甚至不可行（例如，由于隐私和/或数据所有权）。
-      ExDRa 系统旨在为联邦和异构原始数据源的探索性数据科学过程提供系统基础设施。技术重点领域包括 (1) 原始数据的临时和联合数据集成，(2) 数据组织和中间体的重用，以及
-      (3) 在了解部分可访问数据的情况下优化数据科学生命周期。在本文中，我们描述了用例、整体系统架构、SystemDS 新的联合后端的选定特性（用于联合线性代数程序、联合参数服务器和联合数据准备），以及有希望的初步结果。除了现有的联合学习工作之外，ExDRa
-      还专注于企业联合 ML 和相关的数据预处理挑战。在这种情况下，联合 ML 有可能创造更细粒度的数据所有权范围，从而创造新的市场。'
+      ExDRa 系统旨在为联邦和异构原始数据源的探索性数据科学过程提供系统基础设施。技术重点领域包括 (1) 原始数据的临时和联邦数据集成，(2) 数据组织和中间体的重用，以及
+      (3) 在了解部分可访问数据的情况下优化数据科学生命周期。在本文中，我们描述了用例、整体系统架构、SystemDS 新的联邦后端的选定特性（用于联邦线性代数程序、联邦参数服务器和联邦数据准备），以及有希望的初步结果。除了现有的联邦学习工作之外，ExDRa
+      还专注于企业联邦 ML 和相关的数据预处理挑战。在这种情况下，联邦 ML 有可能创造更细粒度的数据所有权范围，从而创造新的市场。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3448016.3457549
   - title: Joint blockchain and federated learning-based offloading in harsh edge
@@ -6620,6 +6620,24 @@ fl-in-top-network-conference-and-journal:
     tldr: 41
     materials: 60
   body:
+  - title: 'PyramidFL: Fine-grained Data and System Heterogeneity-aware Client Selection
+      for Efficient Federated Learning'
+    affiliation: MSU
+    venue: MobiCom
+    year: '2022'
+    tldr: 'PyramidFL: PyramidFL to speed up the FL training while achieving a higher
+      final model performance (i.e., time-to-accuracy). The core of PyramidFL is a
+      fine-grained client selection, in which PyramidFL does not only focus on the
+      divergence of those selected participants and non-selected ones for client selection
+      but also fully exploits the data and system heterogeneity within selected clients
+      to profile their utility more efficiently. Specifically, PyramidFL first determines
+      the utility-based client selection from the global (i.e., server) view and then
+      optimizes its utility profiling locally (i.e., client) for further client selection.
+      In this way, we can prioritize the use of those clients with higher statistical
+      and system utility consistently. PyramidFL加快了FL训练的速度，同时获得了更高的最终模型性能（即时间-准确度）。PyramidFL的核心是细粒度的客户端选择，在客户端选择中，PyramidFL不仅关注那些被选中的参与者和未被选中的参与者之间的分歧，而且还充分利用被选中的客户端内的数据和系统异质性来更有效地剖析其效用。具体来说，PyramidFL首先从全局（即服务器）角度确定基于效用的客户端选择，然后在本地（即客户端）优化其效用剖析，以进一步选择客户端。通过这种方式，我们可以优先使用那些具有更高的统计和系统效用的客户端，并保持一致。'
+    materials:
+      PDF: https://www.egr.msu.edu/~mizhang/papers/2022_MobiCom_PyramidFL.pdf
+      CODE: https://github.com/liecn/PyramidFL
   - title: Joint Superposition Coding and Training for Federated Learning over Multi-Width
       Neural Networks
     affiliation: Korea University
@@ -6645,7 +6663,7 @@ fl-in-top-network-conference-and-journal:
       \ and poor channel conditions, which is also corroborated by simulations. 本文旨在整合两种协同技术，即联邦学习\
       \ (FL) 和宽度可调的可精简神经网络 (SNN) 架构。联邦学习通过交换本地训练的移动设备模型来保护数据隐私。通过采用 SNN 作为local模型，FL\
       \ 可以灵活地应对移动设备随时间变化的能量容量。然而，结合 FL 和 SNN 并非易事，尤其是在具有时变信道条件的无线连接下。此外，现有的多宽度 SNN\
-      \ 训练算法对跨设备的数据分布敏感，因此不适合 FL。受此启发，我们提出了一种基于 SNN 的通信和节能的 FL（命名为 SlimFL），它联合利用叠加编码（SC）进行全局模型聚合和叠加训练（ST）来更新局部模型。通过应用\
+      \ 训练算法对跨设备的数据分布敏感，因此不适合 FL。受此启发，我们提出了一种基于 SNN 的通信和节能的 FL（命名为 SlimFL），它联邦利用叠加编码（SC）进行全局模型聚合和叠加训练（ST）来更新局部模型。通过应用\
       \ SC，SlimFL 交换多个宽度配置的叠加，这些配置为给定的通信吞吐量尽可能多地解码。利用 ST，SlimFL 对齐不同宽度配置的前向传播，同时避免反向传播期间的宽度间干扰。我们正式证明了\
       \ SlimFL 的收敛性。结果表明，SlimFL 不仅具有通信效率，而且可以抵消非 IID 数据分布和恶劣的信道条件，这也得到了仿真的证实。我们正式证明了\
       \ SlimFL 的收敛性。结果表明，SlimFL 不仅具有通信效率，而且可以抵消非 IID 数据分布和恶劣的信道条件，这也得到了仿真的证实。我们正式证明了\
@@ -6720,7 +6738,7 @@ fl-in-top-network-conference-and-journal:
       data locally. Our formal convergence and complexity analysis demonstrate that
       our design can preserve model utility with high efficiency. Extensive evaluations
       on four real-world datasets illustrate the effectiveness and performance of
-      our proposed realization. 在机器学习中，遗忘权的出现催生了一种称为机器遗忘的范式，它使数据持有者能够主动地从经过训练的模型中删除数据。现有的机器学习技术侧重于集中训练，服务器必须访问所有持有者的训练数据才能进行学习过程。在无法完全访问所有训练数据的情况下，如何实现忘却学习在很大程度上仍然没有得到充分探讨。一个值得注意的例子是联邦学习（FL），其中每个参与数据持有者在本地进行训练，而不将其训练数据共享给中央服务器。本文研究了FL系统中的机器学习问题。我们从FL中的学习问题的正式定义开始，并提出了一种快速再训练方法，从训练的FL模型中完全擦除数据样本。由此产生的设计允许数据持有者联合有效地进行学习过程，同时将他们的培训数据保存在本地。我们的形式收敛性和复杂性分析表明，我们的设计可以高效地保持模型效用。对四个真实数据集的广泛评估说明了我们提出的实现的有效性和性能。'
+      our proposed realization. 在机器学习中，遗忘权的出现催生了一种称为机器遗忘的范式，它使数据持有者能够主动地从经过训练的模型中删除数据。现有的机器学习技术侧重于集中训练，服务器必须访问所有持有者的训练数据才能进行学习过程。在无法完全访问所有训练数据的情况下，如何实现忘却学习在很大程度上仍然没有得到充分探讨。一个值得注意的例子是联邦学习（FL），其中每个参与数据持有者在本地进行训练，而不将其训练数据共享给中央服务器。本文研究了FL系统中的机器学习问题。我们从FL中的学习问题的正式定义开始，并提出了一种快速再训练方法，从训练的FL模型中完全擦除数据样本。由此产生的设计允许数据持有者联邦有效地进行学习过程，同时将他们的培训数据保存在本地。我们的形式收敛性和复杂性分析表明，我们的设计可以高效地保持模型效用。对四个真实数据集的广泛评估说明了我们提出的实现的有效性和性能。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796721
       PDF: https://arxiv.org/abs/2203.07320
