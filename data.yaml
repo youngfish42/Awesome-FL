@@ -947,6 +947,21 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
+  - title: Federated Graph-based Networks with Shared Embedding
+    affiliation: BUCEA
+    venue: preprint
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2210.01803
+  - title: Privacy-preserving Decentralized Federated Learning over Time-varying Communication
+      Graph
+    affiliation: Lancaster University
+    venue: preprint
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2210.00325
   - title: Heterogeneous Federated Learning on a Graph.
     affiliation: ''
     venue: preprint
@@ -1193,6 +1208,14 @@ fl-on-tabular-data:
     tldr: 27
     materials: 60
   body:
+  - title: Federated Boosted Decision Trees with Differential Privacy
+    affiliation: University of Warwick
+    venue: CCS
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2210.02910
+      CODE: https://github.com/Samuel-Maddock/federated-boosted-dp-trees
   - title: Federated Functional Gradient Boosting
     affiliation: University of Pennsylvania
     venue: 'AISTATS :mortar_board:'
@@ -1545,6 +1568,42 @@ fl-on-tabular-data:
       can be computed which some/several federated learning algorithms utilize. 深度神经决策森林（DNDF），将分治策略与属性表示学习结合起来。通过对森林预测节点的概率分布进行参数化，并将森林中的所有树木纳入损失函数中，可以计算出整个森林的梯度，一些/一些联邦学习算法利用了这一梯度。'
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58
+  - title: Data Leakage in Tabular Federated Learning
+    affiliation: ETH Zurich
+    venue: preprint
+    year: '2022'
+    tldr: 'TabLeak: Most high-stakes applications of FL (e.g., legal and financial)
+      use tabular data. Compared to the NLP and image domains, reconstruction of tabular
+      data poses several unique challenges: (i) categorical features introduce a significantly
+      more difficult mixed discrete-continuous optimization problem, (ii) the mix
+      of categorical and continuous features causes high variance in the final reconstructions,
+      and (iii) structured data makes it difficult for the adversary to judge reconstruction
+      quality. In this work, we tackle these challenges and propose the first comprehensive
+      reconstruction attack on tabular data, called TabLeak. TabLeak is based on three
+      key ingredients: (i) a softmax structural prior, implicitly converting the mixed
+      discrete-continuous optimization problem into an easier fully continuous one,
+      (ii) a way to reduce the variance of our reconstructions through a pooled ensembling
+      scheme exploiting the structure of tabular data, and (iii) an entropy measure
+      which can successfully assess reconstruction quality. 大多数高风险的FL应用（例如，法律和金融）都使用表格数据。与NLP和图像领域相比，表格数据的重建带来了几个独特的挑战：（i）分类特征引入了一个明显更困难的混合离散-连续优化问题，（ii）分类和连续特征的混合导致最终重建的高差异，以及（iii）结构化数据使得对手很难判断重建质量。在这项工作中，我们解决了这些挑战，并提出了第一个针对表格数据的全面重建攻击，称为TabLeak。TabLeak是基于三个关键因素。(i)
+      一个softmax结构先验，隐含地将混合的离散-连续优化问题转换为一个更容易的完全连续问题，(ii) 一个通过利用表格数据结构的集合方案来减少我们重建的方差的方法，以及(iii)
+      一个可以成功评估重建质量的熵测量。'
+    materials:
+      PDF: https://arxiv.org/abs/2210.01785
+  - title: 'OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving
+      Desensitization'
+    affiliation: ZJU
+    venue: preprint
+    year: '2022'
+    tldr: 'OpBoost: OpBoost. Three order-preserving desensitization algorithms satisfying
+      a variant of LDP called distance-based LDP (dLDP) are designed to desensitize
+      the training data. In particular, we optimize the dLDP definition and study
+      efficient sampling distributions to further improve the accuracy and efficiency
+      of the proposed algorithms. The proposed algorithms provide a trade-off between
+      the privacy of pairs with large distance and the utility of desensitized values.
+      OpBoost。设计了三种满足LDP变体的保序脱敏算法，称为基于距离的LDP（dLDP），以使训练数据脱敏。特别是，我们优化了dLDP的定义，并研究了有效的采样分布，以进一步提高拟议算法的准确性和效率。所提出的算法在大距离的配对隐私和脱敏值的效用之间进行了权衡。'
+    materials:
+      PDF: https://arxiv.org/abs/2210.01318
+      CODE: https://github.com/alibaba-edu/mpc4j/tree/main/mpc4j-sml-opboost
   - title: Boost Decentralized Federated Learning in Vehicular Networks by Diversifying
       Data Sources
     affiliation: ''
@@ -5167,6 +5226,14 @@ fl-in-top-secure-conference-and-journal:
     tldr: 60
     materials: 60
   body:
+  - title: Federated Boosted Decision Trees with Differential Privacy
+    affiliation: University of Warwick
+    venue: CCS
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2210.02910
+      CODE: https://github.com/Samuel-Maddock/federated-boosted-dp-trees
   - title: 'Private, Efficient, and Accurate: Protecting Models Trained by Multi-party
       Learning with Differential Privacy'
     affiliation: Fudan University
