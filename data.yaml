@@ -4300,10 +4300,23 @@ fl-in-top-ml-conference-and-journal:
     affiliation: PolyU
     venue: NeurIPS
     year: '2021'
-    tldr: ''
+    tldr: 'KT-pFL: We exploit the potentials of heterogeneous model settings and propose
+      a novel training framework to employ personalized models for different clients.
+      Specifically, we formulate the aggregation procedure in original pFL into a
+      personalized group knowledge transfer training algorithm, namely, KT-pFL, which
+      enables each client to maintain a personalized soft prediction at the server
+      side to guide the others'' local training. KT-pFL updates the personalized soft
+      prediction of each client by a linear combination of all local soft predictions
+      using a knowledge coefficient matrix, which can adaptively reinforce the collaboration
+      among clients who own similar data distribution. Furthermore, to quantify the
+      contributions of each client to others'' personalized training, the knowledge
+      coefficient matrix is parameterized so that it can be trained simultaneously
+      with the models. The knowledge coefficient matrix and the model parameters are
+      alternatively updated in each round following the gradient descent way. 我们利用异质模型设置的潜力，提出了一个新的训练框架，为不同的客户采用个性化的模型。具体来说，我们将原始pFL中的聚合程序制定为一种个性化的群体知识转移训练算法，即KT-pFL，它使每个客户在服务器端保持一个个性化的软预测，以指导其他人的本地训练。KT-pFL通过使用知识系数矩阵对所有本地软预测进行线性组合来更新每个客户端的个性化软预测，这可以自适应地加强拥有相似数据分布的客户端之间的协作。此外，为了量化每个客户对其他客户的个性化训练的贡献，知识系数矩阵被参数化，以便它可以与模型同时训练。知识系数矩阵和模型参数在每一轮中按照梯度下降的方式交替更新。'
     materials:
       PUB.: https://papers.nips.cc/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html
       PDF: https://arxiv.org/abs/2111.02862
+      CODE: https://github.com/cugzj/KT-pFL
   - title: 'Federated Reconstruction: Partially Local Federated Learning :fire:'
     affiliation: Google Research
     venue: NeurIPS
