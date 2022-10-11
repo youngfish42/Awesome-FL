@@ -64,7 +64,7 @@ fl-on-graph-data-and-graph-neural-network:
       graduated assignment-based model fusion method, iteratively updates the matchings
       in a consistency-maintaining manner. GAMF将模型融合问题表述为图形匹配任务，考虑了模型权重的二阶相似性，而不是之前的工作仅仅将模型融合表述为一个线性赋值问题。针对问题规模的扩大和多模型的一致性问题，GAMF提出了一种高效的基于分级赋值的模型融合方法，以保持一致性的方式迭代更新匹配结果。'
     materials:
-      PUB.: https://proceedings.mlr.press/v162/liu22k/liu22k.pdf
+      PUB: https://proceedings.mlr.press/v162/liu22k/liu22k.pdf
       CODE: https://github.com/Thinklab-SJTU/GAMF
   - title: Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the
       Federated Setting **`kg.`**
@@ -144,7 +144,7 @@ fl-on-graph-data-and-graph-neural-network:
       learning, which can automatically converge to the optimal sampling policies
       that balance training speed and accuracy.  FedGraph 用于多个计算客户端之间的联邦图学习，每个客户端都有一个子图。FedGraph通过解决两个独特的挑战，跨客户端提供了强大的图形学习能力。首先，传统的GCN训练需要在客户之间进行功能数据共享，从而导致隐私泄露的风险。FedGraph使用一种新的跨客户端卷积操作来解决了这个问题。第二个挑战是大图所产生的高GCN训练开销。提出了一种基于深度强化学习的智能图采样算法，该算法可以自动收敛到最优的平衡训练速度和精度的采样策略。'
     materials:
-      PUB.: https://ieeexplore.ieee.org/abstract/document/9606516/
+      PUB: https://ieeexplore.ieee.org/abstract/document/9606516/
       CODE: https://github.com/cfh19980612/FedGraph
       解读: https://zhuanlan.zhihu.com/p/442233479
   - title: 'FedNI: Federated Graph Learning with Network Inpainting for Population-Based
@@ -176,7 +176,7 @@ fl-on-graph-data-and-graph-neural-network:
       learning and propose an adaptive mixing coefficient strategy that enables clients
       to achieve their optimal personalization. FedEgo是一个基于自中心图的联邦图学习框架，每个客户端将训练他们的本地模型，同时也为全局模型的训练作出贡献。FedEgo在自中心图上应用GraphSAGE来充分利用结构信息，并利用Mixup来解决隐私问题。为了处理统计上的异质性，我们将个性化整合到学习中，并提出了一个自适应混合系数策略，使客户能够实现其最佳的个性化。'
     materials:
-      PUB.: https://arxiv.org/abs/2208.13685
+      PUB: https://arxiv.org/abs/2208.13685
       CODE: https://github.com/fedego/fedego
   - title: 'SemiGraphFL: Semi-supervised Graph Federated Learning for Graph Classification.'
     affiliation: PKU
@@ -330,6 +330,26 @@ fl-on-graph-data-and-graph-neural-network:
       - clock运行时间和近邻采样间隔。我们的分析根据邻居抽样的预算分为两种情况。在无约束的情况下，我们得到了最优的近邻采样间隔，实现了收敛性和运行时间的最佳折衷；在有约束的情况下，我们证明了确定最优采样间隔实际上是一个在线问题，并提出了一个新的有界竞争比的在线算法来解决这个问题。结合这两种情况，我们提出了一个统一的算法来决定联邦图学习中的近邻采样间隔，并通过在图数据集上的大量仿真证明了其有效性'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9812908
+  - title: Domain-Aware Federated Social Bot Detection with Multi-Relational Graph
+      Neural Networks.
+    affiliation: UCAS; CAS
+    venue: IJCNN
+    year: '2022'
+    tldr: 'DA-MRG: Social bot detection is essential for the social network''s security.
+      Existing methods almost ignore the differences in bot behaviors in multiple
+      domains. Thus, we first propose a DomainAware detection method with Multi-Relational
+      Graph neural networks (DA-MRG) to improve detection performance. Specifically,
+      DA-MRG constructs multi-relational graphs with users'' features and relationships,
+      obtains the user presentations with graph embedding and distinguishes bots from
+      humans with domainaware classifiers. Meanwhile, considering the similarity between
+      bot behaviors in different social networks, we believe that sharing data among
+      them could boost detection performance. However, the data privacy of users needs
+      to be strictly protected. To overcome the problem, we implement a study of federated
+      learning framework for DA-MRG to achieve data sharing between different social
+      networks and protect data privacy simultaneously. 社交机器人检测对于社交网络的安全至关重要。现有方法几乎忽略了多个域中机器人行为的差异。因此，本文首先提出一种基于多关系图神经网络(DA-MRG)的Domain
+      Aware检测方法，以提高检测性能。具体来说，DA-MRG利用用户的特征和关系构建多关系图，通过图嵌入获得用户表示，并通过领域感知分类器区分机器人和人类。同时，考虑到不同社交网络中机器人行为之间的相似性，我们认为在它们之间共享数据可以提高检测性能。然而，用户的数据隐私需要严格保护。为了克服这个问题，我们实现了一个面向DA-MRG的联邦学习框架研究，以实现不同社交网络之间的数据共享，同时保护数据隐私。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9892366
   - title: A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via
       Differential Privacy
     affiliation: Ping An Technology
@@ -456,7 +476,7 @@ fl-on-graph-data-and-graph-neural-network:
       (O-GFML)的去中心化在线多任务学习算法。客户端使用连续的流数据更新本地模型，而客户端和多个服务器可以同时训练不同但相关的模型。此外，为了提高O-GFML的通信效率，我们开发了一种基于部分共享的O-GFML
       (PSO-GFML)。PSO-GFML允许参与的客户端在全局迭代过程中只与各自的服务器交换部分模型参数，而非参与的客户端在有机会获得新数据的情况下更新本地模型。'
     materials:
-      PUB.: https://doi.org/10.1109/CISS53076.2022.9751160
+      PUB: https://doi.org/10.1109/CISS53076.2022.9751160
   - title: Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking
       in Healthcare Applications
     affiliation: Oxford
@@ -482,7 +502,7 @@ fl-on-graph-data-and-graph-neural-network:
       and  limited supervision. 人工智能医疗应用依赖于敏感的电子医疗记录( EHR )，这些记录几乎没有标签，而且往往分布在共生体机构的网络中。在这项工作中，我们提出了基于动态神经图的联邦学习框架来解决这些挑战。提出的框架将模型不可知元学习(MAML)算法Reptile扩展到联邦环境。然而，与现有的MAML算法不同，本文提出了神经图学习(Neural
       Graph Learning，NGL 的动态变体，以在有监督的训练设置中纳入未标记的示例。动态NGL通过对带标签的训练示例执行监督学习，同时对其带标签或未带标签的邻域执行度量学习来计算元学习更新。标记样本的这个邻域是使用在批量训练样本上建立的局部图动态建立的。通过比较由模型的当前状态生成的嵌入之间的相似性来构造每个局部图。在邻域上引入度量学习使得这个框架具有半监督的性质。'
     materials:
-      PUB.: https://ieeexplore.ieee.org/document/9648036
+      PUB: https://ieeexplore.ieee.org/document/9648036
   - title: 'FedGCN: Federated Learning-Based Graph Convolutional Networks for Non-Euclidean
       Spatial Data'
     affiliation: NUIST
@@ -541,7 +561,7 @@ fl-on-graph-data-and-graph-neural-network:
       clustering, and design a gradient sequence-based clustering mechanism based
       on dynamic time warping (GCFL+). 图也可以看作是一种特殊类型的数据样本。我们分析来自不同领域的真实图，以确认它们确实共享某些与随机图形相比具有统计意义的图属性。然而，我们也发现不同的图集，即使来自相同的域或相同的数据集，在图结构和节点特性方面都是非IID的。图聚类联邦学习(GCFL)框架，基于GNNs的梯度动态地找到本地系统的集群，并从理论上证明这样的集群可以减少本地系统所拥有的图之间的结构和特征异构性。此外，我们观察到GNNs的梯度在GCFL中波动较大，阻碍了高质量的聚类，并设计了基于动态时间规整的梯度序列聚类机制(GCFL+)。'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html
       PDF: https://arxiv.org/abs/2106.13423
       CODE: https://github.com/Oxfordblue7/GCFL
       解读: https://zhuanlan.zhihu.com/p/430623053
@@ -557,7 +577,7 @@ fl-on-graph-data-and-graph-neural-network:
       在本工作中，针对子图联邦学习的新颖而现实的设置，我们提出了两个主要技术：(1) FedSage，它基于FedAvg训练一个GraphSage模型，以整合多个局部子图上的节点特征、链接结构和任务标签；(2)
       FedSage +，它沿着FedSage训练一个缺失的邻居生成器，以处理跨本地子图的缺失链接。'
     materials:
-      PUB.: https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html
+      PUB: https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html
       PDF: https://arxiv.org/abs/2106.13430
   - title: Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling
     affiliation: USC
@@ -624,7 +644,7 @@ fl-on-graph-data-and-graph-neural-network:
       namely FL-DISCO, which integrates GAN and GNN to generate molecular graphs.
       集成GAN和GNN生成分子图的整体协作和隐私保护FL框架FL-DISCO。'
     materials:
-      PUB.: https://doi.org/10.1109/ICCAD51958.2021.9643440
+      PUB: https://doi.org/10.1109/ICCAD51958.2021.9643440
   - title: 'FASTGNN: A Topological Information Protected Federated Learning Approach
       for Traffic Speed Forecasting'
     affiliation: UTS
@@ -650,7 +670,7 @@ fl-on-graph-data-and-graph-neural-network:
       blockchain systematically (DAG-FL). 为了解决FL中的设备不同步和异常检测问题，同时避免区块链带来的额外资源消耗，本文提出了一种基于直接无环图(DAG,
       Direct Acyclic Graph)的区块链系统为FL赋能的框架(DAG-FL)。'
     materials:
-      PUB.: https://doi.org/10.1109/ICC42927.2021.9500737
+      PUB: https://doi.org/10.1109/ICC42927.2021.9500737
       PDF: https://arxiv.org/abs/2104.13092
   - title: 'FedE: Embedding Knowledge Graphs in Federated Setting **`kg.`**'
     affiliation: ZJU
@@ -664,7 +684,7 @@ fl-on-graph-data-and-graph-neural-network:
       embeddings by aggregating locally-computed updates. 在本文中，我们引入联邦设置来保持多源KGs的隐私，而不需要在KGs
       (知识图谱)之间传输三元组，并将其应用于知识图谱嵌入（这是一个典型的方法，在过去的十年中已证明对KGC(知识图谱补全)有效）。我们提出了一个联邦知识图谱嵌入框架FedE，重点是通过聚合本地计算的更新来学习知识图谱嵌入。'
     materials:
-      PUB.: https://doi.org/10.1145/3502223.3502233
+      PUB: https://doi.org/10.1145/3502223.3502233
       PDF: https://arxiv.org/abs/2010.12882
       CODE: https://github.com/AnselCmy/FedE
   - title: Federated Knowledge Graph Embeddings with Heterogeneous Data **`kg.`**
@@ -675,7 +695,7 @@ fl-on-graph-data-and-graph-neural-network:
       graphs to deal with the problem of privacy protection and heterogeneous data.
       一种新的联邦框架 FKE，用于知识图谱的表示学习，以处理隐私保护和异构数据的问题。'
     materials:
-      PUB.: https://doi.org/10.1007/978-981-16-6471-7_2
+      PUB: https://doi.org/10.1007/978-981-16-6471-7_2
   - title: A Graph Federated Architecture with Privacy Preserving Learning
     affiliation: EPFL
     venue: SPAWC
@@ -687,7 +707,7 @@ fl-on-graph-data-and-graph-neural-network:
       the performance of the non-private algorithm. GFL，一种私有的多服务器联邦学习方案，我们称之为图联邦学习。
       我们使用密码学和差分隐私概念将联邦学习算法私有化在图结构上。 我们进一步表明在凸性和 Lipschitz 条件下，私有化过程与非私有算法的性能相匹配。'
     materials:
-      PUB.: https://doi.org/10.1109/SPAWC51858.2021.9593148
+      PUB: https://doi.org/10.1109/SPAWC51858.2021.9593148
       PDF: https://arxiv.org/abs/2104.13215
       解读: https://zhuanlan.zhihu.com/p/440809332
   - title: Federated Social Recommendation with Graph Neural Network
@@ -737,7 +757,7 @@ fl-on-graph-data-and-graph-neural-network:
       using graph neural networks. 连接脑模板(CBT)是一个给定人群的紧凑表示(即,单个连接矩阵)多视图脑网络。CBTs在大脑障碍诊断和整体大脑映射中特别是非常强大的工具，如果它们被正确地学习-
       -即占据给定人群的中心。我们提出了第一个联邦连接脑模板学习( Fed-CBT )框架来学习如何将不同医院收集的多视角脑连接组学数据集整合成一个单一的代表性连接图。首先，我们随机选择一部分医院来训练我们的全球模型。接下来，所有医院将其模型权重发送给服务器进行聚合。我们还介绍了一种加权方法，用于聚合模型权重，以充分受益于所有医院。据我们所知，我们的模型是第一个也是唯一一个使用图神经网络来估计连接大脑模板的联邦管道。'
     materials:
-      PUB.: https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4
+      PUB: https://link.springer.com/chapter/10.1007/978-3-030-89847-2_4
       CODE: https://github.com/basiralab/Fed-CBT
   - title: Cluster-driven Graph Federated Learning over Multiple Domains
     affiliation: Politecnico di Torino
@@ -795,7 +815,7 @@ fl-on-graph-data-and-graph-neural-network:
       traffic throttling and priority-based flows scheduling. 我们研究了跨孤岛设置下的联邦图学习（FGL），其中多台服务器通过广域网连接，目的是提高图学习任务的服务质量（QoS）。
       Glint，一个分散的联邦图学习系统，具有两种新颖的设计：网络流量节流和基于优先级的流调度。'
     materials:
-      PUB.: https://doi.org/10.1109/IWQOS52092.2021.9521331
+      PUB: https://doi.org/10.1109/IWQOS52092.2021.9521331
   - title: Federated Graph Neural Network for Cross-graph Node Classification
     affiliation: BUPT
     venue: CCIS
@@ -811,7 +831,7 @@ fl-on-graph-data-and-graph-neural-network:
       graph node classification task. 一种新颖的分布式可扩展联邦图神经网络 (FGNN)，用于解决跨图节点分类问题。 我们在域对抗神经网络（DANN）中加入PATE机制，构建跨网络节点分类模型，从源图和目标图的节点特征中提取有效信息进行加密和空间对齐。
       此外，我们使用一对一的方法为多个源图和目标图构建跨图节点分类模型。 联邦学习用于通过多方合作共同训练模型，完成目标图节点分类任务。'
     materials:
-      PUB.: https://doi.org/10.1109/CCIS53392.2021.9754598
+      PUB: https://doi.org/10.1109/CCIS53392.2021.9754598
   - title: 'GraFeHTy: Graph Neural Network using Federated Learning for Human Activity
       Recognition'
     affiliation: Lead Data Scientist Ericsson Digital Services
@@ -826,7 +846,7 @@ fl-on-graph-data-and-graph-neural-network:
       由于噪声或缺乏标记示例以及有关数据隐私的问题，来自传感器测量的人类活动识别 (HAR) 仍然具有挑战性。 我们提出了一种新的算法 GraFeHTy，一种在联邦设置中训练的图卷积网络
       (GCN)。 我们从每个用户的传感器测量中构建相似图，并应用 GCN 通过利用活动的相互关联性和密切性来执行人类活动的半监督分类。'
     materials:
-      PUB.: https://doi.org/10.1109/ICMLA52953.2021.00184
+      PUB: https://doi.org/10.1109/ICMLA52953.2021.00184
   - title: Distributed Training of Graph Convolutional Networks
     affiliation: Sapienza University of Rome
     venue: TSIPN
@@ -877,7 +897,7 @@ fl-on-graph-data-and-graph-neural-network:
       clients. 自动分离联邦图神经网络( ASFGNN )学习范式。ASFGNN由两个主要部分组成，即GNN的训练和超参数的调整。具体来说，为了解决数据Non
       - IID问题，我们首先提出了分离联邦GNN学习模型，将GNN的训练解耦为两个部分：由客户端单独完成的消息传递部分和由客户端联邦学习的损失计算部分。为了处理耗时的参数调优问题，我们利用贝叶斯优化技术自动调优所有客户端的超参数。'
     materials:
-      PUB.: https://doi.org/10.1007/s12083-021-01074-w
+      PUB: https://doi.org/10.1007/s12083-021-01074-w
       PDF: https://arxiv.org/abs/2011.03248
       解读: https://zhuanlan.zhihu.com/p/431283541
   - title: Decentralized federated learning via sgd over wireless d2d networks
@@ -1210,7 +1230,7 @@ fl-on-tabular-data:
   body:
   - title: Federated Boosted Decision Trees with Differential Privacy
     affiliation: University of Warwick
-    venue: CCS
+    venue: 'CCS :mortar_board:'
     year: '2022'
     tldr: ''
     materials:
@@ -1240,6 +1260,19 @@ fl-on-tabular-data:
     materials:
       PUB: https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214
       CODE: https://featurecloud.ai/
+  - title: 'Boosting the Federation: Cross-Silo Federated Learning without Gradient
+      Descent.'
+    affiliation: unito
+    venue: IJCNN
+    year: '2022'
+    tldr: 'federation-boosting: This paper proposes FL algorithms that build federated
+      models without relying on gradient descent-based methods. Specifically, we leverage
+      distributed versions of the AdaBoost algorithm to acquire strong federated models.
+      In contrast with previous approaches, our proposal does not put any constraint
+      on the client-side learning models. 不依赖基于梯度下降的方法建立联合模型的FL算法。具体来说，我们利用AdaBoost算法的分布式版本来获得强大的联合模型。与之前的方法相比，我们没有对客户端的学习模型施加任何约束。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9892284
+      CODE: https://github.com/ml-unito/federation_boosting
   - title: Federated Forest
     affiliation: JD
     venue: TBD
@@ -4252,7 +4285,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'CAFE: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html
       CODE: https://github.com/DeRafael/CAFE
   - title: Fault-Tolerant Federated Reinforcement Learning with Theoretical Guarantee
     affiliation: NUS
@@ -4260,7 +4293,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/080acdcce72c06873a773c4311c2e464-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/080acdcce72c06873a773c4311c2e464-Abstract.html
       PDF: https://arxiv.org/abs/2110.14074
       CODE: https://github.com/flint-xf-fan/Byzantine-Federeated-RL
   - title: 'Optimality and Stability in Federated Learning: A Game-theoretic Approach'
@@ -4269,7 +4302,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/09a5e2a11bea20817477e0b1dfe2cc21-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/09a5e2a11bea20817477e0b1dfe2cc21-Abstract.html
       PDF: https://arxiv.org/abs/2106.09580
       CODE: https://github.com/kpdonahue/model_sharing_games
   - title: 'QuPeD: Quantized Personalization via Distillation with Applications to
@@ -4279,7 +4312,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'QuPeD: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/1dba3025b159cd9354da65e2d0436a31-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/1dba3025b159cd9354da65e2d0436a31-Abstract.html
       PDF: https://arxiv.org/abs/2107.13892
       CODE: https://github.com/zkhku/fedsage
       解读: https://zhuanlan.zhihu.com/p/430789355
@@ -4289,7 +4322,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html
+      PUB: https://papers.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html
       PDF: https://arxiv.org/abs/2110.04995
       CODE: https://github.com/google-research/federated/tree/master/distributed_dp
   - title: 'No Fear of Heterogeneity: Classifier Calibration for Federated Learning
@@ -4299,7 +4332,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html
+      PUB: https://papers.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html
       PDF: https://arxiv.org/abs/2106.05001
   - title: 'STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal
       Sample and Communication Complexities for Federated Learning'
@@ -4308,7 +4341,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.neurips.cc/paper/2021/hash/3016a447172f3045b65f5fc83e04b554-Abstract.html
+      PUB: https://papers.neurips.cc/paper/2021/hash/3016a447172f3045b65f5fc83e04b554-Abstract.html
       PDF: https://arxiv.org/abs/2106.10435
   - title: Subgraph Federated Learning with Missing Neighbor Generation
     affiliation: Emory;  UBC; Lehigh University
@@ -4322,7 +4355,7 @@ fl-in-top-ml-conference-and-journal:
       在本工作中，针对子图联邦学习的新颖而现实的设置，我们提出了两个主要技术：(1) FedSage，它基于FedAvg训练一个GraphSage模型，以整合多个局部子图上的节点特征、链接结构和任务标签；(2)
       FedSage +，它沿着FedSage训练一个缺失的邻居生成器，以处理跨本地子图的缺失链接。'
     materials:
-      PUB.: https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html
+      PUB: https://papers.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html
       PDF: https://arxiv.org/abs/2106.13430
       CODE: https://github.com/zkhku/fedsage
       解读: https://zhuanlan.zhihu.com/p/423555171
@@ -4333,7 +4366,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'GradAttack: TBC'
     materials:
-      PUB.: https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html
+      PUB: https://papers.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html
       PDF: https://arxiv.org/abs/2112.00059
       CODE: https://github.com/Princeton-SysML/GradAttack
   - title: Personalized Federated Learning With Gaussian Processes
@@ -4352,7 +4385,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/4c27cea8526af8cfee3be5e183ac9605-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/4c27cea8526af8cfee3be5e183ac9605-Abstract.html
       PDF: https://arxiv.org/abs/2110.14153
       CODE: https://github.com/daizhongxiang/Differentially-Private-Federated-Bayesian-Optimization
   - title: Parameterized Knowledge Transfer for Personalized Federated Learning
@@ -4373,7 +4406,7 @@ fl-in-top-ml-conference-and-journal:
       with the models. The knowledge coefficient matrix and the model parameters are
       alternatively updated in each round following the gradient descent way. 我们利用异质模型设置的潜力，提出了一个新的训练框架，为不同的客户采用个性化的模型。具体来说，我们将原始pFL中的聚合程序制定为一种个性化的群体知识转移训练算法，即KT-pFL，它使每个客户在服务器端保持一个个性化的软预测，以指导其他人的本地训练。KT-pFL通过使用知识系数矩阵对所有本地软预测进行线性组合来更新每个客户端的个性化软预测，这可以自适应地加强拥有相似数据分布的客户端之间的协作。此外，为了量化每个客户对其他客户的个性化训练的贡献，知识系数矩阵被参数化，以便它可以与模型同时训练。知识系数矩阵和模型参数在每一轮中按照梯度下降的方式交替更新。'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html
       PDF: https://arxiv.org/abs/2111.02862
       CODE: https://github.com/cugzj/KT-pFL
   - title: 'Federated Reconstruction: Partially Local Federated Learning :fire:'
@@ -4382,7 +4415,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/5d44a2b0d85aa1a4dd3f218be6422c66-Abstract.html
       PDF: https://arxiv.org/abs/2102.03448
       CODE: https://github.com/google-research/federated/tree/master/reconstruction
       UC.: https://github.com/KarhouTam/FedRecon
@@ -4392,7 +4425,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/64be20f6dd1dd46adf110cf871e3ed35-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/64be20f6dd1dd46adf110cf871e3ed35-Abstract.html
       PDF: https://arxiv.org/abs/2106.04159
       CODE: https://github.com/hmgxr128/MIFA_code/
   - title: 'FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated
@@ -4402,7 +4435,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'FL-WBC: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/692baebec3bb4b53d7ebc3b9fabac31b-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/692baebec3bb4b53d7ebc3b9fabac31b-Abstract.html
       PDF: https://arxiv.org/abs/2110.13864
       CODE: https://github.com/jeremy313/FL-WBC
   - title: 'FjORD: Fair and Accurate Federated Learning under heterogeneous targets
@@ -4412,7 +4445,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'FjORD: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/6aed000af86a084f9cb0264161e29dd3-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/6aed000af86a084f9cb0264161e29dd3-Abstract.html
       PDF: https://arxiv.org/abs/2102.13451
   - title: 'Linear Convergence in Federated Learning: Tackling Client Heterogeneity
       and Sparse Gradients'
@@ -4421,7 +4454,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/7a6bda9ad6ffdac035c752743b7e9d0e-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/7a6bda9ad6ffdac035c752743b7e9d0e-Abstract.html
       PDF: https://arxiv.org/abs/2102.07053
       VIDEO: https://papertalk.org/papertalks/35898
   - title: Federated Multi-Task Learning under a Mixture of Distributions
@@ -4430,7 +4463,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/82599a4ec94aca066873c99b4c741ed8-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/82599a4ec94aca066873c99b4c741ed8-Abstract.html
       PDF: https://arxiv.org/abs/2108.10252
       CODE: https://github.com/omarfoq/FedEM
   - title: Federated Graph Classification over Non-IID Graphs
@@ -4450,7 +4483,7 @@ fl-in-top-ml-conference-and-journal:
       clustering, and design a gradient sequence-based clustering mechanism based
       on dynamic time warping (GCFL+). 图也可以看作是一种特殊类型的数据样本。我们分析来自不同领域的真实图，以确认它们确实共享某些与随机图形相比具有统计意义的图属性。然而，我们也发现不同的图集，即使来自相同的域或相同的数据集，在图结构和节点特性方面都是非IID的。图聚类联邦学习(GCFL)框架，基于GNNs的梯度动态地找到本地系统的集群，并从理论上证明这样的集群可以减少本地系统所拥有的图之间的结构和特征异构性。此外，我们观察到GNNs的梯度在GCFL中波动较大，阻碍了高质量的聚类，并设计了基于动态时间规整的梯度序列聚类机制(GCFL+)。'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html
       PDF: https://arxiv.org/abs/2106.13423
       CODE: https://github.com/Oxfordblue7/GCFL
       解读: https://zhuanlan.zhihu.com/p/430718887
@@ -4461,7 +4494,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'FedEx: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/a0205b87490c847182672e8d371e9948-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/a0205b87490c847182672e8d371e9948-Abstract.html
       PDF: https://arxiv.org/abs/2106.04502
       CODE: https://github.com/mkhodak/fedex
   - title: 'On Large-Cohort Training for Federated Learning :fire:'
@@ -4470,7 +4503,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'Large-Cohort: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/ab9ebd57177b5106ad7879f0896685d4-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/ab9ebd57177b5106ad7879f0896685d4-Abstract.html
       PDF: https://arxiv.org/abs/2106.07820
       CODE: https://github.com/google-research/federated/tree/f4e26c1b9b47ac320e520a8b9943ea2c5324b8c2/large_cohort
   - title: 'DeepReduce: A Sparse-tensor Communication Framework for Federated Deep
@@ -4480,7 +4513,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'DeepReduce: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/b0ab42fcb7133122b38521d13da7120b-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/b0ab42fcb7133122b38521d13da7120b-Abstract.html
       PDF: https://arxiv.org/abs/2102.03112
       CODE: https://github.com/hangxu0304/DeepReduce
   - title: 'PartialFed: Cross-Domain Personalized Federated Learning via Partial Initialization'
@@ -4489,7 +4522,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'PartialFed: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html
       VIDEO: https://papertalk.org/papertalks/37327
   - title: Federated Split Task-Agnostic Vision Transformer for COVID-19 CXR Diagnosis
     affiliation: KAIST
@@ -4497,7 +4530,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/ceb0595112db2513b9325a85761b7310-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/ceb0595112db2513b9325a85761b7310-Abstract.html
       PDF: https://arxiv.org/abs/2111.01338
   - title: Addressing Algorithmic Disparity and Performance Inconsistency in Federated
       Learning
@@ -4506,7 +4539,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'FCFL: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/db8e1af0cb3aca1ae2d0018624204529-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/db8e1af0cb3aca1ae2d0018624204529-Abstract.html
       PDF: https://arxiv.org/abs/2108.08435
       CODE: https://github.com/cuis15/FCFL
   - title: Federated Linear Contextual Bandits
@@ -4515,7 +4548,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/e347c51419ffb23ca3fd5050202f9c3d-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/e347c51419ffb23ca3fd5050202f9c3d-Abstract.html
       PDF: https://arxiv.org/abs/2110.14177
       CODE: https://github.com/Ruiquan5514/Federated-Linear-Contextual-Bandits
   - title: Few-Round Learning for Federated Learning
@@ -4524,14 +4557,14 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/f065d878ccfb4cc4f4265a4ff8bafa9a-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/f065d878ccfb4cc4f4265a4ff8bafa9a-Abstract.html
   - title: Breaking the centralized barrier for cross-device federated learning
     affiliation: EPFL; Google Research
     venue: NeurIPS
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/f0e6be4ce76ccfa73c5a540d992d0756-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/f0e6be4ce76ccfa73c5a540d992d0756-Abstract.html
       CODE: https://fedjax.readthedocs.io/en/latest/fedjax.algorithms.html#module-fedjax.algorithms.mime
       VIDEO: https://papertalk.org/papertalks/37564
   - title: Federated-EM with heterogeneity mitigation and variance reduction
@@ -4540,7 +4573,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'Federated-EM: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/f740c8d9c193f16d8a07d3a8a751d13f-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/f740c8d9c193f16d8a07d3a8a751d13f-Abstract.html
       PDF: https://arxiv.org/abs/2111.02083
   - title: 'Delayed Gradient Averaging: Tolerate the Communication Latency for Federated
       Learning'
@@ -4559,7 +4592,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: 'FedDR: TBC'
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/fe7ee8fc1959cc7214fa21c4840dff0a-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/fe7ee8fc1959cc7214fa21c4840dff0a-Abstract.html
       PDF: https://arxiv.org/abs/2103.03452
       CODE: https://github.com/unc-optimization/FedDR
   - title: Gradient Inversion with Generative Image Prior
@@ -4569,7 +4602,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB.: https://papers.nips.cc/paper/2021/hash/fa84632d742f2729dc32ce8cb5d49733-Abstract.html
+      PUB: https://papers.nips.cc/paper/2021/hash/fa84632d742f2729dc32ce8cb5d49733-Abstract.html
       PDF: https://arxiv.org/abs/2110.14962
       CODE: https://github.com/ml-postech/gradient-inversion-generative-image-prior
   - title: Federated Adversarial Domain Adaptation
@@ -5436,7 +5469,7 @@ fl-in-top-cv-conference-and-journal:
     year: '2022'
     tldr: 'FedX: TBC'
     materials:
-      PUB.: https://arxiv.org/abs/2207.09158
+      PUB: https://arxiv.org/abs/2207.09158
       CODE: https://github.com/sungwon-han/fedx
   - title: Personalizing Federated Medical Image Segmentation via Local Calibration
     affiliation: Xiamen University
@@ -5446,7 +5479,7 @@ fl-in-top-cv-conference-and-journal:
       to leverage the inter-site in-consistencies in both feature- and prediction-
       levels to boost the segmentation. LC-Fed提出了一个带有本地校准的个性化联邦学习框架，以利用特征和预测层面的站点间不一致来提高分割效果。'
     materials:
-      PUB.: https://arxiv.org/abs/2207.04655
+      PUB: https://arxiv.org/abs/2207.04655
       CODE: https://github.com/jcwang123/fedlc
   - title: Improving Generalization in Federated Learning by Seeking Flat Minima
     affiliation: Politecnico di Torino
@@ -5459,7 +5492,7 @@ fl-in-top-cv-conference-and-journal:
       capacity to the sharpness of the solution. 联邦学习环境下训练的模型经常会出现性能下降和泛化失败的情况，特别是在面对异质场景时。FedSAM
       通过损失和Hessian特征谱的几何角度来研究这种行为，将模型缺乏泛化能力与解决方案的锐度联系起来'
     materials:
-      PUB.: https://arxiv.org/abs/2203.11834
+      PUB: https://arxiv.org/abs/2203.11834
       CODE: https://github.com/debcaldarola/fedsam
   - title: 'ATPFL: Automatic Trajectory Prediction Model Design Under Federated Learning
       Framework'
@@ -7274,7 +7307,7 @@ fl-in-top-system-conference-and-journal:
       learning, which can automatically converge to the optimal sampling policies
       that balance training speed and accuracy.  FedGraph 用于多个计算客户端之间的联邦图学习，每个客户端都有一个子图。FedGraph通过解决两个独特的挑战，跨客户端提供了强大的图形学习能力。首先，传统的GCN训练需要在客户之间进行功能数据共享，从而导致隐私泄露的风险。FedGraph使用一种新的跨客户端卷积操作来解决了这个问题。第二个挑战是大图所产生的高GCN训练开销。提出了一种基于深度强化学习的智能图采样算法，该算法可以自动收敛到最优的平衡训练速度和精度的采样策略。'
     materials:
-      PUB.: https://ieeexplore.ieee.org/abstract/document/9606516/
+      PUB: https://ieeexplore.ieee.org/abstract/document/9606516/
       CODE: https://github.com/cfh19980612/FedGraph
       解读: https://zhuanlan.zhihu.com/p/442233479
   - title: 'AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient
