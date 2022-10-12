@@ -523,6 +523,32 @@ fl-on-graph-data-and-graph-neural-network:
       K池化层和全连接层，提高了特征提取能力。此外，为了防止池化层丢失信息，在GCN中使用跨层融合，使FL具有处理非欧几里得空间数据的出色能力。其次，本文提出了一种基于在线可调注意力机制的联邦聚合算法。可训练参数ρ被引入注意力机制。聚合方法为每个局部模型分配相应的注意力系数，减少了低效的局部模型参数对全局模型造成的破坏，提高了FL算法的容错性和准确性。'
     materials:
       PUB: https://www.mdpi.com/2227-7390/10/6/1000
+  - title: Federated Dynamic Graph Neural Networks with Secure Aggregation for Video-based
+      Distributed Surveillance
+    affiliation: ND
+    venue: ACM Trans. Intell. Syst. Technol.
+    year: '2022'
+    tldr: 'Feddy: Distributed surveillance systems have the ability to detect, track,
+      and snapshot objects moving around in a certain space. The systems generate
+      video data from multiple personal devices or street cameras. Intelligent video-analysis
+      models are needed to learn dynamic representation of the objects for detection
+      and tracking. In this work, we introduce Federated Dynamic Graph Neural Network
+      (Feddy), a distributed and secured framework to learn the object representations
+      from graph sequences: (1) It aggregates structural information from nearby objects
+      in the current graph as well as dynamic information from those in the previous
+      graph. It uses a self-supervised loss of predicting the trajectories of objects.
+      (2) It is trained in a federated learning manner. The centrally located server
+      sends the model to user devices. Local models on the respective user devices
+      learn and periodically send their learning to the central server without ever
+      exposing the user’s data to server. (3) Studies showed that the aggregated parameters
+      could be inspected though decrypted when broadcast to clients for model synchronizing,
+      after the server performed a weighted average. 分布式监控系统有能力检测、跟踪和抓拍在一定空间内移动的物体。这些系统从多个个人设备或街道摄像机产生视频数据。需要智能视频分析模型来学习物体的动态表示，以便进行检测和跟踪。在这项工作中，我们引入了联邦动态图谱神经网络（Feddy），这是一个分布式的安全框架，用于从图谱序列中学习物体的表征。(1)
+      它聚集了来自当前图中附近物体的结构信息，以及来自前一个图中物体的动态信息。它使用自监督的方法来预测物体的运动轨迹。(2) 它是以联邦学习的方式进行训练的。位于中心的服务器将模型发送给用户设备。各个用户设备上的本地模型进行学习，并定期将它们的学习结果发送到中央服务器，而不需要将用户的数据暴露给服务器。(3)
+      研究表明，在服务器进行加权平均后，广播给客户进行模型同步时，聚集的参数可以被检查，尽管是解密的。'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3501808
+      PDF: https://arxiv.org/abs/2009.07351
+      解读: https://zhuanlan.zhihu.com/p/441686576
   - title: 'Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms,
       and Implementation.'
     affiliation: Purdue
@@ -1182,13 +1208,6 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'FedAlign-KG: TBC'
     materials:
       PDF: https://arxiv.org/abs/2011.11369
-  - title: Federated Dynamic GNN with Secure Aggregation
-    affiliation: ''
-    venue: preprint
-    year: '2020'
-    tldr: ''
-    materials:
-      PDF: https://arxiv.org/abs/2009.07351
   - title: 'GraphFederator: Federated Visual Analysis for Multi-party Graphs'
     affiliation: ''
     venue: preprint
@@ -1269,7 +1288,7 @@ fl-on-tabular-data:
       models without relying on gradient descent-based methods. Specifically, we leverage
       distributed versions of the AdaBoost algorithm to acquire strong federated models.
       In contrast with previous approaches, our proposal does not put any constraint
-      on the client-side learning models. 不依赖基于梯度下降的方法建立联合模型的FL算法。具体来说，我们利用AdaBoost算法的分布式版本来获得强大的联合模型。与之前的方法相比，我们没有对客户端的学习模型施加任何约束。'
+      on the client-side learning models. 不依赖基于梯度下降的方法建立联邦模型的FL算法。具体来说，我们利用AdaBoost算法的分布式版本来获得强大的联邦模型。与之前的方法相比，我们没有对客户端的学习模型施加任何约束。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9892284
       CODE: https://github.com/ml-unito/federation_boosting
