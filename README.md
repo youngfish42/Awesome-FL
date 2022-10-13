@@ -39,7 +39,7 @@
 - Information Retrieval (SIGIR)
 - Database (SIGMOD, ICDE, VLDB)
 - Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW)
-- System (OSDI, SOSP, ISCA, MLSys, TPDS) 
+- System (OSDI, SOSP, ISCA, MLSys, TPDS, DAC) 
 
 
 
@@ -865,19 +865,21 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 ## fl in top system conference and journal
 
-In this section, we will summarize Federated Learning papers accepted by top Database conference and journal, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems), [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)(IEEE Transactions on Parallel and Distributed Systems).
+In this section, we will summarize Federated Learning papers accepted by top Database conference and journal, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems), [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)(IEEE Transactions on Parallel and Distributed Systems), [DAC](https://dblp.uni-trier.de/db/conf/dac/index.html)(Design Automation Conference).
 
 - [OSDI](https://dblp.org/search?q=federated%20venue%3AOSDI%3A) 2021
 - [SOSP](https://dblp.org/search?q=federated%20venue%3ASOSP%3A) 2021
 - [ISCA](https://dblp.org/search?q=federated%20venue%3AISCA%3A) NULL
 - [MLSys](https://dblp.org/search?q=federated%20venue%3AMLSys%3A) 2022, 2020, 2019
 - [TPDS](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Parallel%20Distributed%20Syst.%3A) 2022, 2021, 2020
+- [DAC](https://dblp.uni-trier.de/search?q=federate%20venue%3ADAC%3A) 2022, 2021
 
 
 <!-- START:fl-in-top-system-conference-and-journal -->
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
+|FHDnn: communication efficient and robust federated learning for AIoT networks | UC San Diego | DAC | 2022 | FHDnn[^FHDnn] | [PUB](https://dl.acm.org/doi/10.1145/3489517.3530394) |
 | FedGraph: Federated Graph Learning with Intelligent Sampling | UoA | TPDS | 2022 | FedGraph[^FedGraph] | [[PUB](https://ieeexplore.ieee.org/abstract/document/9606516/)] [[CODE](https://github.com/cfh19980612/FedGraph)] [[解读](https://zhuanlan.zhihu.com/p/442233479)] |
 | AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning. | THU | TPDS | 2022 | AUCTION[^AUCTION] | [[PUB](https://ieeexplore.ieee.org/document/9647925)] |
 | DONE: Distributed Approximate Newton-type Method for Federated Edge Learning. | University of Sydney | TPDS | 2022 | DONE[^DONE] | [[PUB](https://ieeexplore.ieee.org/document/9695269)] [[PDF](https://arxiv.org/abs/2012.05625)] [[CODE](https://github.com/dual-grp/DONE)] |
@@ -896,6 +898,9 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | Communication-Efficient Federated Learning With Compensated Overlap-FedAvg. | SCU | TPDS | 2022 | Overlap-FedAvg[^Overlap-FedAvg] | [[PUB](https://ieeexplore.ieee.org/document/9459540)] [[PDF](https://arxiv.org/abs/2012.06706)] [[CODE](https://github.com/Soptq/Overlap-FedAvg)] |
 | PAPAYA: Practical, Private, and Scalable Federated Learning. | Meta AI | MLSys | 2022 | PAPAYA[^PAPAYA] | [[PDF](https://arxiv.org/abs/2111.04877)] [[PUB](https://proceedings.mlsys.org/paper/2022/hash/f340f1b1f65b6df5b5e3f94d95b11daf-Abstract.html)] |
 | LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning | USC | MLSys | 2022 | LightSecAgg[^LightSecAgg] | [[PDF](https://arxiv.org/abs/2109.14236)] [[PUB](https://proceedings.mlsys.org/paper/2022/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)] [[CODE](https://github.com/LightSecAgg/MLSys2022_anonymous)] |
+| HADFL: Heterogeneity-aware Decentralized Federated Learning Framework | USTC | DAC | 2021 | HADFL[^HADFL] | [PDF](https://arxiv.org/abs/2111.08274) [pub](https://ieeexplore.ieee.org/document/9586101) |
+| Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced Collaboration. | GMU | DAC | 2021 | Helios[^Helios] | [pub](https://ieeexplore.ieee.org/document/9586241) |
+| FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control. | ECNU | DAC | 2021 | FedLight[^FedLight] | [pub](https://ieeexplore.ieee.org/document/9586175) |
 | Oort: Efficient Federated Learning via Guided Participant Selection | University of Michigan | OSDI | 2021 | Oort[^Oort] | [[PUB](https://www.usenix.org/conference/osdi21/presentation/lai)] [[PDF](https://arxiv.org/abs/2010.06081)] [[CODE](https://github.com/SymbioticLab/Oort)] [[SLIDES](https://www.usenix.org/system/files/osdi21_slides_lai.pdf)] [[VIDEO](https://www.youtube.com/watch?v=5npOel4T4Mw)] |
 | Towards Efficient Scheduling of Federated Mobile Devices Under Computational and Statistical Heterogeneity. | Old Dominion University | TPDS | 2021 |  | [[PUB](https://ieeexplore.ieee.org/document/9195793)] [[PDF](https://arxiv.org/abs/2005.12326)] |
 | Self-Balancing Federated Learning With Global Imbalanced Data in Mobile Systems. | CQU | TPDS | 2021 | Astraea[^Astraea] | [[PUB](https://ieeexplore.ieee.org/document/9141436)] [[CODE](https://github.com/mtang724/Self-Balancing-Federated-Learning)] |
@@ -1150,6 +1155,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/10/13 -  add DAC papers*
 - *2022/10/09 -  add MobiCom 2022 paper*
 - *2022/09/19 -  add NeurIPS 2022 papers*
 - *2022/09/16 -  repository is online with [Github Pages](https://youngfish42.github.io/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/)*
@@ -1611,5 +1617,9 @@ Many thanks :heart: to the other awesome list:
 [^FedProx]: FedProx, to tackle heterogeneity in federated networks. FedProx can be viewed as a generalization and re-parametrization of FedAvg, the current state-of-the-art method for federated learning. While this re-parameterization makes only minor modifications to the method itself, these modifications have important ramifications both in theory and in practice. Theoretically, we provide convergence guarantees for our framework when learning over data from non-identical distributions (statistical heterogeneity), and while adhering to device-level systems constraints by allowing each participating device to perform a variable amount of work (systems heterogeneity). Practically, we demonstrate that FedProx allows for more robust convergence than FedAvg across a suite of realistic federated datasets. FedProx，解决联邦网络中的异质性问题。FedProx可以被看作是FedAvg的概括和重新参数化，FedAvg是目前最先进的联邦学习方法。虽然这种重新参数化只对方法本身做了微小的修改，但这些修改在理论和实践上都有重要的影响。在理论上，我们为我们的框架提供了收敛保证，当对来自非相同分布的数据进行学习时（统计异质性），同时通过允许每个参与的设备执行不同数量的工作（系统异质性）来遵守设备级别的系统约束。在实践中，我们证明了FedProx比FedAvg在一系列现实的联邦数据集中能实现更稳健的收敛。
 [^System_Design]: We have built a scalable production system for Federated Learning in the domain of mobile devices, based on TensorFlow. In this paper, we describe the resulting high-level design, sketch some of the challenges and their solutions, and touch upon the open problems and future directions. 我们已经为移动设备领域的联邦学习建立了一个可扩展的生产系统，基于TensorFlow。在本文中，我们描述了由此产生的高层次设计，概述了一些挑战和它们的解决方案，并谈到了开放的问题和未来的方向。
 
+[^FHDnn]: Transmission costs, unreliable networks and limited compute power all of which are typical characteristics of IoT networks pose a severe bottleneck for federated learning. FHDnn, a synergetic federated learning framework that combines the salient aspects of CNNs and Hyperdimensional Computing. FHDnn performs hyperdimensional learning on features extracted from a self-supervised contrastive learning framework to accelerate training, lower communication costs, and increase robustness to network errors by avoiding the transmission of the CNN and training only the hyperdimensional component. 传输成本、不可靠的网络和有限的计算能力都是物联网网络的典型特征，这对联邦学习构成了严重的瓶颈。FHDnn是一个协同联邦学习框架，它结合了CNN和多维的计算的重要方面。FHDnn对从自监督对比学习框架中提取的特征进行多维的学习，以加速训练，降低通信成本，并通过避免CNN的传输和仅训练多维的组件来提高对网络错误的鲁棒性。
+[^HADFL]: HADFL, a framework that supports decentralized asynchronous training on heterogeneous devices. The devices train model locally with heterogeneity-aware local steps using local data. In each aggregation cycle, they are selected based on probability to perform model synchronization and aggregation. Compared with the traditional FL system, HADFL can relieve the central server’s communication pressure, efficiently utilize heterogeneous computing power. HADFL是一个在异构设备上支持分布式异步训练的框架。设备利用本地数据，采用异质性感知局部步长进行模型局部训练。在每个聚合周期中，根据概率选择它们以执行模型同步和聚合。与传统的FL系统相比，HADFL可以减轻中心服务器的通信压力，有效利用异构计算能力。
+[^Helios]: Helios – a heterogeneity-aware FL framework to tackle the straggler issue. Helios identifies individual devices’ heterogeneous training capability, and therefore the expected neural network model training volumes regarding the collaborative training pace. For straggling devices, a “softtraining” method is proposed to dynamically compress the original identical training model into the expected volume through a rotated neuron training approach. Helios--一个异质性感知的FL框架，用于解决散兵游勇问题。Helios可以识别单个设备的异质性训练能力，因此关于协作训练步伐的预期神经网络模型训练量。对于散兵游勇的设备，提出了一种 "软训练 "方法，通过旋转神经元的训练方法，将原来相同的训练模型动态地压缩到预期的体积中。
+[^FedLight]: A novel federated reinforcement learning approach named FedLight to enable optimal signal control policy generation for multi-intersection traffic scenarios. Inspired by federated learning, our approach supports knowledge sharing among RL(Reinforcement Learning) agents, whose models are trained using decentralized traffic data at intersections. 一种名为FedLight的新型联合强化学习方法，能够为多交叉口交通场景生成最佳信号控制政策。受联合学习的启发，我们的方法支持RL（强化学习）代理之间的知识共享，这些代理的模型是用分散的交叉口交通数据训练的。
 
 <!-- END:reference-section -->
