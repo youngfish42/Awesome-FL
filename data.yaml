@@ -7524,6 +7524,7 @@ fl-in-top-system-conference-and-journal:
       the expected volume through a rotated neuron training approach. Helios--一个异质性感知的FL框架，用于解决散兵游勇问题。Helios可以识别单个设备的异质性训练能力，因此关于协作训练步伐的预期神经网络模型训练量。对于散兵游勇的设备，提出了一种
       "软训练 "方法，通过旋转神经元的训练方法，将原来相同的训练模型动态地压缩到预期的体积中。'
     materials:
+      PDF: https://arxiv.org/abs/1912.01684
       PUB: https://ieeexplore.ieee.org/document/9586241
   - title: 'FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection
       Traffic Signal Control.'
