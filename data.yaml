@@ -7312,6 +7312,21 @@ fl-in-top-system-conference-and-journal:
     tldr: 35
     materials: 60
   body:
+  - title: 'FHDnn: communication efficient and robust federated learning for AIoT
+      networks'
+    affiliation: UC San Diego
+    venue: DAC
+    year: '2022'
+    tldr: 'FHDnn: Transmission costs, unreliable networks and limited compute power
+      all of which are typical characteristics of IoT networks pose a severe bottleneck
+      for federated learning. FHDnn, a synergetic federated learning framework that
+      combines the salient aspects of CNNs and Hyperdimensional Computing. FHDnn performs
+      hyperdimensional learning on features extracted from a self-supervised contrastive
+      learning framework to accelerate training, lower communication costs, and increase
+      robustness to network errors by avoiding the transmission of the CNN and training
+      only the hyperdimensional component. 传输成本、不可靠的网络和有限的计算能力都是物联网网络的典型特征，这对联邦学习构成了严重的瓶颈。FHDnn是一个协同联邦学习框架，它结合了CNN和多维的计算的重要方面。FHDnn对从自监督对比学习框架中提取的特征进行多维的学习，以加速训练，降低通信成本，并通过避免CNN的传输和仅训练多维的组件来提高对网络错误的鲁棒性。'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3489517.3530394
   - title: 'FedGraph: Federated Graph Learning with Intelligent Sampling'
     affiliation: UoA
     venue: TPDS
@@ -7483,6 +7498,45 @@ fl-in-top-system-conference-and-journal:
       PDF: https://arxiv.org/abs/2109.14236
       PUB: https://proceedings.mlsys.org/paper/2022/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html
       CODE: https://github.com/LightSecAgg/MLSys2022_anonymous
+  - title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework'
+    affiliation: USTC
+    venue: DAC
+    year: '2021'
+    tldr: 'HADFL: HADFL, a framework that supports decentralized asynchronous training
+      on heterogeneous devices. The devices train model locally with heterogeneity-aware
+      local steps using local data. In each aggregation cycle, they are selected based
+      on probability to perform model synchronization and aggregation. Compared with
+      the traditional FL system, HADFL can relieve the central server’s communication
+      pressure, efficiently utilize heterogeneous computing power. HADFL是一个在异构设备上支持分布式异步训练的框架。设备利用本地数据，采用异质性感知局部步长进行模型局部训练。在每个聚合周期中，根据概率选择它们以执行模型同步和聚合。与传统的FL系统相比，HADFL可以减轻中心服务器的通信压力，有效利用异构计算能力。'
+    materials:
+      PDF: https://arxiv.org/abs/2111.08274
+      PUB: https://ieeexplore.ieee.org/document/9586101
+  - title: 'Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced
+      Collaboration.'
+    affiliation: GMU
+    venue: DAC
+    year: '2021'
+    tldr: 'Helios: Helios – a heterogeneity-aware FL framework to tackle the straggler
+      issue. Helios identifies individual devices’ heterogeneous training capability,
+      and therefore the expected neural network model training volumes regarding the
+      collaborative training pace. For straggling devices, a “softtraining” method
+      is proposed to dynamically compress the original identical training model into
+      the expected volume through a rotated neuron training approach. Helios--一个异质性感知的FL框架，用于解决散兵游勇问题。Helios可以识别单个设备的异质性训练能力，因此关于协作训练步伐的预期神经网络模型训练量。对于散兵游勇的设备，提出了一种
+      "软训练 "方法，通过旋转神经元的训练方法，将原来相同的训练模型动态地压缩到预期的体积中。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9586241
+  - title: 'FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection
+      Traffic Signal Control.'
+    affiliation: ECNU
+    venue: DAC
+    year: '2021'
+    tldr: 'FedLight: A novel federated reinforcement learning approach named FedLight
+      to enable optimal signal control policy generation for multi-intersection traffic
+      scenarios. Inspired by federated learning, our approach supports knowledge sharing
+      among RL(Reinforcement Learning) agents, whose models are trained using decentralized
+      traffic data at intersections. 一种名为FedLight的新型联合强化学习方法，能够为多交叉口交通场景生成最佳信号控制政策。受联合学习的启发，我们的方法支持RL（强化学习）代理之间的知识共享，这些代理的模型是用分散的交叉口交通数据训练的。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9586175
   - title: 'Oort: Efficient Federated Learning via Guided Participant Selection'
     affiliation: University of Michigan
     venue: OSDI
