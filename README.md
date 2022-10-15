@@ -30,16 +30,16 @@
 
 **categories**
 
-- Artificial Intelligence (IJCAI, AAAI, AISTATS)
-- Machine Learning (NeurIPS, ICML, ICLR, COLT, UAI)
+- Artificial Intelligence (IJCAI, AAAI, AISTATS, AI)
+- Machine Learning (NeurIPS, ICML, ICLR, COLT, UAI, JMLR, TPAMI)
 - Data Mining (KDD, WSDM)
 - Secure (S&P, CCS, USENIX Security, NDSS)
-- Computer Vision (ICCV, CVPR, ECCV, MM)
+- Computer Vision (ICCV, CVPR, ECCV, MM, IJCV)
 - Natural Language Processing (ACL, EMNLP, NAACL, COLING)
 - Information Retrieval (SIGIR)
 - Database (SIGMOD, ICDE, VLDB)
 - Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW)
-- System (OSDI, SOSP, ISCA, MLSys, TPDS, DAC) 
+- System (OSDI, SOSP, ISCA, MLSys, TPDS, DAC, TOCS, TOS, TCAD, TC) 
 
 
 
@@ -268,12 +268,12 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 ## fl in top ai conference and journal
 
-In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence) conference and journal, Including [IJCAI](https://dblp.org/db/conf/ijcai/index.html)(International Joint Conference on Artificial Intelligence), [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)(AAAI Conference on Artificial Intelligence), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/index.html)(Artificial Intelligence and Statistics).
+In this section, we will summarize Federated Learning papers accepted by top AI(Artificial Intelligence) conference and journal, Including [IJCAI](https://dblp.org/db/conf/ijcai/index.html)(International Joint Conference on Artificial Intelligence), [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)(AAAI Conference on Artificial Intelligence), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/index.html)(Artificial Intelligence and Statistics), [AI](https://dblp.uni-trier.de/db/journals/ai/index.html)(Artificial Intelligence).
 
 - [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A) [2022](https://ijcai-22.org/main-track-accepted-papers/),[2021](https://ijcai-21.org/program-main-track/#),[2020](https://static.ijcai.org/2020-accepted_papers.html),[2019](https://www.ijcai19.org/accepted-papers.html)
 - [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf),[2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf),[2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
-
+- [AI](https://dblp.uni-trier.de/search?q=federate%20venue%3AArtif%20Intell%3A) NULL
 
 <!-- START:fl-in-top-ai-conference-and-journal -->
 
@@ -369,18 +369,21 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 
 ## fl in top ml conference and journal
 
-In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference and journal, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations), [COLT](https://dblp.org/db/conf/colt/index.html)(Annual Conference Computational Learning Theory) and [UAI](https://dblp.org/db/conf/uai/index.html)(Conference on Uncertainty in Artificial Intelligence).
+In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference and journal, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations), [COLT](https://dblp.org/db/conf/colt/index.html)(Annual Conference Computational Learning Theory) , [UAI](https://dblp.org/db/conf/uai/index.html)(Conference on Uncertainty in Artificial Intelligence), [JMLR](https://dblp.uni-trier.de/db/journals/jmlr/index.html)(Journal of Machine Learning Research), [TPAMI](https://dblp.uni-trier.de/db/journals/pami/index.html)(IEEE Transactions on Pattern Analysis and Machine Intelligence).
 
 - [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) 2022, [2021](https://papers.nips.cc/paper/2021), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
 - [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 - [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) [2022](https://openreview.net/group?id=ICLR.cc/2022/Conference),[2021](https://openreview.net/group?id=ICLR.cc/2021/Conference), [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) NULL
 - [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) 2021
+- [JMLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AJ%20Mach%20Learn%20Res%3A) 2021
+- [TPAMI](https://dblp.uni-trier.de/search?q=federate%20venue%3ATrans%20Pattern%20Anal%20Mach%20Intell%3A) 2022
 
 <!-- START:fl-in-top-ml-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    TL;DR                          |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | --------------------------- | ------------------------------------------------------------ |
+|Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning | ZJU | TPAMI | 2022 | TPAMI-LAQ[^TPAMI-LAQ] | [PUB](https://ieeexplore.ieee.org/document/9238427) [code](https://github.com/sunjunaimer/TPAMI-LAQ) |
 | FedPop: A Bayesian Approach for Personalised Federated Learning | Skoltech | NeurIPS | 2022 | FedPop[^FedPop] | [[PUB](https://openreview.net/forum?id=KETwimTQexH)] [[PDF](https://arxiv.org/abs/2206.03611)] |
 | Fairness in Federated Learning via Core-Stability |  | NeurIPS | 2022 | CoreFed[^CoreFed] | [[PUB](https://openreview.net/forum?id=lKULHf7oFDo)] |
 | SecureFedYJ: a safe feature Gaussianization protocol for Federated Learning |  | NeurIPS | 2022 | SecureFedYJ[^SecureFedYJ] | [[PUB](https://openreview.net/forum?id=25XIE30VHZE)] |
@@ -477,6 +480,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 | Hybrid Local SGD for Federated Learning with Heterogeneous Communications | University of Texas; Pennsylvania State University | ICLR | 2022 |  | [[PUB](https://openreview.net/forum?id=H0oaWl6THa)] |
 | On Bridging Generic and Personalized Federated Learning for Image Classification | The Ohio State University | ICLR | 2022 | Fed-RoD[^Fed-RoD] | [[PUB](https://openreview.net/forum?id=I1hQbx10Kxn)] [[PDF](https://arxiv.org/abs/2107.00778)] [[CODE](https://github.com/hongyouc/Fed-RoD)] |
 | Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond | KAIST; MIT | ICLR | 2022 |  | [[PUB](https://openreview.net/forum?id=LdlwbBP2mlq)] [[PDF](https://arxiv.org/abs/2110.10342)] |
+| One-Shot Federated Learning: Theoretical Limits and Algorithms to Achieve Them. |  | JMLR | 2021 | | [PUB](http://jmlr.org/papers/v22/19-1048.html) [code](https://github.com/sabersalehk/MRE_C) |
 | Constrained differentially private federated learning for low-bandwidth devices |  | UAI | 2021 |  | [[PUB](https://proceedings.mlr.press/v161/kerkouche21a.html)] [[PDF](https://arxiv.org/abs/2103.00342)] |
 | Federated stochastic gradient Langevin dynamics |  | UAI | 2021 |  | [[PUB](https://proceedings.mlr.press/v161/mekkaoui21a.html)] [[PDF](https://arxiv.org/abs/2004.11231)] |
 | Federated Learning Based on Dynamic Regularization | BU; ARM | ICLR | 2021 |  | [[PUB](https://openreview.net/forum?id=B7v4QMR6Z9w)] [[PDF](https://arxiv.org/abs/2111.04263)] [[CODE](https://github.com/AntixK/FedDyn)] |
@@ -657,12 +661,13 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 
 ## fl in top cv conference and journal
 
-In this section, we will summarize Federated Learning papers accepted by top CV(computer vision) conference and journal, Including [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/index.html)(Computer Vision and Pattern Recognition), [ICCV](https://dblp.uni-trier.de/db/conf/iccv/index.html)(IEEE International Conference on Computer Vision), [ECCV](https://dblp.uni-trier.de/db/conf/eccv/index.html)(European Conference on Computer Vision), [MM](https://dblp.org/db/conf/mm/index.html)(ACM International Conference on Multimedia).
+In this section, we will summarize Federated Learning papers accepted by top CV(computer vision) conference and journal, Including [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/index.html)(Computer Vision and Pattern Recognition), [ICCV](https://dblp.uni-trier.de/db/conf/iccv/index.html)(IEEE International Conference on Computer Vision), [ECCV](https://dblp.uni-trier.de/db/conf/eccv/index.html)(European Conference on Computer Vision), [MM](https://dblp.org/db/conf/mm/index.html)(ACM International Conference on Multimedia), [IJCV](https://dblp.uni-trier.de/db/journals/ijcv/index.html)(International Journal of Computer Vision).
 
 - [CVPR](https://dblp.uni-trier.de/search?q=federate%20venue%3ACVPR%3A) [2022](https://openaccess.thecvf.com/CVPR2022), [2021](https://openaccess.thecvf.com/CVPR2021?day=all)
 - [ICCV](https://dblp.uni-trier.de/search?q=federate%20venue%3AICCV%3A) [2021](https://openaccess.thecvf.com/ICCV2021?day=all)
 - [ECCV](https://dblp.uni-trier.de/search?q=federate%20venue%3AECCV%3A) 2022, [2020](https://www.ecva.net/papers.php)
 - [MM](https://dblp.uni-trier.de/search?q=federate%20venue%3AACM%20Multimedia%3A) [2021](https://2021.acmmm.org/main-track-list), [2020](https://2020.acmmm.org/main-track-list.html)
+- [IJCV](https://dblp.uni-trier.de/search?q=federate%20venue%3AInt%20J%20Comput%20Vis%3A) NULL
 
 <!-- START:fl-in-top-cv-conference-and-journal -->
 
@@ -865,7 +870,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 ## fl in top system conference and journal
 
-In this section, we will summarize Federated Learning papers accepted by top Database conference and journal, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems), [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)(IEEE Transactions on Parallel and Distributed Systems), [DAC](https://dblp.uni-trier.de/db/conf/dac/index.html)(Design Automation Conference).
+In this section, we will summarize Federated Learning papers accepted by top Database conference and journal, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems), [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)(IEEE Transactions on Parallel and Distributed Systems), [DAC](https://dblp.uni-trier.de/db/conf/dac/index.html)(Design Automation Conference), [TOCS](https://dblp.uni-trier.de/db/journals/tocs/index.html)(ACM Transactions on Computer Systems), [TOS](https://dblp.uni-trier.de/db/journals/tos/index.html)(ACM Transactions on Storage), [TCAD](https://dblp.uni-trier.de/db/journals/tcad/index.html)(IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems), [TC](https://dblp.uni-trier.de/db/journals/tc/index.html)(IEEE Transactions on Computers).
 
 - [OSDI](https://dblp.org/search?q=federated%20venue%3AOSDI%3A) 2021
 - [SOSP](https://dblp.org/search?q=federated%20venue%3ASOSP%3A) 2021
@@ -873,12 +878,19 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [MLSys](https://dblp.org/search?q=federated%20venue%3AMLSys%3A) 2022, 2020, 2019
 - [TPDS](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Parallel%20Distributed%20Syst.%3A) 2022, 2021, 2020
 - [DAC](https://dblp.uni-trier.de/search?q=federate%20venue%3ADAC%3A) 2022, 2021
-
+- [TOCS](https://dblp.uni-trier.de/search?q=federate%20venue%3AACM%20Trans%20Comput%20Syst%3A) NULL
+- [TOS](https://dblp.uni-trier.de/search?q=federate%20venue%3A%20ACM%20Trans%20Storage%3A) NULL
+- [TCAD](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans%20Comput%20Aided%20Des%20Integr%20Circuits%20Syst%3A) 2022, 2021
+- [TC](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Computers%3A) 2022, 2021
 
 <!-- START:fl-in-top-system-conference-and-journal -->
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
+|BAFL: A Blockchain-Based Asynchronous Federated Learning Framework |  | TC | 2022 |  | [PUB](https://ieeexplore.ieee.org/document/9399813/) [CODE](https://github.com/xuchenhao001/AFL) |
+|L4L: Experience-Driven Computational Resource Control in Federated Learning |  | TC | 2022 |  | [PUB](https://ieeexplore.ieee.org/document/9384231) |
+|Adaptive Federated Learning on Non-IID Data With Resource Constraint |  | TC | 2022 |  | [PUB](https://ieeexplore.ieee.org/document/9496155) |
+|Client Scheduling and Resource Management for Efficient Training in Heterogeneous IoT-Edge Federated Learning | ECNU | TCAD | 2022 |  | [PUB](https://ieeexplore.ieee.org/document/9530450) |
 | FHDnn: communication efficient and robust federated learning for AIoT networks | UC San Diego | DAC | 2022 | FHDnn[^FHDnn] | [[PUB](https://dl.acm.org/doi/10.1145/3489517.3530394)] |
 | FedGraph: Federated Graph Learning with Intelligent Sampling | UoA | TPDS | 2022 | FedGraph[^FedGraph] | [[PUB](https://ieeexplore.ieee.org/abstract/document/9606516/)] [[CODE](https://github.com/cfh19980612/FedGraph)] [[解读](https://zhuanlan.zhihu.com/p/442233479)] |
 | AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning. | THU | TPDS | 2022 | AUCTION[^AUCTION] | [[PUB](https://ieeexplore.ieee.org/document/9647925)] |
@@ -898,6 +910,8 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | Communication-Efficient Federated Learning With Compensated Overlap-FedAvg. | SCU | TPDS | 2022 | Overlap-FedAvg[^Overlap-FedAvg] | [[PUB](https://ieeexplore.ieee.org/document/9459540)] [[PDF](https://arxiv.org/abs/2012.06706)] [[CODE](https://github.com/Soptq/Overlap-FedAvg)] |
 | PAPAYA: Practical, Private, and Scalable Federated Learning. | Meta AI | MLSys | 2022 | PAPAYA[^PAPAYA] | [[PDF](https://arxiv.org/abs/2111.04877)] [[PUB](https://proceedings.mlsys.org/paper/2022/hash/f340f1b1f65b6df5b5e3f94d95b11daf-Abstract.html)] |
 | LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning | USC | MLSys | 2022 | LightSecAgg[^LightSecAgg] | [[PDF](https://arxiv.org/abs/2109.14236)] [[PUB](https://proceedings.mlsys.org/paper/2022/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html)] [[CODE](https://github.com/LightSecAgg/MLSys2022_anonymous)] |
+| SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low Overhead | University of Warwick | TC | 2021 | SAFA[^SAFA] | [PDF](https://arxiv.org/abs/1910.01355) [PUB](https://ieeexplore.ieee.org/document/9093123) [CODE](https://github.com/wingter562/SAFA) |
+| Efficient Federated Learning for Cloud-Based AIoT Applications | ECNU | TCAD | 2021 |  | [PUB](https://ieeexplore.ieee.org/document/9302596) |
 | HADFL: Heterogeneity-aware Decentralized Federated Learning Framework | USTC | DAC | 2021 | HADFL[^HADFL] | [[PDF](https://arxiv.org/abs/2111.08274)] [[PUB](https://ieeexplore.ieee.org/document/9586101)] |
 | Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced Collaboration. | GMU | DAC | 2021 | Helios[^Helios] | [[PDF](https://arxiv.org/abs/1912.01684)] [[PUB](https://ieeexplore.ieee.org/document/9586241)] |
 | FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control. | ECNU | DAC | 2021 | FedLight[^FedLight] | [[PUB](https://ieeexplore.ieee.org/document/9586175)] |
@@ -1155,6 +1169,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/10/16 -  add AI, JMLR, TPAMI, IJCV, TOCS, TOS, TCAD, TC papers*
 - *2022/10/13 -  add DAC papers*
 - *2022/10/09 -  add MobiCom 2022 paper*
 - *2022/09/19 -  add NeurIPS 2022 papers*
@@ -1621,5 +1636,7 @@ Many thanks :heart: to the other awesome list:
 [^FedProx]: FedProx, to tackle heterogeneity in federated networks. FedProx can be viewed as a generalization and re-parametrization of FedAvg, the current state-of-the-art method for federated learning. While this re-parameterization makes only minor modifications to the method itself, these modifications have important ramifications both in theory and in practice. Theoretically, we provide convergence guarantees for our framework when learning over data from non-identical distributions (statistical heterogeneity), and while adhering to device-level systems constraints by allowing each participating device to perform a variable amount of work (systems heterogeneity). Practically, we demonstrate that FedProx allows for more robust convergence than FedAvg across a suite of realistic federated datasets. FedProx，解决联邦网络中的异质性问题。FedProx可以被看作是FedAvg的概括和重新参数化，FedAvg是目前最先进的联邦学习方法。虽然这种重新参数化只对方法本身做了微小的修改，但这些修改在理论和实践上都有重要的影响。在理论上，我们为我们的框架提供了收敛保证，当对来自非相同分布的数据进行学习时（统计异质性），同时通过允许每个参与的设备执行不同数量的工作（系统异质性）来遵守设备级别的系统约束。在实践中，我们证明了FedProx比FedAvg在一系列现实的联邦数据集中能实现更稳健的收敛。
 [^System_Design]: We have built a scalable production system for Federated Learning in the domain of mobile devices, based on TensorFlow. In this paper, we describe the resulting high-level design, sketch some of the challenges and their solutions, and touch upon the open problems and future directions. 我们已经为移动设备领域的联邦学习建立了一个可扩展的生产系统，基于TensorFlow。在本文中，我们描述了由此产生的高层次设计，概述了一些挑战和它们的解决方案，并谈到了开放的问题和未来的方向。
 
+[^TPAMI-LAQ]: This paper focuses on communication-efficient federated learning problem, and develops a novel distributed quantized gradient approach, which is characterized by adaptive communications of the quantized gradients. The key idea to save communications from the worker to the server is to quantize gradients as well as skip less informative quantized gradient communications by reusing previous gradients. Quantizing and skipping result in ‘lazy’ worker-server communications, which justifies the term Lazily Aggregated Quantized (LAQ) gradient. Theoretically, the LAQ algorithm achieves the same linear convergence as the gradient descent in the strongly convex case, while effecting major savings in the communication in terms of transmitted bits and communication rounds . 本文围绕通信高效的联邦学习问题，发展了一种新的分布式量化梯度方法，其特点是量化梯度的自适应通信。保存工作者到服务器之间的通信的关键思想是量化梯度，并通过重用先前的梯度跳过信息量较少的量化梯度通信。量化和跳过会导致"懒惰"的工作者-服务器通信，这就证明了Lazily Aggregate Quantized (LAQ)梯度一词的合理性。理论上，LAQ算法在强凸的情况下实现了与梯度下降相同的线性收敛，同时在传输比特数和通信轮数方面大大节省了通信开销。
+[^SAFA]: SAFA, a semi-asynchronous FL protocol, to address the problems in federated learning such as low round efficiency and poor convergence rate in extreme conditions (e.g., clients dropping offline frequently). We introduce novel designs in the steps of model distribution, client selection and global aggregation to mitigate the impacts of stragglers, crashes and model staleness in order to boost efficiency and improve the quality of the global model. SAFA是一个半异步的FL协议，用于解决联合学习中的问题，如在极端条件下（如客户端频繁掉线），回合效率低和收敛率差。我们在模型分配、客户端选择和全局聚合等步骤中引入了新的设计，以减轻散兵游勇、崩溃和模型呆滞的影响，从而提高效率并改善全局模型的质量。
 
 <!-- END:reference-section -->
