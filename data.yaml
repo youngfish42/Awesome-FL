@@ -2850,6 +2850,26 @@ fl-in-top-ml-conference-and-journal:
     tldr: 27
     materials: 60
   body:
+  - title: Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient
+      Federated Learning
+    affiliation: ZJU
+    venue: TPAMI
+    year: '2022'
+    tldr: 'TPAMI-LAQ: This paper focuses on communication-efficient federated learning
+      problem, and develops a novel distributed quantized gradient approach, which
+      is characterized by adaptive communications of the quantized gradients. The
+      key idea to save communications from the worker to the server is to quantize
+      gradients as well as skip less informative quantized gradient communications
+      by reusing previous gradients. Quantizing and skipping result in ‘lazy’ worker-server
+      communications, which justifies the term Lazily Aggregated Quantized (LAQ) gradient.
+      Theoretically, the LAQ algorithm achieves the same linear convergence as the
+      gradient descent in the strongly convex case, while effecting major savings
+      in the communication in terms of transmitted bits and communication rounds .
+      本文围绕通信高效的联邦学习问题，发展了一种新的分布式量化梯度方法，其特点是量化梯度的自适应通信。保存工作者到服务器之间的通信的关键思想是量化梯度，并通过重用先前的梯度跳过信息量较少的量化梯度通信。量化和跳过会导致"懒惰"的工作者-服务器通信，这就证明了Lazily
+      Aggregate Quantized (LAQ)梯度一词的合理性。理论上，LAQ算法在强凸的情况下实现了与梯度下降相同的线性收敛，同时在传输比特数和通信轮数方面大大节省了通信开销。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9238427
+      CODE: https://github.com/sunjunaimer/TPAMI-LAQ
   - title: 'FedPop: A Bayesian Approach for Personalised Federated Learning'
     affiliation: Skoltech
     venue: NeurIPS
@@ -3986,6 +4006,15 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=LdlwbBP2mlq
       PDF: https://arxiv.org/abs/2110.10342
+  - title: 'One-Shot Federated Learning: Theoretical Limits and Algorithms to Achieve
+      Them.'
+    affiliation: ''
+    venue: JMLR
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: http://jmlr.org/papers/v22/19-1048.html
+      CODE: https://github.com/sabersalehk/MRE_C
   - title: Constrained differentially private federated learning for low-bandwidth
       devices
     affiliation: ''
@@ -7312,6 +7341,36 @@ fl-in-top-system-conference-and-journal:
     tldr: 35
     materials: 60
   body:
+  - title: 'BAFL: A Blockchain-Based Asynchronous Federated Learning Framework'
+    affiliation: ''
+    venue: TC
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9399813/
+      CODE: https://github.com/xuchenhao001/AFL
+  - title: 'L4L: Experience-Driven Computational Resource Control in Federated Learning'
+    affiliation: ''
+    venue: TC
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9384231
+  - title: Adaptive Federated Learning on Non-IID Data With Resource Constraint
+    affiliation: ''
+    venue: TC
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9496155
+  - title: Client Scheduling and Resource Management for Efficient Training in Heterogeneous
+      IoT-Edge Federated Learning
+    affiliation: ECNU
+    venue: TCAD
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9530450
   - title: 'FHDnn: communication efficient and robust federated learning for AIoT
       networks'
     affiliation: UC San Diego
@@ -7498,6 +7557,28 @@ fl-in-top-system-conference-and-journal:
       PDF: https://arxiv.org/abs/2109.14236
       PUB: https://proceedings.mlsys.org/paper/2022/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html
       CODE: https://github.com/LightSecAgg/MLSys2022_anonymous
+  - title: 'SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low
+      Overhead'
+    affiliation: University of Warwick
+    venue: TC
+    year: '2021'
+    tldr: 'SAFA: SAFA, a semi-asynchronous FL protocol, to address the problems in
+      federated learning such as low round efficiency and poor convergence rate in
+      extreme conditions (e.g., clients dropping offline frequently). We introduce
+      novel designs in the steps of model distribution, client selection and global
+      aggregation to mitigate the impacts of stragglers, crashes and model staleness
+      in order to boost efficiency and improve the quality of the global model. SAFA是一个半异步的FL协议，用于解决联合学习中的问题，如在极端条件下（如客户端频繁掉线），回合效率低和收敛率差。我们在模型分配、客户端选择和全局聚合等步骤中引入了新的设计，以减轻散兵游勇、崩溃和模型呆滞的影响，从而提高效率并改善全局模型的质量。'
+    materials:
+      PDF: https://arxiv.org/abs/1910.01355
+      PUB: https://ieeexplore.ieee.org/document/9093123
+      CODE: https://github.com/wingter562/SAFA
+  - title: Efficient Federated Learning for Cloud-Based AIoT Applications
+    affiliation: ECNU
+    venue: TCAD
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9302596
   - title: 'HADFL: Heterogeneity-aware Decentralized Federated Learning Framework'
     affiliation: USTC
     venue: DAC
