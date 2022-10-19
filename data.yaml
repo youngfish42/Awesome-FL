@@ -1269,6 +1269,13 @@ fl-on-tabular-data:
       PUB: https://proceedings.mlr.press/v151/shen22a.html
       PDF: https://arxiv.org/abs/2103.06972
       CODE: https://github.com/shenzebang/Federated-Learning-Pytorch
+  - title: 'Federated Learning for Tabular Data: Exploring Potential Risk to Privacy'
+    affiliation: Newcastle University
+    venue: ISSRE
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2210.06856
   - title: Federated Random Forests can improve local performance of predictive models
       for various healthcare applications
     affiliation: University of Marburg
