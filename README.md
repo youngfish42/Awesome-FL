@@ -628,7 +628,7 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 In this section, we will summarize Federated Learning papers accepted by top Secure conference and journal, Including [S&P](https://dblp.uni-trier.de/db/conf/sp/index.html)(IEEE Symposium on Security and Privacy), [CCS](https://dblp.uni-trier.de/db/conf/ccs/index.html)(Conference on Computer and Communications Security), [USENIX Security](https://dblp.uni-trier.de/db/conf/uss/index.html)(Usenix Security Symposium) and [NDSS](https://dblp.uni-trier.de/db/conf/ndss/index.html)(Network and Distributed System Security Symposium).
 
 - [S&P](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Symposium%20on%20Security%20and%20Privacy%3A) [2022](https://www.ieee-security.org/TC/SP2022/program-papers.html), [2019](https://www.ieee-security.org/TC/SP2019/program-papers.html)
-- [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) 2022,  [2021](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [2019](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/), [2017](https://acmccs.github.io/papers/)
+- [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) [2022](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html),  [2021](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [2019](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/), [2017](https://acmccs.github.io/papers/)
 - [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A) [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [2020](https://www.usenix.org/conference/usenixsecurity20/technical-sessions)
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) [2022](https://www.ndss-symposium.org/ndss2022/accepted-papers/), [2021](https://www.ndss-symposium.org/ndss2021/accepted-papers/)
 
@@ -636,6 +636,9 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    TL;DR                                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|CERBERUS: Exploring Federated Prediction of Security Events | UCL London | CCS | 2022 |  | [PDF](https://arxiv.org/abs/2209.03050) |
+|EIFFeL: Ensuring Integrity for Federated Learning | UW-Madison | CCS | 2022 |  | [pdf](https://arxiv.org/abs/2112.12727) |
+|Eluding Secure Aggregation in Federated Learning via Model Inconsistency | SPRING Lab; EPFL | CCS | 2022 |  | [pdf](https://arxiv.org/abs/2111.07380) [code](https://github.com/pasquini-dario/eludingsecureaggregation) |
 | Federated Boosted Decision Trees with Differential Privacy | University of Warwick | CCS | 2022 |  | [[PDF](https://arxiv.org/abs/2210.02910)] [[CODE](https://github.com/Samuel-Maddock/federated-boosted-dp-trees)] |
 | Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy | Fudan University | S&P | 2023 | PEA[^PEA] | [[PDF](https://arxiv.org/abs/2208.08662)] |
 | Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning | University of Massachusetts | S&P | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9833647/)] [[VIDEO](https://www.youtube.com/watch?v=tQv3CpxIyvs)] |
@@ -1170,6 +1173,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/10/20 -  add CCS 2022 papers*
 - *2022/10/16 -  add AI, JMLR, TPAMI, IJCV, TOCS, TOS, TCAD, TC papers*
 - *2022/10/13 -  add DAC papers*
 - *2022/10/09 -  add MobiCom 2022 paper*
