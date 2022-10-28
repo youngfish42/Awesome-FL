@@ -74,7 +74,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | SemiGraphFL: Semi-supervised Graph Federated Learning for Graph Classification. | PKU | PPSN | 2022 | SemiGraphFL[^SemiGraphFL] | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_33)] |
 | A federated graph neural network framework for privacy-preserving personalization | THU | Nature Communications | 2022 | FedPerGNN[^FedPerGNN] | [[PUB](https://www.nature.com/articles/s41467-022-30714-9)] [[CODE](https://github.com/wuch15/FedPerGNN)] [[解读](https://zhuanlan.zhihu.com/p/487383715)] |
 | Malicious Transaction Identification in Digital Currency via Federated Graph Deep Learning | BIT | INFOCOM Workshops | 2022 | GraphSniffer[^GraphSniffer] | [[PUB](https://ieeexplore.ieee.org/document/9797992/)] |
-| Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** | Lehigh University | ACL Workshop | 2022 | FedR[^FedR] | [[PDF](https://arxiv.org/abs/2203.09553)] [[CODE](https://github.com/taokz/FedR)] |
+| Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** | Lehigh University | EMNLP | 2022 | FedR[^FedR] | [[PDF](https://arxiv.org/abs/2203.09553)] [[CODE](https://github.com/taokz/FedR)] |
 | FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks | CMU | CIKM Workshop (Oral) | 2022 | FedGCN[^FedGCN] | [[PDF](https://arxiv.org/abs/2201.12433)] [[CODE](https://github.com/yh-yao/FedGCN)] |
 | Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications **`surv.`** | University of Virginia | CIKM Workshop (Oral) | 2022 | FGML[^FGML] | [[PDF](https://arxiv.org/abs/2207.11812)] |
 | Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets. |  | MICCAI Workshop | 2022 |  | [[PDF](https://arxiv.org/abs/2209.06032)] [[CODE](https://github.com/basiralab/reproducibleFedGNN)] |
@@ -729,13 +729,21 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 
 - [ACL](https://dblp.uni-trier.de/search?q=federate%20venue%3AACL%3A) [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
 - [NAACL](https://dblp.uni-trier.de/search?q=federate%20venue%3ANAACL-HLT%3A) [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
-- [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
+- [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) 2022, [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
 - [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2020](https://aclanthology.org/events/coling-2020/)
 
 <!-- START:fl-in-top-nlp-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                          |    Venue             |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------- | -------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
+|Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation |  | EMNLP | 2022 |  | [PDF](https://arxiv.org/abs/2210.06894) |
+|Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** | Lehigh University | EMNLP          | 2022 | FedR[^FedR]                         | [[PDF](https://arxiv.org/abs/2203.09553)] [[CODE](https://github.com/taokz/FedR)] |
+|Federated Continual Learning for Text Classification via Selective Inter-client Transfer |  | EMNLP | 2022 |  | [pdf](https://arxiv.org/abs/2210.06101) [code](https://github.com/raipranav/fcl-fedseit) |
+|Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient Ensembling |  | EMNLP | 2022 |  | [pdf](https://arxiv.org/abs/2204.14017) |
+|Federated Model Decomposition with Private Vocabulary for Text Classification |  | EMNLP | 2022 |  | [code](https://github.com/SMILELab-FL/FedVocab) |
+|Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification |  | EMNLP | 2022 |  | [pub](https://openreview.net/forum?id=rVgVJ9eWxM9) |
+|A Federated Approach to Predicting Emojis in Hindi Tweets |  | EMNLP | 2022 |  | |
+|Fair NLP  Models with Differentially Private Text Encoders |  | EMNLP | 2022 |  | [pub](https://openreview.net/forum?id=BVgNSki6q1c) [pdf](https://arxiv.org/abs/2205.06135) [code](https://github.com/saist1993/dpnlp) |
 | Scaling Language Model Size in Cross-Device Federated Learning | Google | ACL workshop | 2022 | SLM-FL[^SLM-FL] | [[PUB](https://aclanthology.org/2022.fl4nlp-1.2/)] [[PDF](https://arxiv.org/abs/2204.09715)] |
 | Intrinsic Gradient Compression for Scalable and Efficient Federated Learning | Oxford | ACL workshop | 2022 | IGC-FL[^IGC-FL] | [[PUB](https://aclanthology.org/2022.fl4nlp-1.4/)] [[PDF](https://arxiv.org/abs/2112.02656)] |
 | ActPerFL: Active Personalized Federated Learning | Amazon | ACL workshop | 2022 | ActPerFL[^ActPerFL] | [[PUB](https://aclanthology.org/2022.fl4nlp-1.1)] [[PAGE](https://www.amazon.science/publications/actperfl-active-personalized-federated-learning)] |
@@ -1138,7 +1146,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
 ## workshops
 
-- [[CIKM'22](https://dl.acm.org/doi/10.1145/3511808.3557495)] The 1st International Workshop on Federated Learning with Graph Data (FedGraph), Atlanta, GA, USA
+- [[CIKM'22](https://sites.google.com/view/fedgraph2022/home)] The 1st International Workshop on Federated Learning with Graph Data (FedGraph), Atlanta, GA, USA
 - [[AI Technology School 2022](https://aitechnologyschool.github.io/)] Trustable, Verifiable and Auditable Artificial Intelligence, Singapore
 - [[FL-NeurIPS'22](http://federated-learning.org/fl-neurips-2022/)] International Workshop on Federated Learning: Recent Advances and New Challenges  in Conjunction with NeurIPS 2022 , New Orleans, LA, USA
 
