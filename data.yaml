@@ -224,7 +224,7 @@ fl-on-graph-data-and-graph-neural-network:
   - title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving
       Relation Embedding Aggregation **`kg.`**
     affiliation: Lehigh University
-    venue: ACL Workshop
+    venue: EMNLP
     year: '2022'
     tldr: 'FedR: In this paper, we first develop a novel attack that aims to recover
       the original data based on embedding information, which is further used to evaluate
@@ -6024,6 +6024,76 @@ fl-in-top-nlp-conference-and-journal:
     tldr: 35
     materials: 60
   body:
+  - title: 'Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise
+      Krum-Based Aggregation'
+    affiliation: ''
+    venue: EMNLP
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2210.06894
+  - title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving
+      Relation Embedding Aggregation **`kg.`**
+    affiliation: Lehigh University
+    venue: EMNLP
+    year: '2022'
+    tldr: 'FedR: In this paper, we first develop a novel attack that aims to recover
+      the original data based on embedding information, which is further used to evaluate
+      the vulnerabilities of FedE. Furthermore, we propose a Federated learning paradigm
+      with privacy-preserving Relation embedding aggregation (FedR) to tackle the
+      privacy issue in FedE. Compared to entity embedding sharing, relation embedding
+      sharing policy can significantly reduce the communication cost due to its smaller
+      size of queries. 在本文中，我们首先开发了一个新颖的攻击，旨在基于嵌入信息恢复原始数据，并进一步用于评估FedE的漏洞。此外，我们提出了一种带有隐私保护的关系嵌入聚合（FedR）的联邦学习范式，以解决FedE的隐私问题。与实体嵌入共享相比，关系嵌入共享策略由于其较小的查询规模，可以大大降低通信成本。'
+    materials:
+      PDF: https://arxiv.org/abs/2203.09553
+      CODE: https://github.com/taokz/FedR
+  - title: Federated Continual Learning for Text Classification via Selective Inter-client
+      Transfer
+    affiliation: ''
+    venue: EMNLP
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2210.06101
+      CODE: https://github.com/raipranav/fcl-fedseit
+  - title: Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient
+      Ensembling
+    affiliation: ''
+    venue: EMNLP
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2204.14017
+  - title: Federated Model Decomposition with Private Vocabulary for Text Classification
+    affiliation: ''
+    venue: EMNLP
+    year: '2022'
+    tldr: ''
+    materials:
+      CODE: https://github.com/SMILELab-FL/FedVocab
+  - title: Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint
+      Identification
+    affiliation: ''
+    venue: EMNLP
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=rVgVJ9eWxM9
+  - title: A Federated Approach to Predicting Emojis in Hindi Tweets
+    affiliation: ''
+    venue: EMNLP
+    year: '2022'
+    tldr: ''
+    materials: {}
+  - title: Fair NLP  Models with Differentially Private Text Encoders
+    affiliation: ''
+    venue: EMNLP
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=BVgNSki6q1c
+      PDF: https://arxiv.org/abs/2205.06135
+      CODE: https://github.com/saist1993/dpnlp
   - title: Scaling Language Model Size in Cross-Device Federated Learning
     affiliation: Google
     venue: ACL workshop
