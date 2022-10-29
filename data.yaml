@@ -5000,6 +5000,13 @@ fl-in-top-dm-conference-and-journal:
     tldr: 53
     materials: 60
   body:
+  - title: Federated Unlearning for On-Device Recommendation
+    affiliation: UQ
+    venue: WSDM
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2210.10958
   - title: Collaboration Equilibrium in Federated Learning
     affiliation: THU
     venue: KDD

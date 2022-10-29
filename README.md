@@ -596,7 +596,7 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 
 |Title                                                           |    Affiliation                                                   |    Venue                     |    Year    |    TL;DR                                                    |    Materials|
 | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- | ---- | ----------------------------------------------------- | ------------------------------------------------------------ |
-|Federated Unlearning for On-Device Recommendation | UQ | WSDM | 2023 |  | [PDF](https://arxiv.org/abs/2210.10958) |
+| Federated Unlearning for On-Device Recommendation | UQ | WSDM | 2023 |  | [[PDF](https://arxiv.org/abs/2210.10958)] |
 | Collaboration Equilibrium in Federated Learning | THU | KDD | 2022 | CE[^CE] | [[PDF](https://arxiv.org/abs/2108.07926)] [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539237)] [[CODE](https://github.com/cuis15/learning-to-collaborate)] |
 | Connected Low-Loss Subspace Learning for a Personalization in Federated Learning | Ulsan National Institute of Science and Technology | KDD | 2022 | SuPerFed[^SuPerFed] | [[PDF](https://arxiv.org/abs/2109.07628)] [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539254)] [[CODE](https://github.com/vaseline555/superfed)] |
 | FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal Split Networks | University of Virginia | KDD | 2022 | FedMSplit[^FedMSplit] | [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539384)] |
