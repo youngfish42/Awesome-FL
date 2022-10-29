@@ -590,12 +590,13 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 In this section, we will summarize Federated Learning papers accepted by top DM(Data Mining) conference and journal, Including [KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html)(ACM SIGKDD Conference on Knowledge Discovery and Data Mining) and [WSDM](https://dblp.uni-trier.de/db/conf/wsdm/index.html)(Web Search and Data Mining).
 
 - [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) 2022([Research Track](https://kdd.org/kdd2022/paperRT.html), [Applied Data Science track](https://kdd.org/kdd2022/paperADS.html)) , [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
-- [WSDM](https://dblp.uni-trier.de/search?q=federate%20venue%3AWSDM%3A) 2022, 2021, 2019
+- [WSDM](https://dblp.uni-trier.de/search?q=federate%20venue%3AWSDM%3A) [2023](https://www.wsdm-conference.org/2023/program/accepted-papers), [2022](https://www.wsdm-conference.org/2022/accepted-papers/), [2021](https://www.wsdm-conference.org/2021/accepted-papers.php), [2019](https://www.wsdm-conference.org/2019/accepted-papers.php)
 
 <!-- START:fl-in-top-dm-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                   |    Venue                     |    Year    |    TL;DR                                                    |    Materials|
 | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- | ---- | ----------------------------------------------------- | ------------------------------------------------------------ |
+|Federated Unlearning for On-Device Recommendation | UQ | WSDM | 2023 |  | [PDF](https://arxiv.org/abs/2210.10958) |
 | Collaboration Equilibrium in Federated Learning | THU | KDD | 2022 | CE[^CE] | [[PDF](https://arxiv.org/abs/2108.07926)] [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539237)] [[CODE](https://github.com/cuis15/learning-to-collaborate)] |
 | Connected Low-Loss Subspace Learning for a Personalization in Federated Learning | Ulsan National Institute of Science and Technology | KDD | 2022 | SuPerFed[^SuPerFed] | [[PDF](https://arxiv.org/abs/2109.07628)] [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539254)] [[CODE](https://github.com/vaseline555/superfed)] |
 | FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal Split Networks | University of Virginia | KDD | 2022 | FedMSplit[^FedMSplit] | [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539384)] |
@@ -1192,6 +1193,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/10/29 -  add WSDM paper*
 - *2022/10/20 -  add CCS, MM, ECCV 2022 papers*
 - *2022/10/16 -  add AI, JMLR, TPAMI, IJCV, TOCS, TOS, TCAD, TC papers*
 - *2022/10/13 -  add DAC papers*
