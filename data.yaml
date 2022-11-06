@@ -5361,6 +5361,39 @@ fl-in-top-secure-conference-and-journal:
     materials:
       PDF: https://arxiv.org/abs/2210.02910
       CODE: https://github.com/Samuel-Maddock/federated-boosted-dp-trees
+  - title: 'FedRecover: Recovering from Poisoning Attacks in Federated Learning using
+      Historical Information'
+    affiliation: Duke University
+    venue: S&P
+    year: '2023'
+    tldr: 'FedRecover: Federated learning is vulnerable to poisoning attacks in which
+      malicious clients poison the global model via sending malicious model updates
+      to the server. Existing defenses focus on preventing a small number of malicious
+      clients from poisoning the global model via robust federated learning methods
+      and detecting malicious clients when there are a large number of them. However,
+      it is still an open challenge how to recover the global model from poisoning
+      attacks after the malicious clients are detected. A naive solution is to remove
+      the detected malicious clients and train a new global model from scratch using
+      the remaining clients. However, such train-from-scratch recovery method incurs
+      a large computation and communication cost, which may be intolerable for resource-constrained
+      clients such as smartphones and IoT devices. In this work, we propose FedRecover,
+      a method that can recover an accurate global model from poisoning attacks with
+      a small computation and communication cost for the clients. Our key idea is
+      that the server estimates the clients’ model updates instead of asking the clients
+      to compute and communicate them during the recovery process. In particular,
+      the server stores the historical information, including the global models and
+      clients’ model updates in each round, when training the poisoned global model
+      before the malicious clients are detected. During the recovery process, the
+      server estimates a client’s model update in each round using its stored historical
+      information. Moreover, we further optimize FedRecover to recover a more accurate
+      global model using warm-up, periodic correction, abnormality fixing, and final
+      tuning strategies, in which the server asks the clients to compute and communicate
+      their exact model updates. Theoretically, we show that the global model recovered
+      by FedRecover is close to or the same as that recovered by train-from-scratch
+      under some assumptions. 联合学习很容易受到中毒攻击，即恶意客户通过向服务器发送恶意的模型更新来毒害全局模型。现有的防御措施主要是通过强大的联合学习方法来防止少量的恶意客户毒害全局模型，并在有大量的恶意客户时检测他们。然而，在检测到恶意客户后，如何从中毒攻击中恢复全局模型仍然是一个公开的挑战。一个天真的解决方案是删除检测到的恶意客户，然后用剩下的客户从头开始训练一个新的全局模型。然而，这种从头开始训练的恢复方法会产生大量的计算和通信成本，这对于资源受限的客户（如智能手机和物联网设备）来说可能是不可容忍的。在这项工作中，我们提出了FedRecover，一种可以从中毒攻击中恢复准确的全局模型的方法，而客户的计算和通信成本却很小。我们的关键想法是，服务器估计客户的模型更新，而不是要求客户在恢复过程中进行计算和通信。特别是，在恶意客户被发现之前，服务器在训练中毒的全局模型时，储存了历史信息，包括全局模型和客户在每一轮的模型更新。在恢复过程中，服务器利用其存储的历史信息估计客户在每一轮的模型更新。此外，我们进一步优化FedRecover，使用预热、定期修正、异常修复和最终调整策略来恢复更准确的全局模型，其中服务器要求客户计算并传达他们的准确模型更新。理论上，我们表明FedRecover恢复的全局模型在某些假设条件下接近或与从头开始训练恢复的模型相同。'
+    materials:
+      PUB: https://www.computer.org/csdl/proceedings-article/sp/2023/933600a326/1He7Y3q8FMY
+      PDF: https://arxiv.org/abs/2210.10936
   - title: 'Private, Efficient, and Accurate: Protecting Models Trained by Multi-party
       Learning with Differential Privacy'
     affiliation: Fudan University
@@ -5375,6 +5408,7 @@ fl-in-top-secure-conference-and-journal:
       led by differential privacy noise and the huge communication overhead of MPL,
       we propose two optimization methods for the training process of MPL. 提出一个安全差分隐私随机梯度下降协议以在基于秘密共享的安全多方学习框架中实现差分隐私随机梯度下降算法。为了降低差分隐私带来的精度损失并提升安全多方学习的效率，从安全多方学习训练过程的角度提出了两项优化方法，多方可以在MPL模型训练过程中平衡。做到隐私、效率和准确性三者之间的权衡。'
     materials:
+      PUB: https://www.computer.org/csdl/proceedings-article/sp/2023/933600a076/1He7XMLcnsc
       PDF: https://arxiv.org/abs/2208.08662
   - title: 'Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks
       on Production Federated Learning'
