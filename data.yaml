@@ -1262,6 +1262,7 @@ fl-on-tabular-data:
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3548606.3560687
       PDF: https://arxiv.org/abs/2210.02910
       CODE: https://github.com/Samuel-Maddock/federated-boosted-dp-trees
   - title: Federated Functional Gradient Boosting
@@ -5337,6 +5338,7 @@ fl-in-top-secure-conference-and-journal:
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3548606.3560580
       PDF: https://arxiv.org/abs/2209.03050
   - title: 'EIFFeL: Ensuring Integrity for Federated Learning'
     affiliation: UW-Madison
@@ -5344,6 +5346,7 @@ fl-in-top-secure-conference-and-journal:
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3548606.3560611
       PDF: https://arxiv.org/abs/2112.12727
   - title: Eluding Secure Aggregation in Federated Learning via Model Inconsistency
     affiliation: SPRING Lab; EPFL
@@ -5351,6 +5354,7 @@ fl-in-top-secure-conference-and-journal:
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3548606.3560557
       PDF: https://arxiv.org/abs/2111.07380
       CODE: https://github.com/pasquini-dario/eludingsecureaggregation
   - title: Federated Boosted Decision Trees with Differential Privacy
@@ -5359,6 +5363,7 @@ fl-in-top-secure-conference-and-journal:
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3548606.3560687
       PDF: https://arxiv.org/abs/2210.02910
       CODE: https://github.com/Samuel-Maddock/federated-boosted-dp-trees
   - title: 'FedRecover: Recovering from Poisoning Attacks in Federated Learning using
