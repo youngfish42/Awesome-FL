@@ -1433,7 +1433,7 @@ fl-on-tabular-data:
     materials:
       PUB: https://ieeexplore.ieee.org/document/9440789/
       PDF: https://arxiv.org/abs/1901.08755
-      SLIDES: https://fate.readthedocs.io/en/latest/resources/SecureBoost-ijcai2019-workshop.pdf
+      SLIDE: https://fate.readthedocs.io/en/latest/resources/SecureBoost-ijcai2019-workshop.pdf
       CODE: https://github.com/FederatedAI/FATE/tree/master/python/federatedml/ensemble/secureboost
       解读: https://zhuanlan.zhihu.com/p/545739311
       UC: https://github.com/Koukyosyumei/AIJack
@@ -2593,7 +2593,7 @@ fl-in-top-ai-conference-and-journal:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/16849
       PDF: https://arxiv.org/abs/2102.01854
       VIDEO: https://www.youtube.com/watch?v=LP4uqW18yA0&ab_channel=PurdueCERIAS
-      SLIDES: https://people.duke.edu/~zg70/code/Secure_Federated_Learning.pdf
+      SLIDE: https://people.duke.edu/~zg70/code/Secure_Federated_Learning.pdf
   - title: Personalized Cross-Silo Federated Learning on Non-IID Data
     affiliation: Simon Fraser University; McMaster University
     venue: AAAI
@@ -3518,7 +3518,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://proceedings.mlr.press/v162/chen22c.html
       PDF: https://arxiv.org/abs/2203.03761
       CODE: https://github.com/google-research/federated/tree/master/private_linear_compression
-      SLIDES: https://icml.cc/media/icml-2022/Slides/17529.pdf
+      SLIDE: https://icml.cc/media/icml-2022/Slides/17529.pdf
   - title: The Poisson Binomial Mechanism for Unbiased Federated Learning with Secure
       Aggregation
     affiliation: Stanford; Google Research
@@ -3558,7 +3558,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://proceedings.mlr.press/v162/honig22a.html
       PDF: https://arxiv.org/abs/2111.00465
-      SLIDES: https://icml.cc/media/icml-2022/Slides/16009.pdf
+      SLIDE: https://icml.cc/media/icml-2022/Slides/16009.pdf
       CODE: https://media.icml.cc/Conferences/ICML2022/supplementary/honig22a-supp.zip
   - title: Accelerated Federated Learning with Decoupled Adaptive Optimization
     affiliation: Auburn University
@@ -3634,7 +3634,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://proceedings.mlr.press/v162/luo22b.html
       PDF: https://arxiv.org/abs/2206.06818
       CODE: https://github.com/luozhengquan/DFL
-      SLIDES: https://icml.cc/media/icml-2022/Slides/16881.pdf
+      SLIDE: https://icml.cc/media/icml-2022/Slides/16881.pdf
       解读: https://www.bilibili.com/read/cv17092678
   - title: Architecture Agnostic Federated Learning for Neural Networks
     affiliation: The University of Texas at Austin
@@ -3644,7 +3644,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://proceedings.mlr.press/v162/makhija22a.html
       PDF: https://proceedings.mlr.press/v162/zhang22p.html
-      SLIDES: https://icml.cc/media/icml-2022/Slides/16926.pdf
+      SLIDE: https://icml.cc/media/icml-2022/Slides/16926.pdf
   - title: Personalized Federated Learning through Local Memorization
     affiliation: Inria
     venue: ICML
@@ -3689,7 +3689,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://proceedings.mlr.press/v162/safaryan22a.html
       PDF: https://arxiv.org/abs/2106.02969
       VIDEO: https://www.youtube.com/watch?v=_VYCEWT17R0&ab_channel=FederatedLearningOneWorldSeminar
-      SLIDES: https://icml.cc/media/icml-2022/Slides/17084.pdf
+      SLIDE: https://icml.cc/media/icml-2022/Slides/17084.pdf
   - title: 'Federated Minimax Optimization: Improved Convergence Analyses and Algorithms'
     affiliation: CMU
     venue: ICML
@@ -3698,7 +3698,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://proceedings.mlr.press/v162/sharma22c.html
       PDF: https://arxiv.org/abs/2203.04850
-      SLIDES: https://icml.cc/media/icml-2022/Slides/17435.pdf
+      SLIDE: https://icml.cc/media/icml-2022/Slides/17435.pdf
   - title: 'Virtual Homogeneity Learning: Defending against Data Heterogeneity in
       Federated Learning'
     affiliation: Hong Kong Baptist University
@@ -3746,7 +3746,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://proceedings.mlr.press/v162/wang22y.html
       PDF: https://arxiv.org/abs/2110.05323
-      SLIDES: https://icml.cc/media/icml-2022/Slides/16194_hmjFNsN.pdf
+      SLIDE: https://icml.cc/media/icml-2022/Slides/16194_hmjFNsN.pdf
       CODE: https://github.com/a514514772/ProgFed
   - title: 'Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification
       :fire:'
@@ -3809,7 +3809,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://proceedings.mlr.press/v162/zhang22o.html
       PDF: https://arxiv.org/abs/2206.07977
-      SLIDES: https://icml.cc/media/icml-2022/Slides/17302.pdf
+      SLIDE: https://icml.cc/media/icml-2022/Slides/17302.pdf
       UC.: https://github.com/AllenBeau/pFedBayes
   - title: Federated Learning with Label Distribution Skew via Logits Calibration
     affiliation: ZJU
@@ -4198,7 +4198,7 @@ fl-in-top-ml-conference-and-journal:
       PDF: https://arxiv.org/abs/2011.08474
       CODE: https://github.com/hongliny/FCO-ICML21
       VIDEO: https://www.youtube.com/watch?v=tKDbc60XJks&ab_channel=FederatedLearningOneWorldSeminar
-      SLIDES: https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf
+      SLIDE: https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf
   - title: Exploiting Shared Representations for Personalized Federated Learning
     affiliation: University of Texas at Austin; University of Pennsylvania
     venue: ICML
@@ -4650,7 +4650,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://proceedings.neurips.cc/paper/2021/hash/fc03d48253286a798f5116ec00e99b2b-Abstract.html
       PAGE: https://dga.hanlab.ai/
-      SLIDES: https://dga.hanlab.ai/assets/dga_slides.pdf
+      SLIDE: https://dga.hanlab.ai/assets/dga_slides.pdf
   - title: FedDR – Randomized Douglas-Rachford Splitting Algorithms for Nonconvex
       Federated Composite Optimization
     affiliation: University of North Carolina at Chapel Hill; IBM Research
@@ -4780,7 +4780,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: http://proceedings.mlr.press/v119/malinovskiy20a.html
       PDF: https://arxiv.org/abs/2004.01442
-      SLIDES: https://icml.cc/media/Slides/icml/2020/virtual
+      SLIDE: https://icml.cc/media/Slides/icml/2020/virtual
       VIDEO: https://slideslive.com/38928320/from-local-sgd-to-local-fixed-point-methods-for-federated-learning
   - title: Acceleration for Compressed Gradient Descent in Distributed and Federated
       Optimization
@@ -5204,7 +5204,7 @@ fl-in-top-dm-conference-and-journal:
     materials:
       PAGE: https://jyhong.gitlab.io/publication/fade2021kdd/
       CODE: https://github.com/illidanlab/FADE
-      SLIDES: https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf
+      SLIDE: https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf
       PUB: https://dl.acm.org/doi/10.1145/3447548.3467281
   - title: Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling
     affiliation: USC
@@ -5441,7 +5441,7 @@ fl-in-top-secure-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/stevens
-      SLIDES: https://www.usenix.org/system/files/sec22_slides-stevens.pdf
+      SLIDE: https://www.usenix.org/system/files/sec22_slides-stevens.pdf
   - title: Label Inference Attacks Against Vertical Federated Learning
     affiliation: ZJU
     venue: USENIX Security
@@ -5449,7 +5449,7 @@ fl-in-top-secure-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong
-      SLIDES: https://www.usenix.org/system/files/sec22_slides-fu-chong.pdf
+      SLIDE: https://www.usenix.org/system/files/sec22_slides-fu-chong.pdf
       CODE: https://github.com/FuChong-cyber/label-inference-attacks
   - title: 'FLAME: Taming Backdoors in Federated Learning'
     affiliation: Technical University of Darmstadt
@@ -5458,7 +5458,7 @@ fl-in-top-secure-conference-and-journal:
     tldr: 'FLAME: TBC'
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen
-      SLIDES: https://www.usenix.org/system/files/sec22_slides-nguyen.pdf
+      SLIDE: https://www.usenix.org/system/files/sec22_slides-nguyen.pdf
       PDF: https://arxiv.org/abs/2101.02281
   - title: Local and Central Differential Privacy for Robustness and Privacy in Federated
       Learning
@@ -5512,7 +5512,7 @@ fl-in-top-secure-conference-and-journal:
       PDF: https://arxiv.org/abs/2012.13995
       CODE: https://people.duke.edu/~zg70/code/fltrust.zip
       VIDEO: https://www.youtube.com/watch?v=zhhdPgKPCN0&list=PLfUWWM-POgQvaqlGPwlOa0JR3bryB1KCS&index=2
-      SLIDES: https://people.duke.edu/~zg70/code/Secure_Federated_Learning.pdf
+      SLIDE: https://people.duke.edu/~zg70/code/Secure_Federated_Learning.pdf
   - title: 'POSEIDON: Privacy-Preserving Federated Neural Network Learning'
     affiliation: EPFL
     venue: NDSS
@@ -5541,7 +5541,7 @@ fl-in-top-secure-conference-and-journal:
       PDF: https://arxiv.org/abs/1911.11815
       CODE: https://people.duke.edu/~zg70/code/fltrust.zip
       VIDEO: https://www.youtube.com/watch?v=SQ12UpYrUVU&feature=emb_imp_woyt
-      SLIDES: https://www.usenix.org/system/files/sec20_slides_fang.pdf
+      SLIDE: https://www.usenix.org/system/files/sec20_slides_fang.pdf
   - title: A Reliable and Accountable Privacy-Preserving Federated Learning Framework
       using the Blockchain
     affiliation: University of Kansas
@@ -5567,7 +5567,7 @@ fl-in-top-secure-conference-and-journal:
     materials:
       PUB: https://www.computer.org/csdl/proceedings-article/sp/2019/666000a739/1dlwhtj4r7O
       VIDEO: https://youtu.be/lzJY4BjCxTc
-      SLIDES: https://www.ieee-security.org/TC/SP2019/SP19-Slides-pdfs/Milad_Nasr_-_08-Milad_Nasr-Comprehensive_Privacy_Analysis_of_Deep_Learning_
+      SLIDE: https://www.ieee-security.org/TC/SP2019/SP19-Slides-pdfs/Milad_Nasr_-_08-Milad_Nasr-Comprehensive_Privacy_Analysis_of_Deep_Learning_
       CODE: https://github.com/privacytrustlab/ml_privacy_meter
   - title: Practical Secure Aggregation for Privacy Preserving Machine Learning
     affiliation: Google
@@ -7271,7 +7271,7 @@ fl-in-top-network-conference-and-journal:
       with baseline defensive methods. 联邦学习(FL)容易受到梯度泄漏攻击，因为最近的研究表明，从公共共享的梯度中获取客户端的私有训练数据是可行的。现有工作通过引入同态加密、局部差分隐私等一系列隐私保护机制来防止数据泄露，从而解决了这一问题。然而，这些解决方案要么产生显著的通信和计算成本，要么产生显著的训练精度损失。在本文中，我们表明梯度变化的敏感性训练数据是一个基本的衡量信息泄漏风险。基于这一观察，我们提出了一种新的防御，其直觉是扰动梯度来匹配信息泄漏风险，这样防御开销很轻，而隐私保护足够。我们的另一个关键观察是，梯度的全局相关性可以补偿这种扰动。在这种补偿的基础上，训练可以达到有保证的精度。我们对MNIST、Fashion-MNIST和CIFAR-10进行了防御两种梯度泄漏攻击的实验。结果表明，在不牺牲准确性的情况下，与基线防御方法相比，我们的轻量级防御在两种攻击中都可以将重建图像和原始图像之间的PSNR和SSIM降低高达60%以上。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9796841/
-      SLIDES: https://jxiao.wang/slides/INFOCOM22.pdf
+      SLIDE: https://jxiao.wang/slides/INFOCOM22.pdf
   - title: 'FedFPM: A Unified Federated Analytics Framework for Collaborative Frequent
       Pattern Mining.'
     affiliation: SJTU
@@ -7508,7 +7508,7 @@ fl-in-top-network-conference-and-journal:
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3442381.3449851
       PDF: https://arxiv.org/abs/2006.06983
-      SLIDES: https://qipengwang.github.io/files/www21.slides.pdf
+      SLIDE: https://qipengwang.github.io/files/www21.slides.pdf
       CODE: https://github.com/PKU-Chengxu/FLASH
   - title: Incentive Mechanism for Horizontal Federated Learning Based on Reputation
       and Reverse Auction
@@ -7534,7 +7534,7 @@ fl-in-top-network-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9155494
-      SLIDES: https://workshoputrgv.github.io/slides/hao_wang.pdf
+      SLIDE: https://workshoputrgv.github.io/slides/hao_wang.pdf
       CODE: https://github.com/iQua/flsim
       解读: https://zhuanlan.zhihu.com/p/458716656
   - title: Enabling Execution Assurance of Federated Learning at Untrusted Participants
@@ -8544,6 +8544,14 @@ federated-learning-framework:
       />![](https://img.shields.io/github/last-commit/cisco-open/flame)'
     papers: ''
     affiliations: Cisco
+    sg: ''
+    st: ''
+    materials:
+      DOC: https://fedsim.varnio.com/en/latest/
+  - platform: '[FedSim](https://github.com/varnio/fedsim)<br />[![Stars](https://img.shields.io/github/stars/varnio/fedsim.svg?color=blue)](https://github.com/varnio/fedsim/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/varnio/fedsim)'
+    papers: ''
+    affiliations: ''
     sg: ''
     st: ''
     materials: {}
