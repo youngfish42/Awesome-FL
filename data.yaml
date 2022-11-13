@@ -1335,6 +1335,19 @@ fl-on-tabular-data:
       monitoring (NILM). Fed-GBM(联邦梯度提升)是一个具有成本效益的协作学习框架，由两阶段投票和节点级并行组成，用于解决非侵入式负载监测(NILM)中的协同建模问题。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3538637.3538840
+  - title: Verifiable Privacy-Preserving Scheme Based on Vertical Federated Random
+      Forest
+    affiliation: NUST
+    venue: IEEE Internet Things J.
+    year: '2022'
+    tldr: 'VPRF: A verifiable privacy-preserving scheme (VPRF) based on vertical federated
+      Random forest, in which the users are dynamic change. First, we design homomorphic
+      comparison and voting statistics algorithms based on multikey homomorphic encryption
+      for privacy preservation. Then, we propose a multiclient delegated computing
+      verification algorithm to make up for the disadvantage that the above algorithms
+      cannot verify data integrity. 一个基于纵向联邦随机森林的可验证的隐私保护方案（VPRF），其中的用户是动态变化的。首先，我们设计了基于多键同态加密的同态比较和投票统计算法来保护隐私。然后，我们提出了一种多客户委托计算验证算法，以弥补上述算法不能验证数据完整性的缺点。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9461157
   - title: Statistical Detection of Adversarial examples in Blockchain-based Federated
       Forest In-vehicle Network Intrusion Detection Systems
     affiliation: CNU
