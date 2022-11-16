@@ -1256,6 +1256,16 @@ fl-on-tabular-data:
     tldr: 27
     materials: 60
   body:
+  - title: A Tree-based Model Averaging Approach for Personalized Treatment Effect
+      Estimation from Heterogeneous Data Sources
+    affiliation: University of Pittsburgh
+    venue: 'ICML :mortar_board:'
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://proceedings.mlr.press/v162/tan22a.html
+      PDF: https://arxiv.org/abs/2103.06261
+      CODE: https://github.com/ellenxtan/ifedtree
   - title: Federated Boosted Decision Trees with Differential Privacy
     affiliation: University of Warwick
     venue: 'CCS :mortar_board:'
@@ -1807,15 +1817,6 @@ fl-on-tabular-data:
     materials:
       PDF: https://arxiv.org/abs/2105.05717
       CODE: https://github.com/HikariX/MP-FedXGB
-  - title: A Tree-based Federated Learning Approach for Personalized Treatment Effect
-      Estimation from Heterogeneous Data Sources
-    affiliation: ''
-    venue: preprint
-    year: '2021'
-    tldr: ''
-    materials:
-      PDF: https://arxiv.org/abs/2103.06261
-      CODE: https://github.com/ellenxtan/ifedtree
   - title: Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning
     affiliation: ''
     venue: preprint
@@ -3503,6 +3504,16 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=fiBnhdazkyx
       PDF: https://arxiv.org/abs/2106.06312
+  - title: A Tree-based Model Averaging Approach for Personalized Treatment Effect
+      Estimation from Heterogeneous Data Sources
+    affiliation: University of Pittsburgh
+    venue: ICML
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://proceedings.mlr.press/v162/tan22a.html
+      PDF: https://arxiv.org/abs/2103.06261
+      CODE: https://github.com/ellenxtan/ifedtree
   - title: Fast Composite Optimization and Statistical Recovery in Federated Learning
     affiliation: SJTU
     venue: ICML
