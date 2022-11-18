@@ -30,6 +30,13 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 60
     materials: 60
   body:
+  - title: Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural
+    affiliation: ''
+    venue: IEEE Trans. Ind. Informatics
+    year: '2023'
+    tldr: 'FL-GMT: TBC'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9873989
   - title: 'FedWalk: Communication Efficient Federated Unsupervised Node Embedding
       with Differential Privacy'
     affiliation: SJTU
@@ -298,6 +305,13 @@ fl-on-graph-data-and-graph-neural-network:
       PUB: https://ieeexplore.ieee.org/document/9746007
       PDF: https://www.math.ucla.edu/~harlin/papers/mtl.pdf
       CODE: https://github.com/HarlinLee/multitask-fusion
+  - title: Graph-regularized federated learning with shareable side information
+    affiliation: NWPU
+    venue: Knowl. Based Syst.
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://www.sciencedirect.com/science/article/pii/S095070512201053X
   - title: Federated knowledge graph completion via embedding-contrastive learning
       **`kg.`**
     affiliation: ZJU
@@ -1256,6 +1270,14 @@ fl-on-tabular-data:
     tldr: 27
     materials: 60
   body:
+  - title: Boosting Accuracy of Differentially Private Federated Learning in Industrial
+      IoT With Sparse Responses
+    affiliation: ''
+    venue: IEEE Trans. Ind. Informatics
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9743613
   - title: A Tree-based Model Averaging Approach for Personalized Treatment Effect
       Estimation from Heterogeneous Data Sources
     affiliation: University of Pittsburgh
