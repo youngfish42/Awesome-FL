@@ -170,21 +170,6 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://ieeexplore.ieee.org/document/9815303
       PDF: https://arxiv.org/abs/2112.10166
-  - title: 'FedEgo: Privacy-preserving Personalized Federated Graph Learning with
-      Ego-graphs'
-    affiliation: SYSU
-    venue: TOIS
-    year: '2022'
-    tldr: 'FedEgo: FedEgo, a federated graph learning framework based on ego-graphs,
-      where each client will train their local models while also contributing to the
-      training of a global model. FedEgo applies GraphSAGE over ego-graphs to make
-      full use of the structure information and utilizes Mixup for privacy concerns.
-      To deal with the statistical heterogeneity, we integrate personalization into
-      learning and propose an adaptive mixing coefficient strategy that enables clients
-      to achieve their optimal personalization. FedEgo是一个基于自中心图的联邦图学习框架，每个客户端将训练他们的本地模型，同时也为全局模型的训练作出贡献。FedEgo在自中心图上应用GraphSAGE来充分利用结构信息，并利用Mixup来解决隐私问题。为了处理统计上的异质性，我们将个性化整合到学习中，并提出了一个自适应混合系数策略，使客户能够实现其最佳的个性化。'
-    materials:
-      PUB: https://arxiv.org/abs/2208.13685
-      CODE: https://github.com/fedego/fedego
   - title: 'SemiGraphFL: Semi-supervised Graph Federated Learning for Graph Classification.'
     affiliation: PKU
     venue: PPSN
@@ -1015,6 +1000,21 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
+  - title: 'FedEgo: Privacy-preserving Personalized Federated Graph Learning with
+      Ego-graphs'
+    affiliation: SYSU
+    venue: preprint
+    year: '2022'
+    tldr: 'FedEgo: FedEgo, a federated graph learning framework based on ego-graphs,
+      where each client will train their local models while also contributing to the
+      training of a global model. FedEgo applies GraphSAGE over ego-graphs to make
+      full use of the structure information and utilizes Mixup for privacy concerns.
+      To deal with the statistical heterogeneity, we integrate personalization into
+      learning and propose an adaptive mixing coefficient strategy that enables clients
+      to achieve their optimal personalization. FedEgo是一个基于自中心图的联邦图学习框架，每个客户端将训练他们的本地模型，同时也为全局模型的训练作出贡献。FedEgo在自中心图上应用GraphSAGE来充分利用结构信息，并利用Mixup来解决隐私问题。为了处理统计上的异质性，我们将个性化整合到学习中，并提出了一个自适应混合系数策略，使客户能够实现其最佳的个性化。'
+    materials:
+      PDF: https://arxiv.org/abs/2208.13685
+      CODE: https://github.com/fedego/fedego
   - title: M3FGM:a node masking and multi-granularity message passing-based federated
       graph model for spatial-temporal data prediction
     affiliation: Xidian University
