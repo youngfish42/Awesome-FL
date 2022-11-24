@@ -1508,6 +1508,13 @@ fl-on-tabular-data:
       implementations and support much larger datasets. VF2Boost，一个新颖而高效的纵向联邦GBDT系统。首先，为了处理联邦训练中频繁的相互等待造成的缺陷，我们提出了一个并发训练协议来减少空闲期。第二，为了加快密码学操作，我们分析了算法的特点，并提出了定制的操作。经验结果表明，我们的系统可以比现有的纵向联邦实现快12.8-18.9倍，并支持更大的数据集。我们将保证公平性的客户选择建模为一个Lyapunov优化问题，然后提出一个基于C2MAB的方法来估计每个客户和服务器之间的模型交换时间，在此基础上，我们设计了一个保证公平性的算法，即RBCS-F来解决问题。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3448016.3457241
+  - title: Boosting with Multiple Sources
+    affiliation: Google
+    venue: 'NeurIPS:mortar_board:'
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=1oP1duoZxx
   - title: 'SecureBoost: A Lossless Federated Learning Framework :fire:'
     affiliation: UC
     venue: IEEE Intell. Syst.
@@ -4097,6 +4104,14 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://proceedings.mlr.press/v162/zhu22e.html
+  - title: 'Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond'
+    affiliation: KAIST
+    venue: ICLR (oral)
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=LdlwbBP2mlq
+      CODE: https://openreview.net/attachment?id=LdlwbBP2mlq&name=supplementary_material
   - title: Bayesian Framework for Gradient Leakage
     affiliation: ETH Zurich
     venue: ICLR
@@ -4608,6 +4623,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=eNB4WXnNczJ
+      PDF: https://arxiv.org/abs/2107.09461
   - title: Boosting with Multiple Sources
     affiliation: Google
     venue: NeurIPS
@@ -4638,7 +4654,8 @@ fl-in-top-ml-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB: https://openreview.net/forum?id=x9jS8pX3dkx
+      PUB: https://papers.nips.cc/paper/2021/hash/fa84632d742f2729dc32ce8cb5d49733-Abstract.html
+      PDF: https://arxiv.org/abs/2110.14962
       CODE: https://github.com/ml-postech/gradient-inversion-generative-image-prior
   - title: Distributed Machine Learning with Sparse Heterogeneous Data
     affiliation: University of Oxford
@@ -4656,6 +4673,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=SPrVNsXnGd
+      PDF: https://arxiv.org/abs/2107.08763
   - title: 'Sageflow: Robust Federated Learning against Both Stragglers and Adversaries'
     affiliation: KAIST
     venue: NeurIPS
@@ -4979,16 +4997,6 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://papers.nips.cc/paper/2021/hash/fe7ee8fc1959cc7214fa21c4840dff0a-Abstract.html
       PDF: https://arxiv.org/abs/2103.03452
       CODE: https://github.com/unc-optimization/FedDR
-  - title: Gradient Inversion with Generative Image Prior
-    affiliation: Pohang University of Science and Technology; University of Wisconsin-Madison;
-      University of Washington
-    venue: NeurIPS
-    year: '2021'
-    tldr: ''
-    materials:
-      PUB: https://papers.nips.cc/paper/2021/hash/fa84632d742f2729dc32ce8cb5d49733-Abstract.html
-      PDF: https://arxiv.org/abs/2110.14962
-      CODE: https://github.com/ml-postech/gradient-inversion-generative-image-prior
   - title: Federated Adversarial Domain Adaptation
     affiliation: BU; Columbia University; Rutgers University
     venue: ICLR
