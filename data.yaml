@@ -364,6 +364,20 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14
       PDF: https://arxiv.org/abs/2206.03492
+  - title: Peer-to-Peer Variational Federated Learning Over Arbitrary Graphs
+    affiliation: UCSD
+    venue: Int. J. Bio Inspired Comput.
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9825726/
+  - title: Federated Multi-task Graph Learning
+    affiliation: ZJU
+    venue: ACM Trans. Intell. Syst. Technol.
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3527622
   - title: Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning
     affiliation: SUSTech
     venue: WCNC
@@ -1278,6 +1292,15 @@ fl-on-tabular-data:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9743613
+  - title: 'RevFRF: Enabling Cross-Domain Random Forest Training With Revocable Federated
+      Learning'
+    affiliation: XIDIAN UNIVERSITY
+    venue: 'IEEE Trans. Dependable Secur. Comput. :mortar_board:'
+    year: '2022'
+    tldr: 'RevFRF: TBC'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9514457
+      PDF: https://arxiv.org/abs/1911.03242
   - title: A Tree-based Model Averaging Approach for Personalized Treatment Effect
       Estimation from Heterogeneous Data Sources
     affiliation: University of Pittsburgh
@@ -1423,6 +1446,27 @@ fl-on-tabular-data:
       risk is leaked to other organizations. 针对GBDT的高效FL（eFL-Boost），将精度损失、通信成本和信息泄露降到最低。该方案的重点是在更新模型时适当分配局部计算（由每个组织单独执行）和全局计算（由所有组织合作执行）。树状结构由其中一个组织在本地确定，而叶子的权重则由所有组织的本地梯度汇总后在全局计算。具体来说，eFL-Boost每次更新只需要三次通信，而且只有具有低隐私风险的统计信息才会泄露给其他组织。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9761890
+  - title: An Efficient Learning Framework for Federated XGBoost Using Secret Sharing
+      and Distributed Optimization
+    affiliation: TJU
+    venue: ACM Trans. Intell. Syst. Technol.
+    year: '2022'
+    tldr: 'MP-FedXGB: MP-FedXGB, a lossless multi-party federated XGB learning framework
+      is proposed with a security guarantee, which reshapes the XGBoost''s split criterion
+      calculation process under a secret sharing setting and solves the leaf weight
+      calculation problem by leveraging distributed optimization.  MP-FedXGB是一个无损的多方联邦XGB学习框架，它在秘密共享的环境下重塑了XGBoost的分割准则计算过程，并通过利用分布式优化解决了叶子权重计算问题。'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3523061
+      PDF: https://arxiv.org/abs/2105.05717
+      CODE: https://github.com/HikariX/MP-FedXGB
+  - title: An optional splitting extraction based gain-AUPRC balanced strategy in  federated
+      XGBoost for mitigating imbalanced credit card fraud detection
+    affiliation: Swinburne University of Technology
+    venue: Int. J. Bio Inspired Comput.
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://www.inderscience.com/offer.php?id=126793
   - title: Random Forest Based on Federated Learning for Intrusion Detection
     affiliation: Malardalen University
     venue: AIAI
@@ -1827,18 +1871,6 @@ fl-on-tabular-data:
       for local differential privacy. 两种具有隐私保护的联邦XGBoost的变体：FedXGBoost-SMM和FedXGBoost-LDP。FedXGBoost-SMM部署了增强的安全矩阵乘法，以无损的精度和低于基于加密的技术的开销来保护隐私。第二个协议FedXGBoost-LDP以启发式方法设计的，带有噪声扰动，用于保护局部差分隐私。'
     materials:
       PDF: https://arxiv.org/abs/2106.10662
-  - title: An Efficient Learning Framework For Federated XGBoost Using Secret Sharing
-      And Distributed Optimization.
-    affiliation: Tongji University
-    venue: preprint
-    year: '2021'
-    tldr: 'MP-FedXGB: MP-FedXGB, a lossless multi-party federated XGB learning framework
-      is proposed with a security guarantee, which reshapes the XGBoost''s split criterion
-      calculation process under a secret sharing setting and solves the leaf weight
-      calculation problem by leveraging distributed optimization.  MP-FedXGB是一个无损的多方联邦XGB学习框架，它在秘密共享的环境下重塑了XGBoost的分割准则计算过程，并通过利用分布式优化解决了叶子权重计算问题。'
-    materials:
-      PDF: https://arxiv.org/abs/2105.05717
-      CODE: https://github.com/HikariX/MP-FedXGB
   - title: Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning
     affiliation: ''
     venue: preprint
