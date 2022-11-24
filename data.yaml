@@ -2964,6 +2964,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=W72rB0wwLVu
+      PDF: https://arxiv.org/abs/2207.03957
   - title: 'LAMP: Extracting Text from Gradients with Language Model Priors'
     affiliation: ETHZ
     venue: NeurIPS
@@ -2979,6 +2980,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=G3fswMh9P8y
+      PDF: https://arxiv.org/abs/2205.13692
   - title: 'On Convergence of FedProx: Local Dissimilarity Invariant Bounds, Non-smoothness
       and Beyond'
     affiliation: NUIST
@@ -2987,6 +2989,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=_33ynl9VgCX
+      PDF: https://arxiv.org/abs/2206.05187
   - title: Improved Differential Privacy for SGD via Optimal Private Linear Operators
       on Adaptive Streams
     affiliation: WISC
@@ -3004,6 +3007,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=Vj-jYs47cx
+      PDF: https://arxiv.org/abs/2206.10870
   - title: 'Asymptotic Behaviors of Projected Stochastic Approximation: A Jump Diffusion
       Perspective'
     affiliation: PKU
@@ -3019,6 +3023,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=mUeMOdJ2IJp
+      PDF: https://arxiv.org/abs/2210.13497
   - title: 'EF-BV:  A Unified Theory of Error Feedback and Variance Reduction Mechanisms  for
       Biased and Unbiased Compression in Distributed Optimization'
     affiliation: KAUST
@@ -3027,6 +3032,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=PeJO709WUup
+      PDF: https://arxiv.org/abs/2205.04180
   - title: 'On-Demand Sampling: Learning Optimally from Multiple Distributions'
     affiliation: UC Berkeley
     venue: NeurIPS
@@ -3060,6 +3066,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=Y4vT7m4e3d
+      PDF: https://arxiv.org/abs/2106.08315
   - title: 'BEER: Fast O(1/T) Rate for Decentralized Nonconvex Optimization with Communication
       Compression'
     affiliation: Princeton
@@ -3068,6 +3075,8 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=I47eFCKa1f3
+      PDF: https://arxiv.org/abs/2201.13320
+      CODE: https://github.com/liboyue/beer
   - title: Escaping Saddle Points with Bias-Variance Reduced Local Perturbed SGD for
       Communication Efficient Nonconvex Distributed Learning
     affiliation: The University of Tokyo
@@ -3076,6 +3085,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=KOHC_CYEIuP
+      PDF: https://arxiv.org/abs/2202.06083
   - title: Near-Optimal Collaborative Learning in Bandits
     affiliation: INRIA; Inserm
     venue: NeurIPS
@@ -3083,6 +3093,8 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=2xfJ26BuFP
+      PDF: https://arxiv.org/abs/2206.00121
+      CODE: https://github.com/clreda/near-optimal-federated
   - title: Distributed Methods with Compressed Communication for Solving Variational
       Inequalities, with Theoretical Guarantees
     affiliation: phystech
@@ -3091,6 +3103,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=J0nhRuMkdGf
+      PDF: https://arxiv.org/abs/2110.03313
   - title: Towards Optimal Communication Complexity in Distributed Non-Convex Optimization
     affiliation: TTIC
     venue: NeurIPS
@@ -3202,6 +3215,7 @@ fl-in-top-ml-conference-and-journal:
       and provides privacy protection for the local datasets. 拥有数据的客户可能会任意退出训练过程。这些特点将大大降低训练性能。本文提出了一个基于拉格朗日编码计算（LCC）的辍学弹性安全联邦学习（DReS-FL）框架来解决非IID和辍学问题。其关键思想是利用拉格朗日编码在客户之间秘密分享私人数据集，以便在本地梯度计算中补偿非IID分布和客户退出的影响。为了给本地数据集提供严格的隐私保证并在服务器上正确解码梯度，梯度必须是有限域中的多项式函数，因此我们构建了多项式整数神经网络（PINNs）来实现我们的框架。理论分析表明，DReS-FL对客户端辍学有弹性，并为本地数据集提供隐私保护。'
     materials:
       PUB: https://openreview.net/forum?id=hPkGV4BPsmv
+      PDF: https://arxiv.org/abs/2210.02680
   - title: 'FairVFL: A Fair Vertical Federated Learning Framework with Contrastive
       Adversarial Learning'
     affiliation: THU
@@ -3256,6 +3270,7 @@ fl-in-top-ml-conference-and-journal:
       in the future. 我们研究了基于局部训练（LT）范式的分布式优化方法，即在允许进行（昂贵的）参数平均化之前，通过在客户端进行更丰富的基于局部梯度的训练来实现通信效率。虽然这些方法是在大约十年前首次提出的，并且形成了联邦学习的算法支柱，但是在它们的实际性能和我们的理论理解之间存在着巨大的差距。回顾该领域的进展，我们确定了5代LT方法：1）启发式，2）同质式，3）亚线性，4）线性，以及5）加速式。第5代是由Mishchenko等人（2022）的ProxSkip方法发起的，其分析首次从理论上证实了LT是一种通信加速机制。受这一最新进展的启发，我们为第5代LT方法做出了贡献，表明有可能利用方差减少来进一步增强ProxSkip。虽然之前所有关于LT方法的理论结果都完全忽略了局部工作的成本，而仅仅是以通信轮数为框架，但我们构建了一种方法，在理论和实践中，当局部计算足够昂贵时，其总训练时间可以比最先进的方法ProxSkip快很多。我们从理论上描述了这个阈值，并通过经验结果证实了我们的理论预测。我们对方差减少的处理是通用的，可以与大量的方差减少技术一起工作，这可能导致未来的应用。'
     materials:
       PUB: https://openreview.net/forum?id=edkno3SvKo
+      PDF: https://arxiv.org/abs/2207.04338
   - title: 'VF-PS: How to Select Important Participants in Vertical Federated Learning,
       Efficiently and Securely?'
     affiliation: WHU
@@ -3290,6 +3305,7 @@ fl-in-top-ml-conference-and-journal:
       can have different model architectures. 一种新颖的两阶段无数据单次联邦学习（DENSE）框架，它通过数据生成阶段和模型提炼阶段来训练全局模型。DENSE是一种实用的一次性FL方法，由于以下优点可以在现实中应用：（1）与其他方法相比，DENSE不需要在客户端和服务器之间传输额外的信息（除了模型参数）；（2）DENSE不需要任何辅助数据集进行训练；（3）DENSE考虑了FL中的模型异质性，即不同客户端可以有不同的模型架构。'
     materials:
       PUB: https://openreview.net/forum?id=QFQoxCFYEkA
+      PDF: https://arxiv.org/abs/2112.12371
   - title: 'CalFAT: Calibrated Federated Adversarial Training with Label Skewness'
     affiliation: ZJU
     venue: NeurIPS
@@ -3324,6 +3340,7 @@ fl-in-top-ml-conference-and-journal:
       for federated min-max learning. 近年来，由于其在各种学习范式中的广泛应用，联邦最小-最大学习得到了越来越多的关注。我们提出了一个新的算法框架，称为随机抽样平均梯度下降上升法（SAGDA），它i）从随机抽样的客户端组装随机梯度估计器作为控制变量，ii）在服务器和客户端利用两个学习速率。我们表明，SAGDA在客户数量和局部更新步骤方面都实现了线性加速，这产生了O(ϵ-2)的通信复杂度，比目前的技术水平要低几个数量级。有趣的是，通过注意到标准联邦随机梯度下降法（FSGDA）实际上是SAGDA的无控制变量的特殊版本，我们立即得出了FSGDA的O(ϵ-2)通信复杂度结果。因此，通过SAGDA的视角，我们也推进了目前对标准FSGDA方法的通信复杂度的理解，以实现联邦的最小最大学习。'
     materials:
       PUB: https://openreview.net/forum?id=wTp4KgVIJ5
+      PDF: https://arxiv.org/abs/2210.00611
   - title: Taming Fat-Tailed (“Heavier-Tailed” with Potentially Infinite Variance)
       Noise in Federated Learning
     affiliation: OSU
@@ -3344,6 +3361,7 @@ fl-in-top-ml-conference-and-journal:
       per-round（FAT-Clipping-PR）和FAT-Clipping per-iteration（FAT-Clipping-PI）。'
     materials:
       PUB: https://openreview.net/forum?id=8SilFGuXgmk
+      PDF: https://arxiv.org/abs/2210.00690
   - title: Personalized Federated Learning towards Communication Efficiency, Robustness
       and Fairness
     affiliation: PKU
@@ -3426,6 +3444,8 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=N0tKCpMhA2
+      PDF: https://arxiv.org/abs/2210.14664
+      CODE: https://github.com/haoyuzhao123/coreset-vfl-codes
   - title: Communication Efficient Federated Learning for Generalized Linear Bandits
     affiliation: University of Virginia
     venue: NeurIPS
@@ -3474,6 +3494,7 @@ fl-in-top-ml-conference-and-journal:
       一个轻量级的框架，客户共同学习融合多个固定的预训练模型所产生的表征，而不是从头开始训练一个大规模的模型。这将我们引向一个更实际的FL问题，即考虑如何从预训练的模型中获取更多特定于客户和与类相关的信息，并共同提高每个客户利用这些现成的模型的能力。在这里，我们设计了一个联邦原型对比学习（FedPCL）的方法，通过客户的类别原型在客户之间分享知识，并以原型对比的方式建立客户的特定表征。分享原型而不是可学习的模型参数允许每个客户以个性化的方式融合表征，同时将共享的知识保持在一个紧凑的形式，以便有效沟通。'
     materials:
       PUB: https://openreview.net/forum?id=mhQLcMjWw75
+      PDF: https://arxiv.org/abs/2209.10083
   - title: Global Convergence of Federated Learning for Mixed Regression
     affiliation: Northeastern University
     venue: NeurIPS
@@ -4579,6 +4600,62 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: http://proceedings.mlr.press/v139/avdiukhin21a.html
       VIDEO: https://slideslive.com/38959048/federated-learning-under-arbitrary-communication-patterns
+  - title: 'CANITA: Faster Rates for Distributed Convex Optimization with Communication
+      Compression'
+    affiliation: CMU
+    venue: NeurIPS
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=eNB4WXnNczJ
+  - title: Boosting with Multiple Sources
+    affiliation: Google
+    venue: NeurIPS
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=1oP1duoZxx
+  - title: 'DRIVE: One-bit Distributed Mean Estimation'
+    affiliation: VMware
+    venue: NeurIPS
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=KXRTmcv3dQ8
+      CODE: https://github.com/amitport/DRIVE-One-bit-Distributed-Mean-Estimation
+  - title: Gradient Driven Rewards to Guarantee Fairness in Collaborative Machine
+      Learning
+    affiliation: NUS
+    venue: NeurIPS
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=yRfsADObu18
+      CODE: https://github.com/XinyiYS/Gradient-Driven-Rewards-to-Guarantee-Fairness-in-Collaborative-Machine-Learning
+  - title: Gradient Inversion with Generative Image Prior
+    affiliation: POSTECH
+    venue: NeurIPS
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=x9jS8pX3dkx
+      CODE: https://github.com/ml-postech/gradient-inversion-generative-image-prior
+  - title: Distributed Machine Learning with Sparse Heterogeneous Data
+    affiliation: University of Oxford
+    venue: NeurIPS
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=F9HNBbytcqT
+      PDF: https://arxiv.org/abs/1912.01417
+  - title: Renyi Differential Privacy of The Subsampled Shuffle Model In Distributed
+      Learning
+    affiliation: UCLA
+    venue: NeurIPS
+    year: '2021'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=SPrVNsXnGd
   - title: 'Sageflow: Robust Federated Learning against Both Stragglers and Adversaries'
     affiliation: KAIST
     venue: NeurIPS
