@@ -381,7 +381,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 
 In this section, we will summarize Federated Learning papers accepted by top ML(machine learning) conference and journal, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations), [COLT](https://dblp.org/db/conf/colt/index.html)(Annual Conference Computational Learning Theory) , [UAI](https://dblp.org/db/conf/uai/index.html)(Conference on Uncertainty in Artificial Intelligence), [JMLR](https://dblp.uni-trier.de/db/journals/jmlr/index.html)(Journal of Machine Learning Research), [TPAMI](https://dblp.uni-trier.de/db/journals/pami/index.html)(IEEE Transactions on Pattern Analysis and Machine Intelligence).
 
-- [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) 2022, [2021](https://papers.nips.cc/paper/2021), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
+- [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) 2022([openReview](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)), [2021](https://papers.nips.cc/paper/2021), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
 - [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 - [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) [2022](https://openreview.net/group?id=ICLR.cc/2022/Conference),[2021](https://openreview.net/group?id=ICLR.cc/2021/Conference), [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) NULL
@@ -394,44 +394,63 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    TL;DR                          |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | --------------------------- | ------------------------------------------------------------ |
 | Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning | ZJU | TPAMI | 2022 | TPAMI-LAQ[^TPAMI-LAQ] | [[PUB](https://ieeexplore.ieee.org/document/9238427)] [[CODE](https://github.com/sunjunaimer/TPAMI-LAQ)] |
+| Communication Acceleration of Local Gradient Methods via an Accelerated Primal-Dual Algorithm with an Inexact Prox | Moscow Institute of Physics and Technology | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=W72rB0wwLVu) |
+| LAMP: Extracting Text from Gradients with Language Model Priors | ETHZ | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=6iqd9JAVR1z) [code](https://openreview.net/attachment?id=6iqd9JAVR1z&name=supplementary_material) |
+| FedAvg with Fine Tuning: Local Updates Lead to Representation Learning | utexas | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=G3fswMh9P8y) |
+| On Convergence of FedProx: Local Dissimilarity Invariant Bounds, Non-smoothness and Beyond | NUIST | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=_33ynl9VgCX) |
+| Improved Differential Privacy for SGD via Optimal Private Linear Operators on Adaptive Streams | WISC | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=i9XrHJoyLqJ) [code](https://openreview.net/attachment?id=i9XrHJoyLqJ&name=supplementary_material) |
+| Decentralized Gossip-Based Stochastic Bilevel Optimization over Communication Networks | Columbia University | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=Vj-jYs47cx) |
+| Asymptotic Behaviors of Projected Stochastic Approximation: A Jump Diffusion Perspective | PKU | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=wo-a8Ji6s3A) |
+| Subspace Recovery from Heterogeneous Data with Non-isotropic Noise | Stanford | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=mUeMOdJ2IJp) |
+| EF-BV:  A Unified Theory of Error Feedback and Variance Reduction Mechanisms  for Biased and Unbiased Compression in Distributed Optimization | KAUST | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=PeJO709WUup) |
+| On-Demand Sampling: Learning Optimally from Multiple Distributions | UC Berkeley | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=FR289LMkmxZ) [code](https://openreview.net/attachment?id=FR289LMkmxZ&name=supplementary_material) |
+| Improved Utility Analysis of Private CountSketch | ITU | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=XFCirHGr4Cs) [pdf](https://arxiv.org/abs/2205.08397) [code](https://openreview.net/attachment?id=XFCirHGr4Cs&name=supplementary_material) [code](https://github.com/rasmus-pagh/private-countsketch) |
+| Rate-Distortion Theoretic Bounds on Generalization Error for Distributed Learning | HUAWEI | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=APXedc0hgdT) [code](https://openreview.net/attachment?id=APXedc0hgdT&name=supplementary_material) |
+| Decentralized Local Stochastic Extra-Gradient for Variational Inequalities | phystech | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=Y4vT7m4e3d) |
+| BEER: Fast O(1/T) Rate for Decentralized Nonconvex Optimization with Communication Compression | Princeton | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=I47eFCKa1f3) |
+| Escaping Saddle Points with Bias-Variance Reduced Local Perturbed SGD for Communication Efficient Nonconvex Distributed Learning | The University of Tokyo | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=KOHC_CYEIuP) |
+| Near-Optimal Collaborative Learning in Bandits | INRIA; Inserm | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=2xfJ26BuFP) |
+| Distributed Methods with Compressed Communication for Solving Variational Inequalities, with Theoretical Guarantees | phystech | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=J0nhRuMkdGf) |
+| Towards Optimal Communication Complexity in Distributed Non-Convex Optimization | TTIC | NeurIPS | 2022 |  | [pub](https://openreview.net/forum?id=SNElc7QmMDe) [code](https://openreview.net/attachment?id=SNElc7QmMDe&name=supplementary_material) |
 | FedPop: A Bayesian Approach for Personalised Federated Learning | Skoltech | NeurIPS | 2022 | FedPop[^FedPop] | [[PUB](https://openreview.net/forum?id=KETwimTQexH)] [[PDF](https://arxiv.org/abs/2206.03611)] |
-| Fairness in Federated Learning via Core-Stability |  | NeurIPS | 2022 | CoreFed[^CoreFed] | [[PUB](https://openreview.net/forum?id=lKULHf7oFDo)] |
-| SecureFedYJ: a safe feature Gaussianization protocol for Federated Learning |  | NeurIPS | 2022 | SecureFedYJ[^SecureFedYJ] | [[PUB](https://openreview.net/forum?id=25XIE30VHZE)] |
-| FedRolex: Model-Heterogeneous Federated Learning with Rolling Submodel Extraction |  | NeurIPS | 2022 | FedRolex[^FedRolex] | [[PUB](https://openreview.net/forum?id=OtxyysUdBE)] |
-| On Sample Optimality in Personalized Collaborative and Federated Learning |  | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=7EP90NMAoK)] |
+| Fairness in Federated Learning via Core-Stability | UIUC | NeurIPS | 2022 | CoreFed[^CoreFed] | [[PUB](https://openreview.net/forum?id=lKULHf7oFDo)] [code](https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material) |
+| SecureFedYJ: a safe feature Gaussianization protocol for Federated Learning | Sorbonne Université | NeurIPS | 2022 | SecureFedYJ[^SecureFedYJ] | [[PUB](https://openreview.net/forum?id=25XIE30VHZE)] [PDF](https://arxiv.org/abs/2210.01639) |
+| FedRolex: Model-Heterogeneous Federated Learning with Rolling Submodel Extraction | MSU | NeurIPS | 2022 | FedRolex[^FedRolex] | [[PUB](https://openreview.net/forum?id=OtxyysUdBE)] [code](https://github.com/MSU-MLSys-Lab/FedRolex) |
+| On Sample Optimality in Personalized Collaborative and Federated Learning | INRIA | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=7EP90NMAoK)] |
 | DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing | HKUST | NeurIPS | 2022 | DReS-FL[^DReS-FL] | [[PUB](https://openreview.net/forum?id=hPkGV4BPsmv)] |
 | FairVFL: A Fair Vertical Federated Learning Framework with Contrastive Adversarial Learning | THU | NeurIPS | 2022 | FairVFL[^FairVFL] | [[PUB](https://openreview.net/forum?id=5vVSA_cdRqe)] |
-| Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning |  | NeurIPS | 2022 | VR-ProxSkip[^VR-ProxSkip] | [[PUB](https://openreview.net/forum?id=edkno3SvKo)] |
-| VF-PS: How to Select Important Participants in Vertical Federated Learning, Efficiently and Securely? | WHU | NeurIPS | 2022 | VF-PS[^VF-PS] | [[PUB](https://openreview.net/forum?id=vNrSXIFJ9wz)] |
-| DENSE: Data-Free One-Shot Federated Learning |  | NeurIPS | 2022 | DENSE[^DENSE] | [[PUB](https://openreview.net/forum?id=QFQoxCFYEkA)] |
+| Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning | KAUST | NeurIPS | 2022 | VR-ProxSkip[^VR-ProxSkip] | [[PUB](https://openreview.net/forum?id=edkno3SvKo)] |
+| VF-PS: How to Select Important Participants in Vertical Federated Learning, Efficiently and Securely? | WHU | NeurIPS | 2022 | VF-PS[^VF-PS] | [[PUB](https://openreview.net/forum?id=vNrSXIFJ9wz)] [code](https://openreview.net/attachment?id=edkno3SvKo&name=supplementary_material) |
+| DENSE: Data-Free One-Shot Federated Learning | ZJU | NeurIPS | 2022 | DENSE[^DENSE] | [[PUB](https://openreview.net/forum?id=QFQoxCFYEkA)] |
 | CalFAT: Calibrated Federated Adversarial Training with Label Skewness | ZJU | NeurIPS | 2022 | CalFAT[^CalFAT] | [[PUB](https://openreview.net/forum?id=8N1NDRGQSQ)] [[PDF](https://arxiv.org/abs/2205.14926)] |
-| SAGDA: Achieving O(ϵ−2) Communication Complexity in Federated Min-Max Learning |  | NeurIPS | 2022 | SAGDA[^SAGDA] | [[PUB](https://openreview.net/forum?id=wTp4KgVIJ5)] |
-| Taming Fat-Tailed (“Heavier-Tailed” with Potentially Infinite Variance) Noise in Federated Learning |  | NeurIPS | 2022 | FAT-Clipping[^FAT-Clipping] | [[PUB](https://openreview.net/forum?id=8SilFGuXgmk)] |
-| Personalized Federated Learning towards Communication Efficiency, Robustness and Fairness |  | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=wFymjzZEEkH)] |
+| SAGDA: Achieving O(ϵ−2) Communication Complexity in Federated Min-Max Learning | OSU | NeurIPS | 2022 | SAGDA[^SAGDA] | [[PUB](https://openreview.net/forum?id=wTp4KgVIJ5)] |
+| Taming Fat-Tailed (“Heavier-Tailed” with Potentially Infinite Variance) Noise in Federated Learning | OSU | NeurIPS | 2022 | FAT-Clipping[^FAT-Clipping] | [[PUB](https://openreview.net/forum?id=8SilFGuXgmk)] |
+| Personalized Federated Learning towards Communication Efficiency, Robustness and Fairness | PKU | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=wFymjzZEEkH)] |
 | Federated Submodel Optimization for Hot and Cold Data Features | SJTU | NeurIPS | 2022 | FedSubAvg[^FedSubAvg] | [[PUB](https://openreview.net/forum?id=sj9l1JCrAk6)] |
-| BooNTK: Convexifying Federated Learning using Bootstrapped Neural Tangent Kernels |  | NeurIPS | 2022 | BooNTK[^BooNTK] | [[PUB](https://openreview.net/forum?id=jzd2bE5MxW)] [[PDF](https://arxiv.org/abs/2207.06343)] |
-| Byzantine-tolerant federated Gaussian process regression for streaming data |  | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=Nx4gNemvNvx)] |
+| BooNTK: Convexifying Federated Learning using Bootstrapped Neural Tangent Kernels | UC Berkeley | NeurIPS | 2022 | BooNTK[^BooNTK] | [[PUB](https://openreview.net/forum?id=jzd2bE5MxW)] [[PDF](https://arxiv.org/abs/2207.06343)] |
+| Byzantine-tolerant federated Gaussian process regression for streaming data | PSU | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=Nx4gNemvNvx)] [code](https://openreview.net/attachment?id=Nx4gNemvNvx&name=supplementary_material) |
 | SoteriaFL: A Unified Framework for Private Federated Learning with Communication Compression | CMU | NeurIPS | 2022 | SoteriaFL[^SoteriaFL] | [[PUB](https://openreview.net/forum?id=tz1PRT6lfLe)] [[PDF](https://arxiv.org/abs/2206.09888)] |
-| Coresets for Vertical Federated Learning: Regularized Linear Regression and K-Means Clustering |  | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=N0tKCpMhA2)] |
-| Communication Efficient Federated Learning for Generalized Linear Bandits |  | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=Xwz9B6LDM5c)] |
+| Coresets for Vertical Federated Learning: Regularized Linear Regression and K-Means Clustering | Yale | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=N0tKCpMhA2)] |
+| Communication Efficient Federated Learning for Generalized Linear Bandits | University of Virginia | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=Xwz9B6LDM5c)] [code](https://openreview.net/attachment?id=Xwz9B6LDM5c&name=supplementary_material) |
 | Recovering Private Text in Federated Learning of Language Models | Princeton | NeurIPS | 2022 | FILM[^FILM] | [[PUB](https://openreview.net/forum?id=dqgzfhHd2-)] [[PDF](https://arxiv.org/abs/2205.08514)] [[CODE](https://github.com/Princeton-SysML/FILM)] |
-| Federated Learning from Pre-Trained Models: A Contrastive Learning Approach |  | NeurIPS | 2022 | FedPCL[^FedPCL] | [[PUB](https://openreview.net/forum?id=mhQLcMjWw75)] |
+| Federated Learning from Pre-Trained Models: A Contrastive Learning Approach | UTS | NeurIPS | 2022 | FedPCL[^FedPCL] | [[PUB](https://openreview.net/forum?id=mhQLcMjWw75)] |
 | Global Convergence of Federated Learning for Mixed Regression | Northeastern University | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=DdxNka9tMRd)] [[PDF](https://arxiv.org/abs/2206.07279)] |
-| Resource-Adaptive Federated Learning with All-In-One Neural Composition |  | NeurIPS | 2022 | FLANC[^FLANC] | [[PUB](https://openreview.net/forum?id=wfel7CjOYk)] |
+| Resource-Adaptive Federated Learning with All-In-One Neural Composition | JHU | NeurIPS | 2022 | FLANC[^FLANC] | [[PUB](https://openreview.net/forum?id=wfel7CjOYk)] |
 | Self-Aware Personalized Federated Learning | Amazon | NeurIPS | 2022 | Self-FL[^Self-FL] | [[PUB](https://openreview.net/forum?id=EqJ5_hZSqgy)] [[PDF](https://arxiv.org/abs/2204.08069)] |
 | A Communication-efficient Algorithm with Linear Convergence for Federated Minimax Learning | Northeastern University | NeurIPS | 2022 | FedGDA-GT[^FedGDA-GT] | [[PUB](https://openreview.net/forum?id=TATzsweWfof)] [[PDF](https://arxiv.org/abs/2206.01132)] |
-| An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects |  | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=fJt2KFnRqZ)] |
+| An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects | NUS | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=fJt2KFnRqZ)] |
 | Sharper Convergence Guarantees for Asynchronous SGD for Distributed and Federated Learning | EPFL | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=4_oCZgBIVI)] [[PDF](https://arxiv.org/abs/2206.08307)] |
-| Personalized Online Federated Multi-Kernel Learning |  | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=wUctlvhsNWg)] |
-| SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training |  | NeurIPS | 2022 | SemiFL[^SemiFL] | [[PUB](https://openreview.net/forum?id=1GAjC_FauE)] [[PDF](https://arxiv.org/abs/2106.01432)] |
-| A Unified Analysis of Federated Learning with Arbitrary Client Participation |  | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=qSs7C7c4G8D)] [[PDF](https://arxiv.org/abs/2205.13648)] |
-| Preservation of the Global Knowledge by Not-True Distillation in Federated Learning |  | NeurIPS | 2022 | FedNTD[^FedNTD] | [[PUB](https://openreview.net/forum?id=qw3MZb1Juo)] [[PDF](https://arxiv.org/abs/2106.03097)] |
-| FedSR: A Simple and Effective Domain Generalization Method for Federated Learning |  | NeurIPS | 2022 | FedSR[^FedSR] | [[PUB](https://openreview.net/forum?id=mrt90D00aQX)] |
-| Factorized-FL: Personalized Federated Learning with Parameter Factorization & Similarity Matching |  | NeurIPS | 2022 | Factorized-FL[^Factorized-FL] | [[PUB](https://openreview.net/forum?id=Ql75oqz1npy)] [[PDF](https://arxiv.org/abs/2202.00270)] |
+| Personalized Online Federated Multi-Kernel Learning | UCI | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=wUctlvhsNWg)] |
+| SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training | Duke University | NeurIPS | 2022 | SemiFL[^SemiFL] | [[PUB](https://openreview.net/forum?id=1GAjC_FauE)] [[PDF](https://arxiv.org/abs/2106.01432)] [code](https://openreview.net/attachment?id=1GAjC_FauE&name=supplementary_material) |
+| A Unified Analysis of Federated Learning with Arbitrary Client Participation | IBM | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=qSs7C7c4G8D)] [[PDF](https://arxiv.org/abs/2205.13648)] |
+| Preservation of the Global Knowledge by Not-True Distillation in Federated Learning | KAIST | NeurIPS | 2022 | FedNTD[^FedNTD] | [[PUB](https://openreview.net/forum?id=qw3MZb1Juo)] [[PDF](https://arxiv.org/abs/2106.03097)] [code](https://openreview.net/attachment?id=qw3MZb1Juo&name=supplementary_material) |
+| FedSR: A Simple and Effective Domain Generalization Method for Federated Learning | University of Oxford | NeurIPS | 2022 | FedSR[^FedSR] | [[PUB](https://openreview.net/forum?id=mrt90D00aQX)] [code](https://openreview.net/attachment?id=mrt90D00aQX&name=supplementary_material) |
+| Factorized-FL: Personalized Federated Learning with Parameter Factorization & Similarity Matching | KAIST | NeurIPS | 2022 | Factorized-FL[^Factorized-FL] | [[PUB](https://openreview.net/forum?id=Ql75oqz1npy)] [[PDF](https://arxiv.org/abs/2202.00270)] [code](https://openreview.net/attachment?id=Ql75oqz1npy&name=supplementary_material) |
 | A Simple and Provably Efficient Algorithm for Asynchronous Federated Contextual Linear Bandits | UC | NeurIPS | 2022 | FedLinUCB[^FedLinUCB] | [[PUB](https://openreview.net/forum?id=Fx7oXUVEPW)] [[PDF](https://arxiv.org/abs/2207.03106)] |
 | Learning to Attack Federated Learning: A Model-based Reinforcement Learning Attack Framework | Tulane University | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=4OHRr7gmhd4)] |
 | On Privacy and Personalization in Cross-Silo Federated Learning | CMU | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=Oq2bdIQQOIZ)] [[PDF](https://arxiv.org/abs/2206.07902)] |
-| A Coupled Design of Exploiting Record Similarity for Practical Vertical Federated Learning | NUS | NeurIPS | 2022 | FedSim[^FedSim] | [[PUB](https://openreview.net/forum?id=fiBnhdazkyx)] [[PDF](https://arxiv.org/abs/2106.06312)] |
+| A Coupled Design of Exploiting Record Similarity for Practical Vertical Federated Learning | NUS | NeurIPS | 2022 | FedSim[^FedSim] | [[PUB](https://openreview.net/forum?id=fiBnhdazkyx)] [[PDF](https://arxiv.org/abs/2106.06312)] [code](https://openreview.net/attachment?id=fiBnhdazkyx&name=supplementary_material) [code](https://github.com/Xtra-Computing/FedSim) |
+| FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings | Owkin | NeurIPS Datasets and Benchmarks | 2022 |  | [pub](https://openreview.net/forum?id=GgM5DiAb6A2) [code](https://github.com/owkin/FLamby) |
 | A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources | University of Pittsburgh | ICML | 2022 |  | [[PUB](https://proceedings.mlr.press/v162/tan22a.html)] [[PDF](https://arxiv.org/abs/2103.06261)] [[CODE](https://github.com/ellenxtan/ifedtree)] |
 | Fast Composite Optimization and Statistical Recovery in Federated Learning | SJTU | ICML | 2022 |  | [[PUB](https://proceedings.mlr.press/v162/bao22b.html)] [[PDF](https://arxiv.org/abs/2207.08204)] [[CODE](https://github.com/MingruiLiu-ML-Lab/Federated-Sparse-Learning)] |
 | Personalization Improves Privacy-Accuracy Tradeoffs in Federated Learning | NYU | ICML | 2022 | PPSGD[^PPSGD] | [[PUB](https://proceedings.mlr.press/v162/bietti22a.html)] [[PDF](https://arxiv.org/abs/2202.05318)] [[CODE](https://github.com/albietz/ppsgd)] |
@@ -1078,9 +1097,10 @@ For more results, please refer to [Framework Functionality Support](https://unif
 ## fl datasets
 
 - [LEAF](https://leaf.cmu.edu/)
+
 - [Federated AI Dataset](https://dataset.fedai.org/#/) 
 
-
+  
 
 # surveys
 
@@ -1205,6 +1225,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2022/11/24 -  refresh NeurIPS 2022 papers*
 - *2022/11/06-  add S&P 2023 papers*
 - *2022/10/29 -  add WSDM 2023 paper*
 - *2022/10/20 -  add CCS, MM, ECCV 2022 papers*
