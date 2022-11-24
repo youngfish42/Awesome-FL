@@ -2956,6 +2956,149 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://ieeexplore.ieee.org/document/9238427
       CODE: https://github.com/sunjunaimer/TPAMI-LAQ
+  - title: Communication Acceleration of Local Gradient Methods via an Accelerated
+      Primal-Dual Algorithm with an Inexact Prox
+    affiliation: Moscow Institute of Physics and Technology
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=W72rB0wwLVu
+  - title: 'LAMP: Extracting Text from Gradients with Language Model Priors'
+    affiliation: ETHZ
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=6iqd9JAVR1z
+      CODE: https://openreview.net/attachment?id=6iqd9JAVR1z&name=supplementary_material
+  - title: 'FedAvg with Fine Tuning: Local Updates Lead to Representation Learning'
+    affiliation: utexas
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=G3fswMh9P8y
+  - title: 'On Convergence of FedProx: Local Dissimilarity Invariant Bounds, Non-smoothness
+      and Beyond'
+    affiliation: NUIST
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=_33ynl9VgCX
+  - title: Improved Differential Privacy for SGD via Optimal Private Linear Operators
+      on Adaptive Streams
+    affiliation: WISC
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=i9XrHJoyLqJ
+      CODE: https://openreview.net/attachment?id=i9XrHJoyLqJ&name=supplementary_material
+  - title: Decentralized Gossip-Based Stochastic Bilevel Optimization over Communication
+      Networks
+    affiliation: Columbia University
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=Vj-jYs47cx
+  - title: 'Asymptotic Behaviors of Projected Stochastic Approximation: A Jump Diffusion
+      Perspective'
+    affiliation: PKU
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=wo-a8Ji6s3A
+  - title: Subspace Recovery from Heterogeneous Data with Non-isotropic Noise
+    affiliation: Stanford
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=mUeMOdJ2IJp
+  - title: 'EF-BV:  A Unified Theory of Error Feedback and Variance Reduction Mechanisms  for
+      Biased and Unbiased Compression in Distributed Optimization'
+    affiliation: KAUST
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=PeJO709WUup
+  - title: 'On-Demand Sampling: Learning Optimally from Multiple Distributions'
+    affiliation: UC Berkeley
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=FR289LMkmxZ
+      CODE: https://openreview.net/attachment?id=FR289LMkmxZ&name=supplementary_material
+  - title: Improved Utility Analysis of Private CountSketch
+    affiliation: ITU
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=XFCirHGr4Cs
+      PDF: https://arxiv.org/abs/2205.08397
+      CODE: https://github.com/rasmus-pagh/private-countsketch
+  - title: Rate-Distortion Theoretic Bounds on Generalization Error for Distributed
+      Learning
+    affiliation: HUAWEI
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=APXedc0hgdT
+      CODE: https://openreview.net/attachment?id=APXedc0hgdT&name=supplementary_material
+  - title: Decentralized Local Stochastic Extra-Gradient for Variational Inequalities
+    affiliation: phystech
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=Y4vT7m4e3d
+  - title: 'BEER: Fast O(1/T) Rate for Decentralized Nonconvex Optimization with Communication
+      Compression'
+    affiliation: Princeton
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=I47eFCKa1f3
+  - title: Escaping Saddle Points with Bias-Variance Reduced Local Perturbed SGD for
+      Communication Efficient Nonconvex Distributed Learning
+    affiliation: The University of Tokyo
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=KOHC_CYEIuP
+  - title: Near-Optimal Collaborative Learning in Bandits
+    affiliation: INRIA; Inserm
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=2xfJ26BuFP
+  - title: Distributed Methods with Compressed Communication for Solving Variational
+      Inequalities, with Theoretical Guarantees
+    affiliation: phystech
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=J0nhRuMkdGf
+  - title: Towards Optimal Communication Complexity in Distributed Non-Convex Optimization
+    affiliation: TTIC
+    venue: NeurIPS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=SNElc7QmMDe
+      CODE: https://openreview.net/attachment?id=SNElc7QmMDe&name=supplementary_material
   - title: 'FedPop: A Bayesian Approach for Personalised Federated Learning'
     affiliation: Skoltech
     venue: NeurIPS
@@ -2974,7 +3117,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=KETwimTQexH
       PDF: https://arxiv.org/abs/2206.03611
   - title: Fairness in Federated Learning via Core-Stability
-    affiliation: ''
+    affiliation: UIUC
     venue: NeurIPS
     year: '2022'
     tldr: 'CoreFed: We aim to formally represent this problem and address these fairness
@@ -2996,8 +3139,9 @@ fl-in-top-ml-conference-and-journal:
       in more general settings using Kakutani''s fixed point theorema. 我们旨在利用合作博弈理论和社会选择理论的概念来正式表示这个问题并解决这些公平性问题。我们把在联盟环境中学习共享预测器的任务建模为一个公平的公共决策问题，然后定义核心稳定的公平概念。给定N个代理人，没有一个代理人的子集S可以通过在他们之间形成一个基于他们的效用UN和US的联盟而显著受益。核心稳定的预测器对一些代理人的低质量本地数据具有鲁棒性，此外，它们还满足Proportionality（每个代理人从任何预测器中得到的最佳效用的至少1/n部分）和Pareto-optimality（不存在任何模型可以在增加一个代理人的效用的同时不减少另一个代理人的效用），这是社会选择中两个广受欢迎的公平和效率概念。然后，我们提出了一个高效的联邦学习协议CoreFed来优化一个核心稳定的预测器。当代理人的损失函数是凸的时候，CoreFed确定了一个核心稳定的预测器。当损失函数不是凸的时候，CoreFed也能确定近似的核心稳定预测器，比如摩斯神经网络。我们利用Kakutani的固定点定理，进一步证明了在更一般的情况下核心稳定预测器的存在。'
     materials:
       PUB: https://openreview.net/forum?id=lKULHf7oFDo
+      CODE: https://openreview.net/attachment?id=lKULHf7oFDo&name=supplementary_material
   - title: 'SecureFedYJ: a safe feature Gaussianization protocol for Federated Learning'
-    affiliation: ''
+    affiliation: Sorbonne Université
     venue: NeurIPS
     year: '2022'
     tldr: 'SecureFedYJ: The Yeo-Johnson (YJ) transformation is a standard parametrized  per-feature
@@ -3016,9 +3160,10 @@ fl-in-top-ml-conference-and-journal:
       for safe federated feature Gaussianization. Yeo-Johnson（YJ）变换是一个标准的参数化的每特征单维变换，通常用于机器学习的高斯化特征。在本文中，我们研究了在隐私约束下，在跨语境的联邦学习环境中应用YJ转换的问题。我们首次证明了YJ负对数可能性实际上是凸的，这使我们能够用指数搜索来优化它。我们在数值上表明，所得到的算法比基于布伦特最小化方法的最先进的方法更稳定。在这个简单的算法和安全多方计算程序的基础上，我们提出了SECUREFEDYJ，这是一个联邦算法，在不泄露比最终拟合参数更多信息的情况下执行集合等效的YJ转换。在真实数据上的定量实验表明，除了安全之外，我们的方法还能可靠地将不同筒仓的特征归一化，就像数据被汇集起来一样，这使得它成为安全联邦特征高斯化的可行方法。'
     materials:
       PUB: https://openreview.net/forum?id=25XIE30VHZE
+      PDF: https://arxiv.org/abs/2210.01639
   - title: 'FedRolex: Model-Heterogeneous Federated Learning with Rolling Submodel
       Extraction'
-    affiliation: ''
+    affiliation: MSU
     venue: NeurIPS
     year: '2022'
     tldr: 'FedRolex: A simple yet effective model-heterogeneous FL method named FedRolex
@@ -3030,8 +3175,9 @@ fl-in-top-ml-conference-and-journal:
       all devices, making it more akin to model-homogeneous training. 一个名为FedRolex的简单而有效的模型-异质性FL方法来解决这一约束。与模型同质化的情况不同，FL中模型异质化的根本挑战是全局模型的不同参数是在异质的数据分布上训练的。FedRolex通过在每个联邦迭代中滚动子模型来解决这个挑战，这样全局模型的参数就会在所有设备的全局数据分布上均匀地训练，使其更类似于模型同质化训练。'
     materials:
       PUB: https://openreview.net/forum?id=OtxyysUdBE
+      CODE: https://github.com/MSU-MLSys-Lab/FedRolex
   - title: On Sample Optimality in Personalized Collaborative and Federated Learning
-    affiliation: ''
+    affiliation: INRIA
     venue: NeurIPS
     year: '2022'
     tldr: ''
@@ -3083,7 +3229,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=5vVSA_cdRqe
   - title: 'Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated
       Learning'
-    affiliation: ''
+    affiliation: KAUST
     venue: NeurIPS
     year: '2022'
     tldr: 'VR-ProxSkip: We study distributed optimization methods based on the local
@@ -3129,8 +3275,9 @@ fl-in-top-ml-conference-and-journal:
       selection framework. 垂直联邦学习（VFL）方法面临着两个挑战：（1）当参与者数量增长到一定规模时的可扩展性；（2）对参与者的回报递减：不是所有的参与者都同样重要，许多参与者不会在一个大型联盟中引入质量改进。受这两个挑战的启发，在本文中，我们问：我们如何从m个参与者中选择l个，其中l≪m，是最重要的。我们称这个问题为垂直联邦参与者选择，并以基于相互信息的原则性观点为其建模。我们的第一个技术贡献是VF-MINE--一个垂直联邦的相互信息估计器--它使用数据库理论中最著名的算法之一--Fagin的算法作为构建模块。我们的第二个贡献是进一步优化VF-MINE，以实现VF-PS，一个基于小组测试的参与者选择框架。'
     materials:
       PUB: https://openreview.net/forum?id=vNrSXIFJ9wz
+      CODE: https://openreview.net/attachment?id=edkno3SvKo&name=supplementary_material
   - title: 'DENSE: Data-Free One-Shot Federated Learning'
-    affiliation: ''
+    affiliation: ZJU
     venue: NeurIPS
     year: '2022'
     tldr: 'DENSE: A novel two-stage Data-free One-Shot Federated Learning(DENSE) framework,
@@ -3158,7 +3305,7 @@ fl-in-top-ml-conference-and-journal:
       PDF: https://arxiv.org/abs/2205.14926
   - title: 'SAGDA: Achieving O(ϵ−2) Communication Complexity in Federated Min-Max
       Learning'
-    affiliation: ''
+    affiliation: OSU
     venue: NeurIPS
     year: '2022'
     tldr: 'SAGDA: Federated min-max learning has received increasing attention in
@@ -3179,7 +3326,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=wTp4KgVIJ5
   - title: Taming Fat-Tailed (“Heavier-Tailed” with Potentially Infinite Variance)
       Noise in Federated Learning
-    affiliation: ''
+    affiliation: OSU
     venue: NeurIPS
     year: '2022'
     tldr: 'FAT-Clipping: A key assumption in most existing works on FL algorithms''
@@ -3199,7 +3346,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=8SilFGuXgmk
   - title: Personalized Federated Learning towards Communication Efficiency, Robustness
       and Fairness
-    affiliation: ''
+    affiliation: PKU
     venue: NeurIPS
     year: '2022'
     tldr: ''
@@ -3229,7 +3376,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=sj9l1JCrAk6
   - title: 'BooNTK: Convexifying Federated Learning using Bootstrapped Neural Tangent
       Kernels'
-    affiliation: ''
+    affiliation: UC Berkeley
     venue: NeurIPS
     year: '2022'
     tldr: 'BooNTK: BooNTK, State-of-the-art federated learning methods can perform
@@ -3248,12 +3395,13 @@ fl-in-top-ml-conference-and-journal:
       PDF: https://arxiv.org/abs/2207.06343
   - title: Byzantine-tolerant federated Gaussian process regression for streaming
       data
-    affiliation: ''
+    affiliation: PSU
     venue: NeurIPS
     year: '2022'
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=Nx4gNemvNvx
+      CODE: https://openreview.net/attachment?id=Nx4gNemvNvx&name=supplementary_material
   - title: 'SoteriaFL: A Unified Framework for Private Federated Learning with Communication
       Compression'
     affiliation: CMU
@@ -3272,19 +3420,20 @@ fl-in-top-ml-conference-and-journal:
       PDF: https://arxiv.org/abs/2206.09888
   - title: 'Coresets for Vertical Federated Learning: Regularized Linear Regression
       and K-Means Clustering'
-    affiliation: ''
+    affiliation: Yale
     venue: NeurIPS
     year: '2022'
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=N0tKCpMhA2
   - title: Communication Efficient Federated Learning for Generalized Linear Bandits
-    affiliation: ''
+    affiliation: University of Virginia
     venue: NeurIPS
     year: '2022'
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=Xwz9B6LDM5c
+      CODE: https://openreview.net/attachment?id=Xwz9B6LDM5c&name=supplementary_material
   - title: Recovering Private Text in Federated Learning of Language Models
     affiliation: Princeton
     venue: NeurIPS
@@ -3308,7 +3457,7 @@ fl-in-top-ml-conference-and-journal:
       PDF: https://arxiv.org/abs/2205.08514
       CODE: https://github.com/Princeton-SysML/FILM
   - title: 'Federated Learning from Pre-Trained Models: A Contrastive Learning Approach'
-    affiliation: ''
+    affiliation: UTS
     venue: NeurIPS
     year: '2022'
     tldr: 'FedPCL: FedPCL, A lightweight framework where clients jointly learn to
@@ -3334,7 +3483,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=DdxNka9tMRd
       PDF: https://arxiv.org/abs/2206.07279
   - title: Resource-Adaptive Federated Learning with All-In-One Neural Composition
-    affiliation: ''
+    affiliation: JHU
     venue: NeurIPS
     year: '2022'
     tldr: 'FLANC: To achieve resource-adaptive federated learning, we introduce a
@@ -3397,7 +3546,7 @@ fl-in-top-ml-conference-and-journal:
       PDF: https://arxiv.org/abs/2206.01132
   - title: An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal
       Effects
-    affiliation: ''
+    affiliation: NUS
     venue: NeurIPS
     year: '2022'
     tldr: ''
@@ -3413,7 +3562,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=4_oCZgBIVI
       PDF: https://arxiv.org/abs/2206.08307
   - title: Personalized Online Federated Multi-Kernel Learning
-    affiliation: ''
+    affiliation: UCI
     venue: NeurIPS
     year: '2022'
     tldr: ''
@@ -3421,7 +3570,7 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=wUctlvhsNWg
   - title: 'SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with
       Alternate Training'
-    affiliation: ''
+    affiliation: Duke University
     venue: NeurIPS
     year: '2022'
     tldr: 'SemiFL: SemiFL to address the problem of combining communication efficient
@@ -3436,8 +3585,9 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=1GAjC_FauE
       PDF: https://arxiv.org/abs/2106.01432
+      CODE: https://openreview.net/attachment?id=1GAjC_FauE&name=supplementary_material
   - title: A Unified Analysis of Federated Learning with Arbitrary Client Participation
-    affiliation: ''
+    affiliation: IBM
     venue: NeurIPS
     year: '2022'
     tldr: ''
@@ -3446,7 +3596,7 @@ fl-in-top-ml-conference-and-journal:
       PDF: https://arxiv.org/abs/2205.13648
   - title: Preservation of the Global Knowledge by Not-True Distillation in Federated
       Learning
-    affiliation: ''
+    affiliation: KAIST
     venue: NeurIPS
     year: '2022'
     tldr: 'FedNTD: This study starts from an analogy to continual learning and suggests
@@ -3461,9 +3611,10 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=qw3MZb1Juo
       PDF: https://arxiv.org/abs/2106.03097
+      CODE: https://openreview.net/attachment?id=qw3MZb1Juo&name=supplementary_material
   - title: 'FedSR: A Simple and Effective Domain Generalization Method for Federated
       Learning'
-    affiliation: ''
+    affiliation: University of Oxford
     venue: NeurIPS
     year: '2022'
     tldr: 'FedSR: We propose a simple yet novel representation learning framework,
@@ -3479,9 +3630,10 @@ fl-in-top-ml-conference-and-journal:
       我们提出了一个简单但新颖的表示学习框架，即FedSR，它允许领域泛化，同时仍然尊重这种FL设置的去中心化和隐私保护性质。受经典机器学习算法的启发，我们旨在学习数据的简单表示以获得更好的泛化能力。特别地，我们在表示上强制一个L2范数正则化器和一个条件互信息(在给定标签的表示和数据之间)正则化器，以鼓励模型只学习基本信息(而忽略虚假的相关性,如背景)。此外，我们提供了上述两个目标与领域泛化中的表示对齐之间的理论联系。'
     materials:
       PUB: https://openreview.net/forum?id=mrt90D00aQX
+      CODE: https://openreview.net/attachment?id=mrt90D00aQX&name=supplementary_material
   - title: 'Factorized-FL: Personalized Federated Learning with Parameter Factorization
       & Similarity Matching'
-    affiliation: ''
+    affiliation: KAIST
     venue: NeurIPS
     year: '2022'
     tldr: 'Factorized-FL: In real-world federated learning scenarios, participants
@@ -3501,6 +3653,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=Ql75oqz1npy
       PDF: https://arxiv.org/abs/2202.00270
+      CODE: https://openreview.net/attachment?id=Ql75oqz1npy&name=supplementary_material
   - title: A Simple and Provably Efficient Algorithm for Asynchronous Federated Contextual
       Linear Bandits
     affiliation: UC
@@ -3558,6 +3711,16 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=fiBnhdazkyx
       PDF: https://arxiv.org/abs/2106.06312
+      CODE: https://github.com/Xtra-Computing/FedSim
+  - title: 'FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic
+      Healthcare Settings'
+    affiliation: Owkin
+    venue: NeurIPS Datasets and Benchmarks
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=GgM5DiAb6A2
+      CODE: https://github.com/owkin/FLamby
   - title: A Tree-based Model Averaging Approach for Personalized Treatment Effect
       Estimation from Heterogeneous Data Sources
     affiliation: University of Pittsburgh
