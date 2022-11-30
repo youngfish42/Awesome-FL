@@ -30,6 +30,41 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 60
     materials: 60
   body:
+  - title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing
+    affiliation: UTS
+    venue: 'AAAI :mortar_board:'
+    year: '2023'
+    tldr: 'FedStar: From real-world graph datasets, we observe that some structural
+      properties are shared by various domains, presenting great potential for sharing
+      structural knowledge in FGL. Inspired by this, we propose FedStar, an FGL framework
+      that extracts and shares the common underlying structure information for inter-graph
+      federated learning tasks. To explicitly extract the structure information rather
+      than encoding them along with the node features, we define structure embeddings
+      and encode them with an independent structure encoder. Then, the structure encoder
+      is shared across clients while the feature-based knowledge is learned in a personalized
+      way, making FedStar capable of capturing more structure-based domain-invariant
+      information and avoiding feature misalignment issues. We perform extensive experiments
+      over both cross-dataset and cross-domain non-IID FGL settings.  从现实世界的图数据集中，我们观察到一些结构属性被不同的领域所共享，这为联邦图机器学习中共享结构知识提供了巨大的潜力。受此启发，我们提出了FedStar，一个为图间联合学习任务提取和分享共同基础结构信息的FGL框架。为了明确地提取结构信息，而不是将其与节点特征一起编码，我们定义了结构嵌入，并用一个独立的结构编码器对其进行编码。然后，结构编码器在客户之间共享，而基于特征的知识则以个性化的方式学习，这使得FedStar能够捕获更多基于结构的领域变量信息，并避免了特征错位问题。我们在跨数据集和跨域的非IID
+      FGL设置上进行了广泛的实验。'
+    materials:
+      PDF: https://arxiv.org/abs/2211.13009
+      CODE: https://github.com/yuetan031/fedstar
+  - title: 'FedGS: Federated Graph-based Sampling with Arbitrary Client Availability'
+    affiliation: XMU
+    venue: 'AAAI :mortar_board:'
+    year: '2023'
+    tldr: 'FedGS: Federated Graph-based Sampling (FedGS) to stabilize the global model
+      update and mitigate the long-term bias given arbitrary client availability simultaneously.
+      First, we model the data correlations of clients with a Data-Distribution-Dependency
+      Graph (3DG) that helps keep the sampled clients data apart from each other,
+      which is theoretically shown to improve the approximation to the optimal model
+      update. Second, constrained by the far-distance in data distribution of the
+      sampled clients, we further minimize the variance of the numbers of times that
+      the clients are sampled, to mitigate long-term bias. 基于图的联合采样（Federated Graph-based
+      Sampling，FedGS）稳定了全局模型的更新，并同时减轻了任意客户端可用性的长期偏差。首先，我们用数据分布-依赖图（3DG）对客户的数据相关性进行建模，这有助于使被采样的客户数据相互分离，理论上证明这可以提高对最佳模型更新的近似度。其次，受制于被抽样客户数据分布的远距离，我们进一步将客户被抽样次数的方差降到最低，以减轻长期偏差。'
+    materials:
+      PDF: https://arxiv.org/abs/2211.13975
+      CODE: https://github.com/wwzzz/fedgs
   - title: Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural
     affiliation: ''
     venue: IEEE Trans. Ind. Informatics
@@ -1284,6 +1319,23 @@ fl-on-tabular-data:
     tldr: 27
     materials: 60
   body:
+  - title: Incentive-boosted Federated Crowdsourcing
+    affiliation: SDU
+    venue: 'AAAI :mortar_board:'
+    year: '2023'
+    tldr: 'iFedCrowd: iFedCrowd (incentive-boosted Federated Crowdsourcing), to manage
+      the privacy and quality of crowdsourcing projects. iFedCrowd allows participants
+      to locally process sensitive data and only upload encrypted training models,
+      and then aggregates the model parameters to build a shared server model to protect
+      data privacy. To motivate workers to build a high-quality global model in an
+      efficacy way, we introduce an incentive mechanism that encourages workers to
+      constantly collect fresh data to train accurate client models and boosts the
+      global model training. We model the incentive-based interaction between the
+      crowdsourcing platform and participating workers as a Stackelberg game, in which
+      each side maximizes its own profit. We derive the Nash Equilibrium of the game
+      to find the optimal solutions for the two sides. iFedCrowd（激励促进的联合众包），管理众包项目的隐私和质量。iFedCrowd允许参与者在本地处理敏感数据，只上传加密的训练模型，然后汇总模型参数，建立一个共享的服务器模型，保护数据隐私。为了激励工人以效能的方式建立高质量的全局模型，我们引入了一种激励机制，鼓励工人不断收集新鲜数据来训练准确的客户模型，并促进全局模型的训练。我们将众包平台和参与工人之间基于激励的互动建模为Stackelberg博弈，其中每一方都最大化自己的利润。我们推导出博弈的纳什均衡，以找到双方的最佳解决方案。'
+    materials:
+      PDF: https://arxiv.org/abs/2211.14439
   - title: Boosting Accuracy of Differentially Private Federated Learning in Industrial
       IoT With Sparse Responses
     affiliation: ''
@@ -1742,6 +1794,21 @@ fl-on-tabular-data:
       can be computed which some/several federated learning algorithms utilize. 深度神经决策森林（DNDF），将分治策略与属性表示学习结合起来。通过对森林预测节点的概率分布进行参数化，并将森林中的所有树木纳入损失函数中，可以计算出整个森林的梯度，一些/一些联邦学习算法利用了这一梯度。'
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58
+  - title: 'Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data'
+    affiliation: HIT
+    venue: preprint
+    year: '2022'
+    tldr: 'Fed-TDA: A federated tabular data augmentation method, named Fed-TDA. The
+      core idea of Fed-TDA is to synthesize tabular data for data augmentation using
+      some simple statistics (e.g., distributions of each column and global covariance).
+      Specifically, we propose the multimodal distribution transformation and inverse
+      cumulative distribution mapping respectively synthesize continuous and discrete
+      columns in tabular data from a noise according to the pre-learned statistics.
+      Furthermore, we theoretically analyze that our Fed-TDA not only preserves data
+      privacy but also maintains the distribution of the original data and the correlation
+      between columns. 一种名为Fed-TDA的联合表格式数据扩充方法。Fed-TDA的核心思想是利用一些简单的统计数据（如每一列的分布和全局协方差）来合成表格数据进行数据扩增。具体来说，我们提出了多模态分布变换和反累积分布映射，分别根据预先学习的统计数据从噪声中合成表格数据的连续和离散列。此外，我们从理论上分析，我们的Fed-TDA不仅保留了数据隐私，而且还保持了原始数据的分布和列之间的相关性。'
+    materials:
+      PDF: https://arxiv.org/abs/2211.13116
   - title: Data Leakage in Tabular Federated Learning
     affiliation: ETH Zurich
     venue: preprint
@@ -1966,6 +2033,13 @@ fl-in-top-tier-journal:
     tldr: 21
     materials: 60
   body:
+  - title: Federated learning and Indigenous genomic data sovereignty
+    affiliation: Hugging Face
+    venue: Nat. Mach. Intell.
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://www.nature.com/articles/s42256-022-00551-y
   - title: Federated disentangled representation learning for unsupervised brain anomaly
       detection
     affiliation: TUM
@@ -2125,6 +2199,58 @@ fl-in-top-ai-conference-and-journal:
     tldr: 25
     materials: 60
   body:
+  - title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing
+    affiliation: UTS
+    venue: AAAI
+    year: '2023'
+    tldr: 'FedStar: From real-world graph datasets, we observe that some structural
+      properties are shared by various domains, presenting great potential for sharing
+      structural knowledge in FGL. Inspired by this, we propose FedStar, an FGL framework
+      that extracts and shares the common underlying structure information for inter-graph
+      federated learning tasks. To explicitly extract the structure information rather
+      than encoding them along with the node features, we define structure embeddings
+      and encode them with an independent structure encoder. Then, the structure encoder
+      is shared across clients while the feature-based knowledge is learned in a personalized
+      way, making FedStar capable of capturing more structure-based domain-invariant
+      information and avoiding feature misalignment issues. We perform extensive experiments
+      over both cross-dataset and cross-domain non-IID FGL settings.  从现实世界的图数据集中，我们观察到一些结构属性被不同的领域所共享，这为联邦图机器学习中共享结构知识提供了巨大的潜力。受此启发，我们提出了FedStar，一个为图间联合学习任务提取和分享共同基础结构信息的FGL框架。为了明确地提取结构信息，而不是将其与节点特征一起编码，我们定义了结构嵌入，并用一个独立的结构编码器对其进行编码。然后，结构编码器在客户之间共享，而基于特征的知识则以个性化的方式学习，这使得FedStar能够捕获更多基于结构的领域变量信息，并避免了特征错位问题。我们在跨数据集和跨域的非IID
+      FGL设置上进行了广泛的实验。'
+    materials:
+      PDF: https://arxiv.org/abs/2211.13009
+      CODE: https://github.com/yuetan031/fedstar
+  - title: 'FedGS: Federated Graph-based Sampling with Arbitrary Client Availability'
+    affiliation: XMU
+    venue: AAAI
+    year: '2023'
+    tldr: 'FedGS: Federated Graph-based Sampling (FedGS) to stabilize the global model
+      update and mitigate the long-term bias given arbitrary client availability simultaneously.
+      First, we model the data correlations of clients with a Data-Distribution-Dependency
+      Graph (3DG) that helps keep the sampled clients data apart from each other,
+      which is theoretically shown to improve the approximation to the optimal model
+      update. Second, constrained by the far-distance in data distribution of the
+      sampled clients, we further minimize the variance of the numbers of times that
+      the clients are sampled, to mitigate long-term bias. 基于图的联合采样（Federated Graph-based
+      Sampling，FedGS）稳定了全局模型的更新，并同时减轻了任意客户端可用性的长期偏差。首先，我们用数据分布-依赖图（3DG）对客户的数据相关性进行建模，这有助于使被采样的客户数据相互分离，理论上证明这可以提高对最佳模型更新的近似度。其次，受制于被抽样客户数据分布的远距离，我们进一步将客户被抽样次数的方差降到最低，以减轻长期偏差。'
+    materials:
+      PDF: https://arxiv.org/abs/2211.13975
+      CODE: https://github.com/wwzzz/fedgs
+  - title: Incentive-boosted Federated Crowdsourcing
+    affiliation: SDU
+    venue: AAAI
+    year: '2023'
+    tldr: 'iFedCrowd: iFedCrowd (incentive-boosted Federated Crowdsourcing), to manage
+      the privacy and quality of crowdsourcing projects. iFedCrowd allows participants
+      to locally process sensitive data and only upload encrypted training models,
+      and then aggregates the model parameters to build a shared server model to protect
+      data privacy. To motivate workers to build a high-quality global model in an
+      efficacy way, we introduce an incentive mechanism that encourages workers to
+      constantly collect fresh data to train accurate client models and boosts the
+      global model training. We model the incentive-based interaction between the
+      crowdsourcing platform and participating workers as a Stackelberg game, in which
+      each side maximizes its own profit. We derive the Nash Equilibrium of the game
+      to find the optimal solutions for the two sides. iFedCrowd（激励促进的联合众包），管理众包项目的隐私和质量。iFedCrowd允许参与者在本地处理敏感数据，只上传加密的训练模型，然后汇总模型参数，建立一个共享的服务器模型，保护数据隐私。为了激励工人以效能的方式建立高质量的全局模型，我们引入了一种激励机制，鼓励工人不断收集新鲜数据来训练准确的客户模型，并促进全局模型的训练。我们将众包平台和参与工人之间基于激励的互动建模为Stackelberg博弈，其中每一方都最大化自己的利润。我们推导出博弈的纳什均衡，以找到双方的最佳解决方案。'
+    materials:
+      PDF: https://arxiv.org/abs/2211.14439
   - title: Towards Understanding Biased Client Selection in Federated Learning.
     affiliation: CMU
     venue: AISTATS
