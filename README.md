@@ -259,6 +259,7 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    TL;DR                    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | --------------------- | ------------------------------------------------------------ |
+|Federated learning and Indigenous genomic data sovereignty | Hugging Face | Nat. Mach. Intell. | 2022 |  | [pub](https://www.nature.com/articles/s42256-022-00551-y) |
 | Federated disentangled representation learning for unsupervised brain anomaly detection | TUM | Nat. Mach. Intell. | 2022 | FedDis[^FedDis] | [[PUB](https://www.nature.com/articles/s42256-022-00515-2)] [[PDF](https://doi.org/https://doi.org/10.21203/rs.3.rs-722389/v1)] [[CODE](https://doi.org/10.5281/zenodo.6604161)] |
 | Shifting machine learning for healthcare from development to deployment and from models to data |  | Nat. Biomed. Eng. | 2022 | FL-healthy[^FL-healthy] | [[PUB](https://www.nature.com/articles/s41551-022-00898-y)] |
 | A federated graph neural network framework for privacy-preserving personalization | THU | Nat. Commun. | 2022 | FedPerGNN[^FedPerGNN] | [[PUB](https://www.nature.com/articles/s41467-022-30714-9)] [[CODE](https://github.com/wuch15/FedPerGNN)] [[解读](https://zhuanlan.zhihu.com/p/487383715)] |
