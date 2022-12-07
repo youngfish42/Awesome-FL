@@ -189,6 +189,15 @@ fl-on-graph-data-and-graph-neural-network:
       PUB: https://ieeexplore.ieee.org/abstract/document/9606516/
       CODE: https://github.com/cfh19980612/FedGraph
       解读: https://zhuanlan.zhihu.com/p/442233479
+  - title: 'More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural
+      Networks'
+    affiliation: TU Delft
+    venue: ACSAC
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3564625.3567999
+      PDF: https://arxiv.org/abs/2202.03195
   - title: 'FedNI: Federated Graph Learning with Network Inpainting for Population-Based
       Disease Prediction'
     affiliation: UESTC
@@ -1161,14 +1170,6 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'EF-HC: TBC'
     materials:
       PDF: https://github.com/ShahryarBQ/EF_HC
-  - title: 'More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural
-      Networks'
-    affiliation: ''
-    venue: preprint
-    year: '2022'
-    tldr: ''
-    materials:
-      PDF: https://arxiv.org/abs/2202.03195
   - title: Federated Learning with Heterogeneous Architectures using Graph HyperNetworks
     affiliation: ''
     venue: preprint
