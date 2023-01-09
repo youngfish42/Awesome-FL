@@ -30,6 +30,21 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 60
     materials: 60
   body:
+  - title: 'HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity
+      in Horizontal Federated Learning'
+    affiliation: Nankai University
+    venue: 'IEEE Trans. Vis. Comput. Graph. :mortar_board:'
+    year: '2023'
+    tldr: 'HetVis: A visual analytics tool, HetVis, for participating clients to explore
+      data heterogeneity. We identify data heterogeneity through comparing prediction
+      behaviors of the global federated model and the stand-alone model trained with
+      local data. Then, a context-aware clustering of the inconsistent records is
+      done, to provide a summary of data heterogeneity. Combining with the proposed
+      comparison techniques, we develop a novel set of visualizations to identify
+      heterogeneity issues in HFL(Horizontal federated learning).  可视化分析工具Het Vis，用于参与客户探索数据异质性。我们通过比较全局联邦模型和使用本地数据训练的单机模型的预测行为来识别数据异构性。然后，对不一致记录进行上下文感知的聚类，以提供数据异质性的总结。结合所提出的比较技术，我们开发了一套新颖的可视化来识别HFL(横向联邦学习)中的异质性问题。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9912364
+      PDF: https://arxiv.org/abs/2208.07491
   - title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing
     affiliation: UTS
     venue: 'AAAI :mortar_board:'
@@ -504,6 +519,15 @@ fl-on-graph-data-and-graph-neural-network:
       PUB: https://linkinghub.elsevier.com/retrieve/pii/S2666389922001180
       PDF: https://arxiv.org/abs/2109.07258
       CODE: https://doi.org/10.5281/zenodo.6485682
+  - title: Graph Federated Learning for CIoT Devices in Smart Home Applications
+    affiliation: University of Toronto
+    venue: IEEE Internet Things J.
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9983539
+      PDF: https://arxiv.org/abs/2212.14395
+      CODE: https://github.com/FL-HAR/Graph-Federated-Learning-for-CIoT-Devices.git
   - title: Multi-Level Federated Graph Learning and Self-Attention Based Personalized
       Wi-Fi Indoor Fingerprint Localization
     affiliation: SYSU
@@ -542,6 +566,14 @@ fl-on-graph-data-and-graph-neural-network:
       (PSO-GFML)。PSO-GFML允许参与的客户端在全局迭代过程中只与各自的服务器交换部分模型参数，而非参与的客户端在有机会获得新数据的情况下更新本地模型。'
     materials:
       PUB: https://doi.org/10.1109/CISS53076.2022.9751160
+  - title: Neural graph collaborative filtering for privacy preservation based on
+      federated transfer learning
+    affiliation: ''
+    venue: Electron. Libr.
+    year: '2022'
+    tldr: 'FTL-NGCF: TBC'
+    materials:
+      PUB: https://www.emerald.com/insight/content/doi/10.1108/EL-06-2022-0141/full/html
   - title: Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking
       in Healthcare Applications
     affiliation: Oxford
@@ -1058,27 +1090,32 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
-  - title: 'FedEgo: Privacy-preserving Personalized Federated Graph Learning with
-      Ego-graphs'
-    affiliation: SYSU
+  - title: Graph Federated Learning with Hidden Representation Sharing
+    affiliation: UCLA
     venue: preprint
     year: '2022'
-    tldr: 'FedEgo: FedEgo, a federated graph learning framework based on ego-graphs,
-      where each client will train their local models while also contributing to the
-      training of a global model. FedEgo applies GraphSAGE over ego-graphs to make
-      full use of the structure information and utilizes Mixup for privacy concerns.
-      To deal with the statistical heterogeneity, we integrate personalization into
-      learning and propose an adaptive mixing coefficient strategy that enables clients
-      to achieve their optimal personalization. FedEgo是一个基于自中心图的联邦图学习框架，每个客户端将训练他们的本地模型，同时也为全局模型的训练作出贡献。FedEgo在自中心图上应用GraphSAGE来充分利用结构信息，并利用Mixup来解决隐私问题。为了处理统计上的异质性，我们将个性化整合到学习中，并提出了一个自适应混合系数策略，使客户能够实现其最佳的个性化。'
+    tldr: 'GFL-APPNP: We first formulate the Graph Federated Learning (GFL) problem
+      that unifies LoG(Learning on Graphs) and FL(Federated Learning) in multi-client
+      systems and then propose sharing hidden representation instead of the raw data
+      of neighbors to protect data privacy as a solution. To overcome the biased gradient
+      problem in GFL, we provide a gradient estimation method and its convergence
+      analysis under the non-convex objective. 我们首先在多客户机系统中统一LoG(在图上学习)和FL (Federation
+      Learning)的图联邦学习(Graph Federation Learning，GFL)问题，然后提出共享隐藏表示代替邻居的原始数据以保护数据隐私作为解决方案。为了克服GFL中的有偏梯度问题，我们给出了非凸目标下的梯度估计方法及其收敛性分析。'
     materials:
-      PDF: https://arxiv.org/abs/2208.13685
-      CODE: https://github.com/fedego/fedego
+      PDF: https://arxiv.org/abs/2212.12158
+  - title: 'FedRule: Federated Rule Recommendation System with Graph Neural Networks'
+    affiliation: CMU
+    venue: preprint
+    year: '2022'
+    tldr: 'FedRule: TBC'
+    materials:
+      PDF: https://arxiv.org/abs/2211.06812
   - title: M3FGM:a node masking and multi-granularity message passing-based federated
       graph model for spatial-temporal data prediction
     affiliation: Xidian University
     venue: preprint
     year: '2022'
-    tldr: ''
+    tldr: 'M3FGM: TBC'
     materials:
       PDF: https://arxiv.org/abs/2210.16193
   - title: Federated Graph-based Networks with Shared Embedding
@@ -1103,6 +1140,21 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: ''
     materials:
       PDF: https://arxiv.org/abs/2209.08737
+  - title: 'FedEgo: Privacy-preserving Personalized Federated Graph Learning with
+      Ego-graphs'
+    affiliation: SYSU
+    venue: preprint
+    year: '2022'
+    tldr: 'FedEgo: FedEgo, a federated graph learning framework based on ego-graphs,
+      where each client will train their local models while also contributing to the
+      training of a global model. FedEgo applies GraphSAGE over ego-graphs to make
+      full use of the structure information and utilizes Mixup for privacy concerns.
+      To deal with the statistical heterogeneity, we integrate personalization into
+      learning and propose an adaptive mixing coefficient strategy that enables clients
+      to achieve their optimal personalization. FedEgo是一个基于自中心图的联邦图学习框架，每个客户端将训练他们的本地模型，同时也为全局模型的训练作出贡献。FedEgo在自中心图上应用GraphSAGE来充分利用结构信息，并利用Mixup来解决隐私问题。为了处理统计上的异质性，我们将个性化整合到学习中，并提出了一个自适应混合系数策略，使客户能够实现其最佳的个性化。'
+    materials:
+      PDF: https://arxiv.org/abs/2208.13685
+      CODE: https://github.com/fedego/fedego
   - title: Federated Graph Contrastive Learning
     affiliation: UTS
     venue: preprint
