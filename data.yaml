@@ -3132,6 +3132,65 @@ fl-in-top-ml-conference-and-journal:
     tldr: 27
     materials: 60
   body:
+  - title: Federated online clustering of bandits.
+    affiliation: CUHK
+    venue: UAI
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=rKUgiU8iqeq
+      PDF: https://arxiv.org/abs/2208.14865
+      CODE: https://github.com/zhaohaoru/federated-clustering-of-bandits
+  - title: Privacy-aware compression for federated data analysis.
+    affiliation: Meta AI
+    venue: UAI
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=BqUdRP8i9e9
+      PDF: https://arxiv.org/abs/2203.08134
+      CODE: https://github.com/facebookresearch/dp_compression
+  - title: Faster non-convex federated learning via global and local momentum.
+    affiliation: UTEXAS
+    venue: UAI
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=SSlLRUIs9e9
+      PDF: https://arxiv.org/abs/2012.04061
+  - title: 'Fedvarp: Tackling the variance due to partial client participation in
+      federated learning.'
+    affiliation: CMU
+    venue: UAI
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=HlWLLdUocx5
+      PDF: https://arxiv.org/abs/2207.14130
+  - title: 'SASH: Efficient secure aggregation based on SHPRG for federated learning'
+    affiliation: CAS; CASTEST
+    venue: UAI
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=HSleBPIoql9
+      PDF: https://arxiv.org/abs/2111.12321
+  - title: Bayesian federated estimation of causal effects from observational data
+    affiliation: NUS
+    venue: UAI
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=BEl3vP8sqlc
+      PDF: https://arxiv.org/abs/2106.00456
+  - title: Communication-Efficient Randomized Algorithm for Multi-Kernel Online Federated
+      Learning
+    affiliation: Hanyang University
+    venue: TPAMI
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9625795
   - title: Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient
       Federated Learning
     affiliation: ZJU
@@ -7567,8 +7626,33 @@ fl-in-top-network-conference-and-journal:
       In this way, we can prioritize the use of those clients with higher statistical
       and system utility consistently. PyramidFL加快了FL训练的速度，同时获得了更高的最终模型性能（即时间-准确度）。PyramidFL的核心是细粒度的客户端选择，在客户端选择中，PyramidFL不仅关注那些被选中的参与者和未被选中的参与者之间的分歧，而且还充分利用被选中的客户端内的数据和系统异质性来更有效地剖析其效用。具体来说，PyramidFL首先从全局（即服务器）角度确定基于效用的客户端选择，然后在本地（即客户端）优化其效用剖析，以进一步选择客户端。通过这种方式，我们可以优先使用那些具有更高的统计和系统效用的客户端，并保持一致。'
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3495243.3517017
       PDF: https://www.egr.msu.edu/~mizhang/papers/2022_MobiCom_PyramidFL.pdf
       CODE: https://github.com/liecn/PyramidFL
+  - title: 'NestFL: efficient federated learning through progressive model pruning
+      in heterogeneous edge computing'
+    affiliation: pmlabs
+    venue: MobiCom(Poster)
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3495243.3558248
+  - title: Federated learning-based air quality prediction for smart cities using
+      BGRU model
+    affiliation: IITM
+    venue: MobiCom(Poster)
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3495243.3558267
+  - title: 'FedHD: federated learning with hyperdimensional computing'
+    affiliation: UCSD
+    venue: MobiCom(Demo)
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3495243.3558757
+      CODE: https://github.com/QuanlingZhao/FedHD
   - title: Joint Superposition Coding and Training for Federated Learning over Multi-Width
       Neural Networks
     affiliation: Korea University
@@ -8111,6 +8195,14 @@ fl-in-top-system-conference-and-journal:
     tldr: 35
     materials: 60
   body:
+  - title: 'HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated
+      Learning in Mobile Edge Computing.'
+    affiliation: DUT
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9935309
   - title: 'BAFL: A Blockchain-Based Asynchronous Federated Learning Framework'
     affiliation: ''
     venue: TC
@@ -8141,6 +8233,20 @@ fl-in-top-system-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9530450
+  - title: 'PervasiveFL: Pervasive Federated Learning for Heterogeneous IoT Systems.'
+    affiliation: ECNU
+    venue: TCAD
+    year: '2022'
+    tldr: 'PervasiveFL: PervasiveFL that enables efficient and effective FL among
+      heterogeneous IoT devices. Without modifying original local models, PervasiveFL
+      installs one lightweight NN model named modellet on each device. By using the
+      deep mutual learning (DML) and our entropy-based decision gating (EDG) method,
+      modellets and local models can selectively learn from each other through soft
+      labels using locally captured data. Meanwhile, since modellets are of the same
+      architecture, the learned knowledge by modellets can be shared among devices
+      in a traditional FL manner. PervasiveFL能够在异构的物联网设备之间实现高效的FL。在不修改原有本地模型的情况下，PervasiveFL在每个设备上安装了一个名为modellet的轻量级NN模型。通过使用深度相互学习（DML）和我们的基于熵的决策门控（EDG）方法，小模型和本地模型可以通过使用本地捕获的数据的软标签选择性地相互学习。同时，由于小模型具有相同的架构，小模型学到的知识可以以传统的FL方式在设备间共享。'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9925684
   - title: 'FHDnn: communication efficient and robust federated learning for AIoT
       networks'
     affiliation: UC San Diego
@@ -8156,6 +8262,64 @@ fl-in-top-system-conference-and-journal:
       only the hyperdimensional component. 传输成本、不可靠的网络和有限的计算能力都是物联网网络的典型特征，这对联邦学习构成了严重的瓶颈。FHDnn是一个协同联邦学习框架，它结合了CNN和多维的计算的重要方面。FHDnn对从自监督对比学习框架中提取的特征进行多维的学习，以加速训练，降低通信成本，并通过避免CNN的传输和仅训练多维的组件来提高对网络错误的鲁棒性。'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3489517.3530394
+  - title: A Decentralized Federated Learning Framework via Committee Mechanism With
+      Convergence Guarantee
+    affiliation: SYSU
+    venue: TPDS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9870745
+      PDF: https://arxiv.org/abs/2108.00365
+  - title: Improving Federated Learning With Quality-Aware User Incentive and Auto-Weighted
+      Model Aggregation
+    affiliation: THU
+    venue: TPDS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9847055
+  - title: '$f$funcX: Federated Function as a Service for Science.'
+    affiliation: SUST
+    venue: TPDS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9899739
+      PDF: https://arxiv.org/abs/2209.11631
+  - title: 'Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance
+      Analysis and Resource Allocation'
+    affiliation: NUST
+    venue: TPDS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9664296
+      PDF: https://arxiv.org/abs/2101.06905
+      CODE: https://github.com/ElvisShaoYumeng/BLADE-FL
+  - title: Adaptive Federated Deep Reinforcement Learning for Proactive Content Caching
+      in Edge Computing.
+    affiliation: CQU
+    venue: TPDS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9868114
+  - title: 'TDFL: Truth Discovery Based Byzantine Robust Federated Learning'
+    affiliation: BIT
+    venue: TPDS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9887909
+  - title: Federated Learning With Nesterov Accelerated Gradient
+    affiliation: The University of Sydney
+    venue: TPDS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9891808
+      PDF: https://arxiv.org/abs/2009.08716
   - title: 'FedGraph: Federated Graph Learning with Intelligent Sampling'
     affiliation: UoA
     venue: TPDS
