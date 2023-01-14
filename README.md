@@ -400,7 +400,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 - [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 - [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) [2022](https://openreview.net/group?id=ICLR.cc/2022/Conference)([OpenReview](https://openreview.net/group?id=ICLR.cc/2022/Conference)),[2021](https://openreview.net/group?id=ICLR.cc/2021/Conference), [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) NULL
-- [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) 2021
+- [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) [2022](https://www.auai.org/uai2022/accepted_papers), [2021](https://www.auai.org/uai2021/accepted_papers)
 - [JMLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AJ%20Mach%20Learn%20Res%3A) 2021
 - [TPAMI](https://dblp.uni-trier.de/search?q=federate%20venue%3ATrans%20Pattern%20Anal%20Mach%20Intell%3A) 2022
 
@@ -408,6 +408,13 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    TL;DR                          |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | --------------------------- | ------------------------------------------------------------ |
+|Federated online clustering of bandits. | CUHK | UAI | 2022 |  | [PUB](https://proceedings.mlr.press/v180/liu22a.html) [pub](https://openreview.net/forum?id=rKUgiU8iqeq) [pdf](https://arxiv.org/abs/2208.14865) [code](https://github.com/zhaohaoru/federated-clustering-of-bandits) |
+|Privacy-aware compression for federated data analysis. | Meta AI | UAI | 2022 |  | [PUB](https://proceedings.mlr.press/v180/chaudhuri22a.html) [pub](https://openreview.net/forum?id=BqUdRP8i9e9) [pdf](https://arxiv.org/abs/2203.08134) [code](https://github.com/facebookresearch/dp_compression) |
+|Faster non-convex federated learning via global and local momentum. | UTEXAS | UAI | 2022 |  | [PUB](https://proceedings.mlr.press/v180/das22b.html) [pub](https://openreview.net/forum?id=SSlLRUIs9e9) [pdf](https://arxiv.org/abs/2012.04061) |
+|Fedvarp: Tackling the variance due to partial client participation in federated learning. | CMU | UAI | 2022 |  | [PUB](https://proceedings.mlr.press/v180/jhunjhunwala22a.html) [pub](https://openreview.net/forum?id=HlWLLdUocx5) [pdf](https://arxiv.org/abs/2207.14130) |
+|SASH: Efficient secure aggregation based on SHPRG for federated learning | CAS; CASTEST | UAI | 2022 |  | [PUB](https://proceedings.mlr.press/v180/liu22c.html) [pub](https://openreview.net/forum?id=HSleBPIoql9) [pdf](https://arxiv.org/abs/2111.12321) |
+|Bayesian federated estimation of causal effects from observational data | NUS | UAI | 2022 |  | [PUB](https://proceedings.mlr.press/v180/vo22a.html) [pub](https://openreview.net/forum?id=BEl3vP8sqlc) [pdf](https://arxiv.org/abs/2106.00456) |
+|Communication-Efficient Randomized Algorithm for Multi-Kernel Online Federated Learning | Hanyang University | TPAMI | 2022 |  | [pub](https://ieeexplore.ieee.org/document/9625795) |
 | Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning | ZJU | TPAMI | 2022 | TPAMI-LAQ[^TPAMI-LAQ] | [[PUB](https://ieeexplore.ieee.org/document/9238427)] [[CODE](https://github.com/sunjunaimer/TPAMI-LAQ)] |
 | Communication Acceleration of Local Gradient Methods via an Accelerated Primal-Dual Algorithm with an Inexact Prox | Moscow Institute of Physics and Technology | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=W72rB0wwLVu)] [[PDF](https://arxiv.org/abs/2207.03957)] |
 | LAMP: Extracting Text from Gradients with Language Model Priors | ETHZ | NeurIPS | 2022 |  | [[PUB](https://openreview.net/forum?id=6iqd9JAVR1z)] [[CODE](https://openreview.net/attachment?id=6iqd9JAVR1z&name=supplementary_material)] |
@@ -887,7 +894,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [SIGCOMM](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGCOMM%3A) NULL
 
 - [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) [2022](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference)([Page](https://infocom.info/day/3/track/Track%20B#B-7)), [2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom21)), [2020](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom20)), [2019](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 2018
-- [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) [2021](https://www.sigmobile.org/mobicom/2021/accepted.html), [2020](https://www.sigmobile.org/mobicom/2020/accepted.php)
+- [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) [2022](https://www.sigmobile.org/mobicom/2022/accepted.html), [2021](https://www.sigmobile.org/mobicom/2021/accepted.html), [2020](https://www.sigmobile.org/mobicom/2020/accepted.php)
 - [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) NULL
 - [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
 
@@ -895,7 +902,10 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 |Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    TL;DR                                        |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ----------------------------------------- | ------------------------------------------------------------ |
-| PyramidFL: Fine-grained Data and System Heterogeneity-aware Client Selection for Efficient Federated Learning | MSU | MobiCom | 2022 | PyramidFL[^PyramidFL] | [[PDF](https://www.egr.msu.edu/~mizhang/papers/2022_MobiCom_PyramidFL.pdf)] [[CODE](https://github.com/liecn/PyramidFL)] |
+| PyramidFL: Fine-grained Data and System Heterogeneity-aware Client Selection for Efficient Federated Learning | MSU | MobiCom | 2022 | PyramidFL[^PyramidFL] | [pub](https://dl.acm.org/doi/10.1145/3495243.3517017) [[PDF](https://www.egr.msu.edu/~mizhang/papers/2022_MobiCom_PyramidFL.pdf)] [[CODE](https://github.com/liecn/PyramidFL)] |
+| NestFL: efficient federated learning through progressive model pruning in heterogeneous edge computing | pmlabs | MobiCom(Poster) | 2022 |  | [pub](https://dl.acm.org/doi/10.1145/3495243.3558248) |
+| Federated learning-based air quality prediction for smart cities using BGRU model | IITM | MobiCom(Poster) | 2022 |  | [pub](https://dl.acm.org/doi/10.1145/3495243.3558267) |
+| FedHD: federated learning with hyperdimensional computing | UCSD | MobiCom(Demo) | 2022 |  | [pub](https://dl.acm.org/doi/10.1145/3495243.3558757) [code](https://github.com/QuanlingZhao/FedHD) |
 | Joint Superposition Coding and Training for Federated Learning over Multi-Width Neural Networks | Korea University | INFOCOM | 2022 | SlimFL[^SlimFL] | [[PUB](https://ieeexplore.ieee.org/document/9796733)] |
 | Towards Optimal Multi-Modal Federated Learning on Non-IID Data with Hierarchical Gradient Blending | University of Toronto | INFOCOM | 2022 | HGBFL[^HGBFL] | [[PUB](https://ieeexplore.ieee.org/document/9796724)] |
 | Optimal Rate Adaption in Federated Learning with Compressed Communications | SZU | INFOCOM | 2022 | ORAFL[^ORAFL] | [[PUB](https://ieeexplore.ieee.org/document/9796982)] [[PDF](https://arxiv.org/abs/2112.06694)] |
@@ -951,7 +961,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [SOSP](https://dblp.org/search?q=federated%20venue%3ASOSP%3A) 2021
 - [ISCA](https://dblp.org/search?q=federated%20venue%3AISCA%3A) NULL
 - [MLSys](https://dblp.org/search?q=federated%20venue%3AMLSys%3A) 2022, 2020, 2019
-- [TPDS](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Parallel%20Distributed%20Syst.%3A) 2022, 2021, 2020
+- [TPDS](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Parallel%20Distributed%20Syst.%3A) 2023, 2022, 2021, 2020
 - [DAC](https://dblp.uni-trier.de/search?q=federate%20venue%3ADAC%3A) 2022, 2021
 - [TOCS](https://dblp.uni-trier.de/search?q=federate%20venue%3AACM%20Trans%20Comput%20Syst%3A) NULL
 - [TOS](https://dblp.uni-trier.de/search?q=federate%20venue%3A%20ACM%20Trans%20Storage%3A) NULL
@@ -962,11 +972,20 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
+|HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated Learning in Mobile Edge Computing. | DUT | TPDS | 2023 |  | [pub](https://ieeexplore.ieee.org/document/9935309) |
 | BAFL: A Blockchain-Based Asynchronous Federated Learning Framework |  | TC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9399813/)] [[CODE](https://github.com/xuchenhao001/AFL)] |
 | L4L: Experience-Driven Computational Resource Control in Federated Learning |  | TC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9384231)] |
 | Adaptive Federated Learning on Non-IID Data With Resource Constraint |  | TC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9496155)] |
 | Client Scheduling and Resource Management for Efficient Training in Heterogeneous IoT-Edge Federated Learning | ECNU | TCAD | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9530450)] |
+| PervasiveFL: Pervasive Federated Learning for Heterogeneous IoT Systems. | ECNU | TCAD | 2022 | PervasiveFL[^PervasiveFL] | [pub](https://ieeexplore.ieee.org/document/9925684) |
 | FHDnn: communication efficient and robust federated learning for AIoT networks | UC San Diego | DAC | 2022 | FHDnn[^FHDnn] | [[PUB](https://dl.acm.org/doi/10.1145/3489517.3530394)] |
+| A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee | SYSU | TPDS | 2022 |  | [pub](https://ieeexplore.ieee.org/document/9870745) [pdf](https://arxiv.org/abs/2108.00365) |
+| Improving Federated Learning With Quality-Aware User Incentive and Auto-Weighted Model Aggregation | THU | TPDS                      | 2022 |                                 | [pub](https://ieeexplore.ieee.org/document/9847055)          |
+| $f$funcX: Federated Function as a Service for Science. | SUST | TPDS                      | 2022 |                                 | [pub](https://ieeexplore.ieee.org/document/9899739) [pdf](https://arxiv.org/abs/2209.11631) |
+| Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation | NUST | TPDS                      | 2022 |                                 | [pub](https://ieeexplore.ieee.org/document/9664296) [pdf](https://arxiv.org/abs/2101.06905) [code](https://github.com/ElvisShaoYumeng/BLADE-FL) |
+| Adaptive Federated Deep Reinforcement Learning for Proactive Content Caching in Edge Computing. | CQU | TPDS                      | 2022 |                                 | [pub](https://ieeexplore.ieee.org/document/9868114)          |
+| TDFL: Truth Discovery Based Byzantine Robust Federated Learning | BIT | TPDS                      | 2022 |                                 | [pub](https://ieeexplore.ieee.org/document/9887909)          |
+| Federated Learning With Nesterov Accelerated Gradient | The University of Sydney | TPDS                      | 2022 |                                 | [pub](https://ieeexplore.ieee.org/document/9891808) [pdf](https://arxiv.org/abs/2009.08716) |
 | FedGraph: Federated Graph Learning with Intelligent Sampling | UoA | TPDS | 2022 | FedGraph[^FedGraph] | [[PUB](https://ieeexplore.ieee.org/abstract/document/9606516/)] [[CODE](https://github.com/cfh19980612/FedGraph)] [[解读](https://zhuanlan.zhihu.com/p/442233479)] |
 | AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning. | THU | TPDS | 2022 | AUCTION[^AUCTION] | [[PUB](https://ieeexplore.ieee.org/document/9647925)] |
 | DONE: Distributed Approximate Newton-type Method for Federated Edge Learning. | University of Sydney | TPDS | 2022 | DONE[^DONE] | [[PUB](https://ieeexplore.ieee.org/document/9695269)] [[PDF](https://arxiv.org/abs/2012.05625)] [[CODE](https://github.com/dual-grp/DONE)] |
@@ -1248,6 +1267,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2023/01/14 -  add UAI 2022 papers, refresh system (TCAD +1, TPDS+8), ML (TPAMI +1,UAI +6), network(MobiCom +3) fields papers*
 - *2022/11/24 -  refresh NeurIPS 2022,2021 and ICLR 2022 papers*
 - *2022/11/06-  add S&P 2023 papers*
 - *2022/10/29 -  add WSDM 2023 paper*
@@ -1741,5 +1761,6 @@ Many thanks :heart: to the other awesome list:
 [^FedProx]: FedProx, to tackle heterogeneity in federated networks. FedProx can be viewed as a generalization and re-parametrization of FedAvg, the current state-of-the-art method for federated learning. While this re-parameterization makes only minor modifications to the method itself, these modifications have important ramifications both in theory and in practice. Theoretically, we provide convergence guarantees for our framework when learning over data from non-identical distributions (statistical heterogeneity), and while adhering to device-level systems constraints by allowing each participating device to perform a variable amount of work (systems heterogeneity). Practically, we demonstrate that FedProx allows for more robust convergence than FedAvg across a suite of realistic federated datasets. FedProx，解决联邦网络中的异质性问题。FedProx可以被看作是FedAvg的概括和重新参数化，FedAvg是目前最先进的联邦学习方法。虽然这种重新参数化只对方法本身做了微小的修改，但这些修改在理论和实践上都有重要的影响。在理论上，我们为我们的框架提供了收敛保证，当对来自非相同分布的数据进行学习时（统计异质性），同时通过允许每个参与的设备执行不同数量的工作（系统异质性）来遵守设备级别的系统约束。在实践中，我们证明了FedProx比FedAvg在一系列现实的联邦数据集中能实现更稳健的收敛。
 [^System_Design]: We have built a scalable production system for Federated Learning in the domain of mobile devices, based on TensorFlow. In this paper, we describe the resulting high-level design, sketch some of the challenges and their solutions, and touch upon the open problems and future directions. 我们已经为移动设备领域的联邦学习建立了一个可扩展的生产系统，基于TensorFlow。在本文中，我们描述了由此产生的高层次设计，概述了一些挑战和它们的解决方案，并谈到了开放的问题和未来的方向。
 
+[^PervasiveFL]: PervasiveFL that enables efficient and effective FL among heterogeneous IoT devices. Without modifying original local models, PervasiveFL installs one lightweight NN model named modellet on each device. By using the deep mutual learning (DML) and our entropy-based decision gating (EDG) method, modellets and local models can selectively learn from each other through soft labels using locally captured data. Meanwhile, since modellets are of the same architecture, the learned knowledge by modellets can be shared among devices in a traditional FL manner. PervasiveFL能够在异构的物联网设备之间实现高效的FL。在不修改原有本地模型的情况下，PervasiveFL在每个设备上安装了一个名为modellet的轻量级NN模型。通过使用深度相互学习（DML）和我们的基于熵的决策门控（EDG）方法，小模型和本地模型可以通过使用本地捕获的数据的软标签选择性地相互学习。同时，由于小模型具有相同的架构，小模型学到的知识可以以传统的FL方式在设备间共享。
 
 <!-- END:reference-section -->
