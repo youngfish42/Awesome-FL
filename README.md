@@ -133,8 +133,8 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure | SDU | BigData | 2019 | SGNN[^SGNN] | [[PUB](https://ieeexplore.ieee.org/document/9005983)] [[PDF](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)] |
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | IBM | NeurIPS Workshop | 2019 | FGL-DFC[^FGL-DFC] | [[PDF](https://arxiv.org/abs/1909.12946)] |
 | Federated learning of predictive models from federated Electronic Health Records :star: | BU | Int. J. Medical Informatics | 2018 | cPDS[^cPDS] | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub)] |
-| Federated Learning over Coupled Graphs |  | preprint | 2023 |  | [pdf](https://arxiv.org/abs/2301.11099) |
-| Uplink Scheduling in Federated Learning: an Importance-Aware Approach via Graph Representation Learning |  | preprint | 2023 |  | [pdf](https://arxiv.org/abs/2301.11903) |
+| Federated Learning over Coupled Graphs |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2301.11099)] |
+| Uplink Scheduling in Federated Learning: an Importance-Aware Approach via Graph Representation Learning |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2301.11903)] |
 | Graph Federated Learning with Hidden Representation Sharing | UCLA | preprint | 2022 | GFL-APPNP[^GFL-APPNP] | [[PDF](https://arxiv.org/abs/2212.12158)] |
 | FedRule: Federated Rule Recommendation System with Graph Neural Networks | CMU | preprint | 2022 | FedRule[^FedRule] | [[PDF](https://arxiv.org/abs/2211.06812)] |
 | M3FGM:a node masking and multi-granularity message passing-based federated graph model for spatial-temporal data prediction | Xidian University | preprint | 2022 | M3FGM[^M3FGM] | [[PDF](https://arxiv.org/abs/2210.16193)] |

@@ -1091,6 +1091,21 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
+  - title: Federated Learning over Coupled Graphs
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2301.11099
+  - title: 'Uplink Scheduling in Federated Learning: an Importance-Aware Approach
+      via Graph Representation Learning'
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2301.11903
   - title: Graph Federated Learning with Hidden Representation Sharing
     affiliation: UCLA
     venue: preprint
