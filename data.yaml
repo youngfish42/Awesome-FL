@@ -3184,6 +3184,407 @@ fl-in-top-ml-conference-and-journal:
     tldr: 27
     materials: 60
   body:
+  - title: Personalized Federated Learning with Feature Alignment and Classifier Collaboration
+    affiliation: THU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=SXZr8aDKia
+  - title: 'MocoSFL: enabling cross-client collaborative self-supervised learning'
+    affiliation: ASU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=2QGJXyMNoPz
+  - title: Single-shot General Hyper-parameter Optimization for Federated Learning
+    affiliation: IBM
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=3RhuF8foyPW
+      PDF: https://arxiv.org/abs/2202.08338
+      CODE: https://openreview.net/attachment?id=3RhuF8foyPW&name=supplementary_material
+  - title: Where to Begin? Exploring the Impact of Pre-Training and Initialization
+      in Federated
+    affiliation: Facebook
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=Mpa3tRJFBb
+      PDF: https://arxiv.org/abs/2206.15387
+  - title: 'FedExP: Speeding up Federated Averaging via Extrapolation'
+    affiliation: CMU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=IPrzNbddXV
+      PDF: https://arxiv.org/abs/2301.09604
+  - title: Turning the Curse of Heterogeneity in Federated Learning into a Blessing
+      for Out-of-Distribution Detection
+    affiliation: MSU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=mMNimwRb7Gr
+  - title: 'DASHA: Distributed Nonconvex Optimization with Communication Compression
+      and Optimal Oracle Complexity'
+    affiliation: KAUST
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=VA1YpcNr7ul
+      PDF: https://arxiv.org/abs/2202.01268
+      CODE: https://github.com/mysteryresearcher/dasha
+  - title: Machine Unlearning of Federated Clusters
+    affiliation: University of Illinois
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=VzwfoFyYDga
+      PDF: https://arxiv.org/abs/2210.16424
+      CODE: https://openreview.net/attachment?id=VzwfoFyYDga&name=supplementary_material
+  - title: Federated Neural Bandits
+    affiliation: NUS
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=38m4h8HcNRL
+      PDF: https://arxiv.org/abs/2205.14309
+      CODE: https://openreview.net/attachment?id=38m4h8HcNRL&name=supplementary_material
+  - title: 'FedFA:  Federated Feature Augmentation'
+    affiliation: ETH Zurich
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=U9yFP90jU0
+      PDF: https://arxiv.org/abs/2301.12995
+      CODE: https://github.com/tfzhou/fedfa
+  - title: 'Federated Learning as Variational Inference: A Scalable Expectation Propagation
+      Approach'
+    affiliation: CMU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=dZrQR7OR11
+      PDF: https://arxiv.org/abs/2302.04228
+      CODE: https://github.com/hanguo97/expectation-propagation
+  - title: Better Generative Replay for Continual Federated Learning
+    affiliation: University of Virginia
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=cRxYWKiTan
+  - title: Federated Learning from Small Datasets
+    affiliation: IKIM
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=hDDV1lsRV8
+      PDF: https://arxiv.org/abs/2110.03469
+  - title: Federated Nearest Neighbor Machine Translation
+    affiliation: USTC
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=R1U5G2spbLd
+  - title: Meta Knowledge Condensation for Federated Learning
+    affiliation: A*STAR
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=TDf-XFAwc79
+      PDF: https://arxiv.org/abs/2209.14851
+  - title: Test-Time Robust Personalization for Federated Learning
+    affiliation: EPFL
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=3aBuJEza5sq
+      PDF: https://arxiv.org/abs/2205.10920
+      CODE: https://openreview.net/attachment?id=3aBuJEza5sq&name=supplementary_material
+  - title: 'DepthFL : Depthwise Federated Learning for Heterogeneous Clients'
+    affiliation: SNU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=pf8RIZTMU58
+  - title: Towards Addressing Label Skews in One-Shot Federated Learning
+    affiliation: NUS
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=rzrqh85f4Sc
+      CODE: https://openreview.net/attachment?id=rzrqh85f4Sc&name=supplementary_material
+  - title: Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous
+      Federated Learning
+    affiliation: NUS
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=EXnIyMVTL8s
+      PDF: https://arxiv.org/abs/2210.00226
+      CODE: https://github.com/Yujun-Shi/FedCLS
+  - title: 'Panning for Gold in Federated Learning: Targeted Text Extraction under
+      Arbitrarily Large-Scale Aggregation'
+    affiliation: UMD
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=A9WQaxYsfx
+      CODE: https://openreview.net/attachment?id=A9WQaxYsfx&name=supplementary_material
+  - title: 'SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication'
+    affiliation: UMD
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=jh1nCir1R3d
+      PDF: https://arxiv.org/abs/2210.14026
+      CODE: https://openreview.net/attachment?id=jh1nCir1R3d&name=supplementary_material
+  - title: 'Private Federated Learning Without a Trusted Server: Optimal Algorithms
+      for Convex Losses'
+    affiliation: USC
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=TVY6GoURrw
+      PDF: https://arxiv.org/abs/2106.09779
+      CODE: https://github.com/lowya/private-federated-learning-without-a-trusted-server
+  - title: Effective passive membership inference attacks in federated learning against
+      overparameterized models
+    affiliation: Purdue University
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=QsCSLPP55Ku
+  - title: 'FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and
+      Federated Image Classification'
+    affiliation: University of Cambridge
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=9aokcgBVIj1
+      PDF: https://arxiv.org/abs/2206.08671
+      CODE: https://openreview.net/attachment?id=9aokcgBVIj1&name=supplementary_material
+  - title: Multimodal Federated Learning via Contrastive Representation Ensemble
+    affiliation: THU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=Hnk1WRMAYqg
+  - title: Faster federated optimization under second-order similarity
+    affiliation: Princeton University
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=ElC6LYO4MfD
+      PDF: https://arxiv.org/abs/2209.02257
+      CODE: https://openreview.net/attachment?id=ElC6LYO4MfD&name=supplementary_material
+  - title: 'FedSpeed: Larger Local Interval, Less Communication Round, and Higher
+      Generalization Accuracy'
+    affiliation: University of Sydney
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=bZjxxYURKT
+      CODE: https://openreview.net/attachment?id=bZjxxYURKT&name=supplementary_material
+  - title: 'The Best of Both Worlds: Accurate  Global and Personalized Models through
+      Federated Learning with Data-Free Hyper-Knowledge Distillation'
+    affiliation: utexas
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=29V3AWjVAFi
+      PDF: https://arxiv.org/abs/2301.08968
+      CODE: https://openreview.net/attachment?id=29V3AWjVAFi&name=supplementary_material
+  - title: 'PerFedMask: Personalized Federated Learning with Optimized Masking Vectors'
+    affiliation: UBC
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=hxEIgUXLFF
+  - title: 'EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections
+      for Federated Learning with Heterogeneous Data'
+    affiliation: GMU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=ytZIYmztET
+      CODE: https://github.com/MingruiLiu-ML-Lab/episode
+  - title: 'FedDAR: Federated Domain-Aware Representation Learning'
+    affiliation: Harvard
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=6P9Y25Pljl6
+      PDF: https://arxiv.org/abs/2209.04007
+  - title: 'Share Your Representation Only: Guaranteed Improvement of the Privacy-Utility
+      Tradeoff in Federated Learning'
+    affiliation: upenn
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=oJpVVGXu9i
+  - title: 'FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated
+      Learning'
+    affiliation: Purdue University
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=Xo2E217_M4n
+      PDF: https://arxiv.org/abs/2210.12873
+  - title: 'Generalization Bounds for Federated Learning: Fast Rates, Unparticipating
+      Clients and Unbounded Losses'
+    affiliation: RUC
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=-EHqoysUYLx
+  - title: Efficient Federated Domain Translation
+    affiliation: Purdue University
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=uhLAcrAZ9cJ
+      CODE: https://openreview.net/attachment?id=uhLAcrAZ9cJ&name=supplementary_material
+  - title: On the Importance and Applicability of Pre-Training for Federated Learning
+    affiliation: OSU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=fWWFv--P0xP
+      PDF: https://arxiv.org/abs/2206.11488
+  - title: 'Decepticons: Corrupted Transformers Breach Privacy in Federated Learning
+      for Language Models'
+    affiliation: UMD
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=r0BrY4BiEXO
+      PDF: https://arxiv.org/abs/2201.12675
+      CODE: https://github.com/JonasGeiping/breaching
+  - title: 'A Statistical Framework for Personalized Federated Learning and Estimation:
+      Theory, Algorithms, and Privacy'
+    affiliation: UCLA
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=FUiDMCr_W4o
+      PDF: https://arxiv.org/abs/2207.01771
+  - title: Instance-wise Batch Label Restoration via Gradients in Federated Learning
+    affiliation: BUAA
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=FIrQfNSOoTr
+      CODE: https://github.com/BUAA-CST/iLRG
+  - title: Data-Free One-Shot Federated Learning Under Very High Statistical Heterogeneity
+    affiliation: College of William and Mary
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=_hb4vM3jspB
+  - title: 'CANIFE: Crafting Canaries for Empirical Privacy Measurement in Federated
+      Learning'
+    affiliation: University of Warwick
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=Kf7Yyf4O0u
+      PDF: https://arxiv.org/abs/2210.02912
+      CODE: https://github.com/facebookresearch/canife
+  - title: Sparse Random Networks for Communication-Efficient Federated Learning
+    affiliation: Stanford
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=k1FHgri5y3-
+      PDF: https://arxiv.org/abs/2209.15328
+      CODE: https://openreview.net/attachment?id=k1FHgri5y3-&name=supplementary_material
+  - title: Combating Exacerbated Heterogeneity for Robust Decentralized Models
+    affiliation: HKBU
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=eKllxpLOOm
+  - title: Hyperparameter Optimization through Neural Network Partitioning
+    affiliation: University of Cambridge
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=nAgdXgfmqj
+  - title: Does Decentralized Learning with Non-IID Unlabeled Data Benefit from Self
+      Supervision?
+    affiliation: MIT
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=2L9gzS80tA4
+      PDF: https://arxiv.org/abs/2210.10947
+      CODE: https://openreview.net/attachment?id=2L9gzS80tA4&name=supplementary_material
+  - title: 'Variance Reduction is an Antidote  to Byzantines: Better Rates, Weaker
+      Assumptions and Communication  Compression as a Cherry on the Top'
+    affiliation: mbzuai
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=pfuqQQCB34
+      PDF: https://arxiv.org/abs/2206.00529
+      CODE: https://github.com/SamuelHorvath/VR_Byzantine
+  - title: Dual Diffusion Implicit Bridges for Image-to-Image Translation
+    affiliation: Stanford
+    venue: ICLR
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://openreview.net/forum?id=5HLoTvVGDe
+      PDF: https://arxiv.org/abs/2203.08382
+      CODE: https://openreview.net/attachment?id=5HLoTvVGDe&name=supplementary_material
   - title: Federated online clustering of bandits.
     affiliation: CUHK
     venue: UAI
