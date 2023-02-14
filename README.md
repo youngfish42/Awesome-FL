@@ -848,21 +848,21 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 
 - [ACL](https://dblp.uni-trier.de/search?q=federate%20venue%3AACL%3A) [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
 - [NAACL](https://dblp.uni-trier.de/search?q=federate%20venue%3ANAACL-HLT%3A) [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
-- [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) 2022, [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
+- [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2022](https://aclanthology.org/events/emnlp-2022/), [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
 - [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2020](https://aclanthology.org/events/coling-2020/)
 
 <!-- START:fl-in-top-nlp-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                          |    Venue             |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------- | -------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
-| Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation |  | EMNLP | 2022 |  | [[PDF](https://arxiv.org/abs/2210.06894)] |
+| Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise Krum-Based Aggregation | PKU | EMNLP | 2022 |  | [pub](https://aclanthology.org/2022.findings-emnlp.25/) [[PDF](https://arxiv.org/abs/2210.06894)] |
 | Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation **`kg.`** | Lehigh University | EMNLP | 2022 | FedR[^FedR] | [pub](https://aclanthology.org/2022.findings-emnlp.43/) [[PDF](https://arxiv.org/abs/2203.09553)] [[CODE](https://github.com/taokz/FedR)] |
-| Federated Continual Learning for Text Classification via Selective Inter-client Transfer |  | EMNLP | 2022 |  | [[PDF](https://arxiv.org/abs/2210.06101)] [[CODE](https://github.com/raipranav/fcl-fedseit)] |
-| Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient Ensembling |  | EMNLP | 2022 |  | [[PDF](https://arxiv.org/abs/2204.14017)] |
-| Federated Model Decomposition with Private Vocabulary for Text Classification |  | EMNLP | 2022 |  | [[CODE](https://github.com/SMILELab-FL/FedVocab)] |
+| Federated Continual Learning for Text Classification via Selective Inter-client Transfer | DRIMCo GmbH; LMU | EMNLP | 2022 |  | [pub](https://aclanthology.org/2022.findings-emnlp.353) [[PDF](https://arxiv.org/abs/2210.06101)] [[CODE](https://github.com/raipranav/fcl-fedseit)] |
+| Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient Ensembling | SNU | EMNLP | 2022 |  | [pub](https://aclanthology.org/2022.emnlp-main.6/) [[PDF](https://arxiv.org/abs/2204.14017)] |
+| A Federated Approach to Predicting Emojis in Hindi Tweets | University of Alberta | EMNLP | 2022 |  | [pub](https://aclanthology.org/2022.emnlp-main.819) [PDF](https://arxiv.org/abs/2211.06401) [CODE](https://github.com/deep1401/fedmoji) |
+| Federated Model Decomposition with Private Vocabulary for Text Classification | HIT; Peng Cheng Lab | EMNLP | 2022 |  | [pub](https://aclanthology.org/2022.emnlp-main.430) [[CODE](https://github.com/SMILELab-FL/FedVocab)] |
 | Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification |  | EMNLP | 2022 |  | [[PUB](https://openreview.net/forum?id=rVgVJ9eWxM9)] |
-| A Federated Approach to Predicting Emojis in Hindi Tweets |  | EMNLP | 2022 |  |  |
-| Fair NLP  Models with Differentially Private Text Encoders |  | EMNLP | 2022 |  | [[PUB](https://openreview.net/forum?id=BVgNSki6q1c)] [[PDF](https://arxiv.org/abs/2205.06135)] [[CODE](https://github.com/saist1993/dpnlp)] |
+| Fair NLP Models with Differentially Private Text Encoders |  | EMNLP | 2022 |  | [[PUB](https://openreview.net/forum?id=BVgNSki6q1c)] [[PDF](https://arxiv.org/abs/2205.06135)] [[CODE](https://github.com/saist1993/dpnlp)] |
 | Scaling Language Model Size in Cross-Device Federated Learning | Google | ACL workshop | 2022 | SLM-FL[^SLM-FL] | [[PUB](https://aclanthology.org/2022.fl4nlp-1.2/)] [[PDF](https://arxiv.org/abs/2204.09715)] |
 | Intrinsic Gradient Compression for Scalable and Efficient Federated Learning | Oxford | ACL workshop | 2022 | IGC-FL[^IGC-FL] | [[PUB](https://aclanthology.org/2022.fl4nlp-1.4/)] [[PDF](https://arxiv.org/abs/2112.02656)] |
 | ActPerFL: Active Personalized Federated Learning | Amazon | ACL workshop | 2022 | ActPerFL[^ActPerFL] | [[PUB](https://aclanthology.org/2022.fl4nlp-1.1)] [[PAGE](https://www.amazon.science/publications/actperfl-active-personalized-federated-learning)] |
@@ -1326,6 +1326,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data)
 
+- *2023/02/14 -  add EMNLP 2022 papers*
 - *2023/02/13 -  add ICLR 2023 papers*
 - *2023/01/14 -  add UAI 2022 papers, refresh system (TCAD +1, TPDS+8), ML (TPAMI +1,UAI +6), network(MobiCom +3) fields papers*
 - *2022/11/24 -  refresh NeurIPS 2022,2021 and ICLR 2022 papers*
