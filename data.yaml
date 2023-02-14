@@ -80,6 +80,22 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PDF: https://arxiv.org/abs/2211.13975
       CODE: https://github.com/wwzzz/fedgs
+  - title: Short-Term Traffic Flow Prediction Based on Graph Convolutional Networks
+      and Federated Learning
+    affiliation: ZUEL
+    venue: IEEE Trans. Intell. Transp. Syst.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9794333
+  - title: Hyper-Graph Attention Based Federated Learning Methods for Use in Mental
+      Health Detection.
+    affiliation: HVL
+    venue: IEEE J. Biomed. Health Informatics
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9767700
   - title: Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural
     affiliation: ''
     venue: IEEE Trans. Ind. Informatics
@@ -214,6 +230,16 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3575637.3575644
       PDF: https://arxiv.org/abs/2207.11812
+  - title: 'GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification
+      on Graphs'
+    affiliation: IIT
+    venue: ICDM
+    year: '2022'
+    tldr: 'GraphFL: TBC'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10027604
+      PDF: https://arxiv.org/abs/2012.04187
+      解读: https://zhuanlan.zhihu.com/p/431479904
   - title: 'More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural
       Networks'
     affiliation: TU Delft
@@ -295,26 +321,9 @@ fl-on-graph-data-and-graph-neural-network:
       sharing policy can significantly reduce the communication cost due to its smaller
       size of queries. 在本文中，我们首先开发了一个新颖的攻击，旨在基于嵌入信息恢复原始数据，并进一步用于评估FedE的漏洞。此外，我们提出了一种带有隐私保护的关系嵌入聚合（FedR）的联邦学习范式，以解决FedE的隐私问题。与实体嵌入共享相比，关系嵌入共享策略由于其较小的查询规模，可以大大降低通信成本。'
     materials:
+      PUB: https://aclanthology.org/2022.findings-emnlp.43/
       PDF: https://arxiv.org/abs/2203.09553
       CODE: https://github.com/taokz/FedR
-  - title: 'FedGCN: Convergence and Communication Tradeoffs in Federated Training
-      of Graph Convolutional Networks'
-    affiliation: CMU
-    venue: CIKM Workshop (Oral)
-    year: '2022'
-    tldr: 'FedGCN: TBC'
-    materials:
-      PDF: https://arxiv.org/abs/2201.12433
-      CODE: https://github.com/yh-yao/FedGCN
-  - title: Investigating the Predictive Reproducibility of Federated Graph Neural
-      Networks using Medical Datasets.
-    affiliation: ''
-    venue: MICCAI Workshop
-    year: '2022'
-    tldr: ''
-    materials:
-      PDF: https://arxiv.org/abs/2209.06032
-      CODE: https://github.com/basiralab/reproducibleFedGNN
   - title: Power Allocation for Wireless Federated Learning using Graph Neural Networks
     affiliation: Rice University
     venue: ICASSP
@@ -389,6 +398,13 @@ fl-on-graph-data-and-graph-neural-network:
       - clock运行时间和近邻采样间隔。我们的分析根据邻居抽样的预算分为两种情况。在无约束的情况下，我们得到了最优的近邻采样间隔，实现了收敛性和运行时间的最佳折衷；在有约束的情况下，我们证明了确定最优采样间隔实际上是一个在线问题，并提出了一个新的有界竞争比的在线算法来解决这个问题。结合这两种情况，我们提出了一个统一的算法来决定联邦图学习中的近邻采样间隔，并通过在图数据集上的大量仿真证明了其有效性'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9812908
+  - title: 'FedGSL: Federated Graph Structure Learning for Local Subgraph Augmentation.'
+    affiliation: ''
+    venue: Big Data
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10020771/
   - title: Domain-Aware Federated Social Bot Detection with Multi-Relational Graph
       Neural Networks.
     affiliation: UCAS; CAS
@@ -424,6 +440,24 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14
       PDF: https://arxiv.org/abs/2206.03492
+  - title: 'FedGCN: Convergence and Communication Tradeoffs in Federated Training
+      of Graph Convolutional Networks'
+    affiliation: CMU
+    venue: CIKM Workshop (Oral)
+    year: '2022'
+    tldr: 'FedGCN: TBC'
+    materials:
+      PDF: https://arxiv.org/abs/2201.12433
+      CODE: https://github.com/yh-yao/FedGCN
+  - title: Investigating the Predictive Reproducibility of Federated Graph Neural
+      Networks using Medical Datasets.
+    affiliation: ''
+    venue: MICCAI Workshop
+    year: '2022'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2209.06032
+      CODE: https://github.com/basiralab/reproducibleFedGNN
   - title: Peer-to-Peer Variational Federated Learning Over Arbitrary Graphs
     affiliation: UCSD
     venue: Int. J. Bio Inspired Comput.
@@ -1091,6 +1125,13 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
+  - title: Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2302.02069
   - title: Federated Learning over Coupled Graphs
     affiliation: ''
     venue: preprint
@@ -1332,15 +1373,6 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PDF: https://arxiv.org/abs/2102.07148
       CODE: https://github.com/dual-grp/fedu_fmtl
-  - title: 'GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification
-      on Graphs'
-    affiliation: ''
-    venue: preprint
-    year: '2020'
-    tldr: 'GraphFL: TBC'
-    materials:
-      PDF: https://arxiv.org/abs/2012.04187
-      解读: https://zhuanlan.zhihu.com/p/431479904
   - title: Improving Federated Relational Data Modeling via Basis Alignment and Weight
       Penalty **`kg.`**
     affiliation: ''
@@ -1543,6 +1575,14 @@ fl-on-tabular-data:
     materials:
       PUB: https://ieeexplore.ieee.org/document/9088965
       PDF: https://arxiv.org/abs/1905.10053
+  - title: 'Neural gradient boosting in federated learning for hemodynamic instability  prediction:
+      towards a distributed and scalable deep learning-based  solution.'
+    affiliation: ''
+    venue: AMIA
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://knowledge.amia.org/76677-amia-1.4637602/f006-1.4642154/f006-1.4642155/917-1.4642324/604-1.4642321?qr=1
   - title: 'Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive
       load monitoring'
     affiliation: The University of Sydney
@@ -1906,6 +1946,20 @@ fl-on-tabular-data:
       can be computed which some/several federated learning algorithms utilize. 深度神经决策森林（DNDF），将分治策略与属性表示学习结合起来。通过对森林预测节点的概率分布进行参数化，并将森林中的所有树木纳入损失函数中，可以计算出整个森林的梯度，一些/一些联邦学习算法利用了这一梯度。'
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58
+  - title: 'GTV: Generating Tabular Data via Vertical Federated Learning'
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2302.01706
+  - title: Federated Survival Forests
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2302.02807
   - title: 'Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data'
     affiliation: HIT
     venue: preprint
@@ -7107,11 +7161,12 @@ fl-in-top-nlp-conference-and-journal:
   body:
   - title: 'Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise
       Krum-Based Aggregation'
-    affiliation: ''
+    affiliation: PKU
     venue: EMNLP
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://aclanthology.org/2022.findings-emnlp.25/
       PDF: https://arxiv.org/abs/2210.06894
   - title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving
       Relation Embedding Aggregation **`kg.`**
@@ -7126,31 +7181,44 @@ fl-in-top-nlp-conference-and-journal:
       sharing policy can significantly reduce the communication cost due to its smaller
       size of queries. 在本文中，我们首先开发了一个新颖的攻击，旨在基于嵌入信息恢复原始数据，并进一步用于评估FedE的漏洞。此外，我们提出了一种带有隐私保护的关系嵌入聚合（FedR）的联邦学习范式，以解决FedE的隐私问题。与实体嵌入共享相比，关系嵌入共享策略由于其较小的查询规模，可以大大降低通信成本。'
     materials:
+      PUB: https://aclanthology.org/2022.findings-emnlp.43/
       PDF: https://arxiv.org/abs/2203.09553
       CODE: https://github.com/taokz/FedR
   - title: Federated Continual Learning for Text Classification via Selective Inter-client
       Transfer
-    affiliation: ''
+    affiliation: DRIMCo GmbH; LMU
     venue: EMNLP
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://aclanthology.org/2022.findings-emnlp.353
       PDF: https://arxiv.org/abs/2210.06101
       CODE: https://github.com/raipranav/fcl-fedseit
   - title: Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient
       Ensembling
-    affiliation: ''
+    affiliation: SNU
     venue: EMNLP
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://aclanthology.org/2022.emnlp-main.6/
       PDF: https://arxiv.org/abs/2204.14017
-  - title: Federated Model Decomposition with Private Vocabulary for Text Classification
-    affiliation: ''
+  - title: A Federated Approach to Predicting Emojis in Hindi Tweets
+    affiliation: University of Alberta
     venue: EMNLP
     year: '2022'
     tldr: ''
     materials:
+      PUB: https://aclanthology.org/2022.emnlp-main.819
+      PDF: https://arxiv.org/abs/2211.06401
+      CODE: https://github.com/deep1401/fedmoji
+  - title: Federated Model Decomposition with Private Vocabulary for Text Classification
+    affiliation: HIT; Peng Cheng Lab
+    venue: EMNLP
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://aclanthology.org/2022.emnlp-main.430
       CODE: https://github.com/SMILELab-FL/FedVocab
   - title: Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint
       Identification
@@ -7160,13 +7228,7 @@ fl-in-top-nlp-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=rVgVJ9eWxM9
-  - title: A Federated Approach to Predicting Emojis in Hindi Tweets
-    affiliation: ''
-    venue: EMNLP
-    year: '2022'
-    tldr: ''
-    materials: {}
-  - title: Fair NLP  Models with Differentially Private Text Encoders
+  - title: Fair NLP Models with Differentially Private Text Encoders
     affiliation: ''
     venue: EMNLP
     year: '2022'
