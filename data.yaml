@@ -8146,7 +8146,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: 'FedHP: TBC'
     materials:
-      PUB: https://arxiv.org/abs/2212.02136
+      PDF: https://arxiv.org/abs/2212.02136
   - title: 'AnycostFL: Efficient On-Demand Federated Learning over Heterogeneous Edge
       Devices'
     affiliation: Guangdong University of Technology
@@ -8154,7 +8154,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: 'AnycostFL: TBC'
     materials:
-      PUB: https://arxiv.org/abs/2301.03062
+      PDF: https://arxiv.org/abs/2301.03062
   - title: 'AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation'
     affiliation: HUST
     venue: INFOCOM
@@ -8167,7 +8167,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: 'KNOT: TBC'
     materials:
-      PUB: https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf
+      PDF: https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf
   - title: Communication-Efficient Federated Learning for Heterogeneous Edge Devices
       Based on Adaptive Gradient Quantization
     affiliation: PSU
@@ -8175,7 +8175,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: ''
     materials:
-      PUB: https://arxiv.org/abs/2212.08272
+      PDF: https://arxiv.org/abs/2212.08272
   - title: Enabling Communication-Efficient Federated Learning via Distributed Compressed
       Sensing
     affiliation: Beihang University
@@ -8189,21 +8189,22 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: 'CA-Fed: TBC'
     materials:
-      PUB: https://arxiv.org/abs/2301.04632
+      PDF: https://arxiv.org/abs/2301.04632
+      CODE: https://github.com/arodio/ca-fed
   - title: Federated Learning with Flexible Control
     affiliation: IBM
     venue: INFOCOM
     year: '2023'
     tldr: 'FlexFL: TBC'
     materials:
-      PUB: https://arxiv.org/abs/2212.08496
+      PDF: https://arxiv.org/abs/2212.08496
   - title: Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks
     affiliation: The University of Sydney
     venue: INFOCOM
     year: '2023'
     tldr: ''
     materials:
-      PUB: https://arxiv.org/abs/2212.12121
+      PDF: https://arxiv.org/abs/2212.12121
   - title: 'FedMoS: Taming Client Drift in Federated Learning with Double Momentum
       and Adaptive Selection'
     affiliation: HUST
@@ -8211,7 +8212,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: 'FedMoS: TBC'
     materials:
-      PUB: https://wangxionghome.github.io/MainFL-TR.pdf
+      PDF: https://wangxionghome.github.io/MainFL-TR.pdf
   - title: 'FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated
       Learning'
     affiliation: NTU
@@ -8247,14 +8248,14 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: 'OUTPOST: TBC'
     materials:
-      PUB: https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf
+      PDF: https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf
   - title: 'Network Adaptive Federated Learning: Congestion and Lossy Compression'
     affiliation: UTAustin
     venue: INFOCOM
     year: '2023'
     tldr: 'NAC-FL: TBC'
     materials:
-      PUB: https://arxiv.org/abs/2301.04430
+      PDF: https://arxiv.org/abs/2301.04430
   - title: 'OBLIVION: Poisoning Federated Learning by Inducing Catastrophic Forgetting'
     affiliation: The Hang Seng University of Hong Kong
     venue: INFOCOM
@@ -8274,7 +8275,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: 'SplitGP: TBC'
     materials:
-      PUB: https://arxiv.org/abs/2212.08343
+      PDF: https://arxiv.org/abs/2212.08343
   - title: 'SVDFed: Enabling Communication-Efficient Federated Learning via Singular-Value-Decomposition'
     affiliation: Beihang University
     venue: INFOCOM
@@ -8288,7 +8289,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: ''
     materials:
-      PUB: https://arxiv.org/abs/2112.11256
+      PDF: https://arxiv.org/abs/2112.11256
   - title: 'Toward Sustainable AI: Federated Learning Demand Response in Cloud-Edge
       Systems via Auctions'
     affiliation: BUPT
@@ -8296,7 +8297,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: ''
     materials:
-      PUB: http://ix.cs.uoregon.edu/~jiao/publications/infocom23-fl.pdf
+      PDF: http://ix.cs.uoregon.edu/~jiao/publications/infocom23-fl.pdf
   - title: Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data
       Labeling
     affiliation: Auburn University
@@ -8304,7 +8305,7 @@ fl-in-top-network-conference-and-journal:
     year: '2023'
     tldr: ''
     materials:
-      PUB: https://arxiv.org/abs/2302.00106
+      PDF: https://arxiv.org/abs/2302.00106
   - title: 'TVFL: Tunable Vertical Federated Learning towards Communication-Efficient
       Model Serving'
     affiliation: USTC
