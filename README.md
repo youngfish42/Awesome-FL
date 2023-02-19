@@ -952,7 +952,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 - [SIGCOMM](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGCOMM%3A) NULL
 
-- [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) [2023][https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference] [2022](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference)([Page](https://infocom.info/day/3/track/Track%20B#B-7)), [2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom21)), [2020](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom20)), [2019](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 2018
+- [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) [2023](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference), [2022](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference)([Page](https://infocom.info/day/3/track/Track%20B#B-7)), [2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom21)), [2020](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom20)), [2019](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 2018
 - [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) [2022](https://www.sigmobile.org/mobicom/2022/accepted.html), [2021](https://www.sigmobile.org/mobicom/2021/accepted.html), [2020](https://www.sigmobile.org/mobicom/2020/accepted.php)
 - [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) NULL
 - [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
@@ -963,29 +963,29 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ----------------------------------------- | ------------------------------------------------------------ |
 | A Hierarchical Knowledge Transfer Framework for Heterogeneous Federated Learning | THU | INFOCOM | 2023 |  |  |
 | A Reinforcement Learning Approach for Minimizing Job Completion Time in Clustered Federated Learning | Southeast University | INFOCOM | 2023 |  |  |
-| Adaptive Configuration for Heterogeneous Participants in Decentralized Federated Learning | USTC | INFOCOM | 2023 | FedHP[^FedHP] | [[PUB](https://arxiv.org/abs/2212.02136)] |
-| AnycostFL: Efficient On-Demand Federated Learning over Heterogeneous Edge Devices | Guangdong University of Technology | INFOCOM | 2023 | AnycostFL[^AnycostFL] | [[PUB](https://arxiv.org/abs/2301.03062)] |
+| Adaptive Configuration for Heterogeneous Participants in Decentralized Federated Learning | USTC | INFOCOM | 2023 | FedHP[^FedHP] | [[pdf](https://arxiv.org/abs/2212.02136)] |
+| AnycostFL: Efficient On-Demand Federated Learning over Heterogeneous Edge Devices | Guangdong University of Technology | INFOCOM | 2023 | AnycostFL[^AnycostFL] | [[pdf](https://arxiv.org/abs/2301.03062)] |
 | AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation | HUST | INFOCOM | 2023 | AOCC-FL[^AOCC-FL] |  |
-| Asynchronous Federated Unlearning | University of Toronto | INFOCOM | 2023 | KNOT[^KNOT] | [[PUB](https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf)] |
-| Communication-Efficient Federated Learning for Heterogeneous Edge Devices Based on Adaptive Gradient Quantization | PSU | INFOCOM | 2023 |  | [[PUB](https://arxiv.org/abs/2212.08272)] |
+| Asynchronous Federated Unlearning | University of Toronto | INFOCOM | 2023 | KNOT[^KNOT] | [[pdf](https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf)] |
+| Communication-Efficient Federated Learning for Heterogeneous Edge Devices Based on Adaptive Gradient Quantization | PSU | INFOCOM | 2023 |  | [[pdf](https://arxiv.org/abs/2212.08272)] |
 | Enabling Communication-Efficient Federated Learning via Distributed Compressed Sensing | Beihang University | INFOCOM | 2023 |  |  |
-| Federated Learning under Heterogeneous and Correlated Client Availability | Inria | INFOCOM | 2023 | CA-Fed[^CA-Fed] | [[PUB](https://arxiv.org/abs/2301.04632)] |
-| Federated Learning with Flexible Control | IBM | INFOCOM | 2023 | FlexFL[^FlexFL] | [[PUB](https://arxiv.org/abs/2212.08496)] |
-| Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks | The University of Sydney | INFOCOM | 2023 |  | [[PUB](https://arxiv.org/abs/2212.12121)] |
-| FedMoS: Taming Client Drift in Federated Learning with Double Momentum and Adaptive Selection | HUST | INFOCOM | 2023 | FedMoS[^FedMoS] | [[PUB](https://wangxionghome.github.io/MainFL-TR.pdf)] |
+| Federated Learning under Heterogeneous and Correlated Client Availability | Inria | INFOCOM | 2023 | CA-Fed[^CA-Fed] | [[pdf](https://arxiv.org/abs/2301.04632)] [code](https://github.com/arodio/ca-fed) |
+| Federated Learning with Flexible Control | IBM | INFOCOM | 2023 | FlexFL[^FlexFL] | [[PDF](https://arxiv.org/abs/2212.08496)] |
+| Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks | The University of Sydney | INFOCOM | 2023 |  | [[PDF](https://arxiv.org/abs/2212.12121)] |
+| FedMoS: Taming Client Drift in Federated Learning with Double Momentum and Adaptive Selection | HUST | INFOCOM | 2023 | FedMoS[^FedMoS] | [[PDF](https://wangxionghome.github.io/MainFL-TR.pdf)] |
 | FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated Learning | NTU | INFOCOM | 2023 | FedSDG-FS[^FedSDG-FS] |  |
 | Heterogeneity-Aware Federated Learning with Adaptive Client Selection and Gradient Compression | USTC | INFOCOM | 2023 |  |  |
 | Joint Edge Aggregation and Association for Cost-Efficient Multi-Cell Federated Learning | NUDT | INFOCOM | 2023 |  |  |
 | Joint Participation Incentive and Network Pricing Design for Federated Learning | Northwestern University | INFOCOM | 2023 |  |  |
-| More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning | University of Toronto | INFOCOM | 2023 | OUTPOST[^OUTPOST] | [[PUB](https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf)] |
-| Network Adaptive Federated Learning: Congestion and Lossy Compression | UTAustin | INFOCOM | 2023 | NAC-FL[^NAC-FL] | [[PUB](https://arxiv.org/abs/2301.04430)] |
+| More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning | University of Toronto | INFOCOM | 2023 | OUTPOST[^OUTPOST] | [[PDF](https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf)] |
+| Network Adaptive Federated Learning: Congestion and Lossy Compression | UTAustin | INFOCOM | 2023 | NAC-FL[^NAC-FL] | [[PDF](https://arxiv.org/abs/2301.04430)] |
 | OBLIVION: Poisoning Federated Learning by Inducing Catastrophic Forgetting | The Hang Seng University of Hong Kong | INFOCOM | 2023 | OBLIVION[^OBLIVION] |  |
 | Privacy as a Resource in Differentially Private Federated Learning | BUPT | INFOCOM | 2023 |  |  |
-| SplitGP: Achieving Both Generalization and Personalization in Federated Learning | KAIST | INFOCOM | 2023 | SplitGP[^SplitGP] | [[PUB](https://arxiv.org/abs/2212.08343)] |
+| SplitGP: Achieving Both Generalization and Personalization in Federated Learning | KAIST | INFOCOM | 2023 | SplitGP[^SplitGP] | [[PDF](https://arxiv.org/abs/2212.08343)] |
 | SVDFed: Enabling Communication-Efficient Federated Learning via Singular-Value-Decomposition | Beihang University | INFOCOM | 2023 | SVDFed[^SVDFed] |  |
-| Tackling System Induced Bias in Federated Learning: Stratification and Convergence Analysis | Southern University of Science and Technology | INFOCOM | 2023 |  | [[PUB](https://arxiv.org/abs/2112.11256)] |
-| Toward Sustainable AI: Federated Learning Demand Response in Cloud-Edge Systems via Auctions | BUPT | INFOCOM | 2023 |  | [[PUB](http://ix.cs.uoregon.edu/~jiao/publications/infocom23-fl.pdf)] |
-| Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data Labeling | Auburn University | INFOCOM | 2023 |  | [[PUB](https://arxiv.org/abs/2302.00106)] |
+| Tackling System Induced Bias in Federated Learning: Stratification and Convergence Analysis | Southern University of Science and Technology | INFOCOM | 2023 |  | [[PDF](https://arxiv.org/abs/2112.11256)] |
+| Toward Sustainable AI: Federated Learning Demand Response in Cloud-Edge Systems via Auctions | BUPT | INFOCOM | 2023 |  | [[PDF](http://ix.cs.uoregon.edu/~jiao/publications/infocom23-fl.pdf)] |
+| Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data Labeling | Auburn University | INFOCOM | 2023 |  | [[pdf](https://arxiv.org/abs/2302.00106)] |
 | TVFL: Tunable Vertical Federated Learning towards Communication-Efficient Model Serving | USTC | INFOCOM | 2023 | TVFL[^TVFL] |  |
 | PyramidFL: Fine-grained Data and System Heterogeneity-aware Client Selection for Efficient Federated Learning | MSU | MobiCom | 2022 | PyramidFL[^PyramidFL] | [[PUB](https://dl.acm.org/doi/10.1145/3495243.3517017)] [[PDF](https://www.egr.msu.edu/~mizhang/papers/2022_MobiCom_PyramidFL.pdf)] [[CODE](https://github.com/liecn/PyramidFL)] |
 | NestFL: efficient federated learning through progressive model pruning in heterogeneous edge computing | pmlabs | MobiCom(Poster) | 2022 |  | [[PUB](https://dl.acm.org/doi/10.1145/3495243.3558248)] |
@@ -1867,3 +1867,5 @@ Many thanks :heart: to the other awesome list:
 
 
 <!-- END:reference-section -->
+
+[https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference]: 
