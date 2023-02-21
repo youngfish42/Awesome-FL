@@ -1472,6 +1472,14 @@ fl-on-tabular-data:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9743613
+  - title: 'HT-Fed-GAN: Federated Generative Model for Decentralized Tabular Data
+      Synthesis'
+    affiliation: HIT
+    venue: Entropy
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.mdpi.com/1099-4300/25/1/88
   - title: 'OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving
       Desensitization'
     affiliation: ZJU
