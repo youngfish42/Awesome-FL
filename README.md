@@ -1052,12 +1052,19 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [TOCS](https://dblp.uni-trier.de/search?q=federate%20venue%3AACM%20Trans%20Comput%20Syst%3A) NULL
 - [TOS](https://dblp.uni-trier.de/search?q=federate%20venue%3A%20ACM%20Trans%20Storage%3A) NULL
 - [TCAD](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans%20Comput%20Aided%20Des%20Integr%20Circuits%20Syst%3A) 2022, 2021
-- [TC](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Computers%3A) 2022, 2021
+- [TC](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Computers%3A) 2023, 2022, 2021
 
 <!-- START:fl-in-top-system-conference-and-journal -->
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
+|Sandbox Computing: A Data Privacy Trusted Sharing Paradigm Via Blockchain and Federated Learning. | BUPT | TC | 2023 |  | [pub](https://ieeexplore.ieee.org/document/9791849/) |
+|Personalized Edge Intelligence via Federated Self-Knowledge Distillation. | HUST | TPDS | 2023 |  | [pub](https://ieeexplore.ieee.org/document/9964434/) [code](https://github.com/CGCL-codes/pFedSD) |
+|Design of a Quantization-Based DNN Delta Compression Framework for Model Snapshots and Federated Learning. | HIT | TPDS | 2023 |  | [pub](https://ieeexplore.ieee.org/document/10018182) |
+|Multi-Job Intelligent Scheduling With Cross-Device Federated Learning. | Baidu | TPDS | 2023 |  | [pub](https://ieeexplore.ieee.org/document/9964248) [pdf](https://arxiv.org/abs/2211.13430) |
+|Data-Centric Client Selection for Federated Learning Over Distributed Edge Networks. | IIT | TPDS | 2023 |  | [pub](https://ieeexplore.ieee.org/document/9930629) |
+|GossipFL: A Decentralized Federated Learning Framework With Sparsified and Adaptive Communication. | HKBU | TPDS | 2023 |  | [pub](https://ieeexplore.ieee.org/document/9996127) |
+|FedMDS: An Efficient Model Discrepancy-Aware Semi-Asynchronous Clustered Federated Learning Framework. | CQU | TPDS | 2023 |  | [pub](https://ieeexplore.ieee.org/document/10018536) |
 | HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated Learning in Mobile Edge Computing. | DUT | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/9935309)] |
 | BAFL: A Blockchain-Based Asynchronous Federated Learning Framework |  | TC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9399813/)] [[CODE](https://github.com/xuchenhao001/AFL)] |
 | L4L: Experience-Driven Computational Resource Control in Federated Learning |  | TC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9384231)] |
