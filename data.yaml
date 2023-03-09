@@ -8906,6 +8906,62 @@ fl-in-top-system-conference-and-journal:
     tldr: 35
     materials: 60
   body:
+  - title: 'Sandbox Computing: A Data Privacy Trusted Sharing Paradigm Via Blockchain
+      and Federated Learning.'
+    affiliation: BUPT
+    venue: TC
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9791849/
+  - title: Personalized Edge Intelligence via Federated Self-Knowledge Distillation.
+    affiliation: HUST
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9964434/
+      CODE: https://github.com/CGCL-codes/pFedSD
+  - title: Design of a Quantization-Based DNN Delta Compression Framework for Model
+      Snapshots and Federated Learning.
+    affiliation: HIT
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10018182
+  - title: Multi-Job Intelligent Scheduling With Cross-Device Federated Learning.
+    affiliation: Baidu
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9964248
+      PDF: https://arxiv.org/abs/2211.13430
+  - title: Data-Centric Client Selection for Federated Learning Over Distributed Edge
+      Networks.
+    affiliation: IIT
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9930629
+  - title: 'GossipFL: A Decentralized Federated Learning Framework With Sparsified
+      and Adaptive Communication.'
+    affiliation: HKBU
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9996127
+  - title: 'FedMDS: An Efficient Model Discrepancy-Aware Semi-Asynchronous Clustered
+      Federated Learning Framework.'
+    affiliation: CQU
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10018536
   - title: 'HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated
       Learning in Mobile Edge Computing.'
     affiliation: DUT
