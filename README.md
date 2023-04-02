@@ -61,6 +61,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 |Title                                                           |    Affiliation          |    Venue                     |    Year    |    TL;DR                                                  |    Materials|
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Federated Learning Over Coupled Graphs | XJTU | IEEE Trans. Parallel Distributed Syst. :mortar_board: | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10029878)] [[PDF](https://arxiv.org/abs/2301.11099)] |
 | HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning | Nankai University | IEEE Trans. Vis. Comput. Graph. :mortar_board: | 2023 | HetVis[^HetVis] | [[PUB](https://ieeexplore.ieee.org/document/9912364)] [[PDF](https://arxiv.org/abs/2208.07491)] |
 | Federated Learning on Non-IID Graphs via Structural Knowledge Sharing | UTS | AAAI :mortar_board: | 2023 | FedStar[^FedStar] | [[PDF](https://arxiv.org/abs/2211.13009)] [[CODE](https://github.com/yuetan031/fedstar)] |
 | FedGS: Federated Graph-based Sampling with Arbitrary Client Availability | XMU | AAAI :mortar_board: | 2023 | FedGS[^FedGS] | [[PDF](https://arxiv.org/abs/2211.13975)] [[CODE](https://github.com/wwzzz/fedgs)] |
@@ -138,7 +139,6 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | IBM | NeurIPS Workshop | 2019 | FGL-DFC[^FGL-DFC] | [[PDF](https://arxiv.org/abs/1909.12946)] |
 | Federated learning of predictive models from federated Electronic Health Records :star: | BU | Int. J. Medical Informatics | 2018 | cPDS[^cPDS] | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub)] |
 | Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning. |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2302.02069)] |
-| Federated Learning over Coupled Graphs |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2301.11099)] |
 | Uplink Scheduling in Federated Learning: an Importance-Aware Approach via Graph Representation Learning |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2301.11903)] |
 | Graph Federated Learning with Hidden Representation Sharing | UCLA | preprint | 2022 | GFL-APPNP[^GFL-APPNP] | [[PDF](https://arxiv.org/abs/2212.12158)] |
 | FedRule: Federated Rule Recommendation System with Graph Neural Networks | CMU | preprint | 2022 | FedRule[^FedRule] | [[PDF](https://arxiv.org/abs/2211.06812)] |
