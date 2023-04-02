@@ -6754,6 +6754,7 @@ fl-in-top-cv-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6634_ECCV_2022_paper.php
+      SUPP: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720069-supp.pdf
   - title: 'Auto-FedRL: Federated Hyperparameter Optimization for Multi-Institutional
       Medical Image Segmentation'
     affiliation: ''
@@ -6762,6 +6763,7 @@ fl-in-top-cv-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1129_ECCV_2022_paper.php
+      SUPP: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810431-supp.pdf
       PDF: https://arxiv.org/abs/2203.06338
       CODE: https://github.com/guopengf/Auto-FedRL
   - title: Improving Generalization in Federated Learning by Seeking Flat Minima
@@ -6776,6 +6778,7 @@ fl-in-top-cv-conference-and-journal:
       通过损失和Hessian特征谱的几何角度来研究这种行为，将模型缺乏泛化能力与解决方案的锐度联系起来'
     materials:
       PUB: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7093_ECCV_2022_paper.php
+      SUPP: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830636-supp.pdf
       PDF: https://arxiv.org/abs/2203.11834
       CODE: https://github.com/debcaldarola/fedsam
   - title: 'AdaBest: Minimizing Client Drift in Federated Learning via Adaptive Bias
@@ -6786,6 +6789,7 @@ fl-in-top-cv-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/8092_ECCV_2022_paper.php
+      SUPP: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830690-supp.pdf
       PDF: https://arxiv.org/abs/2204.13170
       CODE: https://github.com/varnio/fedsim
       PAGE: https://fedsim.varnio.com/en/latest/
@@ -6796,6 +6800,7 @@ fl-in-top-cv-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2255_ECCV_2022_paper.php
+      SUPP: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860161-supp.pdf
       PDF: https://arxiv.org/abs/2207.09413
   - title: Federated Self-Supervised Learning for Video Understanding
     affiliation: ''
@@ -6813,6 +6818,7 @@ fl-in-top-cv-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6298_ECCV_2022_paper.php
+      SUPP: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960673-supp.pdf
       PDF: https://arxiv.org/abs/2203.14936
       CODE: https://github.com/eric-ai-lab/FedVLN
   - title: Addressing Heterogeneity in Federated Learning via Distributional Transformation
@@ -6830,6 +6836,7 @@ fl-in-top-cv-conference-and-journal:
     tldr: 'FedX: TBC'
     materials:
       PUB: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3932_ECCV_2022_paper.php
+      SUPP: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900682-supp.pdf
       PDF: https://arxiv.org/abs/2207.09158
       CODE: https://github.com/sungwon-han/fedx
   - title: Personalizing Federated Medical Image Segmentation via Local Calibration
@@ -6841,6 +6848,7 @@ fl-in-top-cv-conference-and-journal:
       levels to boost the segmentation. LC-Fed提出了一个带有本地校准的个性化联邦学习框架，以利用特征和预测层面的站点间不一致来提高分割效果。'
     materials:
       PUB: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1626_ECCV_2022_paper.php
+      SUPP: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810449-supp.pdf
       PDF: https://arxiv.org/abs/2207.04655
       CODE: https://github.com/jcwang123/fedlc
   - title: 'ATPFL: Automatic Trajectory Prediction Model Design Under Federated Learning
