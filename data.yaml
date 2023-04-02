@@ -3048,7 +3048,7 @@ fl-in-top-ai-conference-and-journal:
       CODE: https://github.com/TinfoilHat0/Defending-Against-Backdoors-with-Robust-Learning-Rate
   - title: Free-rider Attacks on Model Aggregation in Federated Learning
     affiliation: Accenture Labs
-    venue: AISTAT
+    venue: AISTATS
     year: '2021'
     tldr: ''
     materials:
@@ -3059,7 +3059,7 @@ fl-in-top-ai-conference-and-journal:
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/fraboni21a/fraboni21a-supp.pdf
   - title: Federated f-differential privacy
     affiliation: University of Pennsylvania
-    venue: AISTAT
+    venue: AISTATS
     year: '2021'
     tldr: ''
     materials:
@@ -3070,7 +3070,7 @@ fl-in-top-ai-conference-and-journal:
   - title: 'Federated learning with compression: Unified analysis and sharp guarantees
       :fire:'
     affiliation: The Pennsylvania State University; The University of Texas at Austin
-    venue: AISTAT
+    venue: AISTATS
     year: '2021'
     tldr: ''
     materials:
@@ -3081,7 +3081,7 @@ fl-in-top-ai-conference-and-journal:
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/haddadpour21a/haddadpour21a-supp.pdf
   - title: Shuffled Model of Differential Privacy in Federated Learning
     affiliation: UCLA; Google
-    venue: AISTAT
+    venue: AISTATS
     year: '2021'
     tldr: ''
     materials:
@@ -3090,7 +3090,7 @@ fl-in-top-ai-conference-and-journal:
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/girgis21a/girgis21a-supp.pdf
   - title: Convergence and Accuracy Trade-Offs in Federated Learning and Meta-Learning
     affiliation: Google
-    venue: AISTAT
+    venue: AISTATS
     year: '2021'
     tldr: ''
     materials:
@@ -3100,7 +3100,7 @@ fl-in-top-ai-conference-and-journal:
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/charles21a/charles21a-supp.pdf
   - title: Federated Multi-armed Bandits with Personalization
     affiliation: University of Virginia; The Pennsylvania State University
-    venue: AISTAT
+    venue: AISTATS
     year: '2021'
     tldr: ''
     materials:
@@ -3111,7 +3111,7 @@ fl-in-top-ai-conference-and-journal:
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/shi21c/shi21c-supp.pdf
   - title: Towards Flexible Device Participation in Federated Learning
     affiliation: CMU; SYSU
-    venue: AISTAT
+    venue: AISTATS
     year: '2021'
     tldr: ''
     materials:
@@ -3193,7 +3193,7 @@ fl-in-top-ai-conference-and-journal:
   - title: 'FedPAQ: A Communication-Efficient Federated Learning Method with Periodic
       Averaging and Quantization'
     affiliation: UC Santa Barbara; UT Austin
-    venue: AISTAT
+    venue: AISTATS
     year: '2020'
     tldr: ''
     materials:
@@ -3203,7 +3203,7 @@ fl-in-top-ai-conference-and-journal:
       SUPPLEMENTARY: http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf
   - title: 'How To Backdoor Federated Learning :fire:'
     affiliation: Cornell Tech
-    venue: AISTAT
+    venue: AISTATS
     year: '2020'
     tldr: ''
     materials:
@@ -3214,7 +3214,7 @@ fl-in-top-ai-conference-and-journal:
       SUPPLEMENTARY: http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a-supp.pdf
   - title: Federated Heavy Hitters Discovery with Differential Privacy
     affiliation: RPI; Google
-    venue: AISTAT
+    venue: AISTATS
     year: '2020'
     tldr: ''
     materials:
