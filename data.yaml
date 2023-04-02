@@ -7534,6 +7534,23 @@ fl-in-top-db-conference-and-journal:
     tldr: 41
     materials: 60
   body:
+  - title: 'OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving
+      Desensitization'
+    affiliation: ZJU
+    venue: VLDB
+    year: '2022'
+    tldr: 'OpBoost: OpBoost. Three order-preserving desensitization algorithms satisfying
+      a variant of LDP called distance-based LDP (dLDP) are designed to desensitize
+      the training data. In particular, we optimize the dLDP definition and study
+      efficient sampling distributions to further improve the accuracy and efficiency
+      of the proposed algorithms. The proposed algorithms provide a trade-off between
+      the privacy of pairs with large distance and the utility of desensitized values.
+      OpBoost。设计了三种满足LDP变体的保序脱敏算法，称为基于距离的LDP（dLDP），以使训练数据脱敏。特别是，我们优化了dLDP的定义，并研究了有效的采样分布，以进一步提高拟议算法的准确性和效率。所提出的算法在大距离的配对隐私和脱敏值的效用之间进行了权衡。'
+    materials:
+      PUB: https://www.vldb.org/pvldb/volumes/16/paper/OpBoost%3A A Vertical Federated
+        Tree Boosting Framework Based on Order-Preserving Desensitization
+      PDF: https://arxiv.org/abs/2210.01318
+      CODE: https://github.com/alibaba-edu/mpc4j/tree/main/mpc4j-sml-opboost
   - title: 'Skellam Mixture Mechanism: a Novel Approach to Federated Learning with
       Differential Privacy.'
     affiliation: NUS
