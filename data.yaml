@@ -30,6 +30,14 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 60
     materials: 60
   body:
+  - title: Federated Learning Over Coupled Graphs
+    affiliation: XJTU
+    venue: 'IEEE Trans. Parallel Distributed Syst. :mortar_board:'
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10029878
+      PDF: https://arxiv.org/abs/2301.11099
   - title: 'HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity
       in Horizontal Federated Learning'
     affiliation: Nankai University
@@ -1132,13 +1140,6 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: ''
     materials:
       PDF: https://arxiv.org/abs/2302.02069
-  - title: Federated Learning over Coupled Graphs
-    affiliation: ''
-    venue: preprint
-    year: '2023'
-    tldr: ''
-    materials:
-      PDF: https://arxiv.org/abs/2301.11099
   - title: 'Uplink Scheduling in Federated Learning: an Importance-Aware Approach
       via Graph Representation Learning'
     affiliation: ''

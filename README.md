@@ -61,7 +61,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 |Title                                                           |    Affiliation          |    Venue                     |    Year    |    TL;DR                                                  |    Materials|
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|Federated Learning Over Coupled Graphs | XJTU | IEEE Trans. Parallel Distributed Syst. :mortar_board: | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10029878)] [[PDF](https://arxiv.org/abs/2301.11099)] |
+| Federated Learning Over Coupled Graphs | XJTU | IEEE Trans. Parallel Distributed Syst. :mortar_board: | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10029878)] [[PDF](https://arxiv.org/abs/2301.11099)] |
 | HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning | Nankai University | IEEE Trans. Vis. Comput. Graph. :mortar_board: | 2023 | HetVis[^HetVis] | [[PUB](https://ieeexplore.ieee.org/document/9912364)] [[PDF](https://arxiv.org/abs/2208.07491)] |
 | Federated Learning on Non-IID Graphs via Structural Knowledge Sharing | UTS | AAAI :mortar_board: | 2023 | FedStar[^FedStar] | [[PDF](https://arxiv.org/abs/2211.13009)] [[CODE](https://github.com/yuetan031/fedstar)] |
 | FedGS: Federated Graph-based Sampling with Arbitrary Client Availability | XMU | AAAI :mortar_board: | 2023 | FedGS[^FedGS] | [[PDF](https://arxiv.org/abs/2211.13975)] [[CODE](https://github.com/wwzzz/fedgs)] |
