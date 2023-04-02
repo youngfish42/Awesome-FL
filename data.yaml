@@ -3246,6 +3246,24 @@ fl-in-top-ml-conference-and-journal:
     tldr: 27
     materials: 60
   body:
+  - title: 'FedIPR: Ownership Verification for Federated Deep Neural Network Models'
+    affiliation: SJTU
+    venue: TPAMI
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9847383
+      PDF: https://arxiv.org/abs/2109.13236
+      CODE: https://github.com/purp1eHaze/FedIPR
+      解读: https://zhuanlan.zhihu.com/p/562837170
+  - title: Decentralized Federated Averaging
+    affiliation: NUDT
+    venue: TPAMI
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9850408
+      PDF: https://arxiv.org/abs/2104.11375
   - title: Personalized Federated Learning with Feature Alignment and Classifier Collaboration
     affiliation: THU
     venue: ICLR
