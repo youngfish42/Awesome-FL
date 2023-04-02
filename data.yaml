@@ -9027,6 +9027,14 @@ fl-in-top-system-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9496155
+  - title: Locking Protocols for Parallel Real-Time Tasks With Semaphores Under Federated
+      Scheduling.
+    affiliation: ''
+    venue: TCAD
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9542981
   - title: Client Scheduling and Resource Management for Efficient Training in Heterogeneous
       IoT-Edge Federated Learning
     affiliation: ECNU
