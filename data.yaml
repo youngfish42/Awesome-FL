@@ -1037,7 +1037,7 @@ fl-on-graph-data-and-graph-neural-network:
       federated learning (DFL) over a graph, where the algorithm performs local updates
       for several iterations and then enables communications among the nodes. 我们专注于提高图上完全分散的联邦学习（DFL）的通信效率，其中算法执行多次迭代的本地更新，然后实现节点之间的通信。'
     materials:
-      PUB: https://ieeexplore.ieee.org/abstract/document/9086196#:~:text=Decentralized%20Federated%20Learning%20for%20Electronic%20Health%20Records%20Abstract:,in%20distributed%20training%20problems%20within%20a%20star%20network.
+      PUB: https://ieeexplore.ieee.org/abstract/document/9086196
       PDF: https://arxiv.org/abs/1912.01792
       解读: https://zhuanlan.zhihu.com/p/448738120
   - title: 'ASFGNN: Automated Separated-Federated Graph Neural Network'
@@ -3052,7 +3052,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v130/fraboni21a/fraboni21a.pdf
+      PUB: http://proceedings.mlr.press/v130/fraboni21a.html
       PDF: https://arxiv.org/abs/2006.11901
       CODE: https://github.com/Accenture/Labs-Federated-Learning
       VIDEO: https://papertalk.org/papertalks/27640
@@ -3063,7 +3063,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v130/zheng21a/zheng21a.pdf
+      PUB: http://proceedings.mlr.press/v130/zheng21a.html
       CODE: https://github.com/enosair/federated-fdp
       VIDEO: https://papertalk.org/papertalks/27595
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/zheng21a/zheng21a-supp.pdf
@@ -3074,7 +3074,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v130/haddadpour21a/haddadpour21a.pdf
+      PUB: http://proceedings.mlr.press/v130/haddadpour21a.html
       PDF: https://arxiv.org/abs/2007.01154
       CODE: https://github.com/MLOPTPSU/FedTorch
       VIDEO: https://papertalk.org/papertalks/27584
@@ -3085,7 +3085,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v130/girgis21a/girgis21a.pdf
+      PUB: http://proceedings.mlr.press/v130/girgis21a.html
       VIDEO: https://papertalk.org/papertalks/27565
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/girgis21a/girgis21a-supp.pdf
   - title: Convergence and Accuracy Trade-Offs in Federated Learning and Meta-Learning
@@ -3094,7 +3094,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v130/charles21a/charles21a.pdf
+      PUB: http://proceedings.mlr.press/v130/charles21a.html
       PDF: https://arxiv.org/abs/2103.05032
       VIDEO: https://papertalk.org/papertalks/27559
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/charles21a/charles21a-supp.pdf
@@ -3104,7 +3104,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v130/shi21c/shi21c.pdf
+      PUB: http://proceedings.mlr.press/v130/shi21c.html
       PDF: https://arxiv.org/abs/2102.13101
       CODE: https://github.com/ShenGroup/PF_MAB
       VIDEO: https://papertalk.org/papertalks/27521
@@ -3115,7 +3115,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2021'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v130/ruan21a/ruan21a.pdf
+      PUB: http://proceedings.mlr.press/v130/ruan21a.html
       PDF: https://arxiv.org/abs/2006.06954
       VIDEO: https://papertalk.org/papertalks/27467
       SUPPLEMENTARY: http://proceedings.mlr.press/v130/ruan21a/ruan21a-supp.pdf
@@ -3197,7 +3197,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2020'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a.pdf
+      PUB: http://proceedings.mlr.press/v108/reisizadeh20a.html
       PDF: https://arxiv.org/abs/1909.13014
       VIDEO: https://papertalk.org/papertalks/7961
       SUPPLEMENTARY: http://proceedings.mlr.press/v108/reisizadeh20a/reisizadeh20a-supp.pdf
@@ -3207,7 +3207,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2020'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf
+      PUB: http://proceedings.mlr.press/v108/bagdasaryan20a.html
       PDF: https://arxiv.org/abs/1807.00459
       VIDEO: https://papertalk.org/papertalks/8046
       CODE: https://github.com/ebagdasa/backdoor_federated_learning
@@ -3218,7 +3218,7 @@ fl-in-top-ai-conference-and-journal:
     year: '2020'
     tldr: ''
     materials:
-      PUB: http://proceedings.mlr.press/v108/zhu20a/zhu20a.pdf
+      PUB: http://proceedings.mlr.press/v108/zhu20a.html
       PDF: https://arxiv.org/abs/1902.08534
       VIDEO: https://papertalk.org/papertalks/8129
       SUPPLEMENTARY: http://proceedings.mlr.press/v108/zhu20a/zhu20a-supp.pdf
@@ -5820,7 +5820,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=HJxNAnVtDS
-      PDF: https://arxiv.org/abs/1907.02189#:~:text=%EE%80%80On%20the%20Convergence%20of%20FedAvg%20on%20Non-IID%20Data%EE%80%81.,of%20the%20total%20devices%20and%20averages%20the%20
+      PDF: https://arxiv.org/abs/1907.02189
       CODE: https://github.com/lx10077/fedavgpy
       解读: https://zhuanlan.zhihu.com/p/500005337
   - title: 'FedBoost: A Communication-Efficient Algorithm for Federated Learning'
