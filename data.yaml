@@ -5888,7 +5888,7 @@ fl-in-top-ml-conference-and-journal:
     year: '2020'
     tldr: ''
     materials:
-      PUB: https://proceedings.neurips.cc/paper/2020/hash/47a658229eb2368a99f1d032c8848542-Abstract.html
+      PUB: https://papers.nips.cc/paper/2020/hash/4311359ed4969e8401880e3c1836fbe1-Abstract.html
       PDF: https://arxiv.org/abs/2010.11425
       CODE: https://github.com/abhimanyudubey/private_federated_linear_bandits
   - title: Federated Principal Component Analysis
