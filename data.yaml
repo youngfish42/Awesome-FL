@@ -6104,6 +6104,7 @@ fl-in-top-dm-conference-and-journal:
     year: '2023'
     tldr: ''
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3539597.3570463
       PDF: https://arxiv.org/abs/2210.10958
   - title: Collaboration Equilibrium in Federated Learning
     affiliation: THU
@@ -6113,8 +6114,8 @@ fl-in-top-dm-conference-and-journal:
       can benefit from collaborating with other clients and advance a Pareto optimization
       approach to identify the optimal collaborators. CE提出了利益图的概念，描述了每个客户如何从与其他客户的合作中获益，并提出了帕累托优化方法来确定最佳合作者。'
     materials:
-      PDF: https://arxiv.org/abs/2108.07926
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539237
+      PDF: https://arxiv.org/abs/2108.07926
       CODE: https://github.com/cuis15/learning-to-collaborate
   - title: Connected Low-Loss Subspace Learning for a Personalization in Federated
       Learning
@@ -6125,8 +6126,8 @@ fl-in-top-dm-conference-and-journal:
       an explicit connection between the optima of the local and the federated model
       in weight space for boosting each other. SuPerFed，一种个性化联邦学习方法，该方法在本地模型和联邦模型的权重空间中诱导出一个明确的连接，以促进彼此的发展。'
     materials:
-      PDF: https://arxiv.org/abs/2109.07628
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539254
+      PDF: https://arxiv.org/abs/2109.07628
       CODE: https://github.com/vaseline555/superfed
   - title: 'FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal
       Split Networks'
@@ -6146,8 +6147,8 @@ fl-in-top-dm-conference-and-journal:
     tldr: 'Comm-FedBiO: Comm-FedBiO propose a learning-based reweighting approach
       to mitigate the effect of noisy labels in FL. Comm-FedBiO提出了一种基于学习的重加权方法，以减轻FL中噪声标签的影响。'
     materials:
-      PDF: https://arxiv.org/abs/2206.05558
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539328
+      PDF: https://arxiv.org/abs/2206.05558
   - title: 'FLDetector: Detecting Malicious Clients in Federated Learning via Checking
       Model-Updates Consistency'
     affiliation: USTC
@@ -6157,8 +6158,8 @@ fl-in-top-dm-conference-and-journal:
       consistency to defend against model poisoning attacks with a large number of
       malicious clients. FLDetector 通过检查其模型更新的一致性来检测恶意客户，以防御大量恶意客户的模型中毒攻击。'
     materials:
-      PDF: https://arxiv.org/abs/2207.09209
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539231
+      PDF: https://arxiv.org/abs/2207.09209
       CODE: https://github.com/zaixizhang/FLDetector
   - title: Practical Lossless Federated Singular Vector Decomposition Over Billion-Scale
       Data
@@ -6169,8 +6170,8 @@ fl-in-top-dm-conference-and-journal:
       data, which can simultaneously achieve lossless accuracy and high efficiency.
       FedSVD，是一种实用的亿级数据上的无损联邦SVD方法，可以同时实现无损精度和高效率。'
     materials:
-      PDF: https://arxiv.org/abs/2105.08925
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539402
+      PDF: https://arxiv.org/abs/2105.08925
       CODE: https://github.com/Di-Chai/FedEval
   - title: 'FedWalk: Communication Efficient Federated Unsupervised Node Embedding
       with Differential Privacy'
@@ -6181,8 +6182,8 @@ fl-in-top-dm-conference-and-journal:
       that operates in such a node-level visibility graph with raw graph information
       remaining locally. FedWalk，一个基于随机行走的无监督节点嵌入算法，在这样一个节点级可见度图中操作，原始图信息保留在本地。'
     materials:
-      PDF: https://arxiv.org/abs/2205.15896
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539308
+      PDF: https://arxiv.org/abs/2205.15896
   - title: 'FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Platform
       for Federated Graph Learning :fire:'
     affiliation: Alibaba
@@ -6191,9 +6192,9 @@ fl-in-top-dm-conference-and-journal:
     tldr: 'FederatedScope-GNN: FederatedScope-GNN present an easy-to-use FGL (federated
       graph learning) package. FederatedScope-GNN提出了一个易于使用的FGL（联邦图学习）软件包。'
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3534678.3539112
       PDF: https://arxiv.org/abs/2204.05562
       CODE: https://github.com/alibaba/FederatedScope
-      PUB: https://dl.acm.org/doi/10.1145/3534678.3539112
   - title: 'Fed-LTD: Towards Cross-Platform Ride Hailing via Federated Learning to
       Dispatch'
     affiliation: BUAA
@@ -6203,8 +6204,8 @@ fl-in-top-dm-conference-and-journal:
       effective order dispatching by sharing both dispatching models and decisions
       while providing privacy protection of raw data and high efficiency. 解决跨平台叫车问题，即多平台在不共享数据的情况下协同进行订单分配。'
     materials:
-      PDF: https://hufudb.com/static/paper/2022/SIGKDD2022_Fed-LTD%20Towards%20Cross-Platform%20Ride%20Hailing%20via.pdf
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539047
+      PDF: https://hufudb.com/static/paper/2022/SIGKDD2022_Fed-LTD%20Towards%20Cross-Platform%20Ride%20Hailing%20via.pdf
       解读: https://zhuanlan.zhihu.com/p/544183874
   - title: 'Felicitas: Federated Learning in Distributed Cross Device Collaborative
       Frameworks'
@@ -6215,8 +6216,8 @@ fl-in-top-dm-conference-and-journal:
       framework to solve the industrial difficulties of FL in large-scale device deployment
       scenarios. Felicitas是一个分布式的跨设备联邦学习（FL）框架，以解决FL在大规模设备部署场景中的工业困难。'
     materials:
-      PDF: https://arxiv.org/abs/2202.08036
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539039
+      PDF: https://arxiv.org/abs/2202.08036
   - title: 'No One Left Behind: Inclusive Federated Learning over Heterogeneous Devices'
     affiliation: Renmin University of China
     venue: KDD
@@ -6225,8 +6226,8 @@ fl-in-top-dm-conference-and-journal:
       with different computing capabilities, bigger models for powerful clients and
       smaller ones for weak clients. InclusiveFL 将不同大小的模型分配给具有不同计算能力的客户，较大的模型用于强大的客户，较小的用于弱小的客户。'
     materials:
-      PDF: https://arxiv.org/abs/2202.08036
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539086
+      PDF: https://arxiv.org/abs/2202.08036
   - title: 'FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation
       via Hard Sampling'
     affiliation: THU
@@ -6236,8 +6237,8 @@ fl-in-top-dm-conference-and-journal:
       method on federated recommendation, core idea is using globally hardest samples
       to subvert model training. FedAttack是一种对联邦推荐的简单而有效的隐蔽中毒攻击方法，核心思想是利用全局最难的样本来颠覆模型训练。'
     materials:
-      PDF: https://arxiv.org/abs/2202.04975
       PUB: https://dl.acm.org/doi/10.1145/3534678.3539119
+      PDF: https://arxiv.org/abs/2202.04975
       CODE: https://github.com/wuch15/FedAttack
   - title: 'PipAttack: Poisoning Federated Recommender Systems for Manipulating Item
       Promotion'
@@ -6249,8 +6250,8 @@ fl-in-top-dm-conference-and-journal:
       advantage of the inherent popularity bias that commonly exists in data-driven
       recommenders. PipAttack 提出了一种系统化的方法，为联邦推荐系统提供后门，以实现目标项目的推广。其核心策略是利用数据驱动的推荐器中普遍存在的固有的流行偏见。'
     materials:
-      PDF: https://arxiv.org/abs/2110.10926
       PUB: https://dl.acm.org/doi/10.1145/3488560.3498386
+      PDF: https://arxiv.org/abs/2110.10926
   - title: 'Fed2: Feature-Aligned Federated Learning'
     affiliation: George Mason University; Microsoft; University of Maryland
     venue: KDD
@@ -6259,8 +6260,8 @@ fl-in-top-dm-conference-and-journal:
       issue by establishing a firm structure-feature alignment across the collaborative
       models. Fed2是一个特征对齐的联邦学习框架，通过在协作模型之间建立牢固的结构-特征对齐来解决这个问题。'
     materials:
-      PDF: https://arxiv.org/abs/2111.14248
       PUB: https://dl.acm.org/doi/10.1145/3447548.3467309
+      PDF: https://arxiv.org/abs/2111.14248
   - title: 'FedRS: Federated Learning with Restricted Softmax for Label Distribution
       Non-IID Data'
     affiliation: Nanjing University
@@ -6276,8 +6277,8 @@ fl-in-top-dm-conference-and-journal:
       classes’ weights during the local procedure. FedRS专注于一种特殊的非iid场景，即标签分布倾斜，每个客户端只能访问整个类集的部分集合。考虑到神经网络的顶层更具有任务针对性，我们主张最后一个分类层更容易受到标签分布偏移的影响。因此，我们深入研究了分类器层，并指出标准的softmax会遇到由缺失类引起的一些问题。作为一个替代方案，提出了
       "限制性Softmax"，以限制在本地程序中对缺失类的权重进行更新。'
     materials:
-      CODE: https://github.com/lxcnju/FedRepo
       PUB: https://dl.acm.org/doi/10.1145/3447548.3467254
+      CODE: https://github.com/lxcnju/FedRepo
   - title: Federated Adversarial Debiasing for Fair and Trasnferable Representations
     affiliation: Michigan State University
     venue: KDD
@@ -6291,10 +6292,10 @@ fl-in-top-dm-conference-and-journal:
       costs become a concern. 虽然对抗性学习通常用于集中式学习以减轻偏见，但当把它扩展到联邦式框架中时，会有很大的障碍。 在这项工作中，我们研究了这些障碍，并通过提出一种新的方法
       Federated Adversarial DEbiasing（FADE）来解决它们。FADE不需要用户的敏感群体信息来进行去偏，并且当隐私或计算成本成为一个问题时，用户可以自由地选择退出对抗性部分。'
     materials:
+      PUB: https://dl.acm.org/doi/10.1145/3447548.3467281
       PAGE: https://jyhong.gitlab.io/publication/fade2021kdd/
       CODE: https://github.com/illidanlab/FADE
       SLIDE: https://jyhong.gitlab.io/publication/fade2021kdd/slides.pdf
-      PUB: https://dl.acm.org/doi/10.1145/3447548.3467281
   - title: Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling
     affiliation: USC
     venue: KDD
@@ -6327,8 +6328,8 @@ fl-in-top-dm-conference-and-journal:
       resource. We theoretically prove the convergence rates of our proposed algorithms
       for strongly convex problems. 为了解决通信和计算资源利用的挑战，我们提出了一个异步随机准牛顿（AsySQN）的纵和联邦学习VFL框架，在这个框架下，我们提出了三种算法，即AsySQN-SGD、-SVRG和-SAGA。所提出的AsySQN型算法使下降步骤按近似（不明确计算逆Hessian矩阵）Hessian信息收敛的速度比基于SGD的方法在实践中快得多，因此可以极大地减少通信轮数。此外，采用异步计算可以更好地利用计算资源。我们从理论上证明了我们提出的算法在强凸问题上的收敛率。'
     materials:
-      PDF: https://arxiv.org/abs/2109.12519
       PUB: https://dl.acm.org/doi/10.1145/3447548.3467169
+      PDF: https://arxiv.org/abs/2109.12519
   - title: 'FLOP: Federated Learning on Medical Datasets using Partial Networks'
     affiliation: Duke University
     venue: KDD
@@ -6337,8 +6338,8 @@ fl-in-top-dm-conference-and-journal:
       Datasets using Partial Networks (FLOP), that shares only a partial model between
       the server and clients. 一种简单而有效的算法，被命名为使用部分网络的医学数据集的联邦学习（FLOP），该算法在服务器和客户之间只共享部分模型。'
     materials:
-      PDF: https://arxiv.org/abs/2102.05218.pdf
       PUB: https://dl.acm.org/doi/10.1145/3447548.3467185
+      PDF: https://arxiv.org/abs/2102.05218.pdf
       CODE: https://github.com/jianyizhang123/FLOP
   - title: A Practical Federated Learning Framework for Small Number of Stakeholders
     affiliation: ETH Zürich
