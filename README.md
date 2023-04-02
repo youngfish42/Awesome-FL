@@ -421,6 +421,8 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    TL;DR                          |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | --------------------------- | ------------------------------------------------------------ |
+|FedIPR: Ownership Verification for Federated Deep Neural Network Models | SJTU | TPAMI | 2023 |  | [pub](https://ieeexplore.ieee.org/document/9847383) [pdf](https://arxiv.org/abs/2109.13236) [code](https://github.com/purp1eHaze/FedIPR) [解读](https://zhuanlan.zhihu.com/p/562837170) |
+|Decentralized Federated Averaging | NUDT | TPAMI | 2023 |  | [pub](https://ieeexplore.ieee.org/document/9850408) [pdf](https://arxiv.org/abs/2104.11375) |
 | Personalized Federated Learning with Feature Alignment and Classifier Collaboration | THU | ICLR | 2023 |  | [[PUB](https://openreview.net/forum?id=SXZr8aDKia)] |
 | MocoSFL: enabling cross-client collaborative self-supervised learning | ASU | ICLR | 2023 |  | [[PUB](https://openreview.net/forum?id=2QGJXyMNoPz)] |
 | Single-shot General Hyper-parameter Optimization for Federated Learning | IBM | ICLR | 2023 |  | [[PUB](https://openreview.net/forum?id=3RhuF8foyPW)] [[PDF](https://arxiv.org/abs/2202.08338)] [[CODE](https://openreview.net/attachment?id=3RhuF8foyPW&name=supplementary_material)] |
