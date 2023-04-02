@@ -1071,6 +1071,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | BAFL: A Blockchain-Based Asynchronous Federated Learning Framework |  | TC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9399813/)] [[CODE](https://github.com/xuchenhao001/AFL)] |
 | L4L: Experience-Driven Computational Resource Control in Federated Learning |  | TC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9384231)] |
 | Adaptive Federated Learning on Non-IID Data With Resource Constraint |  | TC | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9496155)] |
+| Locking Protocols for Parallel Real-Time Tasks With Semaphores Under Federated Scheduling. | | TCAD | 2022 | | [pub](https://ieeexplore.ieee.org/document/9542981) |
 | Client Scheduling and Resource Management for Efficient Training in Heterogeneous IoT-Edge Federated Learning | ECNU | TCAD | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/9530450)] |
 | PervasiveFL: Pervasive Federated Learning for Heterogeneous IoT Systems. | ECNU | TCAD | 2022 | PervasiveFL[^PervasiveFL] | [[PUB](https://ieeexplore.ieee.org/document/9925684)] |
 | FHDnn: communication efficient and robust federated learning for AIoT networks | UC San Diego | DAC | 2022 | FHDnn[^FHDnn] | [[PUB](https://dl.acm.org/doi/10.1145/3489517.3530394)] |
