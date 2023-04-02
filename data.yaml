@@ -6422,6 +6422,23 @@ fl-in-top-secure-conference-and-journal:
     tldr: 60
     materials: 60
   body:
+  - title: Securing Federated Sensitive Topic Classification against Poisoning Attacks
+    affiliation: IMDEA Networks Institute
+    venue: NDSS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/
+      PDF: https://arxiv.org/abs/2201.13086
+      CODE: https://github.com/FRM-Sec/FRM
+  - title: 'PPA: Preference Profiling Attack Against Federated Learning'
+    affiliation: NJUST
+    venue: NDSS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/
+      PDF: https://arxiv.org/abs/2202.04856
   - title: 'CERBERUS: Exploring Federated Prediction of Security Events'
     affiliation: UCL London
     venue: CCS
