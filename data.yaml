@@ -8967,6 +8967,46 @@ fl-in-top-system-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9791849/
+  - title: Federated Learning Over Coupled Graphs
+    affiliation: XJTU
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10029878
+      PDF: https://arxiv.org/abs/2301.11099
+  - title: 'Privacy vs. Efficiency: Achieving Both Through Adaptive Hierarchical Federated
+      Learning'
+    affiliation: NUDT
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10043027
+  - title: On Model Transmission Strategies in Federated Learning With Lossy Communications
+    affiliation: SZU
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10032555
+  - title: Scheduling Algorithms for Federated Learning With Minimal Energy Consumption
+    affiliation: University of Bordeaux
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10032558
+      PDF: https://arxiv.org/abs/2209.06210
+      CODE: https://github.com/llpilla/energy-optimal-federated-learning
+  - title: Auction-Based Cluster Federated Learning in Mobile Edge Computing Systems
+    affiliation: HIT
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10032710
+      PDF: https://arxiv.org/abs/2103.07150
   - title: Personalized Edge Intelligence via Federated Self-Knowledge Distillation.
     affiliation: HUST
     venue: TPDS

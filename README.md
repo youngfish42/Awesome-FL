@@ -1063,11 +1063,11 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    TL;DR                                  |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ----------------------------------- | ------------------------------------------------------------ |
 | Sandbox Computing: A Data Privacy Trusted Sharing Paradigm Via Blockchain and Federated Learning. | BUPT | TC | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/9791849/)] |
-| Federated Learning Over Coupled Graphs | XJTU | TPDS | 2023 | | [pub](https://ieeexplore.ieee.org/document/10029878) [PDF](https://arxiv.org/abs/2301.11099) |
-| Privacy vs. Efficiency: Achieving Both Through Adaptive Hierarchical Federated Learning | NUDT | TPDS | 2023 | | [pub](https://ieeexplore.ieee.org/document/10043027) |
-| On Model Transmission Strategies in Federated Learning With Lossy Communications | SZU | TPDS | 2023 | | [pub](https://ieeexplore.ieee.org/document/10032555) |
-| Scheduling Algorithms for Federated Learning With Minimal Energy Consumption | University of Bordeaux | TPDS | 2023 | | [pub](https://ieeexplore.ieee.org/document/10032558) [PDF](https://arxiv.org/abs/2209.06210) [CODE](https://github.com/llpilla/energy-optimal-federated-learning) |
-| Auction-Based Cluster Federated Learning in Mobile Edge Computing Systems | HIT | TPDS | 2023 | | [pub](https://ieeexplore.ieee.org/document/10032710) [PDF](https://arxiv.org/abs/2103.07150) |
+| Federated Learning Over Coupled Graphs | XJTU | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10029878)] [[PDF](https://arxiv.org/abs/2301.11099)] |
+| Privacy vs. Efficiency: Achieving Both Through Adaptive Hierarchical Federated Learning | NUDT | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10043027)] |
+| On Model Transmission Strategies in Federated Learning With Lossy Communications | SZU | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10032555)] |
+| Scheduling Algorithms for Federated Learning With Minimal Energy Consumption | University of Bordeaux | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10032558)] [[PDF](https://arxiv.org/abs/2209.06210)] [[CODE](https://github.com/llpilla/energy-optimal-federated-learning)] |
+| Auction-Based Cluster Federated Learning in Mobile Edge Computing Systems | HIT | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10032710)] [[PDF](https://arxiv.org/abs/2103.07150)] |
 | Personalized Edge Intelligence via Federated Self-Knowledge Distillation. | HUST | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/9964434/)] [[CODE](https://github.com/CGCL-codes/pFedSD)] |
 | Design of a Quantization-Based DNN Delta Compression Framework for Model Snapshots and Federated Learning. | HIT | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10018182)] |
 | Multi-Job Intelligent Scheduling With Cross-Device Federated Learning. | Baidu | TPDS | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/9964248)] [[PDF](https://arxiv.org/abs/2211.13430)] |
