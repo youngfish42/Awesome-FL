@@ -6581,6 +6581,7 @@ fl-in-top-secure-conference-and-journal:
     materials:
       PUB: https://www.ndss-symposium.org/ndss-paper/auto-draft-204/
       PDF: https://arxiv.org/abs/2009.03561
+      VIDEO: https://www.youtube.com/watch?v=_aH2j5A3608&list=PLfUWWM-POgQulyX2vzKzUtZEkVn1M9G2a&index=3
       UC.: https://github.com/wenzhu23333/Differential-Privacy-Based-Federated-Learning
   - title: Interpretable Federated Transformer Log Learning for Cloud Threat Forensics
     affiliation: University of the Incarnate Word
@@ -6589,6 +6590,7 @@ fl-in-top-secure-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://www.ndss-symposium.org/ndss-paper/auto-draft-236/
+      VIDEO: https://www.youtube.com/watch?v=3HoysA6hsC8&list=PLfUWWM-POgQsS08uHJUJI6sawDO_3sNh0&index=3
       UC.: https://github.com/cyberthreat-datasets/ctdd-2021-os-syslogs
   - title: 'FedCRI: Federated Mobile Cyber-Risk Intelligence'
     affiliation: Technical University of Darmstadt
@@ -6597,6 +6599,7 @@ fl-in-top-secure-conference-and-journal:
     tldr: 'FedCRI: TBC'
     materials:
       PUB: https://www.ndss-symposium.org/ndss-paper/auto-draft-229/
+      VIDEO: https://www.youtube.com/watch?v=2zmdPqCCFxg&list=PLfUWWM-POgQs8ZZMMCX1RoNnmSQ70QXxd&index=3
   - title: 'DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep
       Model Inspection'
     affiliation: Technical University of Darmstadt
@@ -6606,6 +6609,7 @@ fl-in-top-secure-conference-and-journal:
     materials:
       PUB: https://www.ndss-symposium.org/ndss-paper/auto-draft-205/
       PDF: https://arxiv.org/abs/2201.00763
+      VIDEO: https://www.youtube.com/watch?v=MJF_7vnoGh4&list=PLfUWWM-POgQulyX2vzKzUtZEkVn1M9G2a&index=4
   - title: Private Hierarchical Clustering in Federated Networks
     affiliation: NUS
     venue: CCS
