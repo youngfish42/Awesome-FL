@@ -6523,6 +6523,8 @@ fl-in-top-secure-conference-and-journal:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/chandran
       PDF: https://eprint.iacr.org/2021/1538
       CODE: https://github.com/shahakash28/simc
+      VIDEO: https://www.youtube.com/watch?v=0Oaqi0JHUac
+      SUPP: https://www.usenix.org/system/files/usenixsecurity22-chandran.pdf
   - title: Efficient Differentially Private Secure Aggregation for Federated Learning
       via Hardness of Learning with Errors
     affiliation: University of Vermont
@@ -6532,6 +6534,7 @@ fl-in-top-secure-conference-and-journal:
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/stevens
       SLIDE: https://www.usenix.org/system/files/sec22_slides-stevens.pdf
+      VIDEO: https://www.youtube.com/watch?v=9kYHQkr6DuE
   - title: Label Inference Attacks Against Vertical Federated Learning
     affiliation: ZJU
     venue: USENIX Security
@@ -6541,6 +6544,7 @@ fl-in-top-secure-conference-and-journal:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong
       SLIDE: https://www.usenix.org/system/files/sec22_slides-fu-chong.pdf
       CODE: https://github.com/FuChong-cyber/label-inference-attacks
+      VIDEO: https://www.youtube.com/watch?v=JEmRbDtosVw
   - title: 'FLAME: Taming Backdoors in Federated Learning'
     affiliation: Technical University of Darmstadt
     venue: USENIX Security
@@ -6550,6 +6554,7 @@ fl-in-top-secure-conference-and-journal:
       PUB: https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen
       SLIDE: https://www.usenix.org/system/files/sec22_slides-nguyen.pdf
       PDF: https://arxiv.org/abs/2101.02281
+      VIDEO: https://www.youtube.com/watch?v=nMrte2S9U68
   - title: Local and Central Differential Privacy for Robustness and Privacy in Federated
       Learning
     affiliation: University at Buffalo, SUNY
