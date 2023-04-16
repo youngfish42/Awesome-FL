@@ -280,7 +280,7 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    TL;DR                    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | --------------------- | ------------------------------------------------------------ |
-|Federated machine learning in data-protection-compliant research | University of Hamburg | Nat. Mach. Intell.(Comment) | 2023 |  | [pub](https://www.nature.com/articles/s42256-022-00601-5) |
+| Federated machine learning in data-protection-compliant research | University of Hamburg | Nat. Mach. Intell.(Comment) | 2023 |  | [[PUB](https://www.nature.com/articles/s42256-022-00601-5)] |
 | Federated learning for predicting histological response to neoadjuvant chemotherapy in triple-negative breast cancer | Owkin | Nat. Med. | 2023 |  | [[PUB](https://www.nature.com/articles/s41591-022-02155-w)] [[CODE](https://github.com/Substra/substra)] |
 | Federated learning enables big data for rare cancer boundary detection | University of Pennsylvania | Nat. Commun. | 2022 |  | [[PUB](https://www.nature.com/articles/s41467-022-33407-5)] [[PDF](https://arxiv.org/abs/2204.10836)] [[CODE](https://github.com/FETS-AI/Front-End)] |
 | Federated learning and Indigenous genomic data sovereignty | Hugging Face | Nat. Mach. Intell. (Comment) | 2022 |  | [[PUB](https://www.nature.com/articles/s42256-022-00551-y)] |

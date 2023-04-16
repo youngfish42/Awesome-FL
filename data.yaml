@@ -2193,6 +2193,13 @@ fl-in-top-tier-journal:
     tldr: 21
     materials: 60
   body:
+  - title: Federated machine learning in data-protection-compliant research
+    affiliation: University of Hamburg
+    venue: Nat. Mach. Intell.(Comment)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.nature.com/articles/s42256-022-00601-5
   - title: Federated learning for predicting histological response to neoadjuvant
       chemotherapy in triple-negative breast cancer
     affiliation: Owkin
@@ -2213,7 +2220,7 @@ fl-in-top-tier-journal:
       CODE: https://github.com/FETS-AI/Front-End
   - title: Federated learning and Indigenous genomic data sovereignty
     affiliation: Hugging Face
-    venue: Nat. Mach. Intell.
+    venue: Nat. Mach. Intell. (Comment)
     year: '2022'
     tldr: ''
     materials:
@@ -2244,7 +2251,7 @@ fl-in-top-tier-journal:
   - title: Shifting machine learning for healthcare from development to deployment
       and from models to data
     affiliation: ''
-    venue: Nat. Biomed. Eng.
+    venue: Nat. Biomed. Eng. (Review Article)
     year: '2022'
     tldr: 'FL-healthy: This progress has emphasized that, from model development to
       model deployment, data play central roles. In this Review, we provide a data-centric
@@ -2311,7 +2318,7 @@ fl-in-top-tier-journal:
   - title: Adversarial interference and its mitigations in privacy-preserving collaborative
       machine learning
     affiliation: ''
-    venue: Nat. Mach. Intell.
+    venue: Nat. Mach. Intell.(Perspective)
     year: '2021'
     tldr: ''
     materials:
@@ -2356,7 +2363,7 @@ fl-in-top-tier-journal:
   - title: 'Secure, privacy-preserving and federated machine learning in medical imaging
       :star:'
     affiliation: ''
-    venue: Nat. Mach. Intell.
+    venue: Nat. Mach. Intell.(Perspective)
     year: '2020'
     tldr: ''
     materials:
