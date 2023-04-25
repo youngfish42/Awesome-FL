@@ -61,6 +61,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 |Title                                                           |    Affiliation          |    Venue                     |    Year    |    TL;DR                                                  |    Materials|
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Personalized Subgraph Federated Learning | KAIST | ICML :mortar_board: | 2023 | FED-PUB[^FED-PUB] | [[PDF](https://arxiv.org/abs/2206.10206)] |
 | Federated Learning Over Coupled Graphs | XJTU | IEEE Trans. Parallel Distributed Syst. :mortar_board: | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10029878)] [[PDF](https://arxiv.org/abs/2301.11099)] |
 | HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning | Nankai University | IEEE Trans. Vis. Comput. Graph. :mortar_board: | 2023 | HetVis[^HetVis] | [[PUB](https://ieeexplore.ieee.org/document/9912364)] [[PDF](https://arxiv.org/abs/2208.07491)] |
 | Federated Learning on Non-IID Graphs via Structural Knowledge Sharing | UTS | AAAI :mortar_board: | 2023 | FedStar[^FedStar] | [[PDF](https://arxiv.org/abs/2211.13009)] [[CODE](https://github.com/yuetan031/fedstar)] |
@@ -150,7 +151,6 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Federated Graph Contrastive Learning | UTS | preprint | 2022 | FGCL[^FGCL] | [[PDF](https://arxiv.org/abs/2207.11836)] |
 | FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for Doctor Recommendation Using EHR |  | preprint | 2022 | FD-GATDR[^FD-GATDR] | [[PDF](https://arxiv.org/abs/2207.05750)] |
 | Privacy-preserving Graph Analytics: Secure Generation and Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2207.00048)] |
-| Personalized Subgraph Federated Learning |  | preprint | 2022 | FED-PUB[^FED-PUB] | [[PDF](https://arxiv.org/abs/2206.10206)] |
 | Federated Graph Attention Network for Rumor Detection |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.05713)] [[CODE](https://github.com/baichuanzheng1/fedgat)] |
 | FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal Graph Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2206.03420)] |
 | Privatized Graph Federated Learning |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2203.07105)] |
