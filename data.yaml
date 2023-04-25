@@ -30,6 +30,13 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 60
     materials: 60
   body:
+  - title: Personalized Subgraph Federated Learning
+    affiliation: KAIST
+    venue: 'ICML :mortar_board:'
+    year: '2023'
+    tldr: 'FED-PUB: TBC'
+    materials:
+      PDF: https://arxiv.org/abs/2206.10206
   - title: Federated Learning Over Coupled Graphs
     affiliation: XJTU
     venue: 'IEEE Trans. Parallel Distributed Syst. :mortar_board:'
@@ -1235,13 +1242,6 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: ''
     materials:
       PDF: https://arxiv.org/abs/2207.00048
-  - title: Personalized Subgraph Federated Learning
-    affiliation: ''
-    venue: preprint
-    year: '2022'
-    tldr: 'FED-PUB: TBC'
-    materials:
-      PDF: https://arxiv.org/abs/2206.10206
   - title: Federated Graph Attention Network for Rumor Detection
     affiliation: ''
     venue: preprint
