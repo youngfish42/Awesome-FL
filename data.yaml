@@ -37,6 +37,22 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'FED-PUB: TBC'
     materials:
       PDF: https://arxiv.org/abs/2206.10206
+  - title: Semi-decentralized Federated Ego Graph Learning for Recommendation
+    affiliation: SUST
+    venue: 'WWW:mortar_board:'
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583337
+      PDF: https://arxiv.org/abs/2302.10900
+  - title: Federated Graph Neural Network for Fast Anomaly Detection in Controller
+      Area Networks
+    affiliation: ECUST
+    venue: 'IEEE Trans. Inf. Forensics Secur. :mortar_board:'
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10026810
   - title: Federated Learning Over Coupled Graphs
     affiliation: XJTU
     venue: 'IEEE Trans. Parallel Distributed Syst. :mortar_board:'
@@ -118,6 +134,15 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'FL-GMT: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9873989
+  - title: 'GDFed: Dynamic Federated Learning for Heterogenous Device Using Graph
+      Neural Network'
+    affiliation: KHU
+    venue: ICOIN
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10048926
+      CODE: https://github.com/IntelligentNetworkingLAB/Graph-Neural-Network-based-Federated-Learning-for-Heterogenous-Device-Network
   - title: 'FedWalk: Communication Efficient Federated Unsupervised Node Embedding
       with Differential Privacy'
     affiliation: SJTU
@@ -245,6 +270,13 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3575637.3575644
       PDF: https://arxiv.org/abs/2207.11812
+  - title: 'Semantic Vectorization: Text- and Graph-Based Models.'
+    affiliation: IBM Research
+    venue: Federated Learning
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-030-96896-0_3
   - title: 'GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification
       on Graphs'
     affiliation: IIT
@@ -295,6 +327,14 @@ fl-on-graph-data-and-graph-neural-network:
       加强本地训练过程。我们为未标记的数据引入了辅助损失，限制了训练过程。我们为我们的SemiGraphFL框架提出了一个新的伪标签策略，以做出更有效的预测。'
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-031-14714-2_33
+  - title: Federated Spatio-Temporal Traffic Flow Prediction Based on Graph Convolutional
+      Network
+    affiliation: TJU
+    venue: WCSP
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10039323
   - title: A federated graph neural network framework for privacy-preserving personalization
     affiliation: THU
     venue: Nature Communications
@@ -1140,6 +1180,22 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
+  - title: 'Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized
+      Devices'
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2303.00492
+  - title: Securing IoT Communication using Physical Sensor Data - Graph Layer Security  with
+      Federated Multi-Agent Deep Reinforcement Learning.
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2302.12592
   - title: Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.
     affiliation: ''
     venue: preprint
@@ -1481,6 +1537,14 @@ fl-on-tabular-data:
     tldr: ''
     materials:
       PUB: https://www.mdpi.com/1099-4300/25/1/88
+  - title: Blockchain-Based Swarm Learning for the Mitigation of Gradient Leakage
+      in Federated Learning
+    affiliation: University of Udine
+    venue: IEEE Access
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10047894
   - title: 'OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving
       Desensitization'
     affiliation: ZJU
@@ -1539,6 +1603,20 @@ fl-on-tabular-data:
       PUB: https://proceedings.mlr.press/v151/shen22a.html
       PDF: https://arxiv.org/abs/2103.06972
       CODE: https://github.com/shenzebang/Federated-Learning-Pytorch
+  - title: Tree-Based Models for Federated Learning Systems.
+    affiliation: IBM Research
+    venue: Federated Learning
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-030-96896-0_2
+  - title: 'Federated Learning for Tabular Data using TabNet: A Vehicular Use-Case'
+    affiliation: ''
+    venue: ICCP
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10053975
   - title: 'Federated Learning for Tabular Data: Exploring Potential Risk to Privacy'
     affiliation: Newcastle University
     venue: ISSRE
