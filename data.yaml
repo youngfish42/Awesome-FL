@@ -3279,6 +3279,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=SXZr8aDKia
+      CODE: https://github.com/JianXu95/FedPAC
   - title: 'MocoSFL: enabling cross-client collaborative self-supervised learning'
     affiliation: ASU
     venue: ICLR
@@ -3286,6 +3287,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=2QGJXyMNoPz
+      CODE: https://github.com/SonyAI/MocoSFL
   - title: Single-shot General Hyper-parameter Optimization for Federated Learning
     affiliation: IBM
     venue: ICLR
@@ -3304,6 +3306,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=Mpa3tRJFBb
       PDF: https://arxiv.org/abs/2206.15387
+      CODE: https://github.com/facebookresearch/where_to_begin
   - title: 'FedExP: Speeding up Federated Averaging via Extrapolation'
     affiliation: CMU
     venue: ICLR
@@ -3312,6 +3315,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=IPrzNbddXV
       PDF: https://arxiv.org/abs/2301.09604
+      CODE: https://github.com/divyansh03/fedexp
   - title: Turning the Curse of Heterogeneity in Federated Learning into a Blessing
       for Out-of-Distribution Detection
     affiliation: MSU
@@ -3320,6 +3324,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=mMNimwRb7Gr
+      CODE: https://github.com/illidanlab/FOSTER
   - title: 'DASHA: Distributed Nonconvex Optimization with Communication Compression
       and Optimal Oracle Complexity'
     affiliation: KAUST
@@ -3374,6 +3379,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=cRxYWKiTan
+      CODE: https://github.com/daiqing98/FedCIL
   - title: Federated Learning from Small Datasets
     affiliation: IKIM
     venue: ICLR
@@ -3389,6 +3395,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=R1U5G2spbLd
+      PDF: https://arxiv.org/abs/2302.12211
   - title: Meta Knowledge Condensation for Federated Learning
     affiliation: A*STAR
     venue: ICLR
@@ -3484,6 +3491,8 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=Hnk1WRMAYqg
+      PDF: https://arxiv.org/abs/2302.08888
+      CODE: https://github.com/flair-thu/creamfl
   - title: Faster federated optimization under second-order similarity
     affiliation: Princeton University
     venue: ICLR
@@ -3519,6 +3528,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=hxEIgUXLFF
+      CODE: https://github.com/MehdiSet/PerFedMask
   - title: 'EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections
       for Federated Learning with Heterogeneous Data'
     affiliation: GMU
@@ -3536,6 +3546,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=6P9Y25Pljl6
       PDF: https://arxiv.org/abs/2209.04007
+      CODE: https://github.com/zlz0414/FedDAR
   - title: 'Share Your Representation Only: Guaranteed Improvement of the Privacy-Utility
       Tradeoff in Federated Learning'
     affiliation: upenn
@@ -3544,6 +3555,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=oJpVVGXu9i
+      CODE: https://github.com/shenzebang/CENTAUR-Privacy-Federated-Representation-Learning
   - title: 'FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated
       Learning'
     affiliation: Purdue University
@@ -3553,6 +3565,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=Xo2E217_M4n
       PDF: https://arxiv.org/abs/2210.12873
+      CODE: https://github.com/KaiyuanZh/FLIP
   - title: 'Generalization Bounds for Federated Learning: Fast Rates, Unparticipating
       Clients and Unbounded Losses'
     affiliation: RUC
@@ -3577,6 +3590,7 @@ fl-in-top-ml-conference-and-journal:
     materials:
       PUB: https://openreview.net/forum?id=fWWFv--P0xP
       PDF: https://arxiv.org/abs/2206.11488
+      CODE: https://github.com/andytu28/fps_pre-training
   - title: 'Decepticons: Corrupted Transformers Breach Privacy in Federated Learning
       for Language Models'
     affiliation: UMD
@@ -3637,6 +3651,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=eKllxpLOOm
+      CODE: https://github.com/ZFancy/SFAT
   - title: Hyperparameter Optimization through Neural Network Partitioning
     affiliation: University of Cambridge
     venue: ICLR
@@ -3644,6 +3659,7 @@ fl-in-top-ml-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://openreview.net/forum?id=nAgdXgfmqj
+      PDF: https://arxiv.org/abs/2304.14766
   - title: Does Decentralized Learning with Non-IID Unlabeled Data Benefit from Self
       Supervision?
     affiliation: MIT
@@ -7541,6 +7557,34 @@ fl-in-top-db-conference-and-journal:
     tldr: 41
     materials: 60
   body:
+  - title: Differentially Private Vertical Federated Clustering.
+    affiliation: Purdue University
+    venue: VLDB
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.vldb.org/pvldb/vol16/p1277-li.pdf
+      PDF: https://arxiv.org/abs/2208.01700
+      CODE: https://anonymous.4open.science/r/public_vflclustering-63CD/README.md
+  - title: 'FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.
+      :fire:'
+    affiliation: Alibaba
+    venue: VLDB
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.vldb.org/pvldb/vol16/p1059-li.pdf
+      PDF: https://arxiv.org/abs/2204.05011
+      CODE: https://github.com/alibaba/FederatedScope
+  - title: Secure Shapley Value for Cross-Silo Federated Learning.
+    affiliation: Kyoto University
+    venue: VLDB
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.vldb.org/pvldb/vol16/p1657-zheng.pdf
+      PDF: https://arxiv.org/abs/2209.04856
+      CODE: https://github.com/teijyogen/secsv
   - title: 'OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving
       Desensitization'
     affiliation: ZJU
@@ -7554,8 +7598,7 @@ fl-in-top-db-conference-and-journal:
       the privacy of pairs with large distance and the utility of desensitized values.
       OpBoost。设计了三种满足LDP变体的保序脱敏算法，称为基于距离的LDP（dLDP），以使训练数据脱敏。特别是，我们优化了dLDP的定义，并研究了有效的采样分布，以进一步提高拟议算法的准确性和效率。所提出的算法在大距离的配对隐私和脱敏值的效用之间进行了权衡。'
     materials:
-      PUB: https://www.vldb.org/pvldb/volumes/16/paper/OpBoost%3A A Vertical Federated
-        Tree Boosting Framework Based on Order-Preserving Desensitization
+      PUB: https://www.vldb.org/pvldb/vol16/p202-li.pdf
       PDF: https://arxiv.org/abs/2210.01318
       CODE: https://github.com/alibaba-edu/mpc4j/tree/main/mpc4j-sml-opboost
   - title: 'Skellam Mixture Mechanism: a Novel Approach to Federated Learning with
@@ -8211,6 +8254,176 @@ fl-in-top-network-conference-and-journal:
     tldr: 41
     materials: 60
   body:
+  - title: To Store or Not? Online Data Selection for Federated Learning with Limited
+      Storage.
+    affiliation: SJTU
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583426
+      PDF: https://arxiv.org/abs/2209.00195
+  - title: 'pFedPrompt: Learning Personalized Prompt for Vision-Language Models in
+      Federated Learning.'
+    affiliation: PolyU
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583518
+  - title: Quantifying and Defending against Privacy Threats on Federated Knowledge
+      Graph Embedding.
+    affiliation: ZJU; HIC-ZJU
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583450
+      PDF: https://arxiv.org/abs/2304.02932
+  - title: Vertical Federated Knowledge Transfer via Representation Distillation for
+      Healthcare Collaboration Networks
+    affiliation: PKU
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583874
+      PDF: https://arxiv.org/abs/2302.05675
+      CODE: https://github.com/Chung-ju/VFedTrans
+  - title: Semi-decentralized Federated Ego Graph Learning for Recommendation
+    affiliation: SUST
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583337
+      PDF: https://arxiv.org/abs/2302.10900
+  - title: 'FlexiFed: Personalized Federated Learning for Edge Clients with Heterogeneous
+      Model Architectures.'
+    affiliation: Swinburne
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583347
+      CODE: https://github.com/fio1982/FlexiFed
+  - title: 'FedEdge: Accelerating Edge-Assisted Federated Learning.'
+    affiliation: Swinburne
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583264
+  - title: Federated Node Classification over Graphs with Latent Link-type Heterogeneity.
+    affiliation: Emory University
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583471
+      CODE: https://github.com/Oxfordblue7/FedLIT
+  - title: 'FedACK: Federated Adversarial Contrastive Knowledge Distillation for Cross-Lingual
+      and Cross-Model Social Bot Detection.'
+    affiliation: USTC
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583500
+      PDF: https://arxiv.org/abs/2303.07113
+      CODE: https://github.com/846468230/FedACK
+  - title: Interaction-level Membership Inference Attack Against Federated Recommender
+      Systems.
+    affiliation: UQ
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583359
+      PDF: https://arxiv.org/abs/2301.10964
+  - title: 'AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated
+      Learning.'
+    affiliation: Deakin University
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583542
+  - title: Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.
+    affiliation: NJU
+    venue: WWW
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543507.3583305
+      PDF: https://arxiv.org/abs/2302.02069
+      CODE: https://github.com/nju-websoft/FedLU
+  - title: 'Federated Learning for Metaverse: A Survey.'
+    affiliation: JNU
+    venue: WWW (Companion Volume)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543873.3587584
+      PDF: https://arxiv.org/abs/2303.17987
+  - title: Understanding the Impact of Label Skewness and Optimization on Federated
+      Learning for Text Classification
+    affiliation: KU Leuven
+    venue: WWW (Companion Volume)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543873.3587599
+  - title: 'Privacy-Preserving Online Content Moderation: A Federated Learning Use
+      Case.'
+    affiliation: CUT
+    venue: WWW (Companion Volume)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543873.3587604
+      PDF: https://arxiv.org/abs/2209.11843
+  - title: Privacy-Preserving Online Content Moderation with Federated Learning.
+    affiliation: CUT
+    venue: WWW (Companion Volume)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543873.3587366
+  - title: A Federated Learning Benchmark for Drug-Target Interaction.
+    affiliation: University of Turin
+    venue: WWW (Companion Volume)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543873.3587687
+      PDF: https://arxiv.org/abs/2302.07684
+      CODE: https://github.com/giemp95/feddti
+  - title: Towards a Decentralized Data Hub and Query System for Federated Dynamic
+      Data Spaces.
+    affiliation: TU Berlin
+    venue: WWW (Companion Volume)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543873.3587646
+  - title: 1st Workshop on Federated Learning Technologies1st Workshop on Federated
+      Learning Technologies
+    affiliation: University of Turin
+    venue: WWW (Companion Volume)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543873.3589741
+  - title: A Survey of Trustworthy Federated Learning with Perspectives on Security,
+      Robustness and Privacy
+    affiliation: CUHK
+    venue: WWW (Companion Volume)
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3543873.3587681
+      PDF: https://arxiv.org/abs/2302.10637
   - title: A Hierarchical Knowledge Transfer Framework for Heterogeneous Federated
       Learning
     affiliation: THU
@@ -8704,6 +8917,12 @@ fl-in-top-network-conference-and-journal:
     tldr: 'FedKC: TBC'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3485447.3511988
+  - title: Powering Multi-Task Federated Learning with Competitive GPU Resource Sharing.
+    affiliation: ''
+    venue: WWW (Companion Volume)
+    year: '2022'
+    tldr: ''
+    materials: {}
   - title: 'Federated Bandit: A Gossiping Approach'
     affiliation: University of California
     venue: SIGMETRICS
@@ -8984,6 +9203,23 @@ fl-in-top-system-conference-and-journal:
     tldr: 35
     materials: 60
   body:
+  - title: Optimizing Training Efficiency and Cost of Hierarchical Federated Learning
+      in Heterogeneous Mobile-Edge Cloud Computing
+    affiliation: ECNU
+    venue: TCAD
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9882092
+  - title: Type-Aware Federated Scheduling for Typed DAG Tasks on Heterogeneous Multicore
+      Platforms
+    affiliation: TU Dortmund University
+    venue: TC
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9869701
+      CODE: https://github.com/Strange369/TypedDAG_on_HeteroMP
   - title: 'Sandbox Computing: A Data Privacy Trusted Sharing Paradigm Via Blockchain
       and Federated Learning.'
     affiliation: BUPT
@@ -8992,6 +9228,34 @@ fl-in-top-system-conference-and-journal:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9791849/
+  - title: Incentive Mechanism Design for Joint Resource Allocation in Blockchain-Based
+      Federated Learning.
+    affiliation: IUPUI
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10061576
+      PDF: https://arxiv.org/abs/2202.10938
+  - title: 'HiFlash: Communication-Efficient Hierarchical Federated Learning With
+      Adaptive Staleness Control and Heterogeneity-Aware Client-Edge Association.'
+    affiliation: ''
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10021868
+      PDF: https://arxiv.org/abs/2301.06447
+  - title: 'From Deterioration to Acceleration: A Calibration Approach to Rehabilitating
+      Step Asynchronism in Federated Optimization.'
+    affiliation: ''
+    venue: TPDS
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10070571
+      PDF: https://arxiv.org/abs/2112.09355
+      CODE: https://github.com/harliwu/fedagrac
   - title: Federated Learning Over Coupled Graphs
     affiliation: XJTU
     venue: TPDS
