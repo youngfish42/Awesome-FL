@@ -134,6 +134,13 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'FL-GMT: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9873989
+  - title: 'FedGR: Federated Graph Neural Network for Recommendation System'
+    affiliation: CUPT
+    venue: Axioms
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.mdpi.com/2075-1680/12/2/170
   - title: 'GDFed: Dynamic Federated Learning for Heterogenous Device Using Graph
       Neural Network'
     affiliation: KHU
@@ -143,6 +150,14 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://ieeexplore.ieee.org/document/10048926
       CODE: https://github.com/IntelligentNetworkingLAB/Graph-Neural-Network-based-Federated-Learning-for-Heterogenous-Device-Network
+  - title: Coordinated Scheduling and Decentralized Federated Learning Using Conflict
+      Clustering Graphs in Fog-Assisted IoD Networks
+    affiliation: UBC
+    venue: IEEE Trans. Veh. Technol.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9932020
   - title: 'FedWalk: Communication Efficient Federated Unsupervised Node Embedding
       with Differential Privacy'
     affiliation: SJTU
@@ -495,6 +510,13 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14
       PDF: https://arxiv.org/abs/2206.03492
+  - title: Clustered Graph Federated Personalized Learning.
+    affiliation: NTNU
+    venue: IEEECONF
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10051979
   - title: 'FedGCN: Convergence and Communication Tradeoffs in Federated Training
       of Graph Convolutional Networks'
     affiliation: CMU
@@ -1180,6 +1202,22 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
+  - title: 'GLASU: A Communication-Efficient Algorithm for Federated Learning with
+      Vertically Distributed Graph Data'
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2303.09531
+  - title: Vertical Federated Graph Neural Network for Recommender System
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2303.05786
+      CODE: https://github.com/maiph123/verticalgnn
   - title: 'Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized
       Devices'
     affiliation: ''
