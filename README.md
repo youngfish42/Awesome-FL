@@ -11,7 +11,7 @@
   - [FL on Tabular Data](#fl-on-tabular-data) [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%257CXGBoost%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest%7CXGBoost)
   - [FL in top-tier journal](#fl-in-top-tier-journal)
   - FL in top-tier conference and journal by category
-    - [AI](#fl-in-top-ai-conference-and-journal) [ML](#fl-in-top-ml-conference-and-journal) [DM](#fl-in-top-dm-conference-and-journal) [Secure](#fl-in-top-secure-conference-and-journal) [CV](#fl-in-top-cv-conference-and-journal) [NLP](#fl-in-top-nlp-conference-and-journal) [IR](#fl-in-top-ir-conference-and-journal) [DB](#fl-in-top-db-conference-and-journal) [Network](#fl-in-top-network-conference-and-journal) [System](#fl-in-top-system-conference-and-journal) 
+    - [AI](#fl-in-top-ai-conference-and-journal) [ML](#fl-in-top-ml-conference-and-journal) [DM](#fl-in-top-dm-conference-and-journal) [Secure](#fl-in-top-secure-conference-and-journal) [CV](#fl-in-top-cv-conference-and-journal) [NLP](#fl-in-top-nlp-conference-and-journal) [IR](#fl-in-top-ir-conference-and-journal) [DB](#fl-in-top-db-conference-and-journal) [Network](#fl-in-top-network-conference-and-journal) [System](#fl-in-top-system-conference-and-journal) [Others](#fl-in-top-conference-and-journal-other-fields)
 - [Framework](#framework)
 - [Datasets](#datasets)
 - [Surveys](#surveys)
@@ -40,6 +40,7 @@
 - Database (SIGMOD, ICDE, VLDB)
 - Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW)
 - System (OSDI, SOSP, ISCA, MLSys, TPDS, DAC, TOCS, TOS, TCAD, TC) 
+- Others (ICSE)
 
 
 
@@ -1002,13 +1003,14 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 
 - [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) [2023](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference), [2022](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference)([Page](https://infocom.info/day/3/track/Track%20B#B-7)), [2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom21)), [2020](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom20)), [2019](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 2018
 - [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) [2022](https://www.sigmobile.org/mobicom/2022/accepted.html), [2021](https://www.sigmobile.org/mobicom/2021/accepted.html), [2020](https://www.sigmobile.org/mobicom/2020/accepted.php)
-- [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) NULL
-- [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
+- [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) 2023([Spring](https://www.usenix.org/conference/nsdi23/spring-accepted-papers), [Fall](https://www.usenix.org/conference/nsdi23/fall-accepted-papers))
+- [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2023](https://www2023.thewebconf.org/program/accepted-papers/), [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
 
 <!-- START:fl-in-top-network-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    TL;DR                                        |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ----------------------------------------- | ------------------------------------------------------------ |
+|FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning | HKUST; Clustar | NSDI | 2023 |  | [pub](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue) [slide](https://www.usenix.org/system/files/nsdi23_slides_zhang.pdf) [video](https://www.youtube.com/watch?v=I5V3r-8sY-Y) |
 | To Store or Not? Online Data Selection for Federated Learning with Limited Storage. | SJTU | WWW | 2023 |  | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583426)] [[PDF](https://arxiv.org/abs/2209.00195)] |
 | pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning. | PolyU | WWW | 2023 |  | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583518)] |
 | Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding. | ZJU; HIC-ZJU | WWW | 2023 |  | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583450)] [[PDF](https://arxiv.org/abs/2304.02932)] |
@@ -1202,6 +1204,20 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | Towards Federated Learning at Scale: System Design | Google | MLSys | 2019 | System_Design[^System_Design] | [[PUB](https://proceedings.mlsys.org/paper/2019/hash/bd686fd640be98efaae0091fa301e613-Abstract.html)] [[PDF](https://arxiv.org/abs/1902.01046)] [[解读](https://zhuanlan.zhihu.com/p/450993635)] |
 
 <!-- END:fl-in-top-system-conference-and-journal -->
+
+## fl in top conference and journal other fields
+
+In this section, we will summarize Federated Learning papers accepted by top conference and journal in the other fields, including [ICSE](https://dblp.org/db/conf/icse/index.html)(International Conference on Software Engineering).
+
+- [ICSE](https://dblp.org/search?q=federated%20venue%3AICSE%3A) 2023
+
+<!-- START:fl-in-top-conference-and-journal-other-fields -->
+
+| Title | Affiliation | Venue | Year | TL;DR | Materials |
+| ----- | ----------- | ----- | ---- | ----- | --------- |
+|       |             |       |      |       |           |
+
+<!-- END:fl-in-top-conference-and-journal-other-fields -->
 
 # framework
 
