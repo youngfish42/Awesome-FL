@@ -8562,6 +8562,16 @@ fl-in-top-network-conference-and-journal:
     tldr: 41
     materials: 60
   body:
+  - title: 'FLASH: Towards a High-performance Hardware Acceleration Architecture for
+      Cross-silo Federated Learning'
+    affiliation: HKUST; Clustar
+    venue: NSDI
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue
+      SLIDE: https://www.usenix.org/system/files/nsdi23_slides_zhang.pdf
+      VIDEO: https://www.youtube.com/watch?v=I5V3r-8sY-Y
   - title: To Store or Not? Online Data Selection for Federated Learning with Limited
       Storage.
     affiliation: SJTU
