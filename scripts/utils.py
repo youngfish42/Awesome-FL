@@ -186,8 +186,14 @@ def yaml_to_mdtable(yaml_data: dict, md_ref: str):
     )
 
     for line in table_body:
+        # remove tldr
+        if "tldr" in line:
+            line.pop("tldr")
+
         for key in table_header.keys():
             if key == "tldr":
+                continue
+
                 # special handle for tldr
                 # split by first ":"
                 abbr = get_substr_before(line[key], ":").strip()
