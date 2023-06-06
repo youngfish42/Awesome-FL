@@ -30,6 +30,15 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 60
     materials: 60
   body:
+  - title: 'Federated Visualization: A Privacy-Preserving Strategy for Aggregated
+      Visual Query.'
+    affiliation: ZJU
+    venue: 'IEEE Trans. Vis. Comput. Graph. :mortar_board:'
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10083324
+      PDF: https://arxiv.org/abs/2007.15227
   - title: Personalized Subgraph Federated Learning
     affiliation: KAIST
     venue: 'ICML :mortar_board:'
@@ -111,6 +120,30 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PDF: https://arxiv.org/abs/2211.13975
       CODE: https://github.com/wwzzz/fedgs
+  - title: An Information Theoretic Perspective for Heterogeneous Subgraph Federated
+      Learning.
+    affiliation: PKU
+    venue: DASFAA
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-30637-2_50
+  - title: 'GraphCS: Graph-based client selection for heterogeneity in federated learning'
+    affiliation: NUDT
+    venue: J. Parallel Distributed Comput.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.sciencedirect.com/science/article/abs/pii/S0743731523000394?via%3Dihub
+  - title: 'Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain
+      Approach'
+    affiliation: BUPT
+    venue: IEEE Trans. Neural Networks Learn. Syst.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9524833
+      PDF: https://arxiv.org/abs/2104.13092
   - title: Short-Term Traffic Flow Prediction Based on Graph Convolutional Networks
       and Federated Learning
     affiliation: ZUEL
@@ -134,6 +167,38 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'FL-GMT: TBC'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9873989
+  - title: 'Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical
+      Federated Learning'
+    affiliation: ZJUT
+    venue: IEEE Trans. Comput. Soc. Syst.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9745270
+      PDF: https://arxiv.org/abs/2110.06468
+      CODE: https://github.com/hgh0545/graph-fraudster
+  - title: 'ESA-FedGNN: Efficient secure aggregation for federated graph neural networks.'
+    affiliation: ''
+    venue: Peer Peer Netw. Appl.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s12083-023-01472-2
+  - title: 'FedCKE: Cross-Domain Knowledge Graph Embedding in Federated Learning'
+    affiliation: SWJTU
+    venue: IEEE Trans. Big Data
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9887815
+  - title: 'Asynchronous federated learning with directed acyclic graph-based blockchain
+      in edge computing: Overview, design, and challenges.'
+    affiliation: ''
+    venue: Expert Syst. Appl.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.sciencedirect.com/science/article/abs/pii/S0957417423003974?via%3Dihub
   - title: 'FedGR: Federated Graph Neural Network for Recommendation System'
     affiliation: CUPT
     venue: Axioms
@@ -141,6 +206,22 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: ''
     materials:
       PUB: https://www.mdpi.com/2075-1680/12/2/170
+  - title: 'S-Glint: Secure Federated Graph Learning With Traffic Throttling and Flow
+      Scheduling.'
+    affiliation: ''
+    venue: IEEE Trans. Green Commun. Netw.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9810521
+  - title: 'FedAGCN: A traffic flow prediction framework based on federated learning
+      and Asynchronous Graph Convolutional Network'
+    affiliation: ''
+    venue: Appl. Soft Comput.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.sciencedirect.com/science/article/abs/pii/S156849462300193X?via%3Dihub
   - title: 'GDFed: Dynamic Federated Learning for Heterogenous Device Using Graph
       Neural Network'
     affiliation: KHU
@@ -158,6 +239,14 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9932020
+  - title: 'FedRule: Federated Rule Recommendation System with Graph Neural Networks'
+    affiliation: CMU
+    venue: IoTDI
+    year: '2023'
+    tldr: 'FedRule: TBC'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3576842.3582328
+      PDF: https://arxiv.org/abs/2211.06812
   - title: 'FedWalk: Communication Efficient Federated Unsupervised Node Embedding
       with Differential Privacy'
     affiliation: SJTU
@@ -495,6 +584,13 @@ fl-on-graph-data-and-graph-neural-network:
       Aware检测方法，以提高检测性能。具体来说，DA-MRG利用用户的特征和关系构建多关系图，通过图嵌入获得用户表示，并通过领域感知分类器区分机器人和人类。同时，考虑到不同社交网络中机器人行为之间的相似性，我们认为在它们之间共享数据可以提高检测性能。然而，用户的数据隐私需要严格保护。为了克服这个问题，我们实现了一个面向DA-MRG的联邦学习框架研究，以实现不同社交网络之间的数据共享，同时保护数据隐私。'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9892366
+  - title: A Federated Multi-Server Knowledge Graph Embedding Framework For Link Prediction.
+    affiliation: ''
+    venue: ICTAI
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10097981
   - title: A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via
       Differential Privacy
     affiliation: Ping An Technology
@@ -1202,6 +1298,29 @@ fl-on-graph-data-and-graph-neural-network:
       算法，用于以分散的方式解决大规模 sSVM 问题。'
     materials:
       PUB: https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub
+  - title: 'FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks.'
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2305.09729
+      CODE: https://github.com/cynricfu/FedHGN
+  - title: Graph-guided Personalization for Federated Recommendation.
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2305.07866
+  - title: 'GraphGANFed: A Federated Generative Framework for Graph-Structured Molecules
+      Towards Efficient Drug Discovery.'
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2304.05498
   - title: 'GLASU: A Communication-Efficient Algorithm for Federated Learning with
       Vertically Distributed Graph Data'
     affiliation: ''
@@ -1262,13 +1381,6 @@ fl-on-graph-data-and-graph-neural-network:
       Learning)的图联邦学习(Graph Federation Learning，GFL)问题，然后提出共享隐藏表示代替邻居的原始数据以保护数据隐私作为解决方案。为了克服GFL中的有偏梯度问题，我们给出了非凸目标下的梯度估计方法及其收敛性分析。'
     materials:
       PDF: https://arxiv.org/abs/2212.12158
-  - title: 'FedRule: Federated Rule Recommendation System with Graph Neural Networks'
-    affiliation: CMU
-    venue: preprint
-    year: '2022'
-    tldr: 'FedRule: TBC'
-    materials:
-      PDF: https://arxiv.org/abs/2211.06812
   - title: M3FGM:a node masking and multi-granularity message passing-based federated
       graph model for spatial-temporal data prediction
     affiliation: Xidian University
@@ -1390,15 +1502,6 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PDF: https://arxiv.org/abs/2111.06750
       CODE: https://github.com/jw9msjwjnpdrlfw/tsfl
-  - title: 'Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical
-      Federated Learning'
-    affiliation: ''
-    venue: preprint
-    year: '2021'
-    tldr: ''
-    materials:
-      PDF: https://arxiv.org/abs/2110.06468
-      CODE: https://github.com/hgh0545/graph-fraudster
   - title: 'PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training
       Method'
     affiliation: ''
@@ -1451,14 +1554,6 @@ fl-on-graph-data-and-graph-neural-network:
     tldr: 'FL-AGCNS: TBC'
     materials:
       PDF: https://arxiv.org/abs/2104.04141
-  - title: 'Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain
-      Approach'
-    affiliation: ''
-    venue: preprint
-    year: '2021'
-    tldr: ''
-    materials:
-      PDF: https://arxiv.org/abs/2104.13092
   - title: A New Look and Convergence Rate of Federated Multi-Task Learning with Laplacian
       Regularization
     affiliation: ''
@@ -1567,6 +1662,30 @@ fl-on-tabular-data:
     tldr: ''
     materials:
       PUB: https://ieeexplore.ieee.org/document/9743613
+  - title: Driver Drowsiness EEG Detection Based on Tree Federated Learning and Interpretable
+      Network.
+    affiliation: ''
+    venue: Int. J. Neural Syst.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.worldscientific.com/doi/10.1142/S0129065723500090
+  - title: 'FDPBoost: Federated differential privacy gradient boosting decision trees.'
+    affiliation: ''
+    venue: J. Inf. Secur. Appl.
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://www.sciencedirect.com/science/article/abs/pii/S2214212623000522?via%3Dihub
+  - title: Gradient-less Federated Gradient Boosting Trees with Learnable Learning
+      Rates.
+    affiliation: ''
+    venue: EuroMLSys
+    year: '2023'
+    tldr: ''
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3578356.3592579
+      PDF: https://arxiv.org/abs/2304.07537
   - title: 'HT-Fed-GAN: Federated Generative Model for Decentralized Tabular Data
       Synthesis'
     affiliation: HIT
@@ -1672,6 +1791,13 @@ fl-on-tabular-data:
     materials:
       PUB: https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214
       CODE: https://featurecloud.ai/
+  - title: 'FLForest: Byzantine-robust Federated Learning through Isolated Forest'
+    affiliation: NUAA
+    venue: ICPADS
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10077947
   - title: 'Boosting the Federation: Cross-Silo Federated Learning without Gradient
       Descent.'
     affiliation: unito
@@ -1700,6 +1826,13 @@ fl-on-tabular-data:
     materials:
       PUB: https://ieeexplore.ieee.org/document/9088965
       PDF: https://arxiv.org/abs/1905.10053
+  - title: Sliding Focal Loss for Class Imbalance Classification in Federated XGBoost.
+    affiliation: Swinburne University of Technology
+    venue: ISPA/BDCloud/SocialCom/SustainCom
+    year: '2022'
+    tldr: ''
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10070688
   - title: 'Neural gradient boosting in federated learning for hemodynamic instability  prediction:
       towards a distributed and scalable deep learning-based  solution.'
     affiliation: ''
@@ -2071,6 +2204,22 @@ fl-on-tabular-data:
       can be computed which some/several federated learning algorithms utilize. 深度神经决策森林（DNDF），将分治策略与属性表示学习结合起来。通过对森林预测节点的概率分布进行参数化，并将森林中的所有树木纳入损失函数中，可以计算出整个森林的梯度，一些/一些联邦学习算法利用了这一梯度。'
     materials:
       PUB: https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58
+  - title: 'Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient
+      Boosted Decision Tables.'
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2305.12652
+  - title: V2X-Boosted Federated Learning for Cooperative Intelligent Transportation
+      Systems with Contextual Client Selection.
+    affiliation: ''
+    venue: preprint
+    year: '2023'
+    tldr: ''
+    materials:
+      PDF: https://arxiv.org/abs/2305.11654
   - title: 'GTV: Generating Tabular Data via Vertical Federated Learning'
     affiliation: ''
     venue: preprint
