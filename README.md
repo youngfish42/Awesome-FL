@@ -62,6 +62,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 |Title                                                           |    Affiliation          |    Venue                     |    Year    |    TL;DR                                                  |    Materials|
 | ------------------------------------------------------------ | ---------------------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Federated Visualization: A Privacy-Preserving Strategy for Aggregated Visual Query. | ZJU | IEEE Trans. Vis. Comput. Graph. :mortar_board: | 2023 |  | [pub](https://ieeexplore.ieee.org/document/10083324) [pdf](https://arxiv.org/abs/2007.15227) |
 | Personalized Subgraph Federated Learning | KAIST | ICML :mortar_board: | 2023 | FED-PUB[^FED-PUB] | [[PDF](https://arxiv.org/abs/2206.10206)] |
 | Semi-decentralized Federated Ego Graph Learning for Recommendation | SUST | WWW:mortar_board: | 2023 |  | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583337)] [[PDF](https://arxiv.org/abs/2302.10900)] |
 | Federated Graph Neural Network for Fast Anomaly Detection in Controller Area Networks | ECUST | IEEE Trans. Inf. Forensics Secur. :mortar_board: | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10026810)] |
@@ -69,12 +70,22 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in Horizontal Federated Learning | Nankai University | IEEE Trans. Vis. Comput. Graph. :mortar_board: | 2023 | HetVis[^HetVis] | [[PUB](https://ieeexplore.ieee.org/document/9912364)] [[PDF](https://arxiv.org/abs/2208.07491)] |
 | Federated Learning on Non-IID Graphs via Structural Knowledge Sharing | UTS | AAAI :mortar_board: | 2023 | FedStar[^FedStar] | [[PDF](https://arxiv.org/abs/2211.13009)] [[CODE](https://github.com/yuetan031/fedstar)] |
 | FedGS: Federated Graph-based Sampling with Arbitrary Client Availability | XMU | AAAI :mortar_board: | 2023 | FedGS[^FedGS] | [[PDF](https://arxiv.org/abs/2211.13975)] [[CODE](https://github.com/wwzzz/fedgs)] |
+| An Information Theoretic Perspective for Heterogeneous Subgraph Federated Learning. | PKU | DASFAA | 2023 |  | [pub](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_50) |
+| GraphCS: Graph-based client selection for heterogeneity in federated learning | NUDT | J. Parallel Distributed Comput. | 2023 |  | [pub](https://www.sciencedirect.com/science/article/abs/pii/S0743731523000394?via%3Dihub) |
+| Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain Approach | BUPT | IEEE Trans. Neural Networks Learn. Syst. | 2023 | |[pub](https://ieeexplore.ieee.org/document/9524833) [[PDF](https://arxiv.org/abs/2104.13092)] |
 | Short-Term Traffic Flow Prediction Based on Graph Convolutional Networks and Federated Learning | ZUEL | IEEE Trans. Intell. Transp. Syst. | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/9794333)] |
 | Hyper-Graph Attention Based Federated Learning Methods for Use in Mental Health Detection. | HVL | IEEE J. Biomed. Health Informatics | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/9767700)] |
 | Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural |  | IEEE Trans. Ind. Informatics | 2023 | FL-GMT[^FL-GMT] | [[PUB](https://ieeexplore.ieee.org/document/9873989)] |
+| Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical Federated Learning | ZJUT | IEEE Trans. Comput. Soc. Syst. | 2023 |  |[[PUB](https://ieeexplore.ieee.org/document/9745270)] [[PDF](https://arxiv.org/abs/2110.06468)] [[CODE](https://github.com/hgh0545/graph-fraudster)] |
+| ESA-FedGNN: Efficient secure aggregation for federated graph neural networks. |  | Peer Peer Netw. Appl. | 2023 | |[pub](https://link.springer.com/article/10.1007/s12083-023-01472-2) |
+| FedCKE: Cross-Domain Knowledge Graph Embedding in Federated Learning | SWJTU | IEEE Trans. Big Data | 2023 | |[pub](https://ieeexplore.ieee.org/document/9887815) |
+| Asynchronous federated learning with directed acyclic graph-based blockchain in edge computing: Overview, design, and challenges. |  | Expert Syst. Appl. | 2023 | |[pub](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003974?via%3Dihub) |
 | FedGR: Federated Graph Neural Network for Recommendation System | CUPT | Axioms | 2023 |  | [[PUB](https://www.mdpi.com/2075-1680/12/2/170)] |
+| S-Glint: Secure Federated Graph Learning With Traffic Throttling and Flow Scheduling. |  | IEEE Trans. Green Commun. Netw. | 2023 | | [pub](https://ieeexplore.ieee.org/document/9810521) |
+| FedAGCN: A traffic flow prediction framework based on federated learning and Asynchronous Graph Convolutional Network |  | Appl. Soft Comput. | 2023 | | [pub](https://www.sciencedirect.com/science/article/abs/pii/S156849462300193X?via%3Dihub) |
 | GDFed: Dynamic Federated Learning for Heterogenous Device Using Graph Neural Network | KHU | ICOIN | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10048926)] [[CODE](https://github.com/IntelligentNetworkingLAB/Graph-Neural-Network-based-Federated-Learning-for-Heterogenous-Device-Network)] |
 | Coordinated Scheduling and Decentralized Federated Learning Using Conflict Clustering Graphs in Fog-Assisted IoD Networks | UBC | IEEE Trans. Veh. Technol. | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/9932020)] |
+| FedRule: Federated Rule Recommendation System with Graph Neural Networks | CMU | IoTDI | 2023 | FedRule[^FedRule] | [pub](https://dl.acm.org/doi/10.1145/3576842.3582328) [[PDF](https://arxiv.org/abs/2211.06812)] |
 | FedWalk: Communication Efficient Federated Unsupervised Node Embedding with Differential Privacy | SJTU | KDD :mortar_board: | 2022 | FedWalk[^FedWalk] | [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539308)] [[PDF](https://arxiv.org/abs/2205.15896)] |
 | FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Platform for Federated Graph Learning :fire: | Alibaba | KDD (Best Paper Award) :mortar_board: | 2022 | FederatedScope-GNN[^FederatedScope-GNN] | [[PDF](https://arxiv.org/abs/2204.05562)] [[CODE](https://github.com/alibaba/FederatedScope)] [[PUB](https://dl.acm.org/doi/10.1145/3534678.3539112)] |
 | Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning | SJTU | ICML :mortar_board: | 2022 | GAMF[^GAMF] | [[PUB](https://proceedings.mlr.press/v162/liu22k/liu22k.pdf)] [[CODE](https://github.com/Thinklab-SJTU/GAMF)] |
@@ -100,6 +111,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Federated Graph Learning with Periodic Neighbour Sampling | HKU | IWQoS | 2022 | PNS-FGL[^PNS-FGL] | [[PUB](https://ieeexplore.ieee.org/document/9812908)] |
 | FedGSL: Federated Graph Structure Learning for Local Subgraph Augmentation. |  | Big Data | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/10020771/)] |
 | Domain-Aware Federated Social Bot Detection with Multi-Relational Graph Neural Networks. | UCAS; CAS | IJCNN | 2022 | DA-MRG[^DA-MRG] | [[PUB](https://ieeexplore.ieee.org/document/9892366)] |
+| A Federated Multi-Server Knowledge Graph Embedding Framework For Link Prediction. |  | ICTAI | 2022 |  | [pub](https://ieeexplore.ieee.org/document/10097981) |
 | A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy | Ping An Technology | KSEM | 2022 | DP-FedRec[^DP-FedRec] | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_14)] [[PDF](https://arxiv.org/abs/2206.03492)] |
 | Clustered Graph Federated Personalized Learning. | NTNU | IEEECONF | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/10051979)] |
 | FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks | CMU | CIKM Workshop (Oral) | 2022 | FedGCN[^FedGCN] | [[PDF](https://arxiv.org/abs/2201.12433)] [[CODE](https://github.com/yh-yao/FedGCN)] |
@@ -148,6 +160,9 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | SGNN: A Graph Neural Network Based Federated Learning Approach by Hiding Structure | SDU | BigData | 2019 | SGNN[^SGNN] | [[PUB](https://ieeexplore.ieee.org/document/9005983)] [[PDF](https://www.researchgate.net/profile/Shijun_Liu3/publication/339482514_SGNN_A_Graph_Neural_Network_Based_Federated_Learning_Approach_by_Hiding_Structure/links/5f48365d458515a88b790595/SGNN-A-Graph-Neural-Network-Based-Federated-Learning-Approach-by-Hiding-Structure.pdf)] |
 | Towards Federated Graph Learning for Collaborative Financial Crimes Detection | IBM | NeurIPS Workshop | 2019 | FGL-DFC[^FGL-DFC] | [[PDF](https://arxiv.org/abs/1909.12946)] |
 | Federated learning of predictive models from federated Electronic Health Records :star: | BU | Int. J. Medical Informatics | 2018 | cPDS[^cPDS] | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S138650561830008X?via%3Dihub)] |
+| FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks. |  | preprint | 2023 |  | [pdf](https://arxiv.org/abs/2305.09729) [code](https://github.com/cynricfu/FedHGN) |
+| Graph-guided Personalization for Federated Recommendation. |  | preprint | 2023 |  | [pdf](https://arxiv.org/abs/2305.07866) |
+| GraphGANFed: A Federated Generative Framework for Graph-Structured Molecules Towards Efficient Drug Discovery. |  | preprint | 2023 |  | [pdf](https://arxiv.org/abs/2304.05498) |
 | GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2303.09531)] |
 | Vertical Federated Graph Neural Network for Recommender System |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2303.05786)] [[CODE](https://github.com/maiph123/verticalgnn)] |
 | Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2303.00492)] |
@@ -155,7 +170,6 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning. |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2302.02069)] |
 | Uplink Scheduling in Federated Learning: an Importance-Aware Approach via Graph Representation Learning |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2301.11903)] |
 | Graph Federated Learning with Hidden Representation Sharing | UCLA | preprint | 2022 | GFL-APPNP[^GFL-APPNP] | [[PDF](https://arxiv.org/abs/2212.12158)] |
-| FedRule: Federated Rule Recommendation System with Graph Neural Networks | CMU | preprint | 2022 | FedRule[^FedRule] | [[PDF](https://arxiv.org/abs/2211.06812)] |
 | M3FGM:a node masking and multi-granularity message passing-based federated graph model for spatial-temporal data prediction | Xidian University | preprint | 2022 | M3FGM[^M3FGM] | [[PDF](https://arxiv.org/abs/2210.16193)] |
 | Federated Graph-based Networks with Shared Embedding | BUCEA | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2210.01803)] |
 | Privacy-preserving Decentralized Federated Learning over Time-varying Communication Graph | Lancaster University | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2210.00325)] |
@@ -171,7 +185,6 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Decentralized event-triggered federated learning with heterogeneous communication thresholds. |  | preprint | 2022 | EF-HC[^EF-HC] | [[PDF](https://github.com/ShahryarBQ/EF_HC)] |
 | Federated Learning with Heterogeneous Architectures using Graph HyperNetworks |  | preprint | 2022 |  | [[PDF](https://arxiv.org/abs/2201.08459)] |
 | STFL: A Temporal-Spatial Federated Learning Framework for Graph Neural Networks |  | preprint | 2021 |  | [[PDF](https://arxiv.org/abs/2111.06750)] [[CODE](https://github.com/jw9msjwjnpdrlfw/tsfl)] |
-| Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical Federated Learning |  | preprint | 2021 |  | [[PDF](https://arxiv.org/abs/2110.06468)] [[CODE](https://github.com/hgh0545/graph-fraudster)] |
 | PPSGCN: A Privacy-Preserving Subgraph Sampling Based Distributed GCN Training Method |  | preprint | 2021 | PPSGCN[^PPSGCN] | [[PDF](https://arxiv.org/abs/2110.12906)] |
 | Leveraging a Federation of Knowledge Graphs to Improve Faceted Search in Digital Libraries **`kg.`** |  | preprint | 2021 |  | [[PDF](https://arxiv.org/abs/2107.05447)] |
 | Federated Myopic Community Detection with One-shot Communication |  | preprint | 2021 |  | [[PDF](https://arxiv.org/abs/2106.07255)] |
@@ -179,7 +192,6 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | A Vertical Federated Learning Framework for Graph Convolutional Network |  | preprint | 2021 | FedVGCN[^FedVGCN] | [[PDF](https://arxiv.org/abs/2106.11593)] |
 | FedGL: Federated Graph Learning Framework with Global Self-Supervision |  | preprint | 2021 | FedGL[^FedGL] | [[PDF](https://arxiv.org/abs/2105.03170)] |
 | FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search |  | preprint | 2021 | FL-AGCNS[^FL-AGCNS] | [[PDF](https://arxiv.org/abs/2104.04141)] |
-| Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain Approach |  | preprint | 2021 |  | [[PDF](https://arxiv.org/abs/2104.13092)] |
 | A New Look and Convergence Rate of Federated Multi-Task Learning with Laplacian Regularization |  | preprint | 2021 | dFedU[^dFedU] | [[PDF](https://arxiv.org/abs/2102.07148)] [[CODE](https://github.com/dual-grp/fedu_fmtl)] |
 | Improving Federated Relational Data Modeling via Basis Alignment and Weight Penalty **`kg.`** |  | preprint | 2020 | FedAlign-KG[^FedAlign-KG] | [[PDF](https://arxiv.org/abs/2011.11369)] |
 | GraphFederator: Federated Visual Analysis for Multi-party Graphs |  | preprint | 2020 |  | [[PDF](https://arxiv.org/abs/2008.11989)] |
@@ -217,6 +229,9 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Incentive-boosted Federated Crowdsourcing | SDU | AAAI :mortar_board: | 2023 | iFedCrowd[^iFedCrowd] | [[PDF](https://arxiv.org/abs/2211.14439)] |
 | Explaining predictions and attacks in federated learning via random forests | Universitat Rovira i Virgili | Appl. Intell. | 2023 |  | [[PUB](https://link.springer.com/article/10.1007/s10489-022-03435-1)] [[CODE](https://github.com/RamiHaf/Explainable-Federated-Learning-via-Random-Forests)] |
 | Boosting Accuracy of Differentially Private Federated Learning in Industrial IoT With Sparse Responses |  | IEEE Trans. Ind. Informatics | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/9743613)] |
+| Driver Drowsiness EEG Detection Based on Tree Federated Learning and Interpretable Network. | | Int. J. Neural Syst. | 2023 | | [pub](https://www.worldscientific.com/doi/10.1142/S0129065723500090) |
+| FDPBoost: Federated differential privacy gradient boosting decision trees. | | J. Inf. Secur. Appl. | 2023 | | [pub](https://www.sciencedirect.com/science/article/abs/pii/S2214212623000522?via%3Dihub) |
+| Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates. | | EuroMLSys | 2023 | | [pub](https://dl.acm.org/doi/10.1145/3578356.3592579) [pdf](https://arxiv.org/abs/2304.07537) |
 | HT-Fed-GAN: Federated Generative Model for Decentralized Tabular Data Synthesis | HIT | Entropy | 2023 |  | [[PUB](https://www.mdpi.com/1099-4300/25/1/88)] |
 | Blockchain-Based Swarm Learning for the Mitigation of Gradient Leakage in Federated Learning | University of Udine | IEEE Access | 2023 |  | [[PUB](https://ieeexplore.ieee.org/document/10047894)] |
 | OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization | ZJU | Proc. VLDB Endow. :mortar_board: | 2022 | OpBoost[^OpBoost] | [[PUB](https://www.vldb.org/pvldb/volumes/16/paper/OpBoost%3A%20A%20Vertical%20Federated%20Tree%20Boosting%20Framework%20Based%20on%20Order-Preserving%20Desensitization)] [[PDF](https://arxiv.org/abs/2210.01318)] [[CODE](https://github.com/alibaba-edu/mpc4j/tree/main/mpc4j-sml-opboost)] |
@@ -228,8 +243,10 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Federated Learning for Tabular Data using TabNet: A Vehicular Use-Case |  | ICCP | 2022 |  | [[PUB](https://ieeexplore.ieee.org/document/10053975)] |
 | Federated Learning for Tabular Data: Exploring Potential Risk to Privacy | Newcastle University | ISSRE | 2022 |  | [[PDF](https://arxiv.org/abs/2210.06856)] |
 | Federated Random Forests can improve local performance of predictive models for various healthcare applications | University of Marburg | Bioinform. | 2022 | FRF[^FRF] | [[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214)] [[CODE](https://featurecloud.ai/)] |
+| FLForest: Byzantine-robust Federated Learning through Isolated Forest | NUAA | ICPADS | 2022 |  | [pub](https://ieeexplore.ieee.org/document/10077947) |
 | Boosting the Federation: Cross-Silo Federated Learning without Gradient Descent. | unito | IJCNN | 2022 | federation-boosting[^federation-boosting] | [[PUB](https://ieeexplore.ieee.org/document/9892284)] [[CODE](https://github.com/ml-unito/federation_boosting)] |
 | Federated Forest | JD | TBD | 2022 | FF[^FF] | [[PUB](https://ieeexplore.ieee.org/document/9088965)] [[PDF](https://arxiv.org/abs/1905.10053)] |
+| Sliding Focal Loss for Class Imbalance Classification in Federated XGBoost. | Swinburne University of Technology | ISPA/BDCloud/SocialCom/SustainCom | 2022 |  | [pub](https://ieeexplore.ieee.org/document/10070688) |
 | Neural gradient boosting in federated learning for hemodynamic instability  prediction: towards a distributed and scalable deep learning-based  solution. |  | AMIA | 2022 |  | [[PUB](https://knowledge.amia.org/76677-amia-1.4637602/f006-1.4642154/f006-1.4642155/917-1.4642324/604-1.4642321?qr=1)] |
 | Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring | The University of Sydney | e-Energy | 2022 | Fed-GBM[^Fed-GBM] | [[PUB](https://dl.acm.org/doi/10.1145/3538637.3538840)] |
 | Verifiable Privacy-Preserving Scheme Based on Vertical Federated Random Forest | NUST | IEEE Internet Things J. | 2022 | VPRF[^VPRF] | [[PUB](https://ieeexplore.ieee.org/document/9461157)] |
@@ -261,6 +278,8 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | Straggler Remission for Federated Learning via Decentralized Redundant Cayley Tree | Stevens Institute of Technology | LATINCOM | 2020 | DRC-tree[^DRC-tree] | [[PUB](https://ieeexplore.ieee.org/document/9282334)] |
 | Federated Soft Gradient Boosting Machine for Streaming Data | Sinovation Ventures AI Institute | Federated Learning | 2020 | Fed-sGBM[^Fed-sGBM] | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_7)] [[解读](https://www.leiphone.com/category/academic/4tVdYDuYTA293NCy.html)] |
 | Federated Learning of Deep Neural Decision Forests | Fraunhofer-Chalmers Centre | LOD | 2019 | FL-DNDF[^FL-DNDF] | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58)] |
+| Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables. |  | preprint | 2023 |  | [pdf](https://arxiv.org/abs/2305.12652) |
+| V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection. |  | preprint | 2023 |  | [pdf](https://arxiv.org/abs/2305.11654) |
 | GTV: Generating Tabular Data via Vertical Federated Learning |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2302.01706)] |
 | Federated Survival Forests |  | preprint | 2023 |  | [[PDF](https://arxiv.org/abs/2302.02807)] |
 | Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data | HIT | preprint | 2022 | Fed-TDA[^Fed-TDA] | [[PDF](https://arxiv.org/abs/2211.13116)] |
