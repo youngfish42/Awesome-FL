@@ -6,22 +6,44 @@
 
 **Table of Contents**
 
-- [Papers](#papers)
-  - [FL on Graph Data and Graph Neural Networks](#fl-on-graph-data-and-graph-neural-networks) [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A%2F%2Fdblp.org%2Fsearch%2Fpubl%2Fapi%3Fq%3DFederated%2520graph%257Csubgraph%257Cgnn%26format%3Djson%26h%3D1000)](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) 
-  - [FL on Tabular Data](#fl-on-tabular-data) [![dblp](https://img.shields.io/badge/dynamic/json?label=dblp&query=%24.result.hits[%27%40total%27]&url=https%3A//dblp.org/search/publ/api%3Fq%3Dfederate%2520tree%257Cboost%257Cbagging%257Cgbdt%257Ctabular%257Cforest%257CXGBoost%26format%3Djson%26h%3D1000)](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest%7CXGBoost)
-  - [FL in top-tier journal](#fl-in-top-tier-journal)
-  - FL in top-tier conference and journal by category
-    - [AI](#fl-in-top-ai-conference-and-journal) [ML](#fl-in-top-ml-conference-and-journal) [DM](#fl-in-top-dm-conference-and-journal) [Secure](#fl-in-top-secure-conference-and-journal) [CV](#fl-in-top-cv-conference-and-journal) [NLP](#fl-in-top-nlp-conference-and-journal) [IR](#fl-in-top-ir-conference-and-journal) [DB](#fl-in-top-db-conference-and-journal) [Network](#fl-in-top-network-conference-and-journal) [System](#fl-in-top-system-conference-and-journal) [Others](#fl-in-top-conference-and-journal-other-fields)
-- [Framework](#framework)
-- [Datasets](#datasets)
-- [Surveys](#surveys)
-- [Tutorials and Courses](#tutorials-and-courses)
-- Key Conferences/Workshops/Journals
-  - [Workshops](#workshops) [Special Issues](#journal-special-issues) [Special Tracks](#conference-special-tracks)
-- [Update log](#update-log)
-- [How to contact us](#how-to-contact-us)
-- [Acknowledgments](#acknowledgments)
-- [Citation](#citation)
+- [Federated-Learning-on-Graph-and-Tabular-Data](#federated-learning-on-graph-and-tabular-data)
+- [papers](#papers)
+  - [fl on graph data and graph neural networks](#fl-on-graph-data-and-graph-neural-networks)
+    - [Private Graph Neural Networks (todo)](#private-graph-neural-networks-todo)
+  - [fl on tabular data](#fl-on-tabular-data)
+  - [fl in top-tier journal](#fl-in-top-tier-journal)
+  - [fl in top ai conference and journal](#fl-in-top-ai-conference-and-journal)
+  - [fl in top ml conference and journal](#fl-in-top-ml-conference-and-journal)
+  - [fl in top dm conference and journal](#fl-in-top-dm-conference-and-journal)
+  - [fl in top secure conference and journal](#fl-in-top-secure-conference-and-journal)
+  - [fl in top cv conference and journal](#fl-in-top-cv-conference-and-journal)
+  - [fl in top nlp conference and journal](#fl-in-top-nlp-conference-and-journal)
+  - [fl in top ir conference and journal](#fl-in-top-ir-conference-and-journal)
+  - [fl in top db conference and journal](#fl-in-top-db-conference-and-journal)
+  - [fl in top network conference and journal](#fl-in-top-network-conference-and-journal)
+  - [fl in top system conference and journal](#fl-in-top-system-conference-and-journal)
+  - [fl in top conference and journal other fields](#fl-in-top-conference-and-journal-other-fields)
+- [framework](#framework)
+  - [federated learning framework](#federated-learning-framework)
+    - [table](#table)
+    - [benchmark](#benchmark)
+- [datasets](#datasets)
+  - [graph datasets](#graph-datasets)
+  - [tabular datasets](#tabular-datasets)
+  - [fl datasets](#fl-datasets)
+- [surveys](#surveys)
+- [tutorials and courses](#tutorials-and-courses)
+  - [tutorials](#tutorials)
+  - [course](#course)
+    - [secret sharing](#secret-sharing)
+- [key conferences/workshops/journals](#key-conferencesworkshopsjournals)
+  - [workshops](#workshops)
+  - [journal special issues](#journal-special-issues)
+  - [conference special tracks](#conference-special-tracks)
+  - [update log](#update-log)
+  - [how to contact us](#how-to-contact-us)
+  - [acknowledgments](#acknowledgments)
+  - [citation](#citation)
 
 
 
@@ -58,6 +80,8 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50 | :m
 
 This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine and repositories [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks).
 
+<details>
+<summary>fl on graph data and graph neural networks</summary>
 <!-- START:fl-on-graph-data-and-graph-neural-network -->
 
 |Title                                                           |    Affiliation          |    Venue                     |    Year    |    Materials|
@@ -199,6 +223,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 | Peer-to-peer federated learning on graphs | UC | preprint | 2019 | [[PDF](https://arxiv.org/abs/1901.11173)] [[解读](https://zhuanlan.zhihu.com/p/441944011)] |
 
 <!-- END:fl-on-graph-data-and-graph-neural-network -->
+</details>
 
 
 ### Private Graph Neural Networks (todo)
@@ -208,11 +233,15 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 - [Arxiv 2021] Towards Representation Identical Privacy-Preserving Graph Neural Network via Split Learning. [[PDF]](https://arxiv.org/abs/2107.05917)
 - [Arxiv 2020] Locally Private Graph Neural Networks. [[PDF]](https://arxiv.org/abs/2006.05535)
 
+
+<details>
+<summary>Private Graph Neural Networks (todo)</summary>
 <!-- START:private-graph-neural-networks -->
 
 
 
 <!-- END:private-graph-neural-networks -->
+</details>
 
 ## fl on tabular data
 
@@ -220,7 +249,8 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest) search engine.
 
-
+<details>
+<summary>fl on tabular data</summary>
 <!-- START:fl-on-tabular-data -->
 
 |Title                                                           |    Affiliation                          |    Venue                          |    Year    |    Materials|
@@ -305,12 +335,15 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost | CUHK | preprint | 2019 | [[PDF](https://arxiv.org/abs/1907.07157)] [[CODE](https://github.com/Raymw/Federated-XGBoost)] |
 
 <!-- END:fl-on-tabular-data -->
+</details>
 
 
 ## fl in top-tier journal
 
 List of papers in the field of federated learning in Nature(and its sub-journals), Cell, Science(and Science Advances) and PANS refers to [WOS](https://www.webofscience.com/wos/woscc/summary/ed3f4552-5450-4de7-bf2c-55d01e20d5de-4301299e/relevance/1) search engine.
 
+<details>
+<summary>fl in top-tier journal</summary>
 <!-- START:fl-in-top-tier-journal -->
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    Materials|
@@ -334,6 +367,7 @@ List of papers in the field of federated learning in Nature(and its sub-journals
 | Secure, privacy-preserving and federated machine learning in medical imaging :star: |  | Nat. Mach. Intell.(Perspective) | 2020 | [[PUB](https://www.nature.com/articles/s42256-020-0186-1)] |
 
 <!-- END:fl-in-top-tier-journal -->
+</details>
 
 
 
@@ -346,6 +380,8 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
 - [AI](https://dblp.uni-trier.de/search?q=federate%20venue%3AArtif%20Intell%3A) NULL
 
+<details>
+<summary>fl in top ai conference and journal</summary>
 <!-- START:fl-in-top-ai-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                     |    Venue      |    Year    |    Materials|
@@ -439,6 +475,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 | Multi-Agent Visualization for Explaining Federated Learning | WeBank | IJCAI | 2019 | [[PUB](https://www.ijcai.org/proceedings/2019/960)] [[VIDEO](https://youtu.be/NPGf_OJrzOg)] |
 
 <!-- END:fl-in-top-ai-conference-and-journal -->
+</details>
 
 
 ## fl in top ml conference and journal
@@ -453,6 +490,8 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 - [JMLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AJ%20Mach%20Learn%20Res%3A) 2021
 - [TPAMI](https://dblp.uni-trier.de/search?q=federate%20venue%3ATrans%20Pattern%20Anal%20Mach%20Intell%3A) 2023, 2022
 
+<details>
+<summary>fl in top ml conference and journal</summary>
 <!-- START:fl-in-top-ml-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
@@ -739,6 +778,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 | Federated Multi-Task Learning :fire: | Stanford; USC; CMU | NeurIPS | 2017 | [[PUB](https://papers.nips.cc/paper/2017/hash/6211080fa89981f66b1a0c9d55c61d0f-Abstract.html)] [[PDF](https://arxiv.org/abs/1705.10467)] [[CODE](https://github.com/gingsmith/fmtl)] |
 
 <!-- END:fl-in-top-ml-conference-and-journal -->
+</details>
 
 
 ## fl in top dm conference and journal
@@ -748,6 +788,8 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 - [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) 2022([Research Track](https://kdd.org/kdd2022/paperRT.html), [Applied Data Science track](https://kdd.org/kdd2022/paperADS.html)) , [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
 - [WSDM](https://dblp.uni-trier.de/search?q=federate%20venue%3AWSDM%3A) [2023](https://www.wsdm-conference.org/2023/program/accepted-papers), [2022](https://www.wsdm-conference.org/2022/accepted-papers/), [2021](https://www.wsdm-conference.org/2021/accepted-papers.php), [2019](https://www.wsdm-conference.org/2019/accepted-papers.php)
 
+<details>
+<summary>fl in top dm conference and journal</summary>
 <!-- START:fl-in-top-dm-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                   |    Venue                     |    Year    |    Materials|
@@ -779,6 +821,7 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 | Federated Online Learning to Rank with Evolution Strategies | Facebook AI Research | WSDM | 2019 | [[PUB](https://dl.acm.org/doi/10.1145/3289600.3290968)] [[CODE](http://github.com/facebookresearch/foltr-es)] |
 
 <!-- END:fl-in-top-dm-conference-and-journal -->
+</details>
 
 ## fl in top secure conference and journal
 
@@ -789,6 +832,8 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 - [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A) [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [2020](https://www.usenix.org/conference/usenixsecurity20/technical-sessions)
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) [2023](https://www.ndss-symposium.org/ndss2023/accepted-papers/), [2022](https://www.ndss-symposium.org/ndss2022/accepted-papers/), [2021](https://www.ndss-symposium.org/ndss2021/accepted-papers/)
 
+<details>
+<summary>fl in top secure conference and journal</summary>
 <!-- START:fl-in-top-secure-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
@@ -821,6 +866,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 | Practical Secure Aggregation for Privacy Preserving Machine Learning | Google | CCS | 2017 | [[PUB](https://dl.acm.org/doi/10.1145/3133956.3133982)] [[PDF](https://eprint.iacr.org/2017/281)] [[解读](https://zhuanlan.zhihu.com/p/445656765)] [[UC.](https://github.com/Chen-Junbao/SecureAggregation)] [[UC](https://github.com/corentingiraud/federated-learning-secure-aggregation)] |
 
 <!-- END:fl-in-top-secure-conference-and-journal -->
+</details>
 
 
 ## fl in top cv conference and journal
@@ -833,6 +879,8 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 - [MM](https://dblp.uni-trier.de/search?q=federate%20venue%3AACM%20Multimedia%3A) [2022](https://dblp.uni-trier.de/db/conf/mm/mm2022.html), [2021](https://2021.acmmm.org/main-track-list), [2020](https://2020.acmmm.org/main-track-list.html)
 - [IJCV](https://dblp.uni-trier.de/search?q=federate%20venue%3AInt%20J%20Comput%20Vis%3A) NULL
 
+<details>
+<summary>fl in top cv conference and journal</summary>
 <!-- START:fl-in-top-cv-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
@@ -904,6 +952,7 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 | Performance Optimization of Federated Person Re-identification via Benchmark Analysis **`data.`** | NTU | MM | 2020 | [[PUB](https://dl.acm.org/doi/10.1145/3394171.3413814)] [[PDF](https://arxiv.org/abs/2008.11560)] [[CODE](https://github.com/cap-ntu/FedReID)] [[解读](https://zhuanlan.zhihu.com/p/265987079)] |
 
 <!-- END:fl-in-top-cv-conference-and-journal -->
+</details>
 
 
 ## fl in top nlp conference and journal
@@ -915,6 +964,8 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 - [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2022](https://aclanthology.org/events/emnlp-2022/), [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
 - [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2020](https://aclanthology.org/events/coling-2020/)
 
+<details>
+<summary>fl in top nlp conference and journal</summary>
 <!-- START:fl-in-top-nlp-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                          |    Venue             |    Year    |    Materials|
@@ -949,6 +1000,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 | Two-stage Federated Phenotyping and Patient Representation Learning | Boston Children’s Hospital Harvard Medical School | ACL workshop | 2019 | [[PUB](https://aclanthology.org/W19-5030)] [[PDF](https://arxiv.org/abs/1908.05596)] [[CODE](https://github.com/kaiyuanmifen/FederatedNLP)] [[UC.](https://github.com/MarcioPorto/federated-phenotyping)] |
 
 <!-- END:fl-in-top-nlp-conference-and-journal -->
+</details>
 
 ## fl in top ir conference and journal
 
@@ -956,6 +1008,8 @@ In this section, we will summarize Federated Learning papers accepted by top Inf
 
 - [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) [2022](https://dl.acm.org/doi/proceedings/10.1145/3477495), [2021](https://dl.acm.org/doi/proceedings/10.1145/3404835), [2020](https://dl.acm.org/doi/proceedings/10.1145/3397271)
 
+<details>
+<summary>fl in top ir conference and journal</summary>
 <!-- START:fl-in-top-ir-conference-and-journal -->
 
 |Title                                                           |    Affiliation                        |    Venue    |    Year    |    Materials|
@@ -967,6 +1021,7 @@ In this section, we will summarize Federated Learning papers accepted by top Inf
 | Meta Matrix Factorization for Federated Rating Predictions. | SDU | SIGIR | 2020 | [[PUB](https://dl.acm.org/doi/10.1145/3397271.3401081)] [[PDF](https://arxiv.org/abs/1910.10086)] |
 
 <!-- END:fl-in-top-ir-conference-and-journal -->
+</details>
 
 ## fl in top db conference and journal
 
@@ -976,6 +1031,8 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) [2022](https://icde2022.ieeecomputer.my/accepted-research-track/), [2021](https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding)
 - [VLDB](https://dblp.org/search?q=federate%20venue%3AProc%20VLDB%20Endow%3A) 2023, [2022](https://vldb.org/pvldb/vol16-volume-info/), [2021](https://vldb.org/pvldb/vol15-volume-info/), [2021](http://www.vldb.org/pvldb/vol14/), [2020](http://vldb.org/pvldb/vol13-volume-info/)
 
+<details>
+<summary>fl in top db conference and journal</summary>
 <!-- START:fl-in-top-db-conference-and-journal -->
 
 |Title                                                        | Affiliation                     | Venue           | Year | Materials|
@@ -1012,6 +1069,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | Privacy Preserving Vertical Federated Learning for Tree-based Models | NUS | VLDB | 2020 | [[PUB](http://vldb.org/pvldb/vol13/p2090-wu.pdf)] [[PDF](https://arxiv.org/abs/2008.06170)] [[VIDEO](https://www.youtube.com/watch?v=sjii8oVCqiY)] [[CODE](https://github.com/nusdbsystem/pivot)] |
 
 <!-- END:fl-in-top-db-conference-and-journal -->
+</details>
 
 ## fl in top network conference and journal
 
@@ -1025,6 +1083,8 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) 2023([Spring](https://www.usenix.org/conference/nsdi23/spring-accepted-papers), [Fall](https://www.usenix.org/conference/nsdi23/fall-accepted-papers))
 - [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2023](https://www2023.thewebconf.org/program/accepted-papers/), [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
 
+<details>
+<summary>fl in top network conference and journal</summary>
 <!-- START:fl-in-top-network-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    Materials|
@@ -1126,6 +1186,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | InPrivate Digging: Enabling Tree-based Distributed Data Mining with Differential Privacy | Collaborative Innovation Center of Geospatial Technology | INFOCOM | 2018 | [[PUB](https://ieeexplore.ieee.org/document/8486352)] |
 
 <!-- END:fl-in-top-network-conference-and-journal -->
+</details>
 
 
 ## fl in top system conference and journal
@@ -1143,6 +1204,8 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [TCAD](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans%20Comput%20Aided%20Des%20Integr%20Circuits%20Syst%3A) 2023, 2022, 2021
 - [TC](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Computers%3A) 2023, 2022, 2021
 
+<details>
+<summary>fl in top system conference and journal</summary>
 <!-- START:fl-in-top-system-conference-and-journal -->
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    Materials|
@@ -1223,6 +1286,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 | Towards Federated Learning at Scale: System Design | Google | MLSys | 2019 | [[PUB](https://proceedings.mlsys.org/paper/2019/hash/bd686fd640be98efaae0091fa301e613-Abstract.html)] [[PDF](https://arxiv.org/abs/1902.01046)] [[解读](https://zhuanlan.zhihu.com/p/450993635)] |
 
 <!-- END:fl-in-top-system-conference-and-journal -->
+</details>
 
 ## fl in top conference and journal other fields
 
@@ -1230,6 +1294,8 @@ In this section, we will summarize Federated Learning papers accepted by top con
 
 - [ICSE](https://dblp.org/search?q=federated%20venue%3AICSE%3A) 2023
 
+<details>
+<summary>fl in top conference and journal other fields</summary>
 <!-- START:fl-in-top-conference-and-journal-other-fields -->
 
 | Title | Affiliation | Venue | Year | TL;DR | Materials |
@@ -1237,6 +1303,7 @@ In this section, we will summarize Federated Learning papers accepted by top con
 |       |             |       |      |       |           |
 
 <!-- END:fl-in-top-conference-and-journal-other-fields -->
+</details>
 
 # framework
 
@@ -1246,6 +1313,8 @@ In this section, we will summarize Federated Learning papers accepted by top con
 
 *Note: **SG** means Support for Graph data and algorithms, **ST** means Support for Tabular data and algorithms.*
 
+<details>
+<summary>federated learning framework</summary>
 <!-- START:federated-learning-framework -->
 
 |Platform                                                        |    Papers                                                          |    Affiliations                                                    |                     SG                     |                     ST                     |    Materials|
@@ -1314,6 +1383,7 @@ In this section, we will summarize Federated Learning papers accepted by top con
 | [OpenHealth](https://github.com/QibingLee/OpenHealth) <br />[![Stars](https://img.shields.io/github/stars/QibingLee/OpenHealth.svg?color=blue)](https://github.com/QibingLee/OpenHealth/stargazers)<br />![](https://img.shields.io/github/last-commit/QibingLee/OpenHealth) |  | ZJU |  |  |  |
 
 <!-- END:federated-learning-framework -->
+</details>
 
 ### benchmark
 
