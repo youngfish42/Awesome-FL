@@ -58,7 +58,7 @@ Statistics: :fire: code is available & stars >= 100 | :star: citation >= 50 | :m
 
 This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Federated%20graph%7Csubgraph%7Cgnn) search engine and repositories [Awesome-Federated-Learning-on-Graph-and-GNN-papers](https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers) and [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning#16-graph-neural-networks).
 
-<details>
+<details open>
 <summary>fl on graph data and graph neural networks</summary>
 
 <!-- START:fl-on-graph-data-and-graph-neural-network -->
@@ -214,7 +214,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 - [Arxiv 2020] Locally Private Graph Neural Networks. [[PDF]](https://arxiv.org/abs/2006.05535)
 
 
-<details>
+<details open>
 <summary>Private Graph Neural Networks (todo)</summary>
 <!-- START:private-graph-neural-networks -->
 
@@ -230,7 +230,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%7Cbagging%7Cgbdt%7Ctabular%7Cforest) search engine.
 
-<details>
+<details open>
 <summary>fl on tabular data</summary>
 
 <!-- START:fl-on-tabular-data -->
@@ -325,7 +325,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 
 List of papers in the field of federated learning in Nature(and its sub-journals), Cell, Science(and Science Advances) and PANS refers to [WOS](https://www.webofscience.com/wos/woscc/summary/ed3f4552-5450-4de7-bf2c-55d01e20d5de-4301299e/relevance/1) search engine.
 
-<details>
+<details open>
 <summary>fl in top-tier journal</summary>
 
 <!-- START:fl-in-top-tier-journal -->
@@ -365,7 +365,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI(
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
 - [AI](https://dblp.uni-trier.de/search?q=federate%20venue%3AArtif%20Intell%3A) NULL
 
-<details>
+<details open>
 <summary>fl in top ai conference and journal</summary>
 
 <!-- START:fl-in-top-ai-conference-and-journal -->
@@ -477,7 +477,7 @@ In this section, we will summarize Federated Learning papers accepted by top ML(
 - [JMLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AJ%20Mach%20Learn%20Res%3A) 2021
 - [TPAMI](https://dblp.uni-trier.de/search?q=federate%20venue%3ATrans%20Pattern%20Anal%20Mach%20Intell%3A) 2023, 2022
 
-<details>
+<details open>
 <summary>fl in top ml conference and journal</summary>
 
 <!-- START:fl-in-top-ml-conference-and-journal -->
@@ -777,7 +777,7 @@ In this section, we will summarize Federated Learning papers accepted by top DM(
 - [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) 2022([Research Track](https://kdd.org/kdd2022/paperRT.html), [Applied Data Science track](https://kdd.org/kdd2022/paperADS.html)) , [2021](https://kdd.org/kdd2021/accepted-papers/index),[2020](https://www.kdd.org/kdd2020/accepted-papers)
 - [WSDM](https://dblp.uni-trier.de/search?q=federate%20venue%3AWSDM%3A) [2023](https://www.wsdm-conference.org/2023/program/accepted-papers), [2022](https://www.wsdm-conference.org/2022/accepted-papers/), [2021](https://www.wsdm-conference.org/2021/accepted-papers.php), [2019](https://www.wsdm-conference.org/2019/accepted-papers.php)
 
-<details>
+<details open>
 <summary>fl in top dm conference and journal</summary>
 
 <!-- START:fl-in-top-dm-conference-and-journal -->
@@ -823,7 +823,7 @@ In this section, we will summarize Federated Learning papers accepted by top Sec
 - [USENIX Security](https://dblp.uni-trier.de/search?q=federate%20venue%3AUSENIX%20Security%20Symposium%3A) [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [2020](https://www.usenix.org/conference/usenixsecurity20/technical-sessions)
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) [2023](https://www.ndss-symposium.org/ndss2023/accepted-papers/), [2022](https://www.ndss-symposium.org/ndss2022/accepted-papers/), [2021](https://www.ndss-symposium.org/ndss2021/accepted-papers/)
 
-<details>
+<details open>
 <summary>fl in top secure conference and journal</summary>
 
 <!-- START:fl-in-top-secure-conference-and-journal -->
@@ -872,7 +872,7 @@ In this section, we will summarize Federated Learning papers accepted by top CV(
 - [MM](https://dblp.uni-trier.de/search?q=federate%20venue%3AACM%20Multimedia%3A) [2022](https://dblp.uni-trier.de/db/conf/mm/mm2022.html), [2021](https://2021.acmmm.org/main-track-list), [2020](https://2020.acmmm.org/main-track-list.html)
 - [IJCV](https://dblp.uni-trier.de/search?q=federate%20venue%3AInt%20J%20Comput%20Vis%3A) NULL
 
-<details>
+<details open>
 <summary>fl in top cv conference and journal</summary>
 
 <!-- START:fl-in-top-cv-conference-and-journal -->
@@ -959,7 +959,7 @@ In this section, we will summarize Federated Learning papers accepted by top AI 
 - [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2022](https://aclanthology.org/events/emnlp-2022/), [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
 - [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2020](https://aclanthology.org/events/coling-2020/)
 
-<details>
+<details open>
 <summary>fl in top nlp conference and journal</summary>
 
 <!-- START:fl-in-top-nlp-conference-and-journal -->
@@ -1005,7 +1005,7 @@ In this section, we will summarize Federated Learning papers accepted by top Inf
 
 - [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) [2022](https://dl.acm.org/doi/proceedings/10.1145/3477495), [2021](https://dl.acm.org/doi/proceedings/10.1145/3404835), [2020](https://dl.acm.org/doi/proceedings/10.1145/3397271)
 
-<details>
+<details open>
 <summary>fl in top ir conference and journal</summary>
 
 <!-- START:fl-in-top-ir-conference-and-journal -->
@@ -1030,7 +1030,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) [2022](https://icde2022.ieeecomputer.my/accepted-research-track/), [2021](https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding)
 - [VLDB](https://dblp.org/search?q=federate%20venue%3AProc%20VLDB%20Endow%3A) 2023, [2022](https://vldb.org/pvldb/vol16-volume-info/), [2021](https://vldb.org/pvldb/vol15-volume-info/), [2021](http://www.vldb.org/pvldb/vol14/), [2020](http://vldb.org/pvldb/vol13-volume-info/)
 
-<details>
+<details open>
 <summary>fl in top db conference and journal</summary>
 
 <!-- START:fl-in-top-db-conference-and-journal -->
@@ -1084,7 +1084,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) 2023([Spring](https://www.usenix.org/conference/nsdi23/spring-accepted-papers), [Fall](https://www.usenix.org/conference/nsdi23/fall-accepted-papers))
 - [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2023](https://www2023.thewebconf.org/program/accepted-papers/), [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
 
-<details>
+<details open>
 <summary>fl in top network conference and journal</summary>
 
 <!-- START:fl-in-top-network-conference-and-journal -->
@@ -1207,7 +1207,7 @@ In this section, we will summarize Federated Learning papers accepted by top Dat
 - [TCAD](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans%20Comput%20Aided%20Des%20Integr%20Circuits%20Syst%3A) 2023, 2022, 2021
 - [TC](https://dblp.uni-trier.de/search?q=federate%20venue%3AIEEE%20Trans.%20Computers%3A) 2023, 2022, 2021
 
-<details>
+<details open>
 <summary>fl in top system conference and journal</summary>
 
 <!-- START:fl-in-top-system-conference-and-journal -->
@@ -1299,7 +1299,7 @@ In this section, we will summarize Federated Learning papers accepted by top con
 
 - [ICSE](https://dblp.org/search?q=federated%20venue%3AICSE%3A) 2023
 
-<details>
+<details open>
 <summary>fl in top conference and journal other fields</summary>
 
 <!-- START:fl-in-top-conference-and-journal-other-fields -->
@@ -1319,7 +1319,7 @@ In this section, we will summarize Federated Learning papers accepted by top con
 
 *Note: **SG** means Support for Graph data and algorithms, **ST** means Support for Tabular data and algorithms.*
 
-<details>
+<details open>
 <summary>federated learning framework</summary>
 
 <!-- START:federated-learning-framework -->
