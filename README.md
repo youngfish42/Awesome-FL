@@ -67,7 +67,7 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | ------------------------------------------------------------ |
-|Decentralized federated learning through proxy model sharing | Layer 6 AI; University of Waterloo; Vector Institute | Nat. Commun. | 2023 | [pub](https://www.nature.com/articles/s41467-023-38569-4) [pdf](https://arxiv.org/abs/2111.11343) [code](https://github.com/layer6ai-labs/ProxyFL) |
+| Decentralized federated learning through proxy model sharing | Layer 6 AI; University of Waterloo; Vector Institute | Nat. Commun. | 2023 | [[PUB](https://www.nature.com/articles/s41467-023-38569-4)] [[PDF](https://arxiv.org/abs/2111.11343)] [[CODE](https://github.com/layer6ai-labs/ProxyFL)] |
 | Federated machine learning in data-protection-compliant research | University of Hamburg | Nat. Mach. Intell.(Comment) | 2023 | [[PUB](https://www.nature.com/articles/s42256-022-00601-5)] |
 | Federated learning for predicting histological response to neoadjuvant chemotherapy in triple-negative breast cancer | Owkin | Nat. Med. | 2023 | [[PUB](https://www.nature.com/articles/s41591-022-02155-w)] [[CODE](https://github.com/Substra/substra)] |
 | Federated learning enables big data for rare cancer boundary detection | University of Pennsylvania | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-33407-5)] [[PDF](https://arxiv.org/abs/2204.10836)] [[CODE](https://github.com/FETS-AI/Front-End)] |
@@ -108,17 +108,17 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 |Title                                                           |    Affiliation                                                     |    Venue      |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ------------------------------------------------------------ |
-|The communication cost of security and privacy in federated frequency estimation | Stanford | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/chen23e.html) [code](https://colab.research.google.com/drive/1A3sp42a4RKswxjCOBAXlfUxBzL5IF431?usp=share_link) |
-|Efficient and Light-Weight Federated Learning via Asynchronous Distributed Dropout | Rice University | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/dun23a.html) [code](https://github.com/dunchen/AsyncDrop__Release) |
-|Federated Learning under Distributed Concept Drift | CMU | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/jothimurugesan23a.html) [code](https://github.com/microsoft/FedDrift) |
-|Characterizing Internal Evasion Attacks in Federated Learning | CMU | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/kim23a.html) [code](https://github.com/tj-kim/pFedDef_v1) |
-|Federated Asymptotics: a model to compare federated learning algorithms | Stanford | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/cheng23b.html) [code](https://github.com/garyxcheng/personalized-federated-learning) |
-|Private Non-Convex Federated Learning Without a Trusted Server | USC | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/lowy23a.html) [code](https://github.com/ghafeleb/Private-NonConvex-Federated-Learning-Without-a-Trusted-Server) |
-|Federated Learning for Data Streams | Universit ́ e Cˆ ote d’Azur | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/marfoq23a.html) [code](https://github.com/omarfoq/streaming-fl) |
-|Nothing but Regrets — Privacy-Preserving Federated Causal Discovery | Helmholtz Centre for Information Security | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/mian23a.html) [code](https://eda.rg.cispa.io/prj/peri/) |
-|Active Membership Inference Attack under Local Differential Privacy in Federated Learning | UFL | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/nguyen23e.html) [code](https://github.com/trucndt/ami) |
-|Federated Averaging Langevin Dynamics: Toward a unified theory and new algorithms | CMAP | AISTATS | 2023 | [pub](https://proceedings.mlr.press/v206/plassier23a.html) |
-|Byzantine-Robust Federated Learning with Optimal Statistical Rates | UC Berkeley | AISTATS | 2023 | [pub](https://github.com/wanglun1996/secure-robust-federated-learning) [code](https://github.com/wanglun1996/secure-robust-federated-learning) |
+| The communication cost of security and privacy in federated frequency estimation | Stanford | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/chen23e.html)] [[CODE](https://colab.research.google.com/drive/1A3sp42a4RKswxjCOBAXlfUxBzL5IF431?usp=share_link)] |
+| Efficient and Light-Weight Federated Learning via Asynchronous Distributed Dropout | Rice University | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/dun23a.html)] [[CODE](https://github.com/dunchen/AsyncDrop__Release)] |
+| Federated Learning under Distributed Concept Drift | CMU | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/jothimurugesan23a.html)] [[CODE](https://github.com/microsoft/FedDrift)] |
+| Characterizing Internal Evasion Attacks in Federated Learning | CMU | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/kim23a.html)] [[CODE](https://github.com/tj-kim/pFedDef_v1)] |
+| Federated Asymptotics: a model to compare federated learning algorithms | Stanford | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/cheng23b.html)] [[CODE](https://github.com/garyxcheng/personalized-federated-learning)] |
+| Private Non-Convex Federated Learning Without a Trusted Server | USC | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/lowy23a.html)] [[CODE](https://github.com/ghafeleb/Private-NonConvex-Federated-Learning-Without-a-Trusted-Server)] |
+| Federated Learning for Data Streams | Universit ́ e Cˆ ote d’Azur | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/marfoq23a.html)] [[CODE](https://github.com/omarfoq/streaming-fl)] |
+| Nothing but Regrets — Privacy-Preserving Federated Causal Discovery | Helmholtz Centre for Information Security | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/mian23a.html)] [[CODE](https://eda.rg.cispa.io/prj/peri/)] |
+| Active Membership Inference Attack under Local Differential Privacy in Federated Learning | UFL | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/nguyen23e.html)] [[CODE](https://github.com/trucndt/ami)] |
+| Federated Averaging Langevin Dynamics: Toward a unified theory and new algorithms | CMAP | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/plassier23a.html)] |
+| Byzantine-Robust Federated Learning with Optimal Statistical Rates | UC Berkeley | AISTATS | 2023 | [[PUB](https://github.com/wanglun1996/secure-robust-federated-learning)] [[CODE](https://github.com/wanglun1996/secure-robust-federated-learning)] |
 | Federated Learning on Non-IID Graphs via Structural Knowledge Sharing | UTS | AAAI | 2023 | [[PDF](https://arxiv.org/abs/2211.13009)] [[CODE](https://github.com/yuetan031/fedstar)] |
 | FedGS: Federated Graph-based Sampling with Arbitrary Client Availability | XMU | AAAI | 2023 | [[PDF](https://arxiv.org/abs/2211.13975)] [[CODE](https://github.com/wwzzz/fedgs)] |
 | Incentive-boosted Federated Crowdsourcing | SDU | AAAI | 2023 | [[PDF](https://arxiv.org/abs/2211.14439)] |

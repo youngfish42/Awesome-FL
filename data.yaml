@@ -1558,6 +1558,14 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: Decentralized federated learning through proxy model sharing
+    affiliation: Layer 6 AI; University of Waterloo; Vector Institute
+    venue: Nat. Commun.
+    year: '2023'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-023-38569-4
+      PDF: https://arxiv.org/abs/2111.11343
+      CODE: https://github.com/layer6ai-labs/ProxyFL
   - title: Federated machine learning in data-protection-compliant research
     affiliation: University of Hamburg
     venue: Nat. Mach. Intell.(Comment)
@@ -1703,6 +1711,85 @@ fl-in-top-ai-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: The communication cost of security and privacy in federated frequency estimation
+    affiliation: Stanford
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/chen23e.html
+      CODE: https://colab.research.google.com/drive/1A3sp42a4RKswxjCOBAXlfUxBzL5IF431?usp=share_link
+  - title: Efficient and Light-Weight Federated Learning via Asynchronous Distributed
+      Dropout
+    affiliation: Rice University
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/dun23a.html
+      CODE: https://github.com/dunchen/AsyncDrop__Release
+  - title: Federated Learning under Distributed Concept Drift
+    affiliation: CMU
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/jothimurugesan23a.html
+      CODE: https://github.com/microsoft/FedDrift
+  - title: Characterizing Internal Evasion Attacks in Federated Learning
+    affiliation: CMU
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/kim23a.html
+      CODE: https://github.com/tj-kim/pFedDef_v1
+  - title: 'Federated Asymptotics: a model to compare federated learning algorithms'
+    affiliation: Stanford
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/cheng23b.html
+      CODE: https://github.com/garyxcheng/personalized-federated-learning
+  - title: Private Non-Convex Federated Learning Without a Trusted Server
+    affiliation: USC
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/lowy23a.html
+      CODE: https://github.com/ghafeleb/Private-NonConvex-Federated-Learning-Without-a-Trusted-Server
+  - title: Federated Learning for Data Streams
+    affiliation: Universit ́ e Cˆ ote d’Azur
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/marfoq23a.html
+      CODE: https://github.com/omarfoq/streaming-fl
+  - title: Nothing but Regrets — Privacy-Preserving Federated Causal Discovery
+    affiliation: Helmholtz Centre for Information Security
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/mian23a.html
+      CODE: https://eda.rg.cispa.io/prj/peri/
+  - title: Active Membership Inference Attack under Local Differential Privacy in
+      Federated Learning
+    affiliation: UFL
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/nguyen23e.html
+      CODE: https://github.com/trucndt/ami
+  - title: 'Federated Averaging Langevin Dynamics: Toward a unified theory and new
+      algorithms'
+    affiliation: CMAP
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v206/plassier23a.html
+  - title: Byzantine-Robust Federated Learning with Optimal Statistical Rates
+    affiliation: UC Berkeley
+    venue: AISTATS
+    year: '2023'
+    materials:
+      PUB: https://github.com/wanglun1996/secure-robust-federated-learning
+      CODE: https://github.com/wanglun1996/secure-robust-federated-learning
   - title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing
     affiliation: UTS
     venue: AAAI
@@ -7433,6 +7520,14 @@ federated-learning-framework:
     st: ':white_check_mark:'
     materials:
       DOC: https://doc.fedml.ai/
+  - platform: '[Flower](https://github.com/adap/flower)<br />[![Stars](https://img.shields.io/github/stars/adap/flower.svg?color=red)](https://github.com/adap/flower/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/adap/flower)'
+    papers: '[Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2104.03042.pdf)'
+    affiliations: '[flower.dev](https://flower.dev/) [adap](https://adap.com/en)'
+    sg: ''
+    st: ''
+    materials:
+      DOC: https://flower.dev/docs/
   - platform: '[TFF(Tensorflow-Federated)](https://github.com/tensorflow/federated)
       <br />[![Stars](https://img.shields.io/github/stars/tensorflow/federated.svg?color=red)](https://github.com/tensorflow/federated/stargazers)<br
       />![](https://img.shields.io/github/last-commit/tensorflow/federated)'
@@ -7443,14 +7538,6 @@ federated-learning-framework:
     materials:
       DOC: https://www.tensorflow.org/federated
       PAGE: https://www.tensorflow.org/federated
-  - platform: '[Flower](https://github.com/adap/flower)<br />[![Stars](https://img.shields.io/github/stars/adap/flower.svg?color=red)](https://github.com/adap/flower/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/adap/flower)'
-    papers: '[Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2104.03042.pdf)'
-    affiliations: '[flower.dev](https://flower.dev/) [adap](https://adap.com/en)'
-    sg: ''
-    st: ''
-    materials:
-      DOC: https://flower.dev/docs/
   - platform: '[SecretFlow](https://github.com/secretflow/secretflow) <br />[![Stars](https://img.shields.io/github/stars/secretflow/secretflow.svg?color=red)](https://github.com/secretflow/secretflow/stargazers)<br
       />![](https://img.shields.io/github/last-commit/secretflow/secretflow)'
     papers: ''
@@ -7482,6 +7569,21 @@ federated-learning-framework:
     sg: ''
     st: ''
     materials: {}
+  - platform: '[PFL-Non-IID](https://github.com/TsingZ0/PFL-Non-IID)<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID.svg?color=blue)](https://github.com/TsingZ0/PFL-Non-IID/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/TsingZ0/PFL-Non-IID)'
+    papers: ''
+    affiliations: SJTU
+    sg: ''
+    st: ''
+    materials: {}
+  - platform: '[OpenFL](https://github.com/intel/openfl)<br />[![Stars](https://img.shields.io/github/stars/intel/openfl.svg?color=blue)](https://github.com/intel/openfl/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/intel/openfl)'
+    papers: '[OpenFL: An open-source framework for Federated Learning](https://arxiv.org/abs/2105.06413)'
+    affiliations: '[Intel](https://github.com/intel)'
+    sg: ''
+    st: ''
+    materials:
+      DOC: https://openfl.readthedocs.io/en/latest/install.html
   - platform: '[Rosetta](https://github.com/LatticeX-Foundation/Rosetta)<br />[![Stars](https://img.shields.io/github/stars/LatticeX-Foundation/Rosetta.svg?color=blue)](https://github.com/LatticeX-Foundation/Rosetta/stargazers)<br
       />![](https://img.shields.io/github/last-commit/LatticeX-Foundation/Rosetta)'
     papers: ''
@@ -7491,21 +7593,6 @@ federated-learning-framework:
     materials:
       DOC: https://github.com/LatticeX-Foundation/Rosetta/blob/master/doc/DEPLOYMENT.md
       PAGE: https://github.com/LatticeX-Foundation/Rosetta
-  - platform: '[OpenFL](https://github.com/intel/openfl)<br />[![Stars](https://img.shields.io/github/stars/intel/openfl.svg?color=blue)](https://github.com/intel/openfl/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/intel/openfl)'
-    papers: '[OpenFL: An open-source framework for Federated Learning](https://arxiv.org/abs/2105.06413)'
-    affiliations: '[Intel](https://github.com/intel)'
-    sg: ''
-    st: ''
-    materials:
-      DOC: https://openfl.readthedocs.io/en/latest/install.html
-  - platform: '[PFL-Non-IID](https://github.com/TsingZ0/PFL-Non-IID)<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID.svg?color=blue)](https://github.com/TsingZ0/PFL-Non-IID/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/TsingZ0/PFL-Non-IID)'
-    papers: ''
-    affiliations: SJTU
-    sg: ''
-    st: ''
-    materials: {}
   - platform: '[Fedlab](https://github.com/SMILELab-FL/FedLab)<br />[![Stars](https://img.shields.io/github/stars/SMILELab-FL/FedLab.svg?color=blue)](https://github.com/SMILELab-FL/FedLab/stargazers)<br
       />![](https://img.shields.io/github/last-commit/SMILELab-FL/FedLab)'
     papers: '[FedLab: A Flexible Federated Learning Framework](https://arxiv.org/abs/2107.11621)'
@@ -7533,6 +7620,14 @@ federated-learning-framework:
     st: ':white_check_mark:'
     materials:
       PAPERS: https://github.com/IBM/federated-learning-lib/blob/main/docs/papers.md
+  - platform: '[Primihub](https://github.com/primihub/primihub)<br />[![Stars](https://img.shields.io/github/stars/primihub/primihub.svg?color=blue)](https://github.com/primihub/primihub/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/primihub/primihub)'
+    papers: ''
+    affiliations: '[primihub](https://github.com/primihub)'
+    sg: ''
+    st: ''
+    materials:
+      DOC: ''
   - platform: '[Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter)<br
       />[![Stars](https://img.shields.io/github/stars/privacytrustlab/ml_privacy_meter.svg?color=blue)](https://github.com/PaddlePaddle/privacytrustlab/ml_privacy_meter)<br
       />![](https://img.shields.io/github/last-commit/privacytrustlab/ml_privacy_meter)'
@@ -7542,14 +7637,13 @@ federated-learning-framework:
     sg: ''
     st: ''
     materials: {}
-  - platform: '[Primihub](https://github.com/primihub/primihub)<br />[![Stars](https://img.shields.io/github/stars/primihub/primihub.svg?color=blue)](https://github.com/primihub/primihub/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/primihub/primihub)'
-    papers: ''
-    affiliations: '[primihub](https://github.com/primihub)'
+  - platform: '[NIID-Bench](https://github.com/Xtra-Computing/NIID-Bench)<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/NIID-Bench.svg?color=blue)](https://github.com/Xtra-Computing/NIID-Bench/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/Xtra-Computing/NIID-Bench)'
+    papers: '[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079.pdf)'
+    affiliations: '[Xtra Computing Group](https://github.com/Xtra-Computing)'
     sg: ''
     st: ''
-    materials:
-      DOC: ''
+    materials: {}
   - platform: '[KubeFATE](https://github.com/FederatedAI/KubeFATE)<br />[![Stars](https://img.shields.io/github/stars/FederatedAI/KubeFATE.svg?color=blue)](https://github.com/FederatedAI/KubeFATE/stargazers)<br
       />![](https://img.shields.io/github/last-commit/FederatedAI/KubeFATE)'
     papers: ''
@@ -7566,13 +7660,6 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://nvflare.readthedocs.io/en/2.1.1/
-  - platform: '[NIID-Bench](https://github.com/Xtra-Computing/NIID-Bench)<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/NIID-Bench.svg?color=blue)](https://github.com/Xtra-Computing/NIID-Bench/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/Xtra-Computing/NIID-Bench)'
-    papers: '[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079.pdf)'
-    affiliations: '[Xtra Computing Group](https://github.com/Xtra-Computing)'
-    sg: ''
-    st: ''
-    materials: {}
   - platform: '[Differentially Private Federated Learning: A Client-level Perspective](https://github.com/SAP-samples/machine-learning-diff-private-federated-learning)
       <br />[![Stars](https://img.shields.io/github/stars/SAP-samples/machine-learning-diff-private-federated-learning.svg?color=blue)](https://github.comSAP-samples/machine-learning-diff-private-federated-learning/stargazers)<br
       />![](https://img.shields.io/github/last-commit/SAP-samples/machine-learning-diff-private-federated-learning)'
@@ -7769,14 +7856,6 @@ federated-learning-framework:
     st: ':white_check_mark::white_check_mark:'
     materials:
       DOC: https://fedtree.readthedocs.io/en/latest/index.html
-  - platform: '[FedLearn](https://github.com/fedlearnAI/fedlearn-algo)<br />[![Stars](https://img.shields.io/github/stars/fedlearnAI/fedlearn-algo.svg?color=blue)](https://github.com/fedlearnAI/fedlearn-algo/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/fedlearnAI/fedlearn-algo)'
-    papers: '[Fedlearn-Algo: A flexible open-source privacy-preserving machine learning
-      platform](https://arxiv.org/abs/2107.04129)'
-    affiliations: JD
-    sg: ''
-    st: ''
-    materials: {}
   - platform: '[FEDn](https://github.com/scaleoutsystems/fedn)<br />[![Stars](https://img.shields.io/github/stars/scaleoutsystems/fedn.svg?color=blue)](https://github.com/scaleoutsystems/fedn/stargazers)<br
       />![](https://img.shields.io/github/last-commit/scaleoutsystems/fedn)'
     papers: '[Scalable federated machine learning with FEDn](https://arxiv.org/abs/2103.00148)'
@@ -7785,6 +7864,14 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://scaleoutsystems.github.io/fedn/
+  - platform: '[FedLearn](https://github.com/fedlearnAI/fedlearn-algo)<br />[![Stars](https://img.shields.io/github/stars/fedlearnAI/fedlearn-algo.svg?color=blue)](https://github.com/fedlearnAI/fedlearn-algo/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/fedlearnAI/fedlearn-algo)'
+    papers: '[Fedlearn-Algo: A flexible open-source privacy-preserving machine learning
+      platform](https://arxiv.org/abs/2107.04129)'
+    affiliations: JD
+    sg: ''
+    st: ''
+    materials: {}
   - platform: '[FedCV](https://github.com/FedML-AI/FedCV)<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedCV.svg?color=blue)](https://github.com/FedML-AI/FedCV/stargazers)<br
       />![](https://img.shields.io/github/last-commit/FedML-AI/FedCV)'
     papers: '[FedCV: A Federated Learning Framework for Diverse Computer Vision Tasks](https://arxiv.org/abs/2111.11066)'
