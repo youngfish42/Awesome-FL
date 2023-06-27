@@ -62,29 +62,29 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 
 <details open>
 <summary>fl in top-tier journal</summary>
-
 <!-- START:fl-in-top-tier-journal -->
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | ------------------------------------------------------------ |
+|Differentially private knowledge transfer for federated learning | THU | Nat. Commun. | 2023 | [pub](https://www.nature.com/articles/s41467-023-38794-x) [code](https://github.com/taoqi98/PrivateKT) |
 | Decentralized federated learning through proxy model sharing | Layer 6 AI; University of Waterloo; Vector Institute | Nat. Commun. | 2023 | [[PUB](https://www.nature.com/articles/s41467-023-38569-4)] [[PDF](https://arxiv.org/abs/2111.11343)] [[CODE](https://github.com/layer6ai-labs/ProxyFL)] |
 | Federated machine learning in data-protection-compliant research | University of Hamburg | Nat. Mach. Intell.(Comment) | 2023 | [[PUB](https://www.nature.com/articles/s42256-022-00601-5)] |
 | Federated learning for predicting histological response to neoadjuvant chemotherapy in triple-negative breast cancer | Owkin | Nat. Med. | 2023 | [[PUB](https://www.nature.com/articles/s41591-022-02155-w)] [[CODE](https://github.com/Substra/substra)] |
 | Federated learning enables big data for rare cancer boundary detection | University of Pennsylvania | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-33407-5)] [[PDF](https://arxiv.org/abs/2204.10836)] [[CODE](https://github.com/FETS-AI/Front-End)] |
 | Federated learning and Indigenous genomic data sovereignty | Hugging Face | Nat. Mach. Intell. (Comment) | 2022 | [[PUB](https://www.nature.com/articles/s42256-022-00551-y)] |
 | Federated disentangled representation learning for unsupervised brain anomaly detection | TUM | Nat. Mach. Intell. | 2022 | [[PUB](https://www.nature.com/articles/s42256-022-00515-2)] [[PDF](https://doi.org/https://doi.org/10.21203/rs.3.rs-722389/v1)] [[CODE](https://doi.org/10.5281/zenodo.6604161)] |
-| Shifting machine learning for healthcare from development to deployment and from models to data |  | Nat. Biomed. Eng. (Review Article) | 2022 | [[PUB](https://www.nature.com/articles/s41551-022-00898-y)] |
+| Shifting machine learning for healthcare from development to deployment and from models to data | Stanford University; Greenstone Biosciences | Nat. Biomed. Eng. (Review Article) | 2022 | [[PUB](https://www.nature.com/articles/s41551-022-00898-y)] |
 | A federated graph neural network framework for privacy-preserving personalization | THU | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-30714-9)] [[CODE](https://github.com/wuch15/FedPerGNN)] [[解读](https://zhuanlan.zhihu.com/p/487383715)] |
-| Communication-efficient federated learning via knowledge distillation |  | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-29763-x)] [[PDF](https://arxiv.org/abs/2108.13323)] [[CODE](https://zenodo.org/record/6383473)] |
-| Lead federated neuromorphic learning for wireless edge artificial intelligence |  | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-32020-w)] [[CODE](https://github.com/GOGODD/FL-EDGE-COMPUTING/releases/tag/federated_learning)] [[解读](https://zhuanlan.zhihu.com/p/549087420)] |
-| Advancing COVID-19 diagnosis with privacy-preserving collaboration in artificial intelligence |  | Nat. Mach. Intell. | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00421-z)] [[PDF](https://arxiv.org/abs/2111.09461)] [[CODE](https://github.com/HUST-EIC-AI-LAB/UCADI)] |
-| Federated learning for predicting clinical outcomes in patients with COVID-19 |  | Nat. Med. | 2021 | [[PUB](https://www.nature.com/articles/s41591-021-01506-3)] [[CODE](https://www.nature.com/articles/s41591-021-01506-3#code-availability)] |
-| Adversarial interference and its mitigations in privacy-preserving collaborative machine learning |  | Nat. Mach. Intell.(Perspective) | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00390-3)] |
-| Swarm Learning for decentralized and confidential clinical machine learning :star: |  | Nature :mortar_board: | 2021 | [[PUB](https://www.nature.com/articles/s41586-021-03583-3)] [[CODE](https://github.com/HewlettPackard/swarm-learning)] [[SOFTWARE](https://myenterpriselicense.hpe.com)] [[解读](https://zhuanlan.zhihu.com/p/379434722)] |
-| End-to-end privacy preserving deep learning on multi-institutional medical imaging |  | Nat. Mach. Intell. | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00337-8)] [[CODE](https://doi.org/10.5281/zenodo.4545599)] [[解读](https://zhuanlan.zhihu.com/p/484801505)] |
-| Communication-efficient federated learning |  | PANS. | 2021 | [[PUB](https://www.pnas.org/doi/full/10.1073/pnas.2024789118)] [[CODE](https://code.ihub.org.cn/projects/4394/repository/revisions/master/show/PNAS)] |
-| Breaking medical data sharing boundaries by using synthesized radiographs |  | Science. Advances. | 2020 | [[PUB](https://www.science.org/doi/10.1126/sciadv.abb7973)] [[CODE](https://github.com/peterhan91/Thorax_GAN)] |
-| Secure, privacy-preserving and federated machine learning in medical imaging :star: |  | Nat. Mach. Intell.(Perspective) | 2020 | [[PUB](https://www.nature.com/articles/s42256-020-0186-1)] |
+| Communication-efficient federated learning via knowledge distillation | THU | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-29763-x)] [[PDF](https://arxiv.org/abs/2108.13323)] [[CODE](https://zenodo.org/record/6383473)] |
+| Lead federated neuromorphic learning for wireless edge artificial intelligence | XMU; NTU | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-32020-w)] [[CODE](https://github.com/GOGODD/FL-EDGE-COMPUTING/releases/tag/federated_learning)] [[解读](https://zhuanlan.zhihu.com/p/549087420)] |
+| Advancing COVID-19 diagnosis with privacy-preserving collaboration in artificial intelligence | HUST | Nat. Mach. Intell. | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00421-z)] [[PDF](https://arxiv.org/abs/2111.09461)] [[CODE](https://github.com/HUST-EIC-AI-LAB/UCADI)] |
+| Federated learning for predicting clinical outcomes in patients with COVID-19 | MGH radiology and Harvard Medical School | Nat. Med. | 2021 | [[PUB](https://www.nature.com/articles/s41591-021-01506-3)] [[CODE](https://www.nature.com/articles/s41591-021-01506-3#code-availability)] |
+| Adversarial interference and its mitigations in privacy-preserving collaborative machine learning | Imperial College London; TUM;  OpenMined | Nat. Mach. Intell.(Perspective) | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00390-3)] |
+| Swarm Learning for decentralized and confidential clinical machine learning :star: | DZNE; University of Bonn; | Nature :mortar_board: | 2021 | [[PUB](https://www.nature.com/articles/s41586-021-03583-3)] [[CODE](https://github.com/HewlettPackard/swarm-learning)] [[SOFTWARE](https://myenterpriselicense.hpe.com)] [[解读](https://zhuanlan.zhihu.com/p/379434722)] |
+| End-to-end privacy preserving deep learning on multi-institutional medical imaging | TUM; Imperial College London; OpenMined | Nat. Mach. Intell. | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00337-8)] [[CODE](https://doi.org/10.5281/zenodo.4545599)] [[解读](https://zhuanlan.zhihu.com/p/484801505)] |
+| Communication-efficient federated learning | CUHK; Princeton University | PANS. | 2021 | [[PUB](https://www.pnas.org/doi/full/10.1073/pnas.2024789118)] [[CODE](https://code.ihub.org.cn/projects/4394/repository/revisions/master/show/PNAS)] |
+| Breaking medical data sharing boundaries by using synthesized radiographs | RWTH Aachen University | Science. Advances. | 2020 | [[PUB](https://www.science.org/doi/10.1126/sciadv.abb7973)] [[CODE](https://github.com/peterhan91/Thorax_GAN)] |
+| Secure, privacy-preserving and federated machine learning in medical imaging :star: | TUM; Imperial College London; OpenMined | Nat. Mach. Intell.(Perspective) | 2020 | [[PUB](https://www.nature.com/articles/s42256-020-0186-1)] |
 
 <!-- END:fl-in-top-tier-journal -->
 
