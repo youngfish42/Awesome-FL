@@ -1558,6 +1558,13 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: Differentially private knowledge transfer for federated learning
+    affiliation: THU
+    venue: Nat. Commun.
+    year: '2023'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-023-38794-x
+      CODE: https://github.com/taoqi98/PrivateKT
   - title: Decentralized federated learning through proxy model sharing
     affiliation: Layer 6 AI; University of Waterloo; Vector Institute
     venue: Nat. Commun.
@@ -1605,7 +1612,7 @@ fl-in-top-tier-journal:
       CODE: https://doi.org/10.5281/zenodo.6604161
   - title: Shifting machine learning for healthcare from development to deployment
       and from models to data
-    affiliation: ''
+    affiliation: Stanford University; Greenstone Biosciences
     venue: Nat. Biomed. Eng. (Review Article)
     year: '2022'
     materials:
@@ -1619,7 +1626,7 @@ fl-in-top-tier-journal:
       CODE: https://github.com/wuch15/FedPerGNN
       解读: https://zhuanlan.zhihu.com/p/487383715
   - title: Communication-efficient federated learning via knowledge distillation
-    affiliation: ''
+    affiliation: THU
     venue: Nat. Commun.
     year: '2022'
     materials:
@@ -1627,7 +1634,7 @@ fl-in-top-tier-journal:
       PDF: https://arxiv.org/abs/2108.13323
       CODE: https://zenodo.org/record/6383473
   - title: Lead federated neuromorphic learning for wireless edge artificial intelligence
-    affiliation: ''
+    affiliation: XMU; NTU
     venue: Nat. Commun.
     year: '2022'
     materials:
@@ -1636,7 +1643,7 @@ fl-in-top-tier-journal:
       解读: https://zhuanlan.zhihu.com/p/549087420
   - title: Advancing COVID-19 diagnosis with privacy-preserving collaboration in artificial
       intelligence
-    affiliation: ''
+    affiliation: HUST
     venue: Nat. Mach. Intell.
     year: '2021'
     materials:
@@ -1644,7 +1651,7 @@ fl-in-top-tier-journal:
       PDF: https://arxiv.org/abs/2111.09461
       CODE: https://github.com/HUST-EIC-AI-LAB/UCADI
   - title: Federated learning for predicting clinical outcomes in patients with COVID-19
-    affiliation: ''
+    affiliation: MGH radiology and Harvard Medical School
     venue: Nat. Med.
     year: '2021'
     materials:
@@ -1652,14 +1659,14 @@ fl-in-top-tier-journal:
       CODE: https://www.nature.com/articles/s41591-021-01506-3#code-availability
   - title: Adversarial interference and its mitigations in privacy-preserving collaborative
       machine learning
-    affiliation: ''
+    affiliation: Imperial College London; TUM;  OpenMined
     venue: Nat. Mach. Intell.(Perspective)
     year: '2021'
     materials:
       PUB: https://www.nature.com/articles/s42256-021-00390-3
   - title: 'Swarm Learning for decentralized and confidential clinical machine learning
       :star:'
-    affiliation: ''
+    affiliation: DZNE; University of Bonn;
     venue: 'Nature :mortar_board:'
     year: '2021'
     materials:
@@ -1669,7 +1676,7 @@ fl-in-top-tier-journal:
       解读: https://zhuanlan.zhihu.com/p/379434722
   - title: End-to-end privacy preserving deep learning on multi-institutional medical
       imaging
-    affiliation: ''
+    affiliation: TUM; Imperial College London; OpenMined
     venue: Nat. Mach. Intell.
     year: '2021'
     materials:
@@ -1677,14 +1684,14 @@ fl-in-top-tier-journal:
       CODE: https://doi.org/10.5281/zenodo.4545599
       解读: https://zhuanlan.zhihu.com/p/484801505
   - title: Communication-efficient federated learning
-    affiliation: ''
+    affiliation: CUHK; Princeton University
     venue: PANS.
     year: '2021'
     materials:
       PUB: https://www.pnas.org/doi/full/10.1073/pnas.2024789118
       CODE: https://code.ihub.org.cn/projects/4394/repository/revisions/master/show/PNAS
   - title: Breaking medical data sharing boundaries by using synthesized radiographs
-    affiliation: ''
+    affiliation: RWTH Aachen University
     venue: Science. Advances.
     year: '2020'
     materials:
@@ -1692,7 +1699,7 @@ fl-in-top-tier-journal:
       CODE: https://github.com/peterhan91/Thorax_GAN
   - title: 'Secure, privacy-preserving and federated machine learning in medical imaging
       :star:'
-    affiliation: ''
+    affiliation: TUM; Imperial College London; OpenMined
     venue: Nat. Mach. Intell.(Perspective)
     year: '2020'
     materials:
