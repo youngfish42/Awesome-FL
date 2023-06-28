@@ -2151,6 +2151,14 @@ fl-in-top-ai-conference-and-journal:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/20775
       PDF: https://arxiv.org/abs/2112.07157
       CODE: https://github.com/rithram/flynn
+  - title: Iterated Vector Fields and Conservatism, with Applications to Federated
+      Learning.
+    affiliation: Google
+    venue: ALT
+    year: '2022'
+    materials:
+      PUB: https://proceedings.mlr.press/v167/charles22a.html
+      PDF: https://arxiv.org/abs/2109.03973
   - title: Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization
     affiliation: ''
     venue: IJCAI
@@ -2518,6 +2526,53 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Robust federated learning under statistical heterogeneity via hessian-weighted
+      aggregation
+    affiliation: Deakin University
+    venue: Mach Learn
+    year: '2023'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-022-06292-8
+  - title: 'FedLab: A Flexible Federated Learning Framework :fire:'
+    affiliation: UESTC; Peng Cheng Lab
+    venue: JMLR
+    year: '2023'
+    materials:
+      PUB: https://jmlr.org/papers/v24/22-0440.html
+      PDF: https://arxiv.org/abs/2107.11621
+      CODE: https://github.com/SMILELab-FL/FedLab
+  - title: Memory-Based Optimization Methods for Model-Agnostic Meta-Learning and
+      Personalized Federated Learning
+    affiliation: TAMU
+    venue: JMLR
+    year: '2023'
+    materials:
+      PUB: https://jmlr.org/papers/v24/21-1301.html
+      PDF: https://arxiv.org/abs/2106.04911
+      CODE: https://github.com/bokun-wang/moml
+  - title: A First Look into the Carbon Footprint of Federated Learning
+    affiliation: University of Cambridge
+    venue: JMLR
+    year: '2023'
+    materials:
+      PUB: https://jmlr.org/papers/v24/21-0445.html
+      PDF: https://arxiv.org/abs/2102.07627
+  - title: Attacks against Federated Learning Defense Systems and their Mitigation
+    affiliation: The University of Newcastle
+    venue: JMLR
+    year: '2023'
+    materials:
+      PUB: https://jmlr.org/papers/v24/22-0014.html
+      CODE: https://github.com/codymlewis/viceroy
+  - title: A General Theory for Federated Optimization with Asynchronous and Heterogeneous
+      Clients Updates
+    affiliation: Universit ́e Cˆ ote d’Azur
+    venue: JMLR
+    year: '2023'
+    materials:
+      PUB: https://jmlr.org/papers/v24/22-0689.html
+      PDF: https://arxiv.org/abs/2206.10189
+      CODE: https://github.com/Accenture/Labs-Federated-Learning/tree/asynchronous_FL
   - title: 'FedIPR: Ownership Verification for Federated Deep Neural Network Models'
     affiliation: SJTU
     venue: TPAMI
@@ -2904,6 +2959,14 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=5HLoTvVGDe
       PDF: https://arxiv.org/abs/2203.08382
       CODE: https://openreview.net/attachment?id=5HLoTvVGDe&name=SUPP_material
+  - title: An accurate, scalable and verifiable protocol for federated differentially
+      private averaging
+    affiliation: INRIA Lille
+    venue: Mach Learn
+    year: '2022'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-022-06267-9
+      PDF: https://arxiv.org/abs/2006.07218
   - title: Federated online clustering of bandits.
     affiliation: CUHK
     venue: UAI
@@ -7633,7 +7696,7 @@ federated-learning-framework:
       PAGE: https://github.com/LatticeX-Foundation/Rosetta
   - platform: '[Fedlab](https://github.com/SMILELab-FL/FedLab)<br />[![Stars](https://img.shields.io/github/stars/SMILELab-FL/FedLab.svg?color=blue)](https://github.com/SMILELab-FL/FedLab/stargazers)<br
       />![](https://img.shields.io/github/last-commit/SMILELab-FL/FedLab)'
-    papers: '[FedLab: A Flexible Federated Learning Framework](https://arxiv.org/abs/2107.11621)'
+    papers: '[FedLab: A Flexible Federated Learning Framework](https://jmlr.org/papers/v24/22-0440.html)'
     affiliations: '[SMILELab](https://github.com/SMILELab-FL/)'
     sg: ''
     st: ''
