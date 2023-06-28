@@ -7317,16 +7317,16 @@ fl-in-top-system-conference-and-journal:
     venue: MLSys
     year: '2022'
     materials:
+      PUB: https://proceedings.mlsys.org/paper_files/paper/2022/hash/a8bc4cb14a20f20d1f96188bd61eec87-Abstract.html
       PDF: https://arxiv.org/abs/2111.04877
-      PUB: https://proceedings.mlsys.org/paper/2022/hash/f340f1b1f65b6df5b5e3f94d95b11daf-Abstract.html
   - title: 'LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation
       in Federated Learning'
     affiliation: USC
     venue: MLSys
     year: '2022'
     materials:
+      PUB: https://proceedings.mlsys.org/paper_files/paper/2022/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html
       PDF: https://arxiv.org/abs/2109.14236
-      PUB: https://proceedings.mlsys.org/paper/2022/hash/d2ddea18f00665ce8623e36bd4e3c7c5-Abstract.html
       CODE: https://github.com/LightSecAgg/MLSys2022_anonymous
   - title: 'SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low
       Overhead'
