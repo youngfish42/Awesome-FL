@@ -6935,6 +6935,37 @@ fl-in-top-system-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FedTree: A Federated Learning System For Trees'
+    affiliation: UC Berkeley
+    venue: MLSys
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html
+      CODE: https://github.com/Xtra-Computing/FedTree
+  - title: 'FLINT: A Platform for Federated Learning Integration'
+    affiliation: LinkedIn
+    venue: MLSys
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlsys.org/paper_files/paper/2023/hash/d3313de3f431fd64513431c4326d237c-Abstract-mlsys2023.html
+      PDF: https://arxiv.org/abs/2302.12862
+  - title: On Noisy Evaluation in Federated Hyperparameter Tuning
+    affiliation: CMU
+    venue: MLSys
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlsys.org/paper_files/paper/2023/hash/294f82c43d69f66c04440cbb2740e52d-Abstract-mlsys2023.html
+      PDF: https://arxiv.org/abs/2212.08930
+      CODE: https://github.com/imkevinkuo/noisy-eval-in-fl
+  - title: 'GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient
+      Federated Learning'
+    affiliation: UBC
+    venue: MLSys
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlsys.org/paper_files/paper/2023/hash/3ed923f9f88108cb066c6568d3df2666-Abstract-mlsys2023.html
+      PDF: https://arxiv.org/abs/2212.01523
+      CODE: https://github.com/TCtower/GlueFL
   - title: Optimizing Training Efficiency and Cost of Hierarchical Federated Learning
       in Heterogeneous Mobile-Edge Cloud Computing
     affiliation: ECNU
@@ -7464,7 +7495,7 @@ fl-in-top-system-conference-and-journal:
     venue: MLSys
     year: '2020'
     materials:
-      PUB: https://proceedings.mlsys.org/paper/2020/hash/38af86134b65d0f10fe33d30dd76442e-Abstract.html
+      PUB: https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html
       PDF: https://arxiv.org/abs/1812.06127
       CODE: https://github.com/litian96/FedProx
   - title: 'Towards Federated Learning at Scale: System Design'
@@ -7472,7 +7503,7 @@ fl-in-top-system-conference-and-journal:
     venue: MLSys
     year: '2019'
     materials:
-      PUB: https://proceedings.mlsys.org/paper/2019/hash/bd686fd640be98efaae0091fa301e613-Abstract.html
+      PUB: https://proceedings.mlsys.org/paper_files/paper/2019/hash/7b770da633baf74895be22a8807f1a8f-Abstract.html
       PDF: https://arxiv.org/abs/1902.01046
       解读: https://zhuanlan.zhihu.com/p/450993635
 federated-learning-framework:
@@ -7857,7 +7888,7 @@ federated-learning-framework:
     materials: {}
   - platform: '[FedTree](https://github.com/Xtra-Computing/FedTree)<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/FedTree.svg?color=blue)](https://github.com/Xtra-Computing/FedTree/stargazers)<br
       />![](https://img.shields.io/github/last-commit/Xtra-Computing/FedTree)'
-    papers: ''
+    papers: '[FedTree: A Federated Learning System For Trees](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html)'
     affiliations: '[Xtra Computing Group](https://github.com/Xtra-Computing)'
     sg: ''
     st: ':white_check_mark::white_check_mark:'
