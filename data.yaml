@@ -1558,6 +1558,14 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: Algorithmic fairness in artificial intelligence for medicine and healthcare
+    affiliation: Harvard Medical School; Broad Institute of Harvard and Massachusetts
+      Institute of Technology; Dana-Farber Cancer Institute
+    venue: Nat. Biomed. Eng. (Perspective)
+    year: '2023'
+    materials:
+      PUB: https://www.nature.com/articles/s41551-023-01056-8
+      PDF: https://arxiv.org/abs/2110.00603
   - title: Differentially private knowledge transfer for federated learning
     affiliation: THU
     venue: Nat. Commun.
