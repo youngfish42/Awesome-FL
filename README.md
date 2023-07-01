@@ -99,7 +99,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 - [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A) [2022](https://ijcai-22.org/main-track-accepted-papers/),[2021](https://ijcai-21.org/program-main-track/#),[2020](https://static.ijcai.org/2020-accepted_papers.html),[2019](https://www.ijcai19.org/accepted-papers.html)
 - [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) 2023, [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf),[2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf),[2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2023](http://proceedings.mlr.press/v206/), [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/),[2020](http://proceedings.mlr.press/v108/)
-- [ALT](https://dblp.uni-trier.de/search?q=federate streamid%3Ajournals%2Ffocs%3A) 2022
+- [ALT](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ffocs%3A) 2022
 - [AI](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fai%3A) NULL
 
 <details open>
@@ -222,7 +222,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 - [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) [2023](https://openreview.net/group?id=ICLR.cc/2023/Conference), [2022](https://openreview.net/group?id=ICLR.cc/2022/Conference), [2021](https://openreview.net/group?id=ICLR.cc/2021/Conference), [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) NULL
 - [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) [2022](https://www.auai.org/uai2022/accepted_papers), [2021](https://www.auai.org/uai2021/accepted_papers)
-- [Machine Learning](https://dblp.uni-trier.de/search?q=federate streamid%3Ajournals%2Fml%3A) 2023, 2022
+- [Machine Learning](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fml%3A) 2023, 2022
 - [JMLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AJ%20Mach%20Learn%20Res%3A) 2023([v24](https://jmlr.org/papers/v24/)), 2021([v22](https://jmlr.org/papers/v22/))
 - [TPAMI](https://dblp.uni-trier.de/search?q=federate%20venue%3ATrans%20Pattern%20Anal%20Mach%20Intell%3A) 2023, 2022
 
@@ -1056,7 +1056,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 Federated Learning papers accepted by top conference and journal in the other fields, including [ICSE](https://dblp.org/db/conf/icse/index.html)(International Conference on Software Engineering), [FOCS](https://dblp.org/db/conf/focs/index.html)(IEEE Annual Symposium on Foundations of Computer Science), [STOC](https://dblp.org/db/conf/stoc/index.html)(Symposium on the Theory of Computing).
 
 - [ICSE](https://dblp.org/search?q=federated%20streamid%3Aconf%2Ficse%3A) 2023
-- [FOCS](https://dblp.uni-trier.de/search?q=federate streamid%3Ajournals%2Ffocs%3A) Null
+- [FOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ffocs%3A) Null
 - [STOC](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Fstoc%3A) Null
 
 <details open>
