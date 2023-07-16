@@ -6717,30 +6717,34 @@ fl-in-top-nlp-conference-and-journal:
   body:
   - title: 'Federated Learning for Semantic Parsing: Task Formulation, Evaluation
       Setup, New Algorithms'
-    affiliation: ''
+    affiliation: OSU
     venue: ACL
     year: '2023'
     materials:
+      PUB: https://aclanthology.org/2023.acl-long.678/
       PDF: https://arxiv.org/abs/2305.17221
       CODE: https://github.com/osu-nlp-group/fl4semanticparsing
   - title: 'FEDLEGAL: The First Real-World Federated Learning Benchmark for Legal
       NLP'
-    affiliation: ''
+    affiliation: HIT; Peng Cheng Lab
     venue: ACL
     year: '2023'
     materials:
+      PUB: https://aclanthology.org/2023.acl-long.193/
       CODE: https://github.com/SMILELab-FL/FedLegal
   - title: Client-Customized Adaptation for Parameter-Efficient Federated Learning
     affiliation: ''
     venue: ACL Findings
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://aclanthology.org/2023.findings-acl.75/
   - title: Communication Efficient Federated Learning for Multilingual Neural Machine
       Translation with Adapter
     affiliation: ''
     venue: ACL Findings
     year: '2023'
     materials:
+      PUB: https://aclanthology.org/2023.findings-acl.327/
       PDF: https://arxiv.org/abs/2305.12449
       CODE: https://github.com/lancopku/fedmnmt
   - title: Federated Domain Adaptation for Named Entity Recognition via Distilling
@@ -6748,18 +6752,21 @@ fl-in-top-nlp-conference-and-journal:
     affiliation: ''
     venue: ACL Findings
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://aclanthology.org/2023.findings-acl.470/
   - title: 'FedPETuning: When Federated Learning Meets the Parameter-Efficient Tuning
       Methods of Pre-trained Language Models'
     affiliation: ''
     venue: ACL Findings
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://aclanthology.org/2023.findings-acl.632/
   - title: Federated Learning of Gboard Language Models with Differential Privacy
     affiliation: ''
     venue: ACL Industry Track
     year: '2023'
     materials:
+      PUB: https://aclanthology.org/2023.acl-industry.60/
       PDF: https://arxiv.org/abs/2305.18465
   - title: 'Dim-Krum: Backdoor-Resistant Federated Learning for NLP with Dimension-wise
       Krum-Based Aggregation'
