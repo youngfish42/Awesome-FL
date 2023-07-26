@@ -86,7 +86,7 @@
 | [ECCV](https://dblp.uni-trier.de/search?q=federate%20venue%3AECCV%3A) | [22](https://www.ecva.net/papers.php), [20](https://www.ecva.net/papers.php) | -                                                            |
 | [MM](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fmm%3A) | [22](https://dblp.uni-trier.de/db/conf/mm/mm2022.html), [21](https://2021.acmmm.org/main-track-list), [20](https://2020.acmmm.org/main-track-list.html) | -                                                            |
 | [IJCV](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fijcv%3A) (J) | -                                                            | -                                                            |
-| [ACL](https://dblp.uni-trier.de/search?q=federate%20venue%3AACL%3A) | 23, [22](https://aclanthology.org/events/acl-2022/), [21](https://aclanthology.org/events/acl-2021/) | [19](https://aclanthology.org/events/acl-2019/)              |
+| [ACL](https://dblp.uni-trier.de/search?q=federate%20venue%3AACL%3A) | [23](https://aclanthology.org/events/acl-2023/), [22](https://aclanthology.org/events/acl-2022/), [21](https://aclanthology.org/events/acl-2021/) | [19](https://aclanthology.org/events/acl-2019/)              |
 | [NAACL](https://dblp.uni-trier.de/search?q=federate%20venue%3ANAACL-HLT%3A) | [22](https://aclanthology.org/events/naacl-2022/), [21](https://aclanthology.org/events/naacl-2021/) | -                                                            |
 | [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) | [22](https://aclanthology.org/events/emnlp-2022/), [21](https://aclanthology.org/events/emnlp-2021/), [20](https://aclanthology.org/events/emnlp-2020/) | -                                                            |
 | [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) | [20](https://aclanthology.org/events/coling-2020/)           | -                                                            |
@@ -109,7 +109,7 @@
 | [TOS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftos%3A) | -                                                            | -                                                            |
 | [TCAD](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftcad%3A) | 23, 22, 21                                                   | -                                                            |
 | [TC](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftc%3A) | 23, 22, 21                                                   | -                                                            |
-| [ICSE](https://dblp.org/search?q=federated%20streamid%3Aconf%2Ficse%3A) | 23                                                           | -                                                            |
+| [ICSE](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Ficse%3A) | [23](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#event-overview), 21 | -                                                            |
 | [FOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ffocs%3A) | -                                                            | -                                                            |
 | [STOC](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Fstoc%3A) | -                                                            | -                                                            |
 
@@ -927,7 +927,7 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 Federated Learning papers accepted by top AI and NLP conference and journal, including [ACL](https://dblp.uni-trier.de/db/conf/acl/index.html)(Annual Meeting of the Association for Computational Linguistics), [NAACL](https://dblp.uni-trier.de/db/conf/naacl/index.html)(North American Chapter of the Association for Computational Linguistics), [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/index.html)(Conference on Empirical Methods in Natural Language Processing) and [COLING](https://dblp.uni-trier.de/db/conf/coling/index.html)(International Conference on Computational Linguistics).
 
-- [ACL](https://dblp.uni-trier.de/search?q=federate%20venue%3AACL%3A) 2023, [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
+- [ACL](https://dblp.uni-trier.de/search?q=federate%20venue%3AACL%3A) [2023](https://aclanthology.org/events/acl-2023/), [2022](https://aclanthology.org/events/acl-2022/), [2021](https://aclanthology.org/events/acl-2021/), [2019](https://aclanthology.org/events/acl-2019/)
 - [NAACL](https://dblp.uni-trier.de/search?q=federate%20venue%3ANAACL-HLT%3A) [2022](https://aclanthology.org/events/naacl-2022/), [2021](https://aclanthology.org/events/naacl-2021/)
 - [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) [2022](https://aclanthology.org/events/emnlp-2022/), [2021](https://aclanthology.org/events/emnlp-2021/), [2020](https://aclanthology.org/events/emnlp-2020/)
 - [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) [2020](https://aclanthology.org/events/coling-2020/)
@@ -1284,7 +1284,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 Federated Learning papers accepted by top conference and journal in the other fields, including [ICSE](https://dblp.org/db/conf/icse/index.html)(International Conference on Software Engineering), [FOCS](https://dblp.org/db/conf/focs/index.html)(IEEE Annual Symposium on Foundations of Computer Science), [STOC](https://dblp.org/db/conf/stoc/index.html)(Symposium on the Theory of Computing).
 
-- [ICSE](https://dblp.org/search?q=federated%20streamid%3Aconf%2Ficse%3A) 2023
+- [ICSE](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Ficse%3A) [2023](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#event-overview), 2021
 - [FOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ffocs%3A) Null
 - [STOC](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Fstoc%3A) Null
 
@@ -1292,9 +1292,12 @@ Federated Learning papers accepted by top conference and journal in the other fi
 <summary>fl in top conference and journal other fields</summary>
 <!-- START:fl-in-top-conference-and-journal-other-fields -->
 
-| Title | Affiliation | Venue | Year | TL;DR | Materials |
-| ----- | ----------- | ----- | ---- | ----- | --------- |
-|       |             |       |      |       |           |
+| Title                                                        | Affiliation   | Venue               | Year | TL;DR | Materials                                                    |
+| ------------------------------------------------------------ | ------------- | ------------------- | ---- | ----- | ------------------------------------------------------------ |
+| FedDebug: Systematic Debugging for Federated Learning Applications. | Virginia Tech | ICSE                | 2023 |       | [pub](https://ieeexplore.ieee.org/document/10172839) [pdf](https://arxiv.org/abs/2301.03553) [code](https://github.com/SEED-VT/FedDebug) |
+| FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing. | PKU           | ICSE                | 2023 |       | [pub](https://ieeexplore.ieee.org/document/10172662) [code](https://zenodo.org/record/7536416) |
+| Towards a Self-Adaptive Architecture for Federated Learning of Industrial Automation Systems |               | SEAMS@ICSE workshop | 2021 |       | [pub](https://ieeexplore.ieee.org/document/9462039)          |
+| Federated Machine Learning as a Self-Adaptive Problem        |               | SEAMS@ICSE workshop | 2021 |       | [pub](https://ieeexplore.ieee.org/document/9462023)          |
 
 <!-- END:fl-in-top-conference-and-journal-other-fields -->
 </details>
@@ -1821,7 +1824,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
-- *2023/07/24 - add SIGIR, UAI 2023 papers and information on CVPR workshops*
+- *2023/07/24 - add SIGIR, UAI, ICSE 2023 papers and information on CVPR workshops*
 - *2023/07/03 - add Events for different conferences and journals like [ACL](https://aclanthology.org/)*
 - *2023/07/01 - add AAAI, ICML, IJCAI, SIGIR, KDD, ACL 2023 papers*
 - *2023/06/28 - add AISTATS, MLsys, JMLR, Machine Learning, ALT, FOCS, STOC papers*
