@@ -51,7 +51,7 @@
 
 - Network (SIGCOMM, INFOCOM, MOBICOM, NSDI, WWW)
 
-- System (OSDI, SOSP, ISCA, MLSys, TPDS, DAC, TOCS, TOS, TCAD, TC) 
+- System (OSDI, SOSP, ISCA, MLSys, EuroSys, TPDS, DAC, TOCS, TOS, TCAD, TC) 
 
 - Others (ICSE, FOCS, STOC)
 
@@ -103,6 +103,7 @@
 | [SOSP](https://dblp.org/search?q=federated%20venue%3ASOSP%3A) | 21                                                           | -                                                            |
 | [ISCA](https://dblp.org/search?q=federated%20venue%3AISCA%3A) | -                                                            | -                                                            |
 | [MLSys](https://dblp.org/search?q=federated%20venue%3AMLSys%3A) | [23](https://proceedings.mlsys.org/paper_files/paper/2023), [22](https://proceedings.mlsys.org/paper_files/paper/2022), [20](https://proceedings.mlsys.org/paper_files/paper/2020) | [19](https://proceedings.mlsys.org/paper_files/paper/2019)   |
+| [EuroSys](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Feurosys%3A) | [23](https://2023.eurosys.org/accepted-papers.html), 22, 21, 20 |                                                              |
 | [TPDS](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Ftpds%3A) (J) | 23, 22, 21, 20                                               | -                                                            |
 | [DAC](https://dblp.uni-trier.de/search?q=federate%20venue%3ADAC%3A) | 22, 21                                                       | -                                                            |
 | [TOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftocs%3A) | -                                                            | -                                                            |
@@ -1188,12 +1189,13 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 ## fl in top system conference and journal
 
-Federated Learning papers accepted by top Database conference and journal, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems), [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)(IEEE Transactions on Parallel and Distributed Systems), [DAC](https://dblp.uni-trier.de/db/conf/dac/index.html)(Design Automation Conference), [TOCS](https://dblp.uni-trier.de/db/journals/tocs/index.html)(ACM Transactions on Computer Systems), [TOS](https://dblp.uni-trier.de/db/journals/tos/index.html)(ACM Transactions on Storage), [TCAD](https://dblp.uni-trier.de/db/journals/tcad/index.html)(IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems), [TC](https://dblp.uni-trier.de/db/journals/tc/index.html)(IEEE Transactions on Computers).
+Federated Learning papers accepted by top Database conference and journal, including [OSDI](https://dblp.org/db/conf/osdi/index.html)(USENIX Symposium on Operating Systems Design and Implementation), [SOSP](https://dblp.org/db/conf/sosp/index.html)(Symposium on Operating Systems Principles), [ISCA](https://dblp.org/db/conf/isca/index.html)(International Symposium on Computer Architecture), [MLSys](https://dblp.org/db/conf/mlsys/index.html)(Conference on Machine Learning and Systems), [EuroSys](https://dblp.org/db/conf/eurosys/index.html)(European Conference on Computer Systems), [TPDS](https://dblp.uni-trier.de/db/journals/tpds/index.html)(IEEE Transactions on Parallel and Distributed Systems), [DAC](https://dblp.uni-trier.de/db/conf/dac/index.html)(Design Automation Conference), [TOCS](https://dblp.uni-trier.de/db/journals/tocs/index.html)(ACM Transactions on Computer Systems), [TOS](https://dblp.uni-trier.de/db/journals/tos/index.html)(ACM Transactions on Storage), [TCAD](https://dblp.uni-trier.de/db/journals/tcad/index.html)(IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems), [TC](https://dblp.uni-trier.de/db/journals/tc/index.html)(IEEE Transactions on Computers).
 
 - [OSDI](https://dblp.org/search?q=federated%20venue%3AOSDI%3A) 2021
 - [SOSP](https://dblp.org/search?q=federated%20venue%3ASOSP%3A) 2021
 - [ISCA](https://dblp.org/search?q=federated%20venue%3AISCA%3A) NULL
 - [MLSys](https://dblp.org/search?q=federated%20venue%3AMLSys%3A) [2023](https://proceedings.mlsys.org/paper_files/paper/2023), [2022](https://proceedings.mlsys.org/paper_files/paper/2022), [2020](https://proceedings.mlsys.org/paper_files/paper/2020), [2019](https://proceedings.mlsys.org/paper_files/paper/2019)
+- [EuroSys](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Feurosys%3A) [2023](https://2023.eurosys.org/accepted-papers.html), 2022, 2021, 2020
 - [TPDS](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Ftpds%3A) 2023, 2022, 2021, 2020
 - [DAC](https://dblp.uni-trier.de/search?q=federate%20venue%3ADAC%3A) 2022, 2021
 - [TOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftocs%3A) NULL
@@ -1207,6 +1209,12 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ------------------------------------------------------------ |
+|REFL: Resource-Efficient Federated Learning | QMUL | EuroSys | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3552326.3567485) [PDF](https://arxiv.org/abs/2111.01108) [CODE](https://github.com/ahmedcs/refl) |
+|A First Look at the Impact of Distillation Hyper-Parameters in Federated Knowledge Distillation |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592590) |
+|Towards Practical Few-shot Federated NLP |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592575) |
+|Can Fair Federated Learning Reduce the need for Personalisation? |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592592) |
+|Gradient-less Federated Gradient Boosting Tree with Learnable Learning Rates |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592579) |
+|Towards Robust and Bias-free Federated Learning |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592576) |
 | FedTree: A Federated Learning System For Trees | UC Berkeley | MLSys | 2023 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html)] [[CODE](https://github.com/Xtra-Computing/FedTree)] |
 | FLINT: A Platform for Federated Learning Integration | LinkedIn | MLSys | 2023 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/d3313de3f431fd64513431c4326d237c-Abstract-mlsys2023.html)] [[PDF](https://arxiv.org/abs/2302.12862)] |
 | On Noisy Evaluation in Federated Hyperparameter Tuning | CMU | MLSys | 2023 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/294f82c43d69f66c04440cbb2740e52d-Abstract-mlsys2023.html)] [[PDF](https://arxiv.org/abs/2212.08930)] [[CODE](https://github.com/imkevinkuo/noisy-eval-in-fl)] |
@@ -1229,6 +1237,8 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | GossipFL: A Decentralized Federated Learning Framework With Sparsified and Adaptive Communication. | HKBU | TPDS | 2023 | [[PUB](https://ieeexplore.ieee.org/document/9996127)] |
 | FedMDS: An Efficient Model Discrepancy-Aware Semi-Asynchronous Clustered Federated Learning Framework. | CQU | TPDS | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10018536)] |
 | HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated Learning in Mobile Edge Computing. | DUT | TPDS | 2023 | [[PUB](https://ieeexplore.ieee.org/document/9935309)] |
+| Data selection for efficient model update in federated learning |  | EuroSys workshop | 2022 | [PUB](https://dl.acm.org/doi/10.1145/3517207.3526980) |
+| Empirical analysis of federated learning in heterogeneous environments |  | EuroSys workshop | 2022 | [PUB](https://dl.acm.org/doi/10.1145/3517207.3526969) |
 | BAFL: A Blockchain-Based Asynchronous Federated Learning Framework |  | TC | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9399813/)] [[CODE](https://github.com/xuchenhao001/AFL)] |
 | L4L: Experience-Driven Computational Resource Control in Federated Learning |  | TC | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9384231)] |
 | Adaptive Federated Learning on Non-IID Data With Resource Constraint |  | TC | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9496155)] |
@@ -1261,6 +1271,9 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | Communication-Efficient Federated Learning With Compensated Overlap-FedAvg. | SCU | TPDS | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9459540)] [[PDF](https://arxiv.org/abs/2012.06706)] [[CODE](https://github.com/Soptq/Overlap-FedAvg)] |
 | PAPAYA: Practical, Private, and Scalable Federated Learning. | Meta AI | MLSys | 2022 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2022/hash/a8bc4cb14a20f20d1f96188bd61eec87-Abstract.html)] [[PDF](https://arxiv.org/abs/2111.04877)] |
 | LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning | USC | MLSys | 2022 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2022/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html)] [[PDF](https://arxiv.org/abs/2109.14236)] [[CODE](https://github.com/LightSecAgg/MLSys2022_anonymous)] |
+| Accelerated Training via Device Similarity in Federated Learning |  | EuroSys workshop | 2021 | [PUB](https://dl.acm.org/doi/10.1145/3434770.3459734) |
+| Towards Federated Learning with Attention Transfer to Mitigate System and Data Heterogeneity of Clients |  | EuroSys workshop | 2021 | [PUB](https://dl.acm.org/doi/10.1145/3434770.3459739) |
+| Towards Mitigating Device Heterogeneity in Federated Learning via Adaptive Model Quantization |  | EuroSys workshop | 2021 | [PUB](https://dl.acm.org/doi/10.1145/3437984.3458839) |
 | SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low Overhead | University of Warwick | TC | 2021 | [[PDF](https://arxiv.org/abs/1910.01355)] [[PUB](https://ieeexplore.ieee.org/document/9093123)] [[CODE](https://github.com/wingter562/SAFA)] |
 | Efficient Federated Learning for Cloud-Based AIoT Applications | ECNU | TCAD | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9302596)] |
 | HADFL: Heterogeneity-aware Decentralized Federated Learning Framework | USTC | DAC | 2021 | [[PDF](https://arxiv.org/abs/2111.08274)] [[PUB](https://ieeexplore.ieee.org/document/9586101)] |
@@ -1281,6 +1294,9 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks |  | SOSP workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3477114.3488763)] |
 | Community-Structured Decentralized Learning for Resilient EI. |  | SOSP workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3477114.3488764)] |
 | Separation of Powers in Federated Learning (Poster Paper) | IBM Research | SOSP workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3477114.3488765)] [[PDF](https://arxiv.org/abs/2105.09400)] |
+| Towards federated unsupervised representation learning |  | EuroSys workshop | 2020 | [PUB](https://dl.acm.org/doi/10.1145/3378679.3394530) |
+| CoLearn: enabling federated learning in MUD-compliant IoT edge networks |  | EuroSys workshop | 2020 | [PUB](https://dl.acm.org/doi/10.1145/3378679.3394528) |
+| LDP-Fed: federated learning with local differential privacy. |  | EuroSys workshop | 2020 | [PUB](https://dl.acm.org/doi/10.1145/3378679.3394533) |
 | Accelerating Federated Learning via Momentum Gradient Descent. | USTC | TPDS | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9003425)] [[PDF](https://arxiv.org/abs/1910.03197)] |
 | Towards Fair and Privacy-Preserving Federated Deep Models. | NUS | TPDS | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9098045)] [[PDF](https://arxiv.org/abs/1906.01167)] [[CODE](https://github.com/lingjuanlv/FPPDL)] |
 | Federated Optimization in Heterogeneous Networks :fire: | CMU | MLSys | 2020 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html)] [[PDF](https://arxiv.org/abs/1812.06127)] [[CODE](https://github.com/litian96/FedProx)] |
@@ -1834,7 +1850,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
-- *2023/07/31 - add MobiCom, ICDE 2023 papers*
+- *2023/07/31 - add MobiCom, ICDE, EuroSys 2023 papers*
 - *2023/07/24 - add SIGIR, UAI, ICSE 2023 papers and information on CVPR workshops*
 - *2023/07/03 - add Events for different conferences and journals like [ACL](https://aclanthology.org/)*
 - *2023/07/01 - add AAAI, ICML, IJCAI, SIGIR, KDD, ACL 2023 papers*
