@@ -6003,6 +6003,26 @@ fl-in-top-secure-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'Every Vote Counts: Ranking-Based Training of Federated Learning to Resist
+      Poisoning Attacks'
+    affiliation: ''
+    venue: USENIX Security
+    year: '2023'
+    materials:
+      PUB: https://www.usenix.org/conference/usenixsecurity23/presentation/mozaffari
+  - title: 'PrivateFL: Accurate, Differentially Private Federated Learning via Personalized
+      Data Transformation'
+    affiliation: ''
+    venue: USENIX Security
+    year: '2023'
+    materials:
+      PUB: https://www.usenix.org/conference/usenixsecurity23/presentation/yang-yuchen
+  - title: Gradient Obfuscation Gives a False Sense of Security in Federated Learning
+    affiliation: ''
+    venue: USENIX Security
+    year: '2023'
+    materials:
+      PUB: https://www.usenix.org/conference/usenixsecurity23/presentation/yue
   - title: Securing Federated Sensitive Topic Classification against Poisoning Attacks
     affiliation: IMDEA Networks Institute
     venue: NDSS
@@ -7151,6 +7171,62 @@ fl-in-top-db-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Enhancing Decentralized Federated Learning for Non-IID Data on Heterogeneous
+      Devices
+    affiliation: USTC
+    venue: ICDE
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10184749
+  - title: Dynamic Activation of Clients and Parameters for Federated Learning over
+      Heterogeneous Graphs
+    affiliation: Columbia University
+    venue: ICDE
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10184557
+      CODE: https://github.com/dongzizhu/FedDA
+  - title: 'FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration
+      at Edge'
+    affiliation: BIT
+    venue: ICDE
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10184531
+      PDF: https://arxiv.org/abs/2212.01738
+  - title: 'Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized
+      Devices'
+    affiliation: SJTU
+    venue: ICDE
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10184796
+      PDF: https://arxiv.org/abs/2303.00492
+  - title: Federated IoT Interaction Vulnerability Analysis
+    affiliation: MSU
+    venue: ICDE
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10184681
+  - title: Distribution-Regularized Federated Learning on Non-IID Data
+    affiliation: BUAA
+    venue: ICDE
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10184650
+  - title: 'Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data'
+    affiliation: ShanghaiTech University
+    venue: ICDE
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10184550
+      CODE: https://github.com/SongjieXie/Fed-SC
+  - title: 'FLBooster: A Unified and Efficient Platform for Federated Learning Acceleration'
+    affiliation: ZJU
+    venue: ICDE
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10184883
   - title: Differentially Private Vertical Federated Clustering.
     affiliation: Purdue University
     venue: VLDB
@@ -7390,6 +7466,21 @@ fl-in-top-network-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust
+      Autonomous Driving'
+    affiliation: NTU
+    venue: MobiCom
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3570361.3592517
+      PDF: https://arxiv.org/abs/2302.08646
+  - title: Efficient Federated Learning for Modern NLP
+    affiliation: Beiyou                                        Shenzhen Institute
+    venue: MobiCom
+    year: '2023'
+    materials:
+      PDF: https://arxiv.org/abs/2205.10162
+      解读: https://zhuanlan.zhihu.com/p/638270746
   - title: 'FLASH: Towards a High-performance Hardware Acceleration Architecture for
       Cross-silo Federated Learning'
     affiliation: HKUST; Clustar
@@ -8085,6 +8176,46 @@ fl-in-top-system-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'REFL: Resource-Efficient Federated Learning'
+    affiliation: QMUL
+    venue: EuroSys
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3552326.3567485
+      PDF: https://arxiv.org/abs/2111.01108
+      CODE: https://github.com/ahmedcs/refl
+  - title: A First Look at the Impact of Distillation Hyper-Parameters in Federated
+      Knowledge Distillation
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3578356.3592590
+  - title: Towards Practical Few-shot Federated NLP
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3578356.3592575
+  - title: Can Fair Federated Learning Reduce the need for Personalisation?
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3578356.3592592
+  - title: Gradient-less Federated Gradient Boosting Tree with Learnable Learning
+      Rates
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3578356.3592579
+  - title: Towards Robust and Bias-free Federated Learning
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3578356.3592576
   - title: 'FedTree: A Federated Learning System For Trees'
     affiliation: UC Berkeley
     venue: MLSys
@@ -8247,6 +8378,18 @@ fl-in-top-system-conference-and-journal:
     year: '2023'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9935309
+  - title: Data selection for efficient model update in federated learning
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2022'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3517207.3526980
+  - title: Empirical analysis of federated learning in heterogeneous environments
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2022'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3517207.3526969
   - title: 'BAFL: A Blockchain-Based Asynchronous Federated Learning Framework'
     affiliation: ''
     venue: TC
@@ -8478,6 +8621,26 @@ fl-in-top-system-conference-and-journal:
       PUB: https://proceedings.mlsys.org/paper_files/paper/2022/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html
       PDF: https://arxiv.org/abs/2109.14236
       CODE: https://github.com/LightSecAgg/MLSys2022_anonymous
+  - title: Accelerated Training via Device Similarity in Federated Learning
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2021'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3434770.3459734
+  - title: Towards Federated Learning with Attention Transfer to Mitigate System and
+      Data Heterogeneity of Clients
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2021'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3434770.3459739
+  - title: Towards Mitigating Device Heterogeneity in Federated Learning via Adaptive
+      Model Quantization
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2021'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3437984.3458839
   - title: 'SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low
       Overhead'
     affiliation: University of Warwick
@@ -8625,6 +8788,24 @@ fl-in-top-system-conference-and-journal:
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3477114.3488765
       PDF: https://arxiv.org/abs/2105.09400
+  - title: Towards federated unsupervised representation learning
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2020'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3378679.3394530
+  - title: 'CoLearn: enabling federated learning in MUD-compliant IoT edge networks'
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2020'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3378679.3394528
+  - title: 'LDP-Fed: federated learning with local differential privacy.'
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2020'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3378679.3394533
   - title: Accelerating Federated Learning via Momentum Gradient Descent.
     affiliation: USTC
     venue: TPDS

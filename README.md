@@ -792,9 +792,9 @@ Federated Learning papers accepted by top Secure conference and journal, Includi
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
-|Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks |  | USENIX Security | 2023 | [pub](https://www.usenix.org/conference/usenixsecurity23/presentation/mozaffari) |
-|PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation |  | USENIX Security | 2023 | [pub](https://www.usenix.org/conference/usenixsecurity23/presentation/yang-yuchen) |
-|Gradient Obfuscation Gives a False Sense of Security in Federated Learning |  | USENIX Security | 2023 | [pub](https://www.usenix.org/conference/usenixsecurity23/presentation/yue) |
+| Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks |  | USENIX Security | 2023 | [[PUB](https://www.usenix.org/conference/usenixsecurity23/presentation/mozaffari)] |
+| PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation |  | USENIX Security | 2023 | [[PUB](https://www.usenix.org/conference/usenixsecurity23/presentation/yang-yuchen)] |
+| Gradient Obfuscation Gives a False Sense of Security in Federated Learning |  | USENIX Security | 2023 | [[PUB](https://www.usenix.org/conference/usenixsecurity23/presentation/yue)] |
 | Securing Federated Sensitive Topic Classification against Poisoning Attacks | IMDEA Networks Institute | NDSS | 2023 | [[PUB](https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/)] [[PDF](https://arxiv.org/abs/2201.13086)] [[CODE](https://github.com/FRM-Sec/FRM)] |
 | PPA: Preference Profiling Attack Against Federated Learning | NJUST | NDSS | 2023 | [[PUB](https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/)] [[PDF](https://arxiv.org/abs/2202.04856)] |
 | CERBERUS: Exploring Federated Prediction of Security Events | UCL London | CCS | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3548606.3560580)] [[PDF](https://arxiv.org/abs/2209.03050)] |
@@ -1025,14 +1025,14 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                        | Affiliation                     | Venue           | Year | Materials|
 | ------------------------------------------------------------ | ------------------------------- | --------------- | ---- | ------------------------------------------------------------ |
-|Enhancing Decentralized Federated Learning for Non-IID Data on Heterogeneous Devices | USTC | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184749) |
-|Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs | Columbia University | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184557) [CODE](https://github.com/dongzizhu/FedDA) |
-|FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge | BIT | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184531) [PDF](https://arxiv.org/abs/2212.01738) |
-|Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices | SJTU | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184796) [PDF](https://arxiv.org/abs/2303.00492) |
-|Federated IoT Interaction Vulnerability Analysis | MSU | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184681) |
-|Distribution-Regularized Federated Learning on Non-IID Data | BUAA | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184650) |
-|Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data | ShanghaiTech University | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184550) [CODE](https://github.com/SongjieXie/Fed-SC) |
-|FLBooster: A Unified and Efficient Platform for Federated Learning Acceleration | ZJU | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184883) |
+| Enhancing Decentralized Federated Learning for Non-IID Data on Heterogeneous Devices | USTC | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184749)] |
+| Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs | Columbia University | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184557)] [[CODE](https://github.com/dongzizhu/FedDA)] |
+| FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge | BIT | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184531)] [[PDF](https://arxiv.org/abs/2212.01738)] |
+| Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices | SJTU | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184796)] [[PDF](https://arxiv.org/abs/2303.00492)] |
+| Federated IoT Interaction Vulnerability Analysis | MSU | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184681)] |
+| Distribution-Regularized Federated Learning on Non-IID Data | BUAA | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184650)] |
+| Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data | ShanghaiTech University | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184550)] [[CODE](https://github.com/SongjieXie/Fed-SC)] |
+| FLBooster: A Unified and Efficient Platform for Federated Learning Acceleration | ZJU | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184883)] |
 | Differentially Private Vertical Federated Clustering. | Purdue University | VLDB | 2023 | [[PUB](https://www.vldb.org/pvldb/vol16/p1277-li.pdf)] [[PDF](https://arxiv.org/abs/2208.01700)] [[CODE](https://anonymous.4open.science/r/public_vflclustering-63CD/README.md)] |
 | FederatedScope: A Flexible Federated Learning Platform for Heterogeneity. :fire: | Alibaba | VLDB | 2023 | [[PUB](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)] [[PDF](https://arxiv.org/abs/2204.05011)] [[CODE](https://github.com/alibaba/FederatedScope)] |
 | Secure Shapley Value for Cross-Silo Federated Learning. | Kyoto University | VLDB | 2023 | [[PUB](https://www.vldb.org/pvldb/vol16/p1657-zheng.pdf)] [[PDF](https://arxiv.org/abs/2209.04856)] [[CODE](https://github.com/teijyogen/secsv)] |
@@ -1086,8 +1086,8 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ------------------------------------------------------------ |
-|AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving | NTU | MobiCom | 2023 | [pub](https://dl.acm.org/doi/10.1145/3570361.3592517) [pdf](https://arxiv.org/abs/2302.08646) |
-|Efficient Federated Learning for Modern NLP | Beiyou                                        Shenzhen Institute | MobiCom | 2023 | [PDF](https://arxiv.org/abs/2205.10162) [解读](https://zhuanlan.zhihu.com/p/638270746) |
+| AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving | NTU | MobiCom | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3570361.3592517)] [[PDF](https://arxiv.org/abs/2302.08646)] |
+| Efficient Federated Learning for Modern NLP | Beiyou                                        Shenzhen Institute | MobiCom | 2023 | [[PDF](https://arxiv.org/abs/2205.10162)] [[解读](https://zhuanlan.zhihu.com/p/638270746)] |
 | FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning | HKUST; Clustar | NSDI | 2023 | [[PUB](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue)] [[SLIDE](https://www.usenix.org/system/files/nsdi23_slides_zhang.pdf)] [[VIDEO](https://www.youtube.com/watch?v=I5V3r-8sY-Y)] |
 | To Store or Not? Online Data Selection for Federated Learning with Limited Storage. | SJTU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583426)] [[PDF](https://arxiv.org/abs/2209.00195)] |
 | pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning. | PolyU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583518)] |
@@ -1211,12 +1211,12 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ------------------------------------------------------------ |
-|REFL: Resource-Efficient Federated Learning | QMUL | EuroSys | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3552326.3567485) [PDF](https://arxiv.org/abs/2111.01108) [CODE](https://github.com/ahmedcs/refl) |
-|A First Look at the Impact of Distillation Hyper-Parameters in Federated Knowledge Distillation |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592590) |
-|Towards Practical Few-shot Federated NLP |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592575) |
-|Can Fair Federated Learning Reduce the need for Personalisation? |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592592) |
-|Gradient-less Federated Gradient Boosting Tree with Learnable Learning Rates |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592579) |
-|Towards Robust and Bias-free Federated Learning |  | EuroSys workshop | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3578356.3592576) |
+| REFL: Resource-Efficient Federated Learning | QMUL | EuroSys | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3552326.3567485)] [[PDF](https://arxiv.org/abs/2111.01108)] [[CODE](https://github.com/ahmedcs/refl)] |
+| A First Look at the Impact of Distillation Hyper-Parameters in Federated Knowledge Distillation |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592590)] |
+| Towards Practical Few-shot Federated NLP |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592575)] |
+| Can Fair Federated Learning Reduce the need for Personalisation? |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592592)] |
+| Gradient-less Federated Gradient Boosting Tree with Learnable Learning Rates |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592579)] |
+| Towards Robust and Bias-free Federated Learning |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592576)] |
 | FedTree: A Federated Learning System For Trees | UC Berkeley | MLSys | 2023 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html)] [[CODE](https://github.com/Xtra-Computing/FedTree)] |
 | FLINT: A Platform for Federated Learning Integration | LinkedIn | MLSys | 2023 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/d3313de3f431fd64513431c4326d237c-Abstract-mlsys2023.html)] [[PDF](https://arxiv.org/abs/2302.12862)] |
 | On Noisy Evaluation in Federated Hyperparameter Tuning | CMU | MLSys | 2023 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/294f82c43d69f66c04440cbb2740e52d-Abstract-mlsys2023.html)] [[PDF](https://arxiv.org/abs/2212.08930)] [[CODE](https://github.com/imkevinkuo/noisy-eval-in-fl)] |
@@ -1239,8 +1239,8 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | GossipFL: A Decentralized Federated Learning Framework With Sparsified and Adaptive Communication. | HKBU | TPDS | 2023 | [[PUB](https://ieeexplore.ieee.org/document/9996127)] |
 | FedMDS: An Efficient Model Discrepancy-Aware Semi-Asynchronous Clustered Federated Learning Framework. | CQU | TPDS | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10018536)] |
 | HierFedML: Aggregator Placement and UE Assignment for Hierarchical Federated Learning in Mobile Edge Computing. | DUT | TPDS | 2023 | [[PUB](https://ieeexplore.ieee.org/document/9935309)] |
-| Data selection for efficient model update in federated learning |  | EuroSys workshop | 2022 | [PUB](https://dl.acm.org/doi/10.1145/3517207.3526980) |
-| Empirical analysis of federated learning in heterogeneous environments |  | EuroSys workshop | 2022 | [PUB](https://dl.acm.org/doi/10.1145/3517207.3526969) |
+| Data selection for efficient model update in federated learning |  | EuroSys workshop | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3517207.3526980)] |
+| Empirical analysis of federated learning in heterogeneous environments |  | EuroSys workshop | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3517207.3526969)] |
 | BAFL: A Blockchain-Based Asynchronous Federated Learning Framework |  | TC | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9399813/)] [[CODE](https://github.com/xuchenhao001/AFL)] |
 | L4L: Experience-Driven Computational Resource Control in Federated Learning |  | TC | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9384231)] |
 | Adaptive Federated Learning on Non-IID Data With Resource Constraint |  | TC | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9496155)] |
@@ -1273,9 +1273,9 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | Communication-Efficient Federated Learning With Compensated Overlap-FedAvg. | SCU | TPDS | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9459540)] [[PDF](https://arxiv.org/abs/2012.06706)] [[CODE](https://github.com/Soptq/Overlap-FedAvg)] |
 | PAPAYA: Practical, Private, and Scalable Federated Learning. | Meta AI | MLSys | 2022 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2022/hash/a8bc4cb14a20f20d1f96188bd61eec87-Abstract.html)] [[PDF](https://arxiv.org/abs/2111.04877)] |
 | LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning | USC | MLSys | 2022 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2022/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html)] [[PDF](https://arxiv.org/abs/2109.14236)] [[CODE](https://github.com/LightSecAgg/MLSys2022_anonymous)] |
-| Accelerated Training via Device Similarity in Federated Learning |  | EuroSys workshop | 2021 | [PUB](https://dl.acm.org/doi/10.1145/3434770.3459734) |
-| Towards Federated Learning with Attention Transfer to Mitigate System and Data Heterogeneity of Clients |  | EuroSys workshop | 2021 | [PUB](https://dl.acm.org/doi/10.1145/3434770.3459739) |
-| Towards Mitigating Device Heterogeneity in Federated Learning via Adaptive Model Quantization |  | EuroSys workshop | 2021 | [PUB](https://dl.acm.org/doi/10.1145/3437984.3458839) |
+| Accelerated Training via Device Similarity in Federated Learning |  | EuroSys workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3434770.3459734)] |
+| Towards Federated Learning with Attention Transfer to Mitigate System and Data Heterogeneity of Clients |  | EuroSys workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3434770.3459739)] |
+| Towards Mitigating Device Heterogeneity in Federated Learning via Adaptive Model Quantization |  | EuroSys workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3437984.3458839)] |
 | SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low Overhead | University of Warwick | TC | 2021 | [[PDF](https://arxiv.org/abs/1910.01355)] [[PUB](https://ieeexplore.ieee.org/document/9093123)] [[CODE](https://github.com/wingter562/SAFA)] |
 | Efficient Federated Learning for Cloud-Based AIoT Applications | ECNU | TCAD | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9302596)] |
 | HADFL: Heterogeneity-aware Decentralized Federated Learning Framework | USTC | DAC | 2021 | [[PDF](https://arxiv.org/abs/2111.08274)] [[PUB](https://ieeexplore.ieee.org/document/9586101)] |
@@ -1296,9 +1296,9 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks |  | SOSP workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3477114.3488763)] |
 | Community-Structured Decentralized Learning for Resilient EI. |  | SOSP workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3477114.3488764)] |
 | Separation of Powers in Federated Learning (Poster Paper) | IBM Research | SOSP workshop | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3477114.3488765)] [[PDF](https://arxiv.org/abs/2105.09400)] |
-| Towards federated unsupervised representation learning |  | EuroSys workshop | 2020 | [PUB](https://dl.acm.org/doi/10.1145/3378679.3394530) |
-| CoLearn: enabling federated learning in MUD-compliant IoT edge networks |  | EuroSys workshop | 2020 | [PUB](https://dl.acm.org/doi/10.1145/3378679.3394528) |
-| LDP-Fed: federated learning with local differential privacy. |  | EuroSys workshop | 2020 | [PUB](https://dl.acm.org/doi/10.1145/3378679.3394533) |
+| Towards federated unsupervised representation learning |  | EuroSys workshop | 2020 | [[PUB](https://dl.acm.org/doi/10.1145/3378679.3394530)] |
+| CoLearn: enabling federated learning in MUD-compliant IoT edge networks |  | EuroSys workshop | 2020 | [[PUB](https://dl.acm.org/doi/10.1145/3378679.3394528)] |
+| LDP-Fed: federated learning with local differential privacy. |  | EuroSys workshop | 2020 | [[PUB](https://dl.acm.org/doi/10.1145/3378679.3394533)] |
 | Accelerating Federated Learning via Momentum Gradient Descent. | USTC | TPDS | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9003425)] [[PDF](https://arxiv.org/abs/1910.03197)] |
 | Towards Fair and Privacy-Preserving Federated Deep Models. | NUS | TPDS | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9098045)] [[PDF](https://arxiv.org/abs/1906.01167)] [[CODE](https://github.com/lingjuanlv/FPPDL)] |
 | Federated Optimization in Heterogeneous Networks :fire: | CMU | MLSys | 2020 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html)] [[PDF](https://arxiv.org/abs/1812.06127)] [[CODE](https://github.com/litian96/FedProx)] |
