@@ -79,7 +79,7 @@
 | [WSDM](https://dblp.uni-trier.de/search?q=federate%20venue%3AWSDM%3A) | [23](https://www.wsdm-conference.org/2023/program/accepted-papers), [22](https://www.wsdm-conference.org/2022/accepted-papers/), [21](https://www.wsdm-conference.org/2021/accepted-papers.php) | [19](https://www.wsdm-conference.org/2019/accepted-papers.php) |
 | [S&P](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fsp%3A) | [23](https://sp2023.ieee-security.org/program-papers.html), [22](https://www.ieee-security.org/TC/SP2022/program-papers.html) | [19](https://www.ieee-security.org/TC/SP2019/program-papers.html) |
 | [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) | [22](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html), [21](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [19](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/) | [17](https://acmccs.github.io/papers/)                       |
-| [USENIX Security](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fuss%3A) | [22](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [20](https://www.usenix.org/conference/usenixsecurity20/technical-sessions) | -                                                            |
+| [USENIX Security](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fuss%3A) | [23](https://www.usenix.org/conference/usenixsecurity23/technical-sessions), [22](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [20](https://www.usenix.org/conference/usenixsecurity20/technical-sessions) | -                                                            |
 | [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) | [23](https://www.ndss-symposium.org/ndss2023/accepted-papers/), [22](https://www.ndss-symposium.org/ndss2022/accepted-papers/), [21](https://www.ndss-symposium.org/ndss2021/accepted-papers/) | -                                                            |
 | [CVPR](https://dblp.uni-trier.de/search?q=federate%20venue%3ACVPR%3A) | [23](https://openaccess.thecvf.com/CVPR2023?day=all), [22](https://openaccess.thecvf.com/CVPR2022), [21](https://openaccess.thecvf.com/CVPR2021?day=all) | -                                                            |
 | [ICCV](https://dblp.uni-trier.de/search?q=federate%20venue%3AICCV%3A) | [21](https://openaccess.thecvf.com/ICCV2021?day=all)         | -                                                            |
@@ -783,16 +783,18 @@ Federated Learning papers accepted by top Secure conference and journal, Includi
 
 - [S&P](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fsp%3A) [2023](https://sp2023.ieee-security.org/program-papers.html), [2022](https://www.ieee-security.org/TC/SP2022/program-papers.html), [2019](https://www.ieee-security.org/TC/SP2019/program-papers.html)
 - [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) [2022](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html), [2021](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [2019](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/), [2017](https://acmccs.github.io/papers/)
-- [USENIX Security](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fuss%3A) [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [2020](https://www.usenix.org/conference/usenixsecurity20/technical-sessions)
+- [USENIX Security](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fuss%3A) [2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions), [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [2020](https://www.usenix.org/conference/usenixsecurity20/technical-sessions)
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) [2023](https://www.ndss-symposium.org/ndss2023/accepted-papers/), [2022](https://www.ndss-symposium.org/ndss2022/accepted-papers/), [2021](https://www.ndss-symposium.org/ndss2021/accepted-papers/)
 
 <details open>
 <summary>fl in top secure conference and journal</summary>
-
 <!-- START:fl-in-top-secure-conference-and-journal -->
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
+|Every Vote Counts: Ranking-Based Training of Federated Learning to Resist Poisoning Attacks |  | USENIX Security | 2023 | [pub](https://www.usenix.org/conference/usenixsecurity23/presentation/mozaffari) |
+|PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation |  | USENIX Security | 2023 | [pub](https://www.usenix.org/conference/usenixsecurity23/presentation/yang-yuchen) |
+|Gradient Obfuscation Gives a False Sense of Security in Federated Learning |  | USENIX Security | 2023 | [pub](https://www.usenix.org/conference/usenixsecurity23/presentation/yue) |
 | Securing Federated Sensitive Topic Classification against Poisoning Attacks | IMDEA Networks Institute | NDSS | 2023 | [[PUB](https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/)] [[PDF](https://arxiv.org/abs/2201.13086)] [[CODE](https://github.com/FRM-Sec/FRM)] |
 | PPA: Preference Profiling Attack Against Federated Learning | NJUST | NDSS | 2023 | [[PUB](https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/)] [[PDF](https://arxiv.org/abs/2202.04856)] |
 | CERBERUS: Exploring Federated Prediction of Security Events | UCL London | CCS | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3548606.3560580)] [[PDF](https://arxiv.org/abs/2209.03050)] |
@@ -1850,7 +1852,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
-- *2023/07/31 - add MobiCom, ICDE, EuroSys 2023 papers*
+- *2023/07/31 - add MobiCom, ICDE, EuroSys, USENIX Security 2023 papers*
 - *2023/07/24 - add SIGIR, UAI, ICSE 2023 papers and information on CVPR workshops*
 - *2023/07/03 - add Events for different conferences and journals like [ACL](https://aclanthology.org/)*
 - *2023/07/01 - add AAAI, ICML, IJCAI, SIGIR, KDD, ACL 2023 papers*
