@@ -92,11 +92,11 @@
 | [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) | [20](https://aclanthology.org/events/coling-2020/)           | -                                                            |
 | [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) | [23](https://dl.acm.org/doi/proceedings/10.1145/3539618), [22](https://dl.acm.org/doi/proceedings/10.1145/3477495), [21](https://dl.acm.org/doi/proceedings/10.1145/3404835), [20](https://dl.acm.org/doi/proceedings/10.1145/3397271) | -                                                            |
 | [SIGMOD](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fsigmod%3A) | [22](https://2022.sigmod.org/sigmod_research_list.shtml), [21](https://2021.sigmod.org/sigmod_research_list.shtml) | -                                                            |
-| [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) | [22](https://icde2022.ieeecomputer.my/accepted-research-track/), [21](https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding) | -                                                            |
+| [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) | [23](https://icde2023.ics.uci.edu/papers-research-track/), [22](https://icde2022.ieeecomputer.my/accepted-research-track/), [21](https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding) | -                                                            |
 | [VLDB](https://dblp.org/search?q=federated%20streamid%3Ajournals%2Fpvldb%3A) | 23, [22](https://vldb.org/pvldb/vol16-volume-info/), [21](https://vldb.org/pvldb/vol15-volume-info/), [21](http://www.vldb.org/pvldb/vol14/), [20](http://vldb.org/pvldb/vol13-volume-info/) | -                                                            |
 | [SIGCOMM](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGCOMM%3A) | -                                                            | -                                                            |
 | [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) | [23](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference), [22](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference), [21](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html), [20](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html) | [19](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 18 |
-| [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) | [22](https://www.sigmobile.org/mobicom/2022/accepted.html), [21](https://www.sigmobile.org/mobicom/2021/accepted.html), [20](https://www.sigmobile.org/mobicom/2020/accepted.php) |                                                              |
+| [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) | [23](https://www.sigmobile.org/mobicom/2023/accepted.html), [22](https://www.sigmobile.org/mobicom/2022/accepted.html), [21](https://www.sigmobile.org/mobicom/2021/accepted.html), [20](https://www.sigmobile.org/mobicom/2020/accepted.php) |                                                              |
 | [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) | 23([1](https://www.usenix.org/conference/nsdi23/spring-accepted-papers), [2](https://www.usenix.org/conference/nsdi23/fall-accepted-papers)) | -                                                            |
 | [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) | [23](https://www2023.thewebconf.org/program/accepted-papers/), [22](https://www2022.thewebconf.org/accepted-papers/), [21](https://www2021.thewebconf.org/program/papers-program/links/index.html) |                                                              |
 | [OSDI](https://dblp.org/search?q=federated%20venue%3AOSDI%3A) | 21                                                           | -                                                            |
@@ -1012,7 +1012,7 @@ Federated Learning papers accepted by top Information Retrieval conference and j
 Federated Learning papers accepted by top Database conference and journal, including [SIGMOD](https://dblp.uni-trier.de/db/conf/sigmod/index.html)(ACM SIGMOD Conference) , [ICDE](https://dblp.uni-trier.de/db/conf/icde/index.html)(IEEE International Conference on Data Engineering) and [VLDB](https://dblp.uni-trier.de/db/conf/vldb/index.html)(Very Large Data Bases Conference).
 
 - [SIGMOD](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fsigmod%3A) [2022](https://2022.sigmod.org/sigmod_research_list.shtml), [2021](https://2021.sigmod.org/sigmod_research_list.shtml)
-- [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) [2022](https://icde2022.ieeecomputer.my/accepted-research-track/), [2021](https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding)
+- [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) [2023](https://icde2023.ics.uci.edu/papers-research-track/), [2022](https://icde2022.ieeecomputer.my/accepted-research-track/), [2021](https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding)
 - [VLDB](https://dblp.org/search?q=federated%20streamid%3Ajournals%2Fpvldb%3A) 2023, [2022](https://vldb.org/pvldb/vol16-volume-info/), [2021](https://vldb.org/pvldb/vol15-volume-info/), [2021](http://www.vldb.org/pvldb/vol14/), [2020](http://vldb.org/pvldb/vol13-volume-info/)
 
 <details open>
@@ -1022,6 +1022,14 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                        | Affiliation                     | Venue           | Year | Materials|
 | ------------------------------------------------------------ | ------------------------------- | --------------- | ---- | ------------------------------------------------------------ |
+|Enhancing Decentralized Federated Learning for Non-IID Data on Heterogeneous Devices | USTC | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184749) |
+|Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs | Columbia University | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184557) [CODE](https://github.com/dongzizhu/FedDA) |
+|FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge | BIT | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184531) [PDF](https://arxiv.org/abs/2212.01738) |
+|Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices | SJTU | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184796) [PDF](https://arxiv.org/abs/2303.00492) |
+|Federated IoT Interaction Vulnerability Analysis | MSU | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184681) |
+|Distribution-Regularized Federated Learning on Non-IID Data | BUAA | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184650) |
+|Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data | ShanghaiTech University | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184550) [CODE](https://github.com/SongjieXie/Fed-SC) |
+|FLBooster: A Unified and Efficient Platform for Federated Learning Acceleration | ZJU | ICDE | 2023 | [PUB](https://ieeexplore.ieee.org/document/10184883) |
 | Differentially Private Vertical Federated Clustering. | Purdue University | VLDB | 2023 | [[PUB](https://www.vldb.org/pvldb/vol16/p1277-li.pdf)] [[PDF](https://arxiv.org/abs/2208.01700)] [[CODE](https://anonymous.4open.science/r/public_vflclustering-63CD/README.md)] |
 | FederatedScope: A Flexible Federated Learning Platform for Heterogeneity. :fire: | Alibaba | VLDB | 2023 | [[PUB](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)] [[PDF](https://arxiv.org/abs/2204.05011)] [[CODE](https://github.com/alibaba/FederatedScope)] |
 | Secure Shapley Value for Cross-Silo Federated Learning. | Kyoto University | VLDB | 2023 | [[PUB](https://www.vldb.org/pvldb/vol16/p1657-zheng.pdf)] [[PDF](https://arxiv.org/abs/2209.04856)] [[CODE](https://github.com/teijyogen/secsv)] |
@@ -1064,7 +1072,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 - [SIGCOMM](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGCOMM%3A) NULL
 - [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) [2023](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference), [2022](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference)([Page](https://infocom.info/day/3/track/Track%20B#B-7)), [2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom21)), [2020](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom20)), [2019](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 2018
-- [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) [2022](https://www.sigmobile.org/mobicom/2022/accepted.html), [2021](https://www.sigmobile.org/mobicom/2021/accepted.html), [2020](https://www.sigmobile.org/mobicom/2020/accepted.php)
+- [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) [2023](https://www.sigmobile.org/mobicom/2023/accepted.html), [2022](https://www.sigmobile.org/mobicom/2022/accepted.html), [2021](https://www.sigmobile.org/mobicom/2021/accepted.html), [2020](https://www.sigmobile.org/mobicom/2020/accepted.php)
 - [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) 2023([Spring](https://www.usenix.org/conference/nsdi23/spring-accepted-papers), [Fall](https://www.usenix.org/conference/nsdi23/fall-accepted-papers))
 - [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2023](https://www2023.thewebconf.org/program/accepted-papers/), [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
 
@@ -1075,6 +1083,8 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ------------------------------------------------------------ |
+|AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving | NTU | MobiCom | 2023 | [pub](https://dl.acm.org/doi/10.1145/3570361.3592517) [pdf](https://arxiv.org/abs/2302.08646) |
+|Efficient Federated Learning for Modern NLP | Beiyou                                        Shenzhen Institute | MobiCom | 2023 | [PDF](https://arxiv.org/abs/2205.10162) [解读](https://zhuanlan.zhihu.com/p/638270746) |
 | FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning | HKUST; Clustar | NSDI | 2023 | [[PUB](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue)] [[SLIDE](https://www.usenix.org/system/files/nsdi23_slides_zhang.pdf)] [[VIDEO](https://www.youtube.com/watch?v=I5V3r-8sY-Y)] |
 | To Store or Not? Online Data Selection for Federated Learning with Limited Storage. | SJTU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583426)] [[PDF](https://arxiv.org/abs/2209.00195)] |
 | pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning. | PolyU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583518)] |
@@ -1824,6 +1834,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- *2023/07/31 - add MobiCom, ICDE 2023 papers*
 - *2023/07/24 - add SIGIR, UAI, ICSE 2023 papers and information on CVPR workshops*
 - *2023/07/03 - add Events for different conferences and journals like [ACL](https://aclanthology.org/)*
 - *2023/07/01 - add AAAI, ICML, IJCAI, SIGIR, KDD, ACL 2023 papers*
