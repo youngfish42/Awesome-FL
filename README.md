@@ -68,7 +68,7 @@
 | [ALT](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Falt%3A) | 22                                                           | -                                                            |
 | [AI](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fai%3A) (J) | -                                                            | -                                                            |
 | [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) | [22](https://papers.nips.cc/paper_files/paper/2022), [21](https://papers.nips.cc/paper/2021), [20](https://papers.nips.cc/paper/2020) | [18](https://papers.nips.cc/paper/2018), [17](https://papers.nips.cc/paper/17) |
-| [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) | [23](https://openreview.net/group?id=ICML.cc/2023/Conference), [22](https://icml.cc/Conferences/2022/Schedule?type=Poster), [21](https://icml.cc/Conferences/2021/Schedule?type=Poster), [20](https://icml.cc/Conferences/2020/Schedule?type=Poster) | [19](https://icml.cc/Conferences/2019/Schedule?type=Poster)  |
+| [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) | [23](https://icml.cc/Conferences/2023/Schedule?type=Poster), [22](https://icml.cc/Conferences/2022/Schedule?type=Poster), [21](https://icml.cc/Conferences/2021/Schedule?type=Poster), [20](https://icml.cc/Conferences/2020/Schedule?type=Poster) | [19](https://icml.cc/Conferences/2019/Schedule?type=Poster)  |
 | [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) | [23](https://openreview.net/group?id=ICLR.cc/2023/Conference), [22](https://openreview.net/group?id=ICLR.cc/2022/Conference), [21](https://openreview.net/group?id=ICLR.cc/2021/Conference), [20](https://openreview.net/group?id=ICLR.cc/2020/Conference) | -                                                            |
 | [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) | -                                                            | -                                                            |
 | [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A)  | [23](https://www.auai.org/uai2023/accepted_papers), [22](https://www.auai.org/uai2022/accepted_papers), [21](https://www.auai.org/uai2021/accepted_papers) | -                                                            |
@@ -344,7 +344,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 Federated Learning papers accepted by top ML(machine learning) conference and journal, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations), [COLT](https://dblp.org/db/conf/colt/index.html)(Annual Conference Computational Learning Theory) , [UAI](https://dblp.org/db/conf/uai/index.html)(Conference on Uncertainty in Artificial Intelligence),[Machine Learning](https://dblp.org/db/journals/ml/index.html), [JMLR](https://dblp.uni-trier.de/db/journals/jmlr/index.html)(Journal of Machine Learning Research), [TPAMI](https://dblp.uni-trier.de/db/journals/pami/index.html)(IEEE Transactions on Pattern Analysis and Machine Intelligence).
 
 - [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) [2022](https://papers.nips.cc/paper_files/paper/2022)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)), [2021](https://papers.nips.cc/paper/2021)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Conference)), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
-- [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2023](https://openreview.net/group?id=ICML.cc/2023/Conference), [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
+- [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2023](https://icml.cc/Conferences/2023/Schedule?type=Poster), [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 - [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) [2023](https://openreview.net/group?id=ICLR.cc/2023/Conference), [2022](https://openreview.net/group?id=ICLR.cc/2022/Conference), [2021](https://openreview.net/group?id=ICLR.cc/2021/Conference), [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) NULL
 - [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) [2023](https://www.auai.org/uai2023/accepted_papers), [2022](https://www.auai.org/uai2022/accepted_papers), [2021](https://www.auai.org/uai2021/accepted_papers)
@@ -365,63 +365,63 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 | Federated learning of models pre-trained on different features with consensus graphs | IBM Research | UAI | 2023 | [[PUB](https://openreview.net/forum?id=gSMiXJmMEOf)] [[SUPP](https://proceedings.mlr.press/v216/ma23b/ma23b-supp.pdf)] [[MATERIAL](https://openreview.net/attachment?id=gSMiXJmMEOf&name=other_supplementary_material)] [[CODE](https://github.com/matenure/federated_feature_fusion)] |
 | Fast Heterogeneous Federated Learning with Hybrid Client Selection | NWPU | UAI | 2023 | [[PUB](https://openreview.net/forum?id=JtSlA972EHP)] [[SUPP](https://proceedings.mlr.press/v216/song23b/song23b-supp.pdf)] [[MATERIAL](https://openreview.net/attachment?id=JtSlA972EHP&name=other_supplementary_material)] [[PDF](https://arxiv.org/abs/2208.05135)] |
 | Learning To Invert: Simple Adaptive Attacks for Gradient Inversion in Federated Learning | Cornell University | UAI | 2023 | [[PUB](https://openreview.net/forum?id=Gt_GiNkBhu)] [[PDF](https://arxiv.org/abs/2210.10880)] [[SUPP](https://proceedings.mlr.press/v216/wu23a/wu23a-supp.pdf)] [[MATERIAL](https://openreview.net/attachment?id=Gt_GiNkBhu&name=other_supplementary_material)] [[CODE](https://github.com/wrh14/learning_to_invert)] |
-| Dynamic Regularized Sharpness Aware Minimization in Federated Learning:  Approaching Global Consistency and Smooth Landscape |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=vD1R00hROK)] |
-| Analysis of Error Feedback in Federated  Non-Convex Optimization with Biased Compression: Fast Convergence and  Partial Participation |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=wbs1fKLfOe)] |
-| FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=891ytYlYgB)] |
-| Federated Conformal Predictors for Distributed Uncertainty Quantification |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=YVTr9PzIrK)] [[CODE](https://github.com/clu5/federated-conformal)] |
-| Federated Adversarial Learning: A Framework with Convergence Analysis |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=kgvoV2KcTJ)] |
-| Federated Heavy Hitter Recovery under Linear Sketching |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=zN4oRCrlnM)] |
-| Doubly Adversarial Federated Bandits |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=FjOB0g7iRf)] |
-| Achieving Linear Speedup in Non-IID Federated Bilevel Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=XFpTtAWNpQ)] |
-| One-Shot Federated Conformal Prediction |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=SZJGIWe1Ag)] |
-| Federated Online and Bandit Convex Optimization |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=mi7pnouqLa)] |
-| Federated Linear Contextual Bandits with User-level Differential Privacy |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=b9opfVNw6O)] |
-| Vertical Federated Graph Neural Network for Recommender System |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=NRnS6CtbaN)] [[CODE](https://github.com/maiph123/verticalgnn)] |
-| Communication-Efficient Federated Hypergradient Computation via Aggregated Iterative Differentiation |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=IYyhNudD9V)] |
-| Towards Understanding Ensemble Distillation in Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=Xx0TH4IKgQ)] |
-| Personalized Subgraph Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=GXHL8ZS1GX)] |
-| Conformal Prediction for Federated Uncertainty Quantification Under Label Shift |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=ytpEqHYSEy)] |
-| Secure Federated Correlation Test and Entropy Estimation |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=ICk7GJ1awE)] |
-| Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=JC05k0E2EM)] |
-| Personalized Federated Learning under Mixture of Distributions |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=nmVOTsQGR9)] |
-| FedDisco: Federated Learning with Discrepancy-Aware Collaboration |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=cHJ1VuZorx)] |
-| Anchor Sampling for Federated Learning with Partial Client Participation |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=Ht9r3P6Lts)] [[CODE](https://github.com/harliwu/fedamd)] |
-| Private Federated Learning with Autotuned Compression |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=y8qAZhWbNs)] |
-| Fast Federated Machine Unlearning with Nonlinear Functional Theory |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=6wQKmKiDHw)] |
-| On the Convergence of Federated Averaging with Cyclic Client Participation |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=d8LTNXt97w)] |
-| Revisiting Weighted Aggregation in Federated Learning with Neural Networks |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=FuDAjnWhrQ)] [[CODE](https://github.com/zexilee/icml-2023-fedlaw)] |
-| The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=WfI3I8OjHS)] |
-| GuardHFL: Privacy Guardian for Heterogeneous Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=iASUTBGw07)] |
-| Flash: Concept Drift Adaptation in Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=q5RHsg6VRw)] |
-| DoCoFL: Downlink Compression for Cross-Device Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=VxKr51JjWC)] |
-| FeDXL: Provable Federated Learning for Deep X-Risk Optimization |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=C7fNCYdptO)] [[CODE](https://github.com/optimization-ai/icml2023_fedxl)] |
-| No One Idles: Efficient Heterogeneous Federated Learning with Parallel Edge and Server Computation |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=AMuNQEUmGr)] |
-| Personalized Federated Learning with Inferred Collaboration Graphs |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=33fj5Ph3ot)] |
-| Optimizing the Collaboration Structure in Cross-Silo Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=rnNBSMOWvA)] [[CODE](https://github.com/baowenxuan/fedcollab)] |
-| TabLeak: Tabular Data Leakage in Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=mRiDy4qGwB)] |
-| FedCR:  Personalized Federated Learning Based on Across-Client Common  Representation with Conditional Mutual Information Regularization |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=YDC5jTS3LR)] |
-| Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=NcbY2UOfko)] |
-| Privacy-Aware Compression for Federated Learning Through Numerical Mechanism Design |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=Otdp5SGQMr)] |
-| SRATTA: Sample Re-ATTribution Attack of Secure Aggregation in Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=pRsJIVcjxD)] |
-| Improving the Model Consistency of Decentralized Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=fn2NFlYLBL)] |
-| Efficient Personalized Federated Learning via Sparse Model-Adaptation |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=ieSN7Xyo8g)] [[CODE](https://github.com/alibaba/federatedscope)] |
-| From Noisy Fixed-Point Iterations to Private ADMM for Centralized and Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=CBLDv6SFMn)] |
-| LeadFL: Client Self-Defense against Model Poisoning in Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=2CiaH2Tq4G)] |
-| Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=HtHFnHrZXu)] [[CODE](https://github.com/ybdai7/chameleon-durable-backdoor)] |
-| FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=7aqVcrXjxa)] |
-| FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning Bias Reduction |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=nDKoVwNjMH)] [[CODE](https://github.com/lins-lab/fedbr)] |
-| Towards Unbiased Training in Federated Open-world Semi-supervised Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=gHfybro5Sj)] |
-| Cocktail Party Attack: Breaking Aggregation-Based Privacy in Federated Learning Using Independent Component Analysis |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=Ai1TyAjZt9)] |
-| Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=Kz0IODB2kj)] [[CODE](https://github.com/junyizhu-ai/surrogate_model_extension)] |
-| Fair yet Asymptotically Equal Collaborative Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=5VhltFPSO8)] |
-| Sketching for First Order Method: Efficient Algorithm for Low-Bandwidth Channel and Vulnerability |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=uIzkbJgyqc)] |
-| Adversarial Collaborative Learning on Non-IID Features |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=DVF7gEQQf7)] |
-| XTab: Cross-table Pretraining for Tabular Transformers |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=uGORNDmIdr)] |
-| Momentum Ensures Convergence of SIGNSGD under Weaker Assumptions |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=a0kGwNUwil)] |
-| Byzantine-Robust Learning on Heterogeneous Data via Gradient Splitting |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=3DI6Kmw81p)] |
-| LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=L8iWCxzwl1)] |
-| FedAvg Converges to Zero Training Loss Linearly for Overparameterized Multi-Layer Neural Networks |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=eqTWOzheZT)] |
-| Addressing Budget Allocation and Revenue Allocation in Data Market Environments Using an Adaptive Sampling Algorithm |  | ICML | 2023 | [[PUB](https://openreview.net/forum?id=iAgQfF3atY)] |
+| Dynamic Regularized Sharpness Aware Minimization in Federated Learning:  Approaching Global Consistency and Smooth Landscape | The University of Sydney | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/sun23h.html) [[PUB](https://openreview.net/forum?id=vD1R00hROK)] [PDF](https://arxiv.org/abs/2305.11584) [slides](https://icml.cc/media/icml-2023/Slides/24651.pdf) |
+| Analysis of Error Feedback in Federated  Non-Convex Optimization with Biased Compression: Fast Convergence and  Partial Participation | LinkedIn Ads | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/li23o.html) [[PUB](https://openreview.net/forum?id=wbs1fKLfOe)] [PDF](https://arxiv.org/abs/2211.14292) |
+| FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization | Alibaba Group | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/wang23n.html) [[PUB](https://openreview.net/forum?id=891ytYlYgB)] [PDF](https://arxiv.org/abs/2206.03966) [CODE](https://github.com/fedhpo/icml2023) [CODE](https://github.com/alibaba/FederatedScope/tree/master/benchmark/FedHPOBench) |
+| Federated Conformal Predictors for Distributed Uncertainty Quantification | MIT | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/lu23i.html) [[PUB](https://openreview.net/forum?id=YVTr9PzIrK)] [PDF](https://arxiv.org/abs/2305.17564) [[CODE](https://github.com/clu5/federated-conformal)] |
+| Federated Adversarial Learning: A Framework with Convergence Analysis | UBC | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/li23z.html) [[PUB](https://openreview.net/forum?id=kgvoV2KcTJ)] [PDF](https://arxiv.org/abs/2208.03635) |
+| Federated Heavy Hitter Recovery under Linear Sketching | Google Research | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/gascon23a.html) [[PUB](https://openreview.net/forum?id=zN4oRCrlnM)] [PDF](https://arxiv.org/abs/2307.13347) [CODE](https://github.com/google-research/federated) |
+| Doubly Adversarial Federated Bandits | London School of Economics and Political Science | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/yi23a.html) [[PUB](https://openreview.net/forum?id=FjOB0g7iRf)] [PDF](https://arxiv.org/abs/2301.09223) [CODE](https://github.com/jialinyi94/doubly-stochastic-federataed-bandit) |
+| Achieving Linear Speedup in Non-IID Federated Bilevel Learning | UC | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/huang23p.html) [[PUB](https://openreview.net/forum?id=XFpTtAWNpQ)] [PDF](https://arxiv.org/abs/2302.05412) |
+| One-Shot Federated Conformal Prediction | Université Paris-Saclay | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/humbert23a.html) [[PUB](https://openreview.net/forum?id=SZJGIWe1Ag)] [PDF](https://arxiv.org/abs/2302.06322) [CODE](https://github.com/pierreHmbt/FedCP-QQ) |
+| Federated Online and Bandit Convex Optimization | TTIC | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/patel23a.html) [[PUB](https://openreview.net/forum?id=mi7pnouqLa)] |
+| Federated Linear Contextual Bandits with User-level Differential Privacy | The Pennsylvania State University | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/huang23q.html) [[PUB](https://openreview.net/forum?id=b9opfVNw6O)] [PDF](https://arxiv.org/abs/2306.05275) |
+| Vertical Federated Graph Neural Network for Recommender System | NUS | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/mai23b.html) [[PUB](https://openreview.net/forum?id=NRnS6CtbaN)]  [PDF](https://arxiv.org/abs/2303.05786) [[CODE](https://github.com/maiph123/verticalgnn)] |
+| Communication-Efficient Federated Hypergradient Computation via Aggregated Iterative Differentiation | University at Buffalo | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/xiao23b.html) [[PUB](https://openreview.net/forum?id=IYyhNudD9V)] [PDF](https://arxiv.org/abs/2302.04969) |
+| Towards Understanding Ensemble Distillation in Federated Learning | KAIST | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/park23e.html) [[PUB](https://openreview.net/forum?id=Xx0TH4IKgQ)] |
+| Personalized Subgraph Federated Learning | KAIST | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/baek23a.html) [[PUB](https://openreview.net/forum?id=GXHL8ZS1GX)] [PDF](https://arxiv.org/abs/2206.10206) [CODE](https://github.com/JinheonBaek/FED-PUB) |
+| Conformal Prediction for Federated Uncertainty Quantification Under Label Shift | Lagrange Mathematics and Computing Research Center; CMAP | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/plassier23a.html) [[PUB](https://openreview.net/forum?id=ytpEqHYSEy)] [PDF](https://arxiv.org/abs/2306.05131) |
+| Secure Federated Correlation Test and Entropy Estimation | CMU | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/pang23a.html) [[PUB](https://openreview.net/forum?id=ICk7GJ1awE)] [PDF](https://arxiv.org/abs/2105.14618) |
+| Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships | JLU | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/guo23b.html) [[PUB](https://openreview.net/forum?id=JC05k0E2EM)] [CODE](https://github.com/YamingGuo98/FedIIR) |
+| Personalized Federated Learning under Mixture of Distributions | UCLA | ICML | 2023 | [PUB](https://proceedings.mlr.press/v202/wu23z.html) [[PUB](https://openreview.net/forum?id=nmVOTsQGR9)] [PDF](https://arxiv.org/abs/2305.01068) [CODE](https://github.com/zshuai8/FedGMM_ICML2023) |
+| FedDisco: Federated Learning with Discrepancy-Aware Collaboration |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=cHJ1VuZorx)] |
+| Anchor Sampling for Federated Learning with Partial Client Participation |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=Ht9r3P6Lts)] [[CODE](https://github.com/harliwu/fedamd)] |
+| Private Federated Learning with Autotuned Compression |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=y8qAZhWbNs)] |
+| Fast Federated Machine Unlearning with Nonlinear Functional Theory |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=6wQKmKiDHw)] |
+| On the Convergence of Federated Averaging with Cyclic Client Participation |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=d8LTNXt97w)] |
+| Revisiting Weighted Aggregation in Federated Learning with Neural Networks |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=FuDAjnWhrQ)] [[CODE](https://github.com/zexilee/icml-2023-fedlaw)] |
+| The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=WfI3I8OjHS)] |
+| GuardHFL: Privacy Guardian for Heterogeneous Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=iASUTBGw07)] |
+| Flash: Concept Drift Adaptation in Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=q5RHsg6VRw)] |
+| DoCoFL: Downlink Compression for Cross-Device Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=VxKr51JjWC)] |
+| FeDXL: Provable Federated Learning for Deep X-Risk Optimization |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=C7fNCYdptO)] [[CODE](https://github.com/optimization-ai/icml2023_fedxl)] |
+| No One Idles: Efficient Heterogeneous Federated Learning with Parallel Edge and Server Computation |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=AMuNQEUmGr)] |
+| Personalized Federated Learning with Inferred Collaboration Graphs |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=33fj5Ph3ot)] |
+| Optimizing the Collaboration Structure in Cross-Silo Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=rnNBSMOWvA)] [[CODE](https://github.com/baowenxuan/fedcollab)] |
+| TabLeak: Tabular Data Leakage in Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=mRiDy4qGwB)] |
+| FedCR:  Personalized Federated Learning Based on Across-Client Common  Representation with Conditional Mutual Information Regularization |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=YDC5jTS3LR)] |
+| Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated Learning via Class-Imbalance Reduction |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=NcbY2UOfko)] |
+| Privacy-Aware Compression for Federated Learning Through Numerical Mechanism Design |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=Otdp5SGQMr)] |
+| SRATTA: Sample Re-ATTribution Attack of Secure Aggregation in Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=pRsJIVcjxD)] |
+| Improving the Model Consistency of Decentralized Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=fn2NFlYLBL)] |
+| Efficient Personalized Federated Learning via Sparse Model-Adaptation |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=ieSN7Xyo8g)] [[CODE](https://github.com/alibaba/federatedscope)] |
+| From Noisy Fixed-Point Iterations to Private ADMM for Centralized and Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=CBLDv6SFMn)] |
+| LeadFL: Client Self-Defense against Model Poisoning in Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=2CiaH2Tq4G)] |
+| Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=HtHFnHrZXu)] [[CODE](https://github.com/ybdai7/chameleon-durable-backdoor)] |
+| FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=7aqVcrXjxa)] |
+| FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning Bias Reduction |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=nDKoVwNjMH)] [[CODE](https://github.com/lins-lab/fedbr)] |
+| Towards Unbiased Training in Federated Open-world Semi-supervised Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=gHfybro5Sj)] |
+| Cocktail Party Attack: Breaking Aggregation-Based Privacy in Federated Learning Using Independent Component Analysis |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=Ai1TyAjZt9)] |
+| Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack on Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=Kz0IODB2kj)] [[CODE](https://github.com/junyizhu-ai/surrogate_model_extension)] |
+| Fair yet Asymptotically Equal Collaborative Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=5VhltFPSO8)] |
+| Sketching for First Order Method: Efficient Algorithm for Low-Bandwidth Channel and Vulnerability |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=uIzkbJgyqc)] |
+| Adversarial Collaborative Learning on Non-IID Features |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=DVF7gEQQf7)] |
+| XTab: Cross-table Pretraining for Tabular Transformers |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=uGORNDmIdr)] |
+| Momentum Ensures Convergence of SIGNSGD under Weaker Assumptions |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=a0kGwNUwil)] |
+| Byzantine-Robust Learning on Heterogeneous Data via Gradient Splitting |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=3DI6Kmw81p)] |
+| LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=L8iWCxzwl1)] |
+| FedAvg Converges to Zero Training Loss Linearly for Overparameterized Multi-Layer Neural Networks |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=eqTWOzheZT)] |
+| Addressing Budget Allocation and Revenue Allocation in Data Market Environments Using an Adaptive Sampling Algorithm |  | ICML | 2023 | PUB [[PUB](https://openreview.net/forum?id=iAgQfF3atY)] |
 | Robust federated learning under statistical heterogeneity via hessian-weighted aggregation | Deakin University | Mach Learn | 2023 | [[PUB](https://link.springer.com/article/10.1007/s10994-022-06292-8)] |
 | FedLab: A Flexible Federated Learning Framework :fire: | UESTC; Peng Cheng Lab | JMLR | 2023 | [[PUB](https://jmlr.org/papers/v24/22-0440.html)] [[PDF](https://arxiv.org/abs/2107.11621)] [[CODE](https://github.com/SMILELab-FL/FedLab)] |
 | Memory-Based Optimization Methods for Model-Agnostic Meta-Learning and Personalized Federated Learning | TAMU | JMLR | 2023 | [[PUB](https://jmlr.org/papers/v24/21-1301.html)] [[PDF](https://arxiv.org/abs/2106.04911)] [[CODE](https://github.com/bokun-wang/moml)] |
@@ -1852,6 +1852,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- *2023/08/02 - refresh ICML 2023 information*
 - *2023/07/31 - add MobiCom, ICDE, EuroSys, USENIX Security 2023 papers*
 - *2023/07/24 - add SIGIR, UAI, ICSE 2023 papers and information on CVPR workshops*
 - *2023/07/03 - add Events for different conferences and journals like [ACL](https://aclanthology.org/)*
