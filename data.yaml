@@ -2974,125 +2974,149 @@ fl-in-top-ml-conference-and-journal:
       CODE: https://github.com/wrh14/learning_to_invert
   - title: 'Dynamic Regularized Sharpness Aware Minimization in Federated Learning:  Approaching
       Global Consistency and Smooth Landscape'
-    affiliation: ''
+    affiliation: The University of Sydney
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=vD1R00hROK
+      PDF: https://arxiv.org/abs/2305.11584
+      SLIDES: https://icml.cc/media/icml-2023/Slides/24651.pdf
   - title: 'Analysis of Error Feedback in Federated  Non-Convex Optimization with
       Biased Compression: Fast Convergence and  Partial Participation'
-    affiliation: ''
+    affiliation: LinkedIn Ads
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=wbs1fKLfOe
+      PDF: https://arxiv.org/abs/2211.14292
   - title: 'FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization'
-    affiliation: ''
+    affiliation: Alibaba Group
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=891ytYlYgB
+      PDF: https://arxiv.org/abs/2206.03966
+      CODE: https://github.com/alibaba/FederatedScope/tree/master/benchmark/FedHPOBench
   - title: Federated Conformal Predictors for Distributed Uncertainty Quantification
-    affiliation: ''
+    affiliation: MIT
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=YVTr9PzIrK
+      PDF: https://arxiv.org/abs/2305.17564
       CODE: https://github.com/clu5/federated-conformal
   - title: 'Federated Adversarial Learning: A Framework with Convergence Analysis'
-    affiliation: ''
+    affiliation: UBC
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=kgvoV2KcTJ
+      PDF: https://arxiv.org/abs/2208.03635
   - title: Federated Heavy Hitter Recovery under Linear Sketching
-    affiliation: ''
+    affiliation: Google Research
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=zN4oRCrlnM
+      PDF: https://arxiv.org/abs/2307.13347
+      CODE: https://github.com/google-research/federated
   - title: Doubly Adversarial Federated Bandits
-    affiliation: ''
+    affiliation: London School of Economics and Political Science
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=FjOB0g7iRf
+      PDF: https://arxiv.org/abs/2301.09223
+      CODE: https://github.com/jialinyi94/doubly-stochastic-federataed-bandit
   - title: Achieving Linear Speedup in Non-IID Federated Bilevel Learning
-    affiliation: ''
+    affiliation: UC
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=XFpTtAWNpQ
+      PDF: https://arxiv.org/abs/2302.05412
   - title: One-Shot Federated Conformal Prediction
-    affiliation: ''
+    affiliation: Université Paris-Saclay
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=SZJGIWe1Ag
+      PDF: https://arxiv.org/abs/2302.06322
+      CODE: https://github.com/pierreHmbt/FedCP-QQ
   - title: Federated Online and Bandit Convex Optimization
-    affiliation: ''
+    affiliation: TTIC
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=mi7pnouqLa
   - title: Federated Linear Contextual Bandits with User-level Differential Privacy
-    affiliation: ''
+    affiliation: The Pennsylvania State University
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=b9opfVNw6O
+      PDF: https://arxiv.org/abs/2306.05275
   - title: Vertical Federated Graph Neural Network for Recommender System
-    affiliation: ''
+    affiliation: NUS
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=NRnS6CtbaN
+      PDF: https://arxiv.org/abs/2303.05786
       CODE: https://github.com/maiph123/verticalgnn
   - title: Communication-Efficient Federated Hypergradient Computation via Aggregated
       Iterative Differentiation
-    affiliation: ''
+    affiliation: University at Buffalo
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=IYyhNudD9V
+      PDF: https://arxiv.org/abs/2302.04969
   - title: Towards Understanding Ensemble Distillation in Federated Learning
-    affiliation: ''
+    affiliation: KAIST
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=Xx0TH4IKgQ
   - title: Personalized Subgraph Federated Learning
-    affiliation: ''
+    affiliation: KAIST
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=GXHL8ZS1GX
+      PDF: https://arxiv.org/abs/2206.10206
+      CODE: https://github.com/JinheonBaek/FED-PUB
   - title: Conformal Prediction for Federated Uncertainty Quantification Under Label
       Shift
-    affiliation: ''
+    affiliation: Lagrange Mathematics and Computing Research Center; CMAP
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=ytpEqHYSEy
+      PDF: https://arxiv.org/abs/2306.05131
   - title: Secure Federated Correlation Test and Entropy Estimation
-    affiliation: ''
+    affiliation: CMU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=ICk7GJ1awE
+      PDF: https://arxiv.org/abs/2105.14618
   - title: Out-of-Distribution Generalization of Federated Learning via Implicit Invariant
       Relationships
-    affiliation: ''
+    affiliation: JLU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=JC05k0E2EM
+      CODE: https://github.com/YamingGuo98/FedIIR
   - title: Personalized Federated Learning under Mixture of Distributions
-    affiliation: ''
+    affiliation: UCLA
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=nmVOTsQGR9
+      PDF: https://arxiv.org/abs/2305.01068
+      CODE: https://github.com/zshuai8/FedGMM_ICML2023
   - title: 'FedDisco: Federated Learning with Discrepancy-Aware Collaboration'
     affiliation: ''
     venue: ICML
