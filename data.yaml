@@ -3118,257 +3118,303 @@ fl-in-top-ml-conference-and-journal:
       PDF: https://arxiv.org/abs/2305.01068
       CODE: https://github.com/zshuai8/FedGMM_ICML2023
   - title: 'FedDisco: Federated Learning with Discrepancy-Aware Collaboration'
-    affiliation: ''
+    affiliation: SJTU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=cHJ1VuZorx
+      PDF: https://arxiv.org/abs/2305.19229
+      CODE: https://github.com/MediaBrain-SJTU/FedDisco
   - title: Anchor Sampling for Federated Learning with Partial Client Participation
-    affiliation: ''
+    affiliation: Purdue University
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=Ht9r3P6Lts
+      PDF: https://arxiv.org/abs/2206.05891
       CODE: https://github.com/harliwu/fedamd
   - title: Private Federated Learning with Autotuned Compression
-    affiliation: ''
+    affiliation: JHU; Google
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=y8qAZhWbNs
+      PDF: https://arxiv.org/abs/2307.10999
   - title: Fast Federated Machine Unlearning with Nonlinear Functional Theory
-    affiliation: ''
+    affiliation: Auburn University
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=6wQKmKiDHw
   - title: On the Convergence of Federated Averaging with Cyclic Client Participation
-    affiliation: ''
+    affiliation: CMU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=d8LTNXt97w
+      PDF: https://arxiv.org/abs/2302.03109
   - title: Revisiting Weighted Aggregation in Federated Learning with Neural Networks
-    affiliation: ''
+    affiliation: ZJU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=FuDAjnWhrQ
+      PDF: https://arxiv.org/abs/2302.10911
       CODE: https://github.com/zexilee/icml-2023-fedlaw
   - title: 'The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup
       and Beyond'
-    affiliation: ''
+    affiliation: CMU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=WfI3I8OjHS
+      PDF: https://arxiv.org/abs/2305.10697
+      SLIDES: https://icml.cc/media/icml-2023/Slides/24679_ljO6pDE.pdf
   - title: 'GuardHFL: Privacy Guardian for Heterogeneous Federated Learning'
-    affiliation: ''
+    affiliation: UESTC; NTU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=iASUTBGw07
   - title: 'Flash: Concept Drift Adaptation in Federated Learning'
-    affiliation: ''
+    affiliation: University of Massachusetts
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=q5RHsg6VRw
   - title: 'DoCoFL: Downlink Compression for Cross-Device Federated Learning'
-    affiliation: ''
+    affiliation: VMware Research; Technion
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=VxKr51JjWC
+      PDF: https://arxiv.org/abs/2302.00543
   - title: 'FeDXL: Provable Federated Learning for Deep X-Risk Optimization'
-    affiliation: ''
+    affiliation: Texas A&M University
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=C7fNCYdptO
+      PDF: https://arxiv.org/abs/2210.14396
       CODE: https://github.com/optimization-ai/icml2023_fedxl
   - title: 'No One Idles: Efficient Heterogeneous Federated Learning with Parallel
       Edge and Server Computation'
-    affiliation: ''
+    affiliation: HIT
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=AMuNQEUmGr
+      CODE: https://github.com/Hypervoyager/PFL
   - title: Personalized Federated Learning with Inferred Collaboration Graphs
-    affiliation: ''
+    affiliation: SJTU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=33fj5Ph3ot
+      CODE: https://github.com/MediaBrain-SJTU/pFedGraph
   - title: Optimizing the Collaboration Structure in Cross-Silo Federated Learning
-    affiliation: ''
+    affiliation: UIUC
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=rnNBSMOWvA
+      PDF: https://arxiv.org/abs/2306.06508
       CODE: https://github.com/baowenxuan/fedcollab
+      SLIDES: https://icml.cc/media/icml-2023/Slides/23569.pdf
   - title: 'TabLeak: Tabular Data Leakage in Federated Learning'
-    affiliation: ''
+    affiliation: ETH Zurich
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=mRiDy4qGwB
+      PDF: https://arxiv.org/abs/2210.01785
+      CODE: https://github.com/eth-sri/tableak
   - title: 'FedCR:  Personalized Federated Learning Based on Across-Client Common  Representation
       with Conditional Mutual Information Regularization'
-    affiliation: ''
+    affiliation: SJTU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=YDC5jTS3LR
+      CODE: https://github.com/haozzh/FedCR
   - title: 'Fed-CBS: A Heterogeneity-Aware Client Sampling Mechanism for Federated
       Learning via Class-Imbalance Reduction'
-    affiliation: ''
+    affiliation: Duke University
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=NcbY2UOfko
+      PDF: https://arxiv.org/abs/2209.15245
   - title: Privacy-Aware Compression for Federated Learning Through Numerical Mechanism
       Design
-    affiliation: ''
+    affiliation: Meta AI
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=Otdp5SGQMr
+      PDF: https://arxiv.org/abs/2211.03942
+      CODE: https://github.com/facebookresearch/dp_compression
   - title: 'SRATTA: Sample Re-ATTribution Attack of Secure Aggregation in Federated
       Learning'
-    affiliation: ''
+    affiliation: Owkin Inc.
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=pRsJIVcjxD
+      PDF: https://arxiv.org/abs/2306.07644
+      CODE: https://github.com/owkin/sratta
   - title: Improving the Model Consistency of Decentralized Federated Learning
-    affiliation: ''
+    affiliation: THU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=fn2NFlYLBL
+      PDF: https://arxiv.org/abs/2302.04083
   - title: Efficient Personalized Federated Learning via Sparse Model-Adaptation
-    affiliation: ''
+    affiliation: Alibaba Group
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=ieSN7Xyo8g
-      CODE: https://github.com/alibaba/federatedscope
+      PDF: https://arxiv.org/abs/2305.02776
+      CODE: https://github.com/yxdyc/pfedgate
   - title: From Noisy Fixed-Point Iterations to Private ADMM for Centralized and Federated
       Learning
-    affiliation: ''
+    affiliation: Univ. Lille
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=CBLDv6SFMn
+      PDF: https://arxiv.org/abs/2302.12559
+      CODE: https://github.com/totilas/padadmm
   - title: 'LeadFL: Client Self-Defense against Model Poisoning in Federated Learning'
-    affiliation: ''
+    affiliation: TUD
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=2CiaH2Tq4G
+      CODE: https://github.com/chaoyitud/LeadFL
   - title: 'Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated
       Learning'
-    affiliation: ''
+    affiliation: HKUST
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=HtHFnHrZXu
+      PDF: https://arxiv.org/abs/2304.12961
       CODE: https://github.com/ybdai7/chameleon-durable-backdoor
   - title: 'FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning
       for Split Models'
-    affiliation: ''
+    affiliation: HKUST
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=7aqVcrXjxa
+      PDF: https://arxiv.org/abs/2304.13407
   - title: 'FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning
       Bias Reduction'
-    affiliation: ''
+    affiliation: CUHK; The Shenzhen Institute of Artificial Intelligence and Robotics
+      for Society
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=nDKoVwNjMH
+      PDF: https://arxiv.org/abs/2205.13462
       CODE: https://github.com/lins-lab/fedbr
   - title: Towards Unbiased Training in Federated Open-world Semi-supervised Learning
-    affiliation: ''
+    affiliation: PolyU
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=gHfybro5Sj
+      PDF: https://arxiv.org/abs/2305.00771
+      SLIDES: https://icml.cc/media/icml-2023/Slides/25109.pdf
   - title: 'Cocktail Party Attack: Breaking Aggregation-Based Privacy in Federated
       Learning Using Independent Component Analysis'
-    affiliation: ''
+    affiliation: Georgia Tech; Meta AI
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=Ai1TyAjZt9
+      PDF: https://arxiv.org/abs/2209.05578
   - title: 'Surrogate Model Extension (SME): A Fast and Accurate Weight Update Attack
       on Federated Learning'
-    affiliation: ''
+    affiliation: KU Leuven
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=Kz0IODB2kj
+      PDF: https://arxiv.org/abs/2306.00127
       CODE: https://github.com/junyizhu-ai/surrogate_model_extension
   - title: Fair yet Asymptotically Equal Collaborative Learning
-    affiliation: ''
+    affiliation: NUS
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=5VhltFPSO8
+      PDF: https://arxiv.org/abs/2306.05764
+      CODE: https://github.com/xqlin98/Fair-yet-Equal-CML
   - title: 'Sketching for First Order Method: Efficient Algorithm for Low-Bandwidth
       Channel and Vulnerability'
-    affiliation: ''
+    affiliation: Adobe Research
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=uIzkbJgyqc
+      PDF: https://arxiv.org/abs/2210.08371
   - title: Adversarial Collaborative Learning on Non-IID Features
-    affiliation: ''
+    affiliation: UC Berkeley; NUS
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=DVF7gEQQf7
   - title: 'XTab: Cross-table Pretraining for Tabular Transformers'
-    affiliation: ''
+    affiliation: EPFL; Cornell University; AWS
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=uGORNDmIdr
+      PDF: https://arxiv.org/abs/2305.06090
+      CODE: https://github.com/bingzhaozhu/xtab
   - title: Momentum Ensures Convergence of SIGNSGD under Weaker Assumptions
-    affiliation: ''
+    affiliation: NUDT
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=a0kGwNUwil
   - title: Byzantine-Robust Learning on Heterogeneous Data via Gradient Splitting
-    affiliation: ''
+    affiliation: Key Lab of Intelligent Computing Based Big Data of Zhejiang Province;
+      ZJU; Sony Al
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=3DI6Kmw81p
+      PDF: https://arxiv.org/abs/2302.06079
+      CODE: https://github.com/YuchenLiu-a/byzantine-gas
   - title: 'LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated
       Learning'
-    affiliation: ''
+    affiliation: Rensselaer Polytechnic Institute
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=L8iWCxzwl1
+      PDF: https://arxiv.org/abs/2305.02219
   - title: FedAvg Converges to Zero Training Loss Linearly for Overparameterized Multi-Layer
       Neural Networks
-    affiliation: ''
+    affiliation: University of Minnesota
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=eqTWOzheZT
   - title: Addressing Budget Allocation and Revenue Allocation in Data Market Environments
       Using an Adaptive Sampling Algorithm
-    affiliation: ''
+    affiliation: University of Chicago
     venue: ICML
     year: '2023'
     materials:
       PUB: https://openreview.net/forum?id=iAgQfF3atY
+      PDF: https://arxiv.org/abs/2306.02543
+      CODE: https://github.com/boxinz17/data-market-via-adaptive-sampling
   - title: Robust federated learning under statistical heterogeneity via hessian-weighted
       aggregation
     affiliation: Deakin University
