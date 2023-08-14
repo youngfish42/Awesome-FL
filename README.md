@@ -719,7 +719,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 Federated Learning papers accepted by top DM(Data Mining) conference and journal, Including [KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html)(ACM SIGKDD Conference on Knowledge Discovery and Data Mining) and [WSDM](https://dblp.uni-trier.de/db/conf/wsdm/index.html)(Web Search and Data Mining).
 
-- [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) 2023([Workshop](https://fl4data-mining.github.io/papers/)), 2022([Research Track](https://kdd.org/kdd2022/paperRT.html), [Applied Data Science track](https://kdd.org/kdd2022/paperADS.html)), [2021](https://kdd.org/kdd2021/accepted-papers/index), [2020](https://www.kdd.org/kdd2020/accepted-papers)
+- [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) [2023](https://dl.acm.org/doi/proceedings/10.1145/3580305)([Research Track](https://kdd.org/kdd2023/research-track-papers/), [Applied Data Science track](https://kdd.org/kdd2023/ads-track-papers/), [Workshop](https://fl4data-mining.github.io/papers/)), 2022([Research Track](https://kdd.org/kdd2022/paperRT.html), [Applied Data Science track](https://kdd.org/kdd2022/paperADS.html)), [2021](https://kdd.org/kdd2021/accepted-papers/index), [2020](https://www.kdd.org/kdd2020/accepted-papers)
 - [WSDM](https://dblp.uni-trier.de/search?q=federate%20venue%3AWSDM%3A) [2023](https://www.wsdm-conference.org/2023/program/accepted-papers), [2022](https://www.wsdm-conference.org/2022/accepted-papers/), [2021](https://www.wsdm-conference.org/2021/accepted-papers.php), [2019](https://www.wsdm-conference.org/2019/accepted-papers.php)
 
 <details open>
@@ -728,6 +728,26 @@ Federated Learning papers accepted by top DM(Data Mining) conference and journal
 
 |Title                                                           |    Affiliation                                                   |    Venue                     |    Year    |    Materials|
 | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- | ---- | ------------------------------------------------------------ |
+|Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation | University of Cambridge | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599475) [PDF](https://arxiv.org/abs/2210.11050) |
+|FedDefender: Client-Side Attack-Tolerant Federated Learning | KAIST | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599346) [PDF](https://arxiv.org/abs/2307.09048) [CODE](https://github.com/deu30303/feddefender) |
+|FedAPEN: Personalized Cross-silo Federated Learning with Adaptability to Statistical Heterogeneity | ZJU | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599344) [CODE](https://github.com/zhenqincn/FedAPEN) |
+|FedPseudo: Privacy-Preserving Pseudo Value-Based Deep Learning Models for Federated Survival Analysis | UMBC | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599348) [PDF](https://arxiv.org/abs/2207.05247) |
+|ShapleyFL: Robust Federated Learning Based on Shapley Value | ZJU | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599500) [CODE](https://github.com/ZJU-DIVER/ShapleyFL-Robust-Federated-Learning-Based-on-Shapley-Value) |
+|Federated Few-shot Learning | University of Virginia | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599347) [PDF](https://arxiv.org/abs/2306.10234) [CODE](https://github.com/songw-sw/f2l) |
+|Theoretical Convergence Guaranteed Resource-Adaptive Federated Learning with Mixed Heterogeneity | SDU | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599521) |
+|Personalized Federated Learning with Parameter Propagation | UIUC | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599464) |
+|Serverless Federated AUPRC Optimization for Multi-Party Collaborative Imbalanced Data Mining | University of Pittsburgh | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599499) [PDF](https://arxiv.org/abs/2308.03035) [CODE](https://github.com/xidongwu/D-AUPRC) |
+|CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning | SUNY-Binghamton University | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599293) [PDF](https://arxiv.org/abs/2109.05613) |
+|FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework | L3S Research Center | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599354) [PDF](https://arxiv.org/abs/2306.03834) |
+|FedCP: Separating Feature Information for Personalized Federated Learning via Conditional Policy | SJTU | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599345) [PDF](https://arxiv.org/abs/2307.01217) [CODE](https://github.com/tsingz0/fedcp) |
+|Navigating Alignment for Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework | UCSD | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599443) [PDF](https://arxiv.org/abs/2301.00489) [CODE](https://github.com/jiayunz/fedalign) |
+|DM-PFL: Hitchhiking Generic Federated Learning for Efficient Shift-Robust Personalization | BUAA | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599311) [CODE](https://github.com/garyzhang99/DM-PFL) |
+|FS-REAL: Towards Real-World Cross-Device Federated Learning | Alibaba Group | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599829) [PDF](https://arxiv.org/abs/2303.13363) |
+|FedMultimodal: A Benchmark for Multimodal Federated Learning | USC | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599825) [PDF](https://arxiv.org/abs/2306.09486) [CODE](https://github.com/usc-sail/fed-multimodal) |
+|PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation | RUC | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599889) [PDF](https://arxiv.org/abs/2204.08146) [NEWS](http://info.ruc.edu.cn/xwgg/xyxw/e4c838332c3a46cd8b959be49c021bb1.htm) |
+|Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks | HKUST; Alibaba Group | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599898) [PDF](https://arxiv.org/abs/2302.01677) [CODE](https://github.com/alibaba/FederatedScope/tree/backdoor-bench) |
+|UA-FedRec: Untargeted Attack on Federated News Recommendation | USTC | KDD | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599923) [PDF](https://arxiv.org/abs/2202.06701) [CODE](https://github.com/yjw1029/ua-fedrec) |
+|International Workshop on Federated Learning for Distributed Data Mining | MSU | KDD Workshop Summaries | 2023 | [PUB](https://dl.acm.org/doi/10.1145/3580305.3599198) [PAGE](https://fl4data-mining.github.io/) |
 | Is Normalization Indispensable for Multi-domain Federated Learning? |  | KDD workshop | 2023 | [[PUB](https://openreview.net/forum?id=ZiaOEg8XiGN)] |
 | Distributed Personalized Empirical Risk Minimization. |  | KDD workshop | 2023 | [[PUB](https://openreview.net/forum?id=k2eYX1p-Yb)] |
 | Once-for-All Federated Learning: Learning From and Deploying to Heterogeneous Clients. |  | KDD workshop | 2023 | [[PUB](https://openreview.net/forum?id=aJhe-VC0Ue)] |
@@ -1852,6 +1872,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- *2023/08/14 - refresh KDD 2023 papers*
 - *2023/08/02 - refresh ICML 2023 information*
 - *2023/07/31 - add MobiCom, ICDE, EuroSys, USENIX Security 2023 papers*
 - *2023/07/24 - add SIGIR, UAI, ICSE 2023 papers and information on CVPR workshops*
