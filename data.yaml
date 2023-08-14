@@ -5736,6 +5736,165 @@ fl-in-top-dm-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy
+      Protected Recommendation'
+    affiliation: University of Cambridge
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599475
+      PDF: https://arxiv.org/abs/2210.11050
+  - title: 'FedDefender: Client-Side Attack-Tolerant Federated Learning'
+    affiliation: KAIST
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599346
+      PDF: https://arxiv.org/abs/2307.09048
+      CODE: https://github.com/deu30303/feddefender
+  - title: 'FedAPEN: Personalized Cross-silo Federated Learning with Adaptability
+      to Statistical Heterogeneity'
+    affiliation: ZJU
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599344
+      CODE: https://github.com/zhenqincn/FedAPEN
+  - title: 'FedPseudo: Privacy-Preserving Pseudo Value-Based Deep Learning Models
+      for Federated Survival Analysis'
+    affiliation: UMBC
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599348
+      PDF: https://arxiv.org/abs/2207.05247
+  - title: 'ShapleyFL: Robust Federated Learning Based on Shapley Value'
+    affiliation: ZJU
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599500
+      CODE: https://github.com/ZJU-DIVER/ShapleyFL-Robust-Federated-Learning-Based-on-Shapley-Value
+  - title: Federated Few-shot Learning
+    affiliation: University of Virginia
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599347
+      PDF: https://arxiv.org/abs/2306.10234
+      CODE: https://github.com/songw-sw/f2l
+  - title: Theoretical Convergence Guaranteed Resource-Adaptive Federated Learning
+      with Mixed Heterogeneity
+    affiliation: SDU
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599521
+  - title: Personalized Federated Learning with Parameter Propagation
+    affiliation: UIUC
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599464
+  - title: Serverless Federated AUPRC Optimization for Multi-Party Collaborative Imbalanced
+      Data Mining
+    affiliation: University of Pittsburgh
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599499
+      PDF: https://arxiv.org/abs/2308.03035
+      CODE: https://github.com/xidongwu/D-AUPRC
+  - title: 'CriticalFL: A Critical Learning Periods Augmented Client Selection Framework
+      for Efficient Federated Learning'
+    affiliation: SUNY-Binghamton University
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599293
+      PDF: https://arxiv.org/abs/2109.05613
+  - title: 'FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification
+      Framework'
+    affiliation: L3S Research Center
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599354
+      PDF: https://arxiv.org/abs/2306.03834
+  - title: 'FedCP: Separating Feature Information for Personalized Federated Learning
+      via Conditional Policy'
+    affiliation: SJTU
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599345
+      PDF: https://arxiv.org/abs/2307.01217
+      CODE: https://github.com/tsingz0/fedcp
+  - title: 'Navigating Alignment for Non-identical Client Class Sets: A Label Name-Anchored
+      Federated Learning Framework'
+    affiliation: UCSD
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599443
+      PDF: https://arxiv.org/abs/2301.00489
+      CODE: https://github.com/jiayunz/fedalign
+  - title: 'DM-PFL: Hitchhiking Generic Federated Learning for Efficient Shift-Robust
+      Personalization'
+    affiliation: BUAA
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599311
+      CODE: https://github.com/garyzhang99/DM-PFL
+  - title: 'FS-REAL: Towards Real-World Cross-Device Federated Learning'
+    affiliation: Alibaba Group
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599829
+      PDF: https://arxiv.org/abs/2303.13363
+  - title: 'FedMultimodal: A Benchmark for Multimodal Federated Learning'
+    affiliation: USC
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599825
+      PDF: https://arxiv.org/abs/2306.09486
+      CODE: https://github.com/usc-sail/fed-multimodal
+  - title: 'PrivateRec: Differentially Private Model Training and Online Serving for
+      Federated News Recommendation'
+    affiliation: RUC
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599889
+      PDF: https://arxiv.org/abs/2204.08146
+      NEWS: http://info.ruc.edu.cn/xwgg/xyxw/e4c838332c3a46cd8b959be49c021bb1.htm
+  - title: 'Revisiting Personalized Federated Learning: Robustness Against Backdoor
+      Attacks'
+    affiliation: HKUST; Alibaba Group
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599898
+      PDF: https://arxiv.org/abs/2302.01677
+      CODE: https://github.com/alibaba/FederatedScope/tree/backdoor-bench
+  - title: 'UA-FedRec: Untargeted Attack on Federated News Recommendation'
+    affiliation: USTC
+    venue: KDD
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599923
+      PDF: https://arxiv.org/abs/2202.06701
+      CODE: https://github.com/yjw1029/ua-fedrec
+  - title: International Workshop on Federated Learning for Distributed Data Mining
+    affiliation: MSU
+    venue: KDD Workshop Summaries
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3580305.3599198
+      PAGE: https://fl4data-mining.github.io/
   - title: Is Normalization Indispensable for Multi-domain Federated Learning?
     affiliation: ''
     venue: KDD workshop
