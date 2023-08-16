@@ -3485,6 +3485,14 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://jmlr.org/papers/v24/22-0689.html
       PDF: https://arxiv.org/abs/2206.10189
       CODE: https://github.com/Accenture/Labs-Federated-Learning/tree/asynchronous_FL
+  - title: Federated Learning Via Inexact ADMM.
+    affiliation: BJTU
+    venue: TPAMI
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10040221
+      PDF: https://arxiv.org/abs/2204.10607
+      CODE: https://github.com/ShenglongZhou/FedADMM
   - title: 'FedIPR: Ownership Verification for Federated Deep Neural Network Models'
     affiliation: SJTU
     venue: TPAMI
@@ -6257,24 +6265,36 @@ fl-in-top-secure-conference-and-journal:
   body:
   - title: 'Every Vote Counts: Ranking-Based Training of Federated Learning to Resist
       Poisoning Attacks'
-    affiliation: ''
+    affiliation: University of Massachusetts Amherst
     venue: USENIX Security
     year: '2023'
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity23/presentation/mozaffari
+      PDF: https://arxiv.org/abs/2110.04350
   - title: 'PrivateFL: Accurate, Differentially Private Federated Learning via Personalized
       Data Transformation'
-    affiliation: ''
+    affiliation: JHU
     venue: USENIX Security
     year: '2023'
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity23/presentation/yang-yuchen
+      CODE: https://github.com/BHui97/PrivateFL
   - title: Gradient Obfuscation Gives a False Sense of Security in Federated Learning
-    affiliation: ''
+    affiliation: NCSU
     venue: USENIX Security
     year: '2023'
     materials:
       PUB: https://www.usenix.org/conference/usenixsecurity23/presentation/yue
+      PDF: https://arxiv.org/abs/2206.04055
+      CODE: https://github.com/KAI-YUE/rog
+  - title: 'FedVal: Different good or different bad in federated learning'
+    affiliation: AI Sweden
+    venue: USENIX Security
+    year: '2023'
+    materials:
+      PUB: https://www.usenix.org/conference/usenixsecurity23/presentation/valadi
+      PDF: https://arxiv.org/abs/2306.04040
+      CODE: https://github.com/viktorvaladi/fedval
   - title: Securing Federated Sensitive Topic Classification against Poisoning Attacks
     affiliation: IMDEA Networks Institute
     venue: NDSS
@@ -8521,6 +8541,58 @@ fl-in-top-system-conference-and-journal:
     year: '2023'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9791849/
+  - title: 'Dap-FL: Federated Learning Flourishes by Adaptive Tuning and Secure Aggregation'
+    affiliation: Xidian University
+    venue: TPDS
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10103633
+      PDF: https://arxiv.org/abs/2206.03623
+      CODE: https://github.com/XDUJiaweiChen/Dap-FL
+  - title: 'Collaborative Intrusion Detection System for SDVN: A Fairness Federated
+      Deep Learning Approach'
+    affiliation: Anhui University
+    venue: TPDS
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10177377
+  - title: Energy-Aware, Device-to-Device Assisted Federated Learning in Edge Computing
+    affiliation: ANU
+    venue: TPDS
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10129058
+  - title: Faster Federated Learning With Decaying Number of Local SGD Steps
+    affiliation: University of Exeter
+    venue: TPDS
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10128796
+      PDF: https://arxiv.org/abs/2305.09628
+      CODE: https://github.com/JedMills/Faster-FL
+  - title: 'DRFL: Federated Learning in Diabetic Retinopathy Grading Using Fundus
+      Images'
+    affiliation: National Institute of Technology Silchar
+    venue: TPDS
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10093080
+  - title: 'FedProf: Selective Federated Learning Based on Distributional Representation
+      Profiling'
+    affiliation: Peng Cheng Laboratory
+    venue: TPDS
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10097520
+      PDF: https://arxiv.org/abs/2102.01733
+      UC: https://github.com/Koukyosyumei/NAIST-FedML-Experiments
+  - title: Federated Ensemble Model-Based Reinforcement Learning in Edge Computing
+    affiliation: University of Exeter
+    venue: TPDS
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10093139
+      PDF: https://arxiv.org/abs/2109.05549
   - title: Incentive Mechanism Design for Joint Resource Allocation in Blockchain-Based
       Federated Learning.
     affiliation: IUPUI
@@ -8531,7 +8603,7 @@ fl-in-top-system-conference-and-journal:
       PDF: https://arxiv.org/abs/2202.10938
   - title: 'HiFlash: Communication-Efficient Hierarchical Federated Learning With
       Adaptive Staleness Control and Heterogeneity-Aware Client-Edge Association.'
-    affiliation: ''
+    affiliation: SYSU
     venue: TPDS
     year: '2023'
     materials:
@@ -8539,7 +8611,7 @@ fl-in-top-system-conference-and-journal:
       PDF: https://arxiv.org/abs/2301.06447
   - title: 'From Deterioration to Acceleration: A Calibration Approach to Rehabilitating
       Step Asynchronism in Federated Optimization.'
-    affiliation: ''
+    affiliation: PolyU
     venue: TPDS
     year: '2023'
     materials:
