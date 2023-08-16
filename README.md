@@ -62,7 +62,7 @@
 
 | Venue                                                        | 2023-2020                                                    | before 2020                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A) | [23](https://ijcai-23.org/main-track-accepted-papers/), [22](https://ijcai-22.org/main-track-accepted-papers/), [21](https://ijcai-21.org/program-main-track/#), [20](https://static.ijcai.org/2020-accepted_papers.html) | [19](https://www.ijcai19.org/accepted-papers.html)           |
+| [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A) | [23](https://www.ijcai.org/proceedings/2023/), [22](https://www.ijcai.org/proceedings/2022/), [21](https://www.ijcai.org/proceedings/2021/), [20](https://www.ijcai.org/proceedings/2020/) | [19](https://www.ijcai.org/proceedings/2019/)                |
 | [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) | [23](https://ojs.aaai.org/index.php/AAAI/issue/archive), [22](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf), [21](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf), [20](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) | -                                                            |
 | [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) | [23](http://proceedings.mlr.press/v206/), [22](http://proceedings.mlr.press/v151/), [21](http://proceedings.mlr.press/v130/), [20](http://proceedings.mlr.press/v108/) | -                                                            |
 | [ALT](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Falt%3A) | 22                                                           | -                                                            |
@@ -169,7 +169,7 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 
 Federated Learning papers accepted by top AI(Artificial Intelligence) conference and journal, Including [IJCAI](https://dblp.org/db/conf/ijcai/index.html)(International Joint Conference on Artificial Intelligence), [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)(AAAI Conference on Artificial Intelligence), [AISTATS](https://dblp.uni-trier.de/db/conf/aistats/index.html)(Artificial Intelligence and Statistics), [ALT](https://dblp.org/db/conf/alt/index.html)(International Conference on Algorithmic Learning Theory), [AI](https://dblp.uni-trier.de/db/journals/ai/index.html)(Artificial Intelligence).
 
-- [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A) [2023](https://ijcai-23.org/main-track-accepted-papers/), [2022](https://ijcai-22.org/main-track-accepted-papers/), [2021](https://ijcai-21.org/program-main-track/#), [2020](https://static.ijcai.org/2020-accepted_papers.html), [2019](https://www.ijcai19.org/accepted-papers.html)
+- [IJCAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AIJCAI%3A) [2023](https://www.ijcai.org/proceedings/2023/), [2022](https://www.ijcai.org/proceedings/2022/), [2021](https://www.ijcai.org/proceedings/2021/), [2020](https://www.ijcai.org/proceedings/2020/), [2019](https://www.ijcai.org/proceedings/2019/)
 - [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) [2023](https://ojs.aaai.org/index.php/AAAI/issue/archive), [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf), [2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf), [2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2023](http://proceedings.mlr.press/v206/), [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/), [2020](http://proceedings.mlr.press/v108/)
 - [ALT](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Falt%3A) 2022
@@ -214,26 +214,26 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 | A Federated Learning Monitoring Tool for Self-Driving Car Simulation (Student Abstract) | CNU | AAAI Special Programs | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26984)] |
 | MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning (Student Abstract) | PolyU | AAAI Special Programs | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/26995)] |
 | Clustered Federated Learning for Heterogeneous Data (Student Abstract) | RUC | AAAI Special Programs | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/27049)] |
-| FedSampling: A Better Sampling Strategy for Federated Learning |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2306.14245)] |
-| HyperFed: Hyperbolic Prototypes Exploration with Consistent Aggregation for Non-IID Data in Federated Learning |  | IJCAI | 2023 |  |
-| FedOBD: Opportunistic Block Dropout for Efficiently Training Large-scale Neural Networks through Federated Learning |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2208.05174)] [[CODE](https://github.com/cyyever/distributed_learning_simulator)] |
-| Federated Probabilistic Preference Distribution Modelling with  Compactness Co-Clustering for Privacy-Preserving Multi-Domain  Recommendation |  | IJCAI | 2023 |  |
-| Federated Graph Semantic and Structural Learning |  | IJCAI | 2023 |  |
-| BARA: Efficient Incentive Mechanism with Online Reward Budget Allocation in Cross-Silo Federated Learning |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2305.05221)] |
-| FedDWA: Personalized Federated Learning with Dynamic Weight Adjustment |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2305.06124)] |
-| FedPass: Privacy-Preserving Vertical Federated Deep Learning with Adaptive Obfuscation |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2301.12623)] |
-| Globally Consistent Federated Graph Autoencoder for Non-IID Graphs |  | IJCAI | 2023 |  |
-| Competitive-Cooperative Multi-Agent Reinforcement Learning for Auction-based Federated Learning |  | IJCAI | 2023 |  |
-| Dual Personalization on Federated Recommendation |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2301.08143)] [[CODE](https://github.com/zhangcx19/ijcai-23-pfedrec)] |
-| FedNoRo: Towards Noise-Robust Federated Learning by Addressing Class Imbalance and Label Noise Heterogeneity |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2305.05230)] [[CODE](https://github.com/wnn2000/fednoro)] |
-| Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning Attacks on Federated Learning |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2304.10783)] [[CODE](https://github.com/zhanghangtao/poisoning-attack-on-fl)] |
-| FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2305.09729)] [[CODE](https://github.com/cynricfu/fedhgn)] |
-| FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2306.15347)] |
-| Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data |  | IJCAI | 2023 | [[PDF](https://arxiv.org/abs/2301.09152)] [[CODE](https://github.com/shengchaochen82/metepfl)] |
-| FedBFPT: An Efficient Federated Learning Framework for Bert Further Pre-training |  | IJCAI | 2023 |  |
+| FedSampling: A Better Sampling Strategy for Federated Learning | THU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/462) [[PDF](https://arxiv.org/abs/2306.14245)] [CODE](https://github.com/taoqi98/FedSampling) |
+| HyperFed: Hyperbolic Prototypes Exploration with Consistent Aggregation for Non-IID Data in Federated Learning | ZJU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/440) [PDF](https://arxiv.org/abs/2307.14384) |
+| FedOBD: Opportunistic Block Dropout for Efficiently Training Large-scale Neural Networks through Federated Learning | NTU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/394) [[PDF](https://arxiv.org/abs/2208.05174)] [[CODE](https://github.com/cyyever/distributed_learning_simulator)] |
+| Federated Probabilistic Preference Distribution Modelling with  Compactness Co-Clustering for Privacy-Preserving Multi-Domain  Recommendation | ZJU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/245) |
+| Federated Graph Semantic and Structural Learning | WHU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/426) |
+| BARA: Efficient Incentive Mechanism with Online Reward Budget Allocation in Cross-Silo Federated Learning | SYSU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/498) [[PDF](https://arxiv.org/abs/2305.05221)] |
+| FedDWA: Personalized Federated Learning with Dynamic Weight Adjustment | SYSU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/444) [[PDF](https://arxiv.org/abs/2305.06124)] |
+| FedPass: Privacy-Preserving Vertical Federated Deep Learning with Adaptive Obfuscation | Webank | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/418) [[PDF](https://arxiv.org/abs/2301.12623)] |
+| Globally Consistent Federated Graph Autoencoder for Non-IID Graphs | FZU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/419) [CODE](https://github.com/gcfgae/GCFGAE) |
+| Competitive-Cooperative Multi-Agent Reinforcement Learning for Auction-based Federated Learning | NTU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/474) |
+| Dual Personalization on Federated Recommendation | JLU; University of Technology Sydney | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/507) [[PDF](https://arxiv.org/abs/2301.08143)] [[CODE](https://github.com/zhangcx19/ijcai-23-pfedrec)] |
+| FedNoRo: Towards Noise-Robust Federated Learning by Addressing Class Imbalance and Label Noise Heterogeneity | HUST | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/492) [[PDF](https://arxiv.org/abs/2305.05230)] [[CODE](https://github.com/wnn2000/fednoro)] |
+| Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning Attacks on Federated Learning | Xiangtan University | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/508) [[PDF](https://arxiv.org/abs/2304.10783)] [[CODE](https://github.com/zhanghangtao/poisoning-attack-on-fl)] |
+| FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks | CUHK | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/412) [[PDF](https://arxiv.org/abs/2305.09729)] [[CODE](https://github.com/cynricfu/fedhgn)] |
+| FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer | Ping An Technology; THU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/443) [[PDF](https://arxiv.org/abs/2306.15347)] |
+| Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data | UTS | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/393) [[PDF](https://arxiv.org/abs/2301.09152)] [[CODE](https://github.com/shengchaochen82/metepfl)] |
+| FedBFPT: An Efficient Federated Learning Framework for Bert Further Pre-training | ZJU | IJCAI | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/483) [CODE](https://github.com/Hanzhouu/FedBFPT) |
 | Bayesian Federated Learning: A Survey |  | IJCAI Survey Track | 2023 | [[PDF](https://arxiv.org/abs/2304.13267)] |
-| A Survey of Federated Evaluation in Federated Learning |  | IJCAI Survey Track | 2023 | [[PDF](https://arxiv.org/abs/2305.08070)] |
-| SAMBA: A Generic Framework for Secure Federated Multi-Armed Bandits (Extended Abstract) |  | IJCAI Journal Track | 2023 |  |
+| A Survey of Federated Evaluation in Federated Learning | Macquarie University | IJCAI Survey Track | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/758) [[PDF](https://arxiv.org/abs/2305.08070)] |
+| SAMBA: A Generic Framework for Secure Federated Multi-Armed Bandits (Extended Abstract) | INSA Centre Val de Loire | IJCAI Journal Track | 2023 | [PUB](https://www.ijcai.org/proceedings/2023/772) |
 | The communication cost of security and privacy in federated frequency estimation | Stanford | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/chen23e.html)] [[CODE](https://colab.research.google.com/drive/1A3sp42a4RKswxjCOBAXlfUxBzL5IF431?usp=share_link)] |
 | Efficient and Light-Weight Federated Learning via Asynchronous Distributed Dropout | Rice University | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/dun23a.html)] [[CODE](https://github.com/dunchen/AsyncDrop__Release)] |
 | Federated Learning under Distributed Concept Drift | CMU | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/jothimurugesan23a.html)] [[CODE](https://github.com/microsoft/FedDrift)] |
@@ -1872,7 +1872,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
-- *2023/08/14 - refresh KDD 2023 papers*
+- *2023/08/16 - refresh KDD, IJCAI 2023 papers*
 - *2023/08/02 - refresh ICML 2023 information*
 - *2023/07/31 - add MobiCom, ICDE, EuroSys, USENIX Security 2023 papers*
 - *2023/07/24 - add SIGIR, UAI, ICSE 2023 papers and information on CVPR workshops*
