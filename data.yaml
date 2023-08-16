@@ -1978,117 +1978,138 @@ fl-in-top-ai-conference-and-journal:
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/27049
   - title: 'FedSampling: A Better Sampling Strategy for Federated Learning'
-    affiliation: ''
+    affiliation: THU
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/462
       PDF: https://arxiv.org/abs/2306.14245
+      CODE: https://github.com/taoqi98/FedSampling
   - title: 'HyperFed: Hyperbolic Prototypes Exploration with Consistent Aggregation
       for Non-IID Data in Federated Learning'
-    affiliation: ''
-    venue: IJCAI
-    year: '2023'
-    materials: {}
-  - title: 'FedOBD: Opportunistic Block Dropout for Efficiently Training Large-scale
-      Neural Networks through Federated Learning'
-    affiliation: ''
+    affiliation: ZJU
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/440
+      PDF: https://arxiv.org/abs/2307.14384
+  - title: 'FedOBD: Opportunistic Block Dropout for Efficiently Training Large-scale
+      Neural Networks through Federated Learning'
+    affiliation: NTU
+    venue: IJCAI
+    year: '2023'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2023/394
       PDF: https://arxiv.org/abs/2208.05174
       CODE: https://github.com/cyyever/distributed_learning_simulator
   - title: Federated Probabilistic Preference Distribution Modelling with  Compactness
       Co-Clustering for Privacy-Preserving Multi-Domain  Recommendation
-    affiliation: ''
+    affiliation: ZJU
     venue: IJCAI
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2023/245
   - title: Federated Graph Semantic and Structural Learning
-    affiliation: ''
+    affiliation: WHU
     venue: IJCAI
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2023/426
   - title: 'BARA: Efficient Incentive Mechanism with Online Reward Budget Allocation
       in Cross-Silo Federated Learning'
-    affiliation: ''
+    affiliation: SYSU
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/498
       PDF: https://arxiv.org/abs/2305.05221
   - title: 'FedDWA: Personalized Federated Learning with Dynamic Weight Adjustment'
-    affiliation: ''
+    affiliation: SYSU
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/444
       PDF: https://arxiv.org/abs/2305.06124
   - title: 'FedPass: Privacy-Preserving Vertical Federated Deep Learning with Adaptive
       Obfuscation'
-    affiliation: ''
+    affiliation: Webank
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/418
       PDF: https://arxiv.org/abs/2301.12623
   - title: Globally Consistent Federated Graph Autoencoder for Non-IID Graphs
-    affiliation: ''
-    venue: IJCAI
-    year: '2023'
-    materials: {}
-  - title: Competitive-Cooperative Multi-Agent Reinforcement Learning for Auction-based
-      Federated Learning
-    affiliation: ''
-    venue: IJCAI
-    year: '2023'
-    materials: {}
-  - title: Dual Personalization on Federated Recommendation
-    affiliation: ''
+    affiliation: FZU
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/419
+      CODE: https://github.com/gcfgae/GCFGAE
+  - title: Competitive-Cooperative Multi-Agent Reinforcement Learning for Auction-based
+      Federated Learning
+    affiliation: NTU
+    venue: IJCAI
+    year: '2023'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2023/474
+  - title: Dual Personalization on Federated Recommendation
+    affiliation: JLU; University of Technology Sydney
+    venue: IJCAI
+    year: '2023'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2023/507
       PDF: https://arxiv.org/abs/2301.08143
       CODE: https://github.com/zhangcx19/ijcai-23-pfedrec
   - title: 'FedNoRo: Towards Noise-Robust Federated Learning by Addressing Class Imbalance
       and Label Noise Heterogeneity'
-    affiliation: ''
+    affiliation: HUST
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/492
       PDF: https://arxiv.org/abs/2305.05230
       CODE: https://github.com/wnn2000/fednoro
   - title: 'Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning
       Attacks on Federated Learning'
-    affiliation: ''
+    affiliation: Xiangtan University
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/508
       PDF: https://arxiv.org/abs/2304.10783
       CODE: https://github.com/zhanghangtao/poisoning-attack-on-fl
   - title: 'FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks'
-    affiliation: ''
+    affiliation: CUHK
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/412
       PDF: https://arxiv.org/abs/2305.09729
       CODE: https://github.com/cynricfu/fedhgn
   - title: 'FedET: A Communication-Efficient Federated Class-Incremental Learning
       Framework Based on Enhanced Transformer'
-    affiliation: ''
+    affiliation: Ping An Technology; THU
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/443
       PDF: https://arxiv.org/abs/2306.15347
   - title: 'Prompt Federated Learning for Weather Forecasting: Toward Foundation Models
       on Meteorological Data'
-    affiliation: ''
+    affiliation: UTS
     venue: IJCAI
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/393
       PDF: https://arxiv.org/abs/2301.09152
       CODE: https://github.com/shengchaochen82/metepfl
   - title: 'FedBFPT: An Efficient Federated Learning Framework for Bert Further Pre-training'
-    affiliation: ''
+    affiliation: ZJU
     venue: IJCAI
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2023/483
+      CODE: https://github.com/Hanzhouu/FedBFPT
   - title: 'Bayesian Federated Learning: A Survey'
     affiliation: ''
     venue: IJCAI Survey Track
@@ -2096,17 +2117,19 @@ fl-in-top-ai-conference-and-journal:
     materials:
       PDF: https://arxiv.org/abs/2304.13267
   - title: A Survey of Federated Evaluation in Federated Learning
-    affiliation: ''
+    affiliation: Macquarie University
     venue: IJCAI Survey Track
     year: '2023'
     materials:
+      PUB: https://www.ijcai.org/proceedings/2023/758
       PDF: https://arxiv.org/abs/2305.08070
   - title: 'SAMBA: A Generic Framework for Secure Federated Multi-Armed Bandits (Extended
       Abstract)'
-    affiliation: ''
+    affiliation: INSA Centre Val de Loire
     venue: IJCAI Journal Track
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2023/772
   - title: The communication cost of security and privacy in federated frequency estimation
     affiliation: Stanford
     venue: AISTATS
