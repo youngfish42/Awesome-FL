@@ -24,6 +24,8 @@
 
 
 
+We use another project to automatically track updates to FL papers, click on [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker) if you need it.
+
 **More items will be added to the repository**. Please feel free to suggest other key resources by opening an [issue](https://github.com/youngfish42/Awesome-FL/issues) report, submitting a pull request, or dropping me an email @ ([im.young@foxmail.com](mailto:im.young@foxmail.com)). Enjoy reading!
 
 
@@ -55,7 +57,8 @@
 
 - Others (ICSE, FOCS, STOC)
 
-  
+
+
 
 <details open>
 <summary> Events </summary>
