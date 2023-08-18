@@ -2938,6 +2938,12 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: The Aggregation–Heterogeneity Trade-off in Federated Learning
+    affiliation: PKU
+    venue: COLT
+    year: '2023'
+    materials:
+      PUB: https://proceedings.mlr.press/v195/zhao23b.html
   - title: 'FLASH: Automating federated learning using CASH'
     affiliation: Rensselaer Polytechnic Institute
     venue: UAI
