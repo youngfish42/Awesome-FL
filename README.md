@@ -73,7 +73,7 @@ We use another project to automatically track updates to FL papers, click on [FL
 | [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) | [22](https://papers.nips.cc/paper_files/paper/2022), [21](https://papers.nips.cc/paper/2021), [20](https://papers.nips.cc/paper/2020) | [18](https://papers.nips.cc/paper/2018), [17](https://papers.nips.cc/paper/17) |
 | [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) | [23](https://icml.cc/Conferences/2023/Schedule?type=Poster), [22](https://icml.cc/Conferences/2022/Schedule?type=Poster), [21](https://icml.cc/Conferences/2021/Schedule?type=Poster), [20](https://icml.cc/Conferences/2020/Schedule?type=Poster) | [19](https://icml.cc/Conferences/2019/Schedule?type=Poster)  |
 | [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) | [23](https://openreview.net/group?id=ICLR.cc/2023/Conference), [22](https://openreview.net/group?id=ICLR.cc/2022/Conference), [21](https://openreview.net/group?id=ICLR.cc/2021/Conference), [20](https://openreview.net/group?id=ICLR.cc/2020/Conference) | -                                                            |
-| [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) | -                                                            | -                                                            |
+| [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) | [23](https://proceedings.mlr.press/v195/)                    | -                                                            |
 | [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A)  | [23](https://www.auai.org/uai2023/accepted_papers), [22](https://www.auai.org/uai2022/accepted_papers), [21](https://www.auai.org/uai2021/accepted_papers) | -                                                            |
 | [Machine Learning](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fml%3A) (J) | 23, 22                                                       | -                                                            |
 | [JMLR](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fjmlr%3A) (J) | 23, 22                                                       | -                                                            |
@@ -349,7 +349,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 - [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) [2022](https://papers.nips.cc/paper_files/paper/2022)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)), [2021](https://papers.nips.cc/paper/2021)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Conference)), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
 - [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2023](https://icml.cc/Conferences/2023/Schedule?type=Poster), [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 - [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) [2023](https://openreview.net/group?id=ICLR.cc/2023/Conference), [2022](https://openreview.net/group?id=ICLR.cc/2022/Conference), [2021](https://openreview.net/group?id=ICLR.cc/2021/Conference), [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
-- [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) NULL
+- [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) [2023](https://proceedings.mlr.press/v195/)
 - [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) [2023](https://www.auai.org/uai2023/accepted_papers), [2022](https://www.auai.org/uai2022/accepted_papers), [2021](https://www.auai.org/uai2021/accepted_papers)
 - [Machine Learning](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fml%3A) 2023, 2022
 - [JMLR](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fjmlr%3A) 2023([v24](https://jmlr.org/papers/v24/)), 2021([v22](https://jmlr.org/papers/v22/))
@@ -362,6 +362,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
+|The Aggregation–Heterogeneity Trade-off in Federated Learning | PKU | COLT | 2023 | [PUB](https://proceedings.mlr.press/v195/zhao23b.html) |
 | FLASH: Automating federated learning using CASH | Rensselaer Polytechnic Institute | UAI | 2023 | [[PUB](https://openreview.net/forum?id=5L66DZpPSHk)] [[SUPP](https://proceedings.mlr.press/v216/alam23a/alam23a-supp.pdf)] [[MATERIAL](https://openreview.net/attachment?id=5L66DZpPSHk&name=other_supplementary_material)] |
 | Personalized federated domain adaptation for item-to-item recommendation | AWS AI Labs | UAI | 2023 | [[PUB](https://openreview.net/forum?id=7ypu4_en3Zm)] [[PDF](https://arxiv.org/abs/2306.03191)] [[SUPP](https://proceedings.mlr.press/v216/fan23a/fan23a-supp.pdf)] [[MATERIAL](https://openreview.net/attachment?id=7ypu4_en3Zm&name=other_supplementary_material)] [[CODE](https://github.com/zfan20/PFGNNPlus)] |
 | Fed-LAMB: Layer-wise and Dimension-wise Locally Adaptive Federated Learning | Baidu Research | UAI | 2023 | [[PUB](https://openreview.net/forum?id=Q06wKxnHRv)] [[PDF](https://arxiv.org/abs/2110.00532)] [[SUPP](https://proceedings.mlr.press/v216/karimi23a/karimi23a-supp.pdf)] [[MATERIAL](https://openreview.net/attachment?id=Q06wKxnHRv&name=other_supplementary_material)] |
@@ -1884,6 +1885,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- *2023/08/18 - add COLT 2023 paper*
 - *2023/08/16 - refresh KDD, IJCAI 2023 papers*
 - *2023/08/02 - refresh ICML 2023 information*
 - *2023/07/31 - add MobiCom, ICDE, EuroSys, USENIX Security 2023 papers*
