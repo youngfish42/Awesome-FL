@@ -1558,6 +1558,15 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: Federated benchmarking of medical artificial intelligence with MedPerf
+    affiliation: IHU Strasbourg; University of Strasbourg; Dana-Farber Cancer Institute;
+      Weill Cornell Medicine; Harvard T.H. Chan School of Public Health; MIT; Intel
+    venue: Nat. Mach. Intell.
+    year: '2023'
+    materials:
+      PUB: https://www.nature.com/articles/s42256-023-00652-2
+      PDF: https://arxiv.org/abs/2110.01406
+      CODE: https://github.com/mlcommons/MedPerf
   - title: Algorithmic fairness in artificial intelligence for medicine and healthcare
     affiliation: Harvard Medical School; Broad Institute of Harvard and Massachusetts
       Institute of Technology; Dana-Farber Cancer Institute
