@@ -7932,19 +7932,22 @@ fl-in-top-network-conference-and-journal:
     affiliation: THU
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10228954
   - title: A Reinforcement Learning Approach for Minimizing Job Completion Time in
       Clustered Federated Learning
     affiliation: Southeast University
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10228925
   - title: Adaptive Configuration for Heterogeneous Participants in Decentralized
       Federated Learning
     affiliation: USTC
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10228945
       PDF: https://arxiv.org/abs/2212.02136
   - title: 'AnycostFL: Efficient On-Demand Federated Learning over Heterogeneous Edge
       Devices'
@@ -7952,36 +7955,43 @@ fl-in-top-network-conference-and-journal:
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10229017
       PDF: https://arxiv.org/abs/2301.03062
   - title: 'AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation'
     affiliation: HUST
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10229011
   - title: Asynchronous Federated Unlearning
     affiliation: University of Toronto
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10229075
       PDF: https://iqua.ece.toronto.edu/papers/ningxinsu-infocom23.pdf
+      CODE: https://github.com/TL-System/plato/tree/main/examples/knot
   - title: Communication-Efficient Federated Learning for Heterogeneous Edge Devices
       Based on Adaptive Gradient Quantization
     affiliation: PSU
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10228970
       PDF: https://arxiv.org/abs/2212.08272
   - title: Enabling Communication-Efficient Federated Learning via Distributed Compressed
       Sensing
     affiliation: Beihang University
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10229032
   - title: Federated Learning under Heterogeneous and Correlated Client Availability
     affiliation: Inria
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10228876
       PDF: https://arxiv.org/abs/2301.04632
       CODE: https://github.com/arodio/ca-fed
   - title: Federated Learning with Flexible Control
@@ -7989,12 +7999,15 @@ fl-in-top-network-conference-and-journal:
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10229070
       PDF: https://arxiv.org/abs/2212.08496
+      CODE: https://github.com/IBM/flexfl
   - title: Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks
     affiliation: The University of Sydney
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10229026
       PDF: https://arxiv.org/abs/2212.12121
   - title: 'FedMoS: Taming Client Drift in Federated Learning with Double Momentum
       and Adaptive Selection'
@@ -8002,13 +8015,17 @@ fl-in-top-network-conference-and-journal:
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10228957
       PDF: https://wangxionghome.github.io/MainFL-TR.pdf
+      CODE: https://github.com/Distributed-Learning-Networking-Group/FedMoS/
   - title: 'FedSDG-FS: Efficient and Secure Feature Selection for Vertical Federated
       Learning'
     affiliation: NTU
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10228895
+      PDF: https://arxiv.org/abs/2302.10417
   - title: Heterogeneity-Aware Federated Learning with Adaptive Client Selection and
       Gradient Compression
     affiliation: USTC
@@ -8020,54 +8037,65 @@ fl-in-top-network-conference-and-journal:
     affiliation: NUDT
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10229060
   - title: Joint Participation Incentive and Network Pricing Design for Federated
       Learning
     affiliation: Northwestern University
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10229084
   - title: 'More than Enough is Too Much: Adaptive Defenses against Gradient Leakage
       in Production Federated Learning'
     affiliation: University of Toronto
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10228919
       PDF: https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf
+      WEIBO: https://weibo.com/2174209470/MBt1Mofxv
   - title: 'Network Adaptive Federated Learning: Congestion and Lossy Compression'
     affiliation: UTAustin
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10228885
       PDF: https://arxiv.org/abs/2301.04430
   - title: 'OBLIVION: Poisoning Federated Learning by Inducing Catastrophic Forgetting'
     affiliation: The Hang Seng University of Hong Kong
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10228981
+      CODE: https://github.com/TL-System/plato/
   - title: Privacy as a Resource in Differentially Private Federated Learning
     affiliation: BUPT
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10228953
   - title: 'SplitGP: Achieving Both Generalization and Personalization in Federated
       Learning'
     affiliation: KAIST
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10229027
       PDF: https://arxiv.org/abs/2212.08343
   - title: 'SVDFed: Enabling Communication-Efficient Federated Learning via Singular-Value-Decomposition'
     affiliation: Beihang University
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10229042
   - title: 'Tackling System Induced Bias in Federated Learning: Stratification and
       Convergence Analysis'
     affiliation: Southern University of Science and Technology
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10228873
       PDF: https://arxiv.org/abs/2112.11256
   - title: 'Toward Sustainable AI: Federated Learning Demand Response in Cloud-Edge
       Systems via Auctions'
@@ -8075,6 +8103,7 @@ fl-in-top-network-conference-and-journal:
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10229014
       PDF: http://ix.cs.uoregon.edu/~jiao/publications/infocom23-fl.pdf
   - title: Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data
       Labeling
@@ -8082,13 +8111,15 @@ fl-in-top-network-conference-and-journal:
     venue: INFOCOM
     year: '2023'
     materials:
+      PUB: https://ieeexplore.ieee.org/document/10228923
       PDF: https://arxiv.org/abs/2302.00106
   - title: 'TVFL: Tunable Vertical Federated Learning towards Communication-Efficient
       Model Serving'
     affiliation: USTC
     venue: INFOCOM
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10229061
   - title: 'PyramidFL: Fine-grained Data and System Heterogeneity-aware Client Selection
       for Efficient Federated Learning'
     affiliation: MSU
