@@ -3453,6 +3453,20 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=iAgQfF3atY
       PDF: https://arxiv.org/abs/2306.02543
       CODE: https://github.com/boxinz17/data-market-via-adaptive-sampling
+  - title: Ensemble and continual federated learning for classification tasks.
+    affiliation: Universidade de Santiago de Compostela
+    venue: Mach Learn
+    year: '2023'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-023-06330-z
+      PDF: https://arxiv.org/abs/2006.07129
+  - title: 'FAC-fed: Federated adaptation for fairness and concept drift aware stream
+      classification'
+    affiliation: Leibniz University of Hannover
+    venue: Mach Learn
+    year: '2023'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-023-06360-7
   - title: Robust federated learning under statistical heterogeneity via hessian-weighted
       aggregation
     affiliation: Deakin University
@@ -6363,6 +6377,61 @@ fl-in-top-secure-conference-and-journal:
     materials:
       PUB: https://www.computer.org/csdl/proceedings-article/sp/2023/933600a326/1He7Y3q8FMY
       PDF: https://arxiv.org/abs/2210.10936
+  - title: Scalable and Privacy-Preserving Federated Principal Component Analysis
+    affiliation: EPFL; Tune Insight SA
+    venue: S&P
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10179350
+      PDF: https://arxiv.org/abs/2304.00129
+  - title: 'SafeFL: MPC-friendly Framework for Private and Robust Federated Learning'
+    affiliation: TU Darmstadt
+    venue: S&P Workshop
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10188630
+  - title: On the Pitfalls of Security Evaluation of Robust Federated Learning.
+    affiliation: umass
+    venue: S&P Workshop
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10188636
+  - title: 'BayBFed: Bayesian Backdoor Defense for Federated Learning'
+    affiliation: TU Darmstadt; UTSA
+    venue: S&P
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10179362
+      PDF: https://arxiv.org/abs/2301.09508
+  - title: '3DFed: Adaptive and Extensible Framework for Covert Backdoor Attack in
+      Federated Learning'
+    affiliation: PolyU
+    venue: S&P
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10179401
+      CODE: https://github.com/haoyangliASTAPLE/3DFed
+  - title: 'RoFL: Robustness of Secure Federated Learning.'
+    affiliation: ETH Zurich
+    venue: S&P
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10179400
+      PDF: https://arxiv.org/abs/2107.03311
+      CODE: https://github.com/pps-lab/rofl-project-code
+  - title: 'Flamingo: Multi-Round Single-Server Secure Aggregation with Applications
+      to Private Federated Learning.'
+    affiliation: upenn
+    venue: S&P
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10179434
+      CODE: https://github.com/eniac/flamingo
+  - title: 'ELSA: Secure Aggregation for Federated Learning with Malicious Actors.'
+    affiliation: ''
+    venue: S&P
+    year: '2023'
+    materials: {}
   - title: 'Private, Efficient, and Accurate: Protecting Models Trained by Multi-party
       Learning with Differential Privacy'
     affiliation: Fudan University
@@ -6483,6 +6552,12 @@ fl-in-top-secure-conference-and-journal:
       PUB: https://www.ndss-symposium.org/ndss-paper/manipulating-the-byzantine-optimizing-model-poisoning-attacks-and-defenses-for-federated-learning/
       CODE: https://github.com/vrt1shjwlkr/NDSS21-Model-Poisoning
       VIDEO: https://www.youtube.com/watch?v=G2VYRnLqAXE&list=PLfUWWM-POgQvaqlGPwlOa0JR3bryB1KCS&index=3
+  - title: 'SAFELearn: Secure Aggregation for private FEderated Learning'
+    affiliation: TU Darmstadt
+    venue: S&P Workshop
+    year: '2021'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9474309
   - title: Local Model Poisoning Attacks to Byzantine-Robust Federated Learning
     affiliation: The Ohio State University
     venue: USENIX Security
@@ -6503,7 +6578,7 @@ fl-in-top-secure-conference-and-journal:
   - title: 'IOTFLA : A Secured and Privacy-Preserving Smart Home Architecture Implementing
       Federated Learning'
     affiliation: Université du Québéc á Montréal
-    venue: S&P （Workshop）
+    venue: S&P Workshop
     year: '2019'
     materials:
       PUB: https://ieeexplore.ieee.org/document/8844592
@@ -8572,6 +8647,40 @@ fl-in-top-system-conference-and-journal:
     year: '2023'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9882092
+  - title: A New Federated Scheduling Algorithm for Arbitrary-Deadline DAG Tasks
+    affiliation: NEFU
+    venue: TC
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10043684
+  - title: Privacy-Enhanced Decentralized Federated Learning at Dynamic Edge
+    affiliation: SDU
+    venue: TC
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10025677
+  - title: Byzantine-Resilient Federated Learning at Edge
+    affiliation: SDU
+    venue: TC
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10070815
+      PDF: https://arxiv.org/abs/2303.10434
+  - title: 'PrivAim: A Dual-Privacy Preserving and Quality-Aware Incentive Mechanism
+      for Federated Learning'
+    affiliation: CSU
+    venue: TC
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9994045
+  - title: Accelerating Federated Learning With a Global Biased Optimiser
+    affiliation: University of Exeter
+    venue: TC
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/9913718
+      PDF: https://arxiv.org/abs/2108.09134
+      CODE: https://github.com/jedmills/fedgbo
   - title: Type-Aware Federated Scheduling for Typed DAG Tasks on Heterogeneous Multicore
       Platforms
     affiliation: TU Dortmund University
@@ -8587,6 +8696,14 @@ fl-in-top-system-conference-and-journal:
     year: '2023'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9791849/
+  - title: Hierarchical Federated Learning With Momentum Acceleration in Multi-Tier
+      Networks
+    affiliation: University of Sydney
+    venue: TPDS
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10180030
+      PDF: https://arxiv.org/abs/2210.14560
   - title: 'Dap-FL: Federated Learning Flourishes by Adaptive Tuning and Secure Aggregation'
     affiliation: Xidian University
     venue: TPDS
