@@ -141,6 +141,7 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | ------------------------------------------------------------ |
+|Advocating for neurodata privacy and neurotechnology regulation | Columbia University | Nat. Protoc. (Perspective) | 2023 | [PUB](https://www.nature.com/articles/s41596-023-00873-0) |
 | Federated benchmarking of medical artificial intelligence with MedPerf | IHU Strasbourg; University of Strasbourg; Dana-Farber Cancer Institute; Weill Cornell Medicine; Harvard T.H. Chan School of Public Health; MIT; Intel | Nat. Mach. Intell. | 2023 | [[PUB](https://www.nature.com/articles/s42256-023-00652-2)] [[PDF](https://arxiv.org/abs/2110.01406)] [[CODE](https://github.com/mlcommons/MedPerf)] |
 | Algorithmic fairness in artificial intelligence for medicine and healthcare | Harvard Medical School; Broad Institute of Harvard and Massachusetts Institute of Technology; Dana-Farber Cancer Institute | Nat. Biomed. Eng. (Perspective) | 2023 | [[PUB](https://www.nature.com/articles/s41551-023-01056-8)] [[PDF](https://arxiv.org/abs/2110.00603)] |
 | Differentially private knowledge transfer for federated learning | THU | Nat. Commun. | 2023 | [[PUB](https://www.nature.com/articles/s41467-023-38794-x)] [[CODE](https://github.com/taoqi98/PrivateKT)] |
@@ -1260,6 +1261,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | On Noisy Evaluation in Federated Hyperparameter Tuning | CMU | MLSys | 2023 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/294f82c43d69f66c04440cbb2740e52d-Abstract-mlsys2023.html)] [[PDF](https://arxiv.org/abs/2212.08930)] [[CODE](https://github.com/imkevinkuo/noisy-eval-in-fl)] |
 | GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning | UBC | MLSys | 2023 | [[PUB](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3ed923f9f88108cb066c6568d3df2666-Abstract-mlsys2023.html)] [[PDF](https://arxiv.org/abs/2212.01523)] [[CODE](https://github.com/TCtower/GlueFL)] |
 | Optimizing Training Efficiency and Cost of Hierarchical Federated Learning in Heterogeneous Mobile-Edge Cloud Computing | ECNU | TCAD | 2023 | [[PUB](https://ieeexplore.ieee.org/document/9882092)] |
+| Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning | PolyU | TC | 2023 | [PUB](https://ieeexplore.ieee.org/document/10115052) |
 | A New Federated Scheduling Algorithm for Arbitrary-Deadline DAG Tasks | NEFU | TC | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10043684)] |
 | Privacy-Enhanced Decentralized Federated Learning at Dynamic Edge | SDU | TC | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10025677)] |
 | Byzantine-Resilient Federated Learning at Edge | SDU | TC | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10070815)] [[PDF](https://arxiv.org/abs/2303.10434)] |
