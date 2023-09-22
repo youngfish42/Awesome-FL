@@ -1558,6 +1558,12 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: Advocating for neurodata privacy and neurotechnology regulation
+    affiliation: Columbia University
+    venue: Nat. Protoc. (Perspective)
+    year: '2023'
+    materials:
+      PUB: https://www.nature.com/articles/s41596-023-00873-0
   - title: Federated benchmarking of medical artificial intelligence with MedPerf
     affiliation: IHU Strasbourg; University of Strasbourg; Dana-Farber Cancer Institute;
       Weill Cornell Medicine; Harvard T.H. Chan School of Public Health; MIT; Intel
@@ -8647,6 +8653,13 @@ fl-in-top-system-conference-and-journal:
     year: '2023'
     materials:
       PUB: https://ieeexplore.ieee.org/document/9882092
+  - title: Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated
+      Learning
+    affiliation: PolyU
+    venue: TC
+    year: '2023'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10115052
   - title: A New Federated Scheduling Algorithm for Arbitrary-Deadline DAG Tasks
     affiliation: NEFU
     venue: TC
