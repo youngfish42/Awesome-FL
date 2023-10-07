@@ -6622,6 +6622,269 @@ fl-in-top-cv-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Towards Attack-tolerant Federated Learning via Critical Parameter Analysis
+    affiliation: KAIST
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Han_Towards_Attack-tolerant_Federated_Learning_via_Critical_Parameter_Analysis_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2308.09318
+      CODE: https://github.com/Sungwon-Han/FEDCPA
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Han_Towards_Attack-tolerant_Federated_ICCV_2023_supplemental.pdf
+  - title: Efficient Model Personalization in Federated Learning via Client-Specific
+      Prompt Generation
+    affiliation: NTU; NVIDIA
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Efficient_Model_Personalization_in_Federated_Learning_via_Client-Specific_Prompt_Generation_ICCV_2023_paper.html
+      PDF: https://arxiv.org/abs/2308.15367
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Yang_Efficient_Model_Personalization_ICCV_2023_supplemental.pdf
+  - title: Generative Gradient Inversion via Over-Parameterized Networks in Federated
+      Learning
+    affiliation: A*STAR
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Generative_Gradient_Inversion_via_Over-Parameterized_Networks_in_Federated_Learning_ICCV_2023_paper.html
+      CODE: https://github.com/czhang024/CI-Net
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhang_Generative_Gradient_Inversion_ICCV_2023_supplemental.pdf
+  - title: 'GPFL: Simultaneously Learning Global and Personalized Feature Information
+      for Personalized Federated Learning'
+    affiliation: SJTU
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_GPFL_Simultaneously_Learning_Global_and_Personalized_Feature_Information_for_Personalized_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2308.10279
+      CODE: https://github.com/TsingZ0/GPFL
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhang_GPFL_Simultaneously_Learning_ICCV_2023_supplemental.zip
+  - title: 'Workie-Talkie: Accelerating Federated Learning by Overlapping Computing
+      and Communications via Contrastive Regularization'
+    affiliation: University of Houston
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Workie-Talkie_Accelerating_Federated_Learning_by_Overlapping_Computing_and_Communications_via_ICCV_2023_paper.html
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Chen_Workie-Talkie_Accelerating_Federated_ICCV_2023_supplemental.pdf
+  - title: 'PGFed: Personalize Each Client''s Global Objective for Federated Learning'
+    affiliation: University of Pittsburgh
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Luo_PGFed_Personalize_Each_Clients_Global_Objective_for_Federated_Learning_ICCV_2023_paper.html
+      PDF: https://arxiv.org/abs/2212.01448
+      CODE: https://github.com/ljaiverson/pgfed
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Luo_PGFed_Personalize_Each_ICCV_2023_supplemental.pdf
+  - title: 'FedPerfix: Towards Partial Model Personalization of Vision Transformers
+      in Federated Learning'
+    affiliation: UCF
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Sun_FedPerfix_Towards_Partial_Model_Personalization_of_Vision_Transformers_in_Federated_ICCV_2023_paper.html
+      PDF: https://arxiv.org/abs/2308.09160
+      CODE: https://github.com/imguangyu/fedperfix
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Sun_FedPerfix_Towards_Partial_ICCV_2023_supplemental.pdf
+  - title: 'L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised
+      Visual Representation Learning'
+    affiliation: TCL AI Lab
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Rehman_L-DAWA_Layer-wise_Divergence_Aware_Weight_Aggregation_in_Federated_Self-Supervised_Visual_ICCV_2023_paper.html
+      PDF: https://arxiv.org/abs/2307.07393
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Rehman_L-DAWA_Layer-wise_Divergence_ICCV_2023_supplemental.pdf
+  - title: 'FedPD: Federated Open Set Recognition with Parameter Disentanglement'
+    affiliation: City University of Hong Kong
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Yang_FedPD_Federated_Open_Set_Recognition_with_Parameter_Disentanglement_ICCV_2023_paper.html
+      CODE: https://github.com/CityU-AIM-Group/FedPD
+  - title: 'TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation'
+    affiliation: ETH Zurich; Sony AI
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2303.06937
+      CODE: https://github.com/zj-jayzhang/Federated-Class-Continual-Learning
+  - title: Towards Instance-adaptive Inference for Federated Learning
+    affiliation: A*STAR
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Towards_Instance-adaptive_Inference_for_Federated_Learning_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2308.06051
+      CODE: https://github.com/chunmeifeng/fedins
+  - title: Communication-efficient Federated Learning with Single-Step Synthetic Features
+      Compressor for Faster Convergence
+    affiliation: SCU; Engineering Research Center of Machine Learning and Industry
+      Intelligence
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Communication-efficient_Federated_Learning_with_Single-Step_Synthetic_Features_Compressor_for_Faster_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2302.13562
+      CODE: https://github.com/Soptq/iccv23-3sfc
+  - title: 'zPROBE: Zero Peek Robustness Checks for Federated Learning'
+    affiliation: Purdue University
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2206.12100
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Ghodsi_zPROBE_Zero_Peek_ICCV_2023_supplemental.pdf
+  - title: 'ProtoFL: Unsupervised Federated Learning via Prototypical Distillation'
+    affiliation: KakaoBank Corp.
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Kim_ProtoFL_Unsupervised_Federated_Learning_via_Prototypical_Distillation_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2307.12450
+  - title: 'MAS: Towards Resource-Efficient Federated Multiple-Task Learning'
+    affiliation: Sony AI
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Zhuang_MAS_Towards_Resource-Efficient_Federated_Multiple-Task_Learning_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2307.11285
+      CODE: https://github.com/EasyFL-AI/EasyFL/tree/master/applications/mas
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhuang_MAS_Towards_Resource-Efficient_ICCV_2023_supplemental.pdf
+  - title: 'FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology
+      Structure and Knowledge Distillation'
+    affiliation: PKU
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Guo_FSAR_Federated_Skeleton-based_Action_Recognition_with_Adaptive_Topology_Structure_and_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2306.11046
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Guo_FSAR_Federated_Skeleton-based_ICCV_2023_supplemental.pdf
+  - title: When Do Curricula Work in Federated Learning?
+    affiliation: UCSD
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Vahidian_When_Do_Curricula_Work_in_Federated_Learning_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2212.12712
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Vahidian_When_Do_Curricula_ICCV_2023_supplemental.pdf
+  - title: Communication-Efficient Vertical Federated Learning with Limited Overlapping
+      Samples
+    affiliation: Duke University
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Sun_Communication-Efficient_Vertical_Federated_Learning_with_Limited_Overlapping_Samples_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2303.16270
+      CODE: https://github.com/NVIDIA/NVFlare/tree/main/research/one-shot-vfl
+  - title: Multi-Metrics Adaptively Identifies Backdoors in Federated Learning
+    affiliation: SCUT
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Multi-Metrics_Adaptively_Identifies_Backdoors_in_Federated_Learning_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2303.06601
+      CODE: https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Huang_Multi-Metrics_Adaptively_Identifies_ICCV_2023_supplemental.pdf
+  - title: 'No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning
+      with Synthetic and Fixed Classifier'
+    affiliation: ZJU
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Li_No_Fear_of_Classifier_Biases_Neural_Collapse_Inspired_Federated_Learning_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2303.10058
+      CODE: https://github.com/zexilee/iccv-2023-fedetf
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Li_No_Fear_of_ICCV_2023_supplemental.pdf
+  - title: 'FRAug: Tackling Federated Learning with Non-IID Features via Representation
+      Augmentation'
+    affiliation: Ludwig Maximilian University of Munich; Siemens Technology
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Chen_FRAug_Tackling_Federated_Learning_with_Non-IID_Features_via_Representation_Augmentation_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2205.14900
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Chen_FRAug_Tackling_Federated_ICCV_2023_supplemental.pdf
+  - title: 'Bold but Cautious: Unlocking the Potential of Personalized Federated Learning
+      through Cautiously Aggressive Collaboration'
+    affiliation: BUAA
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Bold_but_Cautious_Unlocking_the_Potential_of_Personalized_Federated_Learning_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2309.11103
+      CODE: https://github.com/kxzxvbk/Fling
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wu_Bold_but_Cautious_ICCV_2023_supplemental.pdf
+  - title: Global Balanced Experts for Federated Long-Tailed Learning
+    affiliation: CUHK-Shenzhen
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Zeng_Global_Balanced_Experts_for_Federated_Long-Tailed_Learning_ICCV_2023_paper.html
+      CODE: https://github.com/Spinozaaa/Federated-Long-tailed-Learning
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zeng_Global_Balanced_Experts_ICCV_2023_supplemental.pdf
+  - title: Knowledge-Aware Federated Active Learning with Non-IID Data
+    affiliation: The University of Sydney
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Cao_Knowledge-Aware_Federated_Active_Learning_with_Non-IID_Data_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2211.13579
+      CODE: https://github.com/ycao5602/KAFAL
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cao_Knowledge-Aware_Federated_Active_ICCV_2023_supplemental.pdf
+  - title: Enhancing Privacy Preservation in Federated Learning via Learning Rate
+      Perturbation
+    affiliation: BUPT
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Wan_Enhancing_Privacy_Preservation_in_Federated_Learning_via_Learning_Rate_Perturbation_ICCV_2023_paper.html
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Wan_Enhancing_Privacy_Preservation_ICCV_2023_supplemental.pdf
+  - title: 'Local or Global: Selective Knowledge Assimilation for Federated Learning
+      with Limited Labels'
+    affiliation: CMU
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Cho_Local_or_Global_Selective_Knowledge_Assimilation_for_Federated_Learning_with_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2307.08809
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cho_Local_or_Global_ICCV_2023_supplemental.pdf
+  - title: 'Federated Learning Over Images: Vertical Decompositions and Pre-Trained
+      Backbones Are Difficult to Beat'
+    affiliation: Rice University
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Hu_Federated_Learning_Over_Images_Vertical_Decompositions_and_Pre-Trained_Backbones_Are_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2309.03237
+      CODE: https://github.com/huerdong/FedVert-Experiments
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Hu_Federated_Learning_Over_ICCV_2023_supplemental.pdf
+  - title: Robust Heterogeneous Federated Learning under Data Corruption
+    affiliation: WHU
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Fang_Robust_Heterogeneous_Federated_Learning_under_Data_Corruption_ICCV_2023_paper.html
+      CODE: https://github.com/FangXiuwen/AugHFL
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Fang_Robust_Heterogeneous_Federated_ICCV_2023_supplemental.pdf
+  - title: Personalized Semantics Excitation for Federated Image Classification
+    affiliation: Tulane University
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Xia_Personalized_Semantics_Excitation_for_Federated_Image_Classification_ICCV_2023_paper.html
+      CODE: https://github.com/HaifengXia/PSE
+  - title: Reducing Training Time in Cross-Silo Federated Learning Using Multigraph
+      Topology
+    affiliation: AIOZ
+    venue: ICCV
+    year: '2023'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/ICCV2023/html/Do_Reducing_Training_Time_in_Cross-Silo_Federated_Learning_Using_Multigraph_Topology_ICCV_2023_paper.html
+      PDF: http://arxiv.org/abs/2207.09657
+      CODE: https://github.com/aioz-ai/MultigraphFL
+      SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Do_Reducing_Training_Time_in_Cross-Silo_Federated_Learning_Using_Multigraph_Topology_ICCV_2023_supplemental.pdf
   - title: 'Rethinking Federated Learning With Domain Shift: A Prototype View'
     affiliation: WHU
     venue: CVPR
