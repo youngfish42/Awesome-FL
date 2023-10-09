@@ -1741,6 +1741,12 @@ fl-in-top-ai-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Privacy-preserving graph convolution network for federated item recommendation
+    affiliation: SZU
+    venue: AI
+    year: '2023'
+    materials:
+      PUB: https://www.sciencedirect.com/science/article/abs/pii/S000437022300142X
   - title: 'Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain
       Recommendation'
     affiliation: CAS; UCAS; JD Technology; JD Intelligent Cities Research
