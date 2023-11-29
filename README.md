@@ -1789,9 +1789,9 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 # datasets
 
-## graph datasets
+## fl graph datasets
 
-
+- [Wyze Rule Dataset](https://huggingface.co/datasets/wyzelabs/RuleRecommendation) 
 
 ## tabular datasets
 
