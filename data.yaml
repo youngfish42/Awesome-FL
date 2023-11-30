@@ -28,6 +28,22 @@ fl-on-graph-data-and-graph-neural-network:
     year: 4
     materials: 60
   body:
+  - title: 'FedGCN: Convergence and Communication Tradeoffs in Federated Training
+      of Graph Convolutional Networks'
+    affiliation: CMU
+    venue: 'NeurIPS :mortar_board:'
+    year: '2023'
+    materials:
+      PDF: https://arxiv.org/abs/2201.12433
+      CODE: https://github.com/yh-yao/FedGCN
+  - title: 'Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking'
+    affiliation: CMU
+    venue: 'NeurIPS Dataset Track :mortar_board:'
+    year: '2023'
+    materials:
+      PDF: https://openreview.net/forum?id=qynH28Y4xE
+      DATASET: https://huggingface.co/datasets/wyzelabs/RuleRecommendation
+      CODE: https://github.com/yh-yao/FedRule
   - title: 'Federated Visualization: A Privacy-Preserving Strategy for Aggregated
       Visual Query.'
     affiliation: ZJU
@@ -196,6 +212,7 @@ fl-on-graph-data-and-graph-neural-network:
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3576842.3582328
       PDF: https://arxiv.org/abs/2211.06812
+      CODE: https://github.com/yh-yao/FedRule
   - title: 'FedWalk: Communication Efficient Federated Unsupervised Node Embedding
       with Differential Privacy'
     affiliation: SJTU
@@ -408,14 +425,6 @@ fl-on-graph-data-and-graph-neural-network:
     year: '2022'
     materials:
       PUB: https://ieeexplore.ieee.org/document/10051979
-  - title: 'FedGCN: Convergence and Communication Tradeoffs in Federated Training
-      of Graph Convolutional Networks'
-    affiliation: CMU
-    venue: CIKM Workshop (Oral)
-    year: '2022'
-    materials:
-      PDF: https://arxiv.org/abs/2201.12433
-      CODE: https://github.com/yh-yao/FedGCN
   - title: Investigating the Predictive Reproducibility of Federated Graph Neural
       Networks using Medical Datasets.
     affiliation: ''
