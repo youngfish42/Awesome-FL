@@ -6360,6 +6360,14 @@ fl-in-top-secure-conference-and-journal:
     materials:
       PUB: https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/
       PDF: https://arxiv.org/abs/2202.04856
+  - title: Turning Privacy-preserving Mechanisms against Federated Learning
+    affiliation: University of Pavia; TU Delft; University of Padua; Radboud University
+    venue: CCS
+    year: '2023'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3576915.3623114
+      PDF: https://arxiv.org/abs/2305.05355
+      CODE: https://github.com/DCALab-UNIPV/Turning-Privacy-preserving-Mechanisms-against-Federated-Learning
   - title: 'CERBERUS: Exploring Federated Prediction of Security Events'
     affiliation: UCL London
     venue: CCS
