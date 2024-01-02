@@ -37,7 +37,9 @@ go_mod += "go 1.16\n\n"  # replace "1.16" with your Go version
 go_mod += "require (\n"  
 # Add the dependencies  
 for link in github_links:  
-    go_mod += f"    {link} v0.0.0\n"  # replace "v0.0.0" with the actual version if known  
+    # Remove http:// or https:// from the URL  
+    link = link.replace('http://', '').replace('https://', '')
+    go_mod += f"    {link} v0.0.0 // indirect\n"  # replace "v0.0.0" with the actual version if known  
 # End the require block  
 go_mod += ")\n"  
   
