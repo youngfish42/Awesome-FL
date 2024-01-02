@@ -8,7 +8,7 @@ url_pattern = re.compile(r'\(http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|
 # # Regular expression to match Github project URLs  
 # github_url_pattern = re.compile(r'^https://github.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+/?$')  
 # Regular expression to match Github project URLs with optional additional paths  
-github_url_pattern = re.compile(r'^https://github.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+(/.*)?/?$') 
+github_url_pattern = re.compile(r'^http[s]?://github.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+(/.*)?/?$') 
 
 
 github_links = set()  # Use a set to automatically remove duplicates  
@@ -30,7 +30,7 @@ with open('github_links.txt', 'w') as f:
 
 
 # Start the go.mod file with the module line  
-go_mod = "module https://github.com/youngfish42/Awesome-FL\n\n"  # replace "mymodule" with your module name  
+go_mod = "module github.com/youngfish42/Awesome-FL\n\n"  # replace "mymodule" with your module name  
 # Add the Go version  
 go_mod += "go 1.16\n\n"  # replace "1.16" with your Go version  
 # Start the require block  
