@@ -30,7 +30,7 @@ with open('github_links.txt', 'w') as f:
 
 
 # Start the go.mod file with the module line  
-go_mod = "https://github.com/youngfish42/Awesome-FL\n\n"  # replace "mymodule" with your module name  
+go_mod = "module https://github.com/youngfish42/Awesome-FL\n\n"  # replace "mymodule" with your module name  
 # Add the Go version  
 go_mod += "go 1.16\n\n"  # replace "1.16" with your Go version  
 # Start the require block  
