@@ -60,7 +60,7 @@ for link in github_links:
             print(f"Error fetching commit info for {link}: {e}")  
     except Exception as e:
         print(f"Error getting commit hash for {link}: {e}")
-    time.sleep(1)  # Wait 1 second to avoid rate limiting
+    time.sleep(61)  # Wait 61 second to avoid rate limiting
 
 
 # Start the go.mod file with the module line  
