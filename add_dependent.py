@@ -1,6 +1,10 @@
 import re
 import requests
 import time
+from datetime import datetime 
+
+# Print start time
+print(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
 # Path to the local markdown file  
 file_path = 'README.md'  
@@ -33,9 +37,22 @@ with open('github_links.txt', 'w') as f:
     for link in github_links:  
         f.write(link + '\n')
 
+# Function to get the latest version number from the tags  
+
+def get_latest_version_number(owner, repo):
+    url = f"https://api.github.com/repos/{owner}/{repo}/tags" 
+    response = requests.get(url, headers=headers)  
+    response.raise_for_status()  
+    tags = response.json()  
+    if tags:  
+        print(f"Got latest version number for {owner}/{repo}: {tags[0]['name']}")
+        return tags[0]["name"]  
+    else:  
+        return None 
+    
 # Get the commit hashes for each project
 commit_hashes = {}  
-headers = {"Authorization": "Input Your key"}  # replace "your_token" with your Github token
+headers = {"Authorization": "INPUT YOUR KEY"}  # replace "your_token" with your Github token
 for link in github_links:
     try:
         # Remove http:// or https:// from the URL  
@@ -43,8 +60,15 @@ for link in github_links:
         owner, repo = link.split("/")[1:3]  
         url = f"https://api.github.com/repos/{owner}/{repo}/commits/main"  
         response = requests.get(url,headers=headers)  
-        response.raise_for_status()  
-        commit_hashes[link] = response.json()["sha"]
+        response.raise_for_status()
+        commit_info = response.json()
+        time.sleep(61)
+        version = get_latest_version_number(owner, repo) 
+        commit_hashes[link] = {
+            "hash": commit_info["sha"][:12],
+            "date": datetime.strptime(commit_info["commit"]["committer"]["date"], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y%m%d%H%M%S"),
+            "version": version 
+        }
         print(f"Got commit hash for {link}: {commit_hashes[link]}")
     except requests.exceptions.HTTPError as e:  
         if e.response.status_code == 422:  
@@ -53,7 +77,15 @@ for link in github_links:
                 url = f"https://api.github.com/repos/{owner}/{repo}/commits/master"
                 response = requests.get(url,headers=headers)  
                 response.raise_for_status()  
-                commit_hashes[link] = response.json()["sha"]  
+                commit_info = response.json()
+                time.sleep(61)
+                version = get_latest_version_number(owner, repo) 
+                commit_hashes[link] = {
+                    "hash": commit_info["sha"][:12],
+                    "date": datetime.strptime(commit_info["commit"]["committer"]["date"], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y%m%d%H%M%S"),
+                    "version": version 
+                }
+                print(f"Got commit hash for {link}: {commit_hashes[link]}")
             except Exception as e:  
                 print(f"Error fetching commit info for {link}: {e}")  
         else:  
@@ -70,11 +102,15 @@ go_mod += "go 1.16\n\n"  # replace "1.16" with your Go version
 # Start the require block  
 go_mod += "require (\n"  
 # Add the dependencies  
-for link,hash in commit_hashes.items():  
-    go_mod += f"    {link} {hash} // indirect\n"  #
+for link, info in commit_hashes.items():
+    version = info["version"] if info["version"] else "v0.0.0"    
+    go_mod += f"    {link} {version}-{info['date']}-{info['hash']} // indirect\n"  
 # End the require block  
 go_mod += ")\n"  
   
 # Save the go.mod file  
 with open('go.mod', 'w') as f:  
     f.write(go_mod)  
+
+# Print end time
+print(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
