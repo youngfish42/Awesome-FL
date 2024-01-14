@@ -1567,6 +1567,36 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: Selective knowledge sharing for privacy-preserving federated distillation
+      without a good teacher
+    affiliation: HKUST
+    venue: Nat. Commun.
+    year: '2024'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-023-44383-9
+      PDF: https://arxiv.org/abs/2304.01731
+      CODE: https://github.com/shaojiawei07/Selective-FD
+  - title: 'A federated learning system for precision oncology in Europe: DigiONE'
+    affiliation: IQVIA Cancer Research BV
+    venue: Nat. Med. (Comment)
+    year: '2024'
+    materials:
+      PUB: https://www.nature.com/articles/s41591-023-02715-8
+  - title: Multi-client distributed blind quantum computation with the Qline architecture
+    affiliation: Sapienza Università di Roma
+    venue: Nat. Commun.
+    year: '2023'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-023-43617-0
+      PDF: https://arxiv.org/abs/2306.05195
+  - title: Device-independent quantum randomness–enhanced zero-knowledge proof
+    affiliation: USTC
+    venue: PNAS
+    year: '2023'
+    materials:
+      PUB: https://www.pnas.org/doi/10.1073/pnas.2205463120
+      PDF: https://arxiv.org/abs/2111.06717
+      新闻: https://www.nsfc.gov.cn/publish/portal0/tab448/info90817.htm
   - title: Collaborative and privacy-preserving retired battery sorting for profitable
       direct recycling via federated machine learning
     affiliation: Tsinghua University
@@ -1680,6 +1710,13 @@ fl-in-top-tier-journal:
       PUB: https://www.nature.com/articles/s41467-022-32020-w
       CODE: https://github.com/GOGODD/FL-EDGE-COMPUTING/releases/tag/federated_learning
       解读: https://zhuanlan.zhihu.com/p/549087420
+  - title: A novel decentralized federated learning approach to train on globally  distributed,
+      poor quality, and protected private medical data
+    affiliation: University of Wollongong
+    venue: Sci. Rep.
+    year: '2022'
+    materials:
+      PUB: https://www.nature.com/articles/s41598-022-12833-x
   - title: Advancing COVID-19 diagnosis with privacy-preserving collaboration in artificial
       intelligence
     affiliation: HUST
