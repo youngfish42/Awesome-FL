@@ -3030,6 +3030,22 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://openreview.net/forum?id=ZdxGmJGKOo
       PDF: https://arxiv.org/abs/2305.19442
       SUPP: https://openreview.net/attachment?id=ZdxGmJGKOo&name=supplementary_material
+  - title: Mechanism Design for Collaborative Normal Mean Estimation
+    affiliation: UW-Madison
+    venue: NeurIPS
+    year: '2023'
+    materials:
+      PUB: https://openreview.net/forum?id=yKCLfOOIL7
+      PDF: https://arxiv.org/abs/2306.06351
+  - title: 'Robust Distributed Learning: Tight Error Bounds and Breakdown Point under
+      Data Heterogeneity'
+    affiliation: EPFL
+    venue: NeurIPS
+    year: '2023'
+    materials:
+      PUB: https://openreview.net/forum?id=n3fPDW87is
+      PDF: https://arxiv.org/abs/2309.13591
+      CODE: https://github.com/GeovaniRizk/Robust-Distributed-Learning-Tight-Error-Bounds-and-Breakdown-Point-under-Data-Heterogeneity
   - title: 'Incentives in Federated Learning: Equilibria, Dynamics, and Mechanisms
       for Welfare Maximization'
     affiliation: UIUC
