@@ -2033,7 +2033,7 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning) and [FederatedAI research](https://github.com/FederatedAI/research#survey) , the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
 
-
+- [Ad Hoc Networks 2024] Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges [PUB](https://www.sciencedirect.com/science/article/abs/pii/S1570870524000684) [PDF](https://arxiv.org/pdf/2304.11643.pdf) [CODE](https://github.com/6lyc/Awesome-Privacy-Computing-in-Metaverse) 
 - [SIGKDD Explor. 2022] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PUB](https://dl.acm.org/doi/10.1145/3575637.3575644) [PDF](https://arxiv.org/abs/2207.11812)
 - [ACM Trans. Interact. Intell. Syst.] Toward Responsible AI: An Overview of Federated Learning for User-centered Privacy-preserving Computing [PUB](https://dl.acm.org/doi/abs/10.1145/3485875)
 - [ICML Workshop 2020] SECure: A Social and Environmental Certificate for AI Systems [PDF](https://arxiv.org/abs/2006.06217)
