@@ -193,6 +193,9 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 |Title                                                           |    Affiliation                                                     |    Venue      |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ------------------------------------------------------------ |
+|Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning | WHU | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10295990) [PDF](https://arxiv.org/abs/2309.16286) [CODE](https://github.com/WenkeHuang/FCCL) |
+|Multi-Stage Asynchronous Federated Learning With Adaptive Differential Privacy | HPU; XJTU | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10316599) [PDF](https://arxiv.org/abs/1912.07902) [CODE](https://github.com/IoTDATALab/MAPA) |
+|A Bayesian Federated Learning Framework With Online Laplace Approximation | SUSTech | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10274722) [PDF](https://arxiv.org/abs/2102.01936) [CODE](https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation) |
 | Privacy-preserving graph convolution network for federated item recommendation | SZU | AI | 2023 | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S000437022300142X)] |
 | Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation | CAS; UCAS; JD Technology; JD Intelligent Cities Research | AAAI | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/25531)] |
 | Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense | USTC; State Key Laboratory of Cognitive Intelligence | AAAI | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/25611)] [[PDF](https://arxiv.org/abs/2212.05399)] [[CODE](https://github.com/yflyl613/fedrec)] |
@@ -1127,6 +1130,10 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 | Robust Heterogeneous Federated Learning under Data Corruption | WHU | ICCV | 2023 | [[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Fang_Robust_Heterogeneous_Federated_Learning_under_Data_Corruption_ICCV_2023_paper.html)] [[CODE](https://github.com/FangXiuwen/AugHFL)] [[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Fang_Robust_Heterogeneous_Federated_ICCV_2023_supplemental.pdf)] |
 | Personalized Semantics Excitation for Federated Image Classification | Tulane University | ICCV | 2023 | [[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Xia_Personalized_Semantics_Excitation_for_Federated_Image_Classification_ICCV_2023_paper.html)] [[CODE](https://github.com/HaifengXia/PSE)] |
 | Reducing Training Time in Cross-Silo Federated Learning Using Multigraph Topology | AIOZ | ICCV | 2023 | [[PUB](https://openaccess.thecvf.com/content/ICCV2023/html/Do_Reducing_Training_Time_in_Cross-Silo_Federated_Learning_Using_Multigraph_Topology_ICCV_2023_paper.html)] [[PDF](http://arxiv.org/abs/2207.09657)] [[CODE](https://github.com/aioz-ai/MultigraphFL)] [[SUPP](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Do_Reducing_Training_Time_in_Cross-Silo_Federated_Learning_Using_Multigraph_Topology_ICCV_2023_supplemental.pdf)] |
+| Window-based Model Averaging Improves Generalization in Heterogeneous Federated Learning. |  | ICCV workshop | 2023 |  |
+| Experience Replay as an Effective Strategy for Optimizing Decentralized Federated Learning. |  | ICCV workshop | 2023 |  |
+| FedRCIL: Federated Knowledge Distillation for Representation based Contrastive Incremental Learning. |  | ICCV workshop | 2023 |  |
+| FedLID: Self-Supervised Federated Learning for Leveraging Limited Image Data. |  | ICCV workshop | 2023 |  |
 | Rethinking Federated Learning With Domain Shift: A Prototype View | WHU | CVPR | 2023 | [[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Rethinking_Federated_Learning_With_Domain_Shift_A_Prototype_View_CVPR_2023_paper.html)] [[CODE](https://github.com/WenkeHuang/RethinkFL)] |
 | Class Balanced Adaptive Pseudo Labeling for Federated Semi-Supervised Learning | ECNU | CVPR | 2023 | [[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Class_Balanced_Adaptive_Pseudo_Labeling_for_Federated_Semi-Supervised_Learning_CVPR_2023_paper.html)] [[CODE](https://github.com/minglllli/CBAFed)] |
 | DaFKD: Domain-Aware Federated Knowledge Distillation | HUST | CVPR | 2023 | [[PUB](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html)] [[CODE](https://github.com/haozhaowang/DaFKD2023)] |
@@ -1503,6 +1510,10 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ------------------------------------------------------------ |
+|FedComp: A Federated Learning Compression Framework for Resource-Constrained Edge Computing Devices |  | TCAD | 2024 | [PUB](https://ieeexplore.ieee.org/document/10226409) |
+|Age-Aware Data Selection and Aggregator Placement for Timely Federated Continual Learning in Mobile Edge Computing |  | TC | 2024 | [PUB](https://ieeexplore.ieee.org/document/10324368) |
+|FedGKD: Toward Heterogeneous Federated Learning via Global Knowledge Distillation |  | TC | 2024 | [PUB](https://ieeexplore.ieee.org/document/10252049) |
+|Digital Twin-Assisted Federated Learning Service Provisioning Over Mobile Edge Networks |  | TC | 2024 | [PUB](https://ieeexplore.ieee.org/document/10335637) |
 | REFL: Resource-Efficient Federated Learning | QMUL | EuroSys | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3552326.3567485)] [[PDF](https://arxiv.org/abs/2111.01108)] [[CODE](https://github.com/ahmedcs/refl)] |
 | A First Look at the Impact of Distillation Hyper-Parameters in Federated Knowledge Distillation |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592590)] |
 | Towards Practical Few-shot Federated NLP |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592575)] |
@@ -2161,6 +2172,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- *2024/03/08 - add TPAMI, TC, TCAD 2024 papers*
 - *2024/02/23 - add ICLR 2024 papers*
 - *2024/01/02 - add NeurIPS 2023 papers*
 - *2023/12/13 - add MM, CCS, EMNLP 2023 papers and update VLDB, TC, TCAD papers*
