@@ -1803,6 +1803,32 @@ fl-in-top-ai-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity
+      Learning
+    affiliation: WHU
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10295990
+      PDF: https://arxiv.org/abs/2309.16286
+      CODE: https://github.com/WenkeHuang/FCCL
+  - title: Multi-Stage Asynchronous Federated Learning With Adaptive Differential
+      Privacy
+    affiliation: HPU; XJTU
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10316599
+      PDF: https://arxiv.org/abs/1912.07902
+      CODE: https://github.com/IoTDATALab/MAPA
+  - title: A Bayesian Federated Learning Framework With Online Laplace Approximation
+    affiliation: SUSTech
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10274722
+      PDF: https://arxiv.org/abs/2102.01936
+      CODE: https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation
   - title: Privacy-preserving graph convolution network for federated item recommendation
     affiliation: SZU
     venue: AI
@@ -8563,6 +8589,30 @@ fl-in-top-cv-conference-and-journal:
       PDF: http://arxiv.org/abs/2207.09657
       CODE: https://github.com/aioz-ai/MultigraphFL
       SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Do_Reducing_Training_Time_in_Cross-Silo_Federated_Learning_Using_Multigraph_Topology_ICCV_2023_supplemental.pdf
+  - title: Window-based Model Averaging Improves Generalization in Heterogeneous Federated
+      Learning.
+    affiliation: ''
+    venue: ICCV workshop
+    year: '2023'
+    materials: {}
+  - title: Experience Replay as an Effective Strategy for Optimizing Decentralized
+      Federated Learning.
+    affiliation: ''
+    venue: ICCV workshop
+    year: '2023'
+    materials: {}
+  - title: 'FedRCIL: Federated Knowledge Distillation for Representation based Contrastive
+      Incremental Learning.'
+    affiliation: ''
+    venue: ICCV workshop
+    year: '2023'
+    materials: {}
+  - title: 'FedLID: Self-Supervised Federated Learning for Leveraging Limited Image
+      Data.'
+    affiliation: ''
+    venue: ICCV workshop
+    year: '2023'
+    materials: {}
   - title: 'Rethinking Federated Learning With Domain Shift: A Prototype View'
     affiliation: WHU
     venue: CVPR
@@ -10589,6 +10639,33 @@ fl-in-top-system-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FedComp: A Federated Learning Compression Framework for Resource-Constrained
+      Edge Computing Devices'
+    affiliation: ''
+    venue: TCAD
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10226409
+  - title: Age-Aware Data Selection and Aggregator Placement for Timely Federated
+      Continual Learning in Mobile Edge Computing
+    affiliation: ''
+    venue: TC
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10324368
+  - title: 'FedGKD: Toward Heterogeneous Federated Learning via Global Knowledge Distillation'
+    affiliation: ''
+    venue: TC
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10252049
+  - title: Digital Twin-Assisted Federated Learning Service Provisioning Over Mobile
+      Edge Networks
+    affiliation: ''
+    venue: TC
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10335637
   - title: 'REFL: Resource-Efficient Federated Learning'
     affiliation: QMUL
     venue: EuroSys

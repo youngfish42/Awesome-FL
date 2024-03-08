@@ -193,9 +193,9 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 |Title                                                           |    Affiliation                                                     |    Venue      |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ------------------------------------------------------------ |
-|Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning | WHU | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10295990) [PDF](https://arxiv.org/abs/2309.16286) [CODE](https://github.com/WenkeHuang/FCCL) |
-|Multi-Stage Asynchronous Federated Learning With Adaptive Differential Privacy | HPU; XJTU | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10316599) [PDF](https://arxiv.org/abs/1912.07902) [CODE](https://github.com/IoTDATALab/MAPA) |
-|A Bayesian Federated Learning Framework With Online Laplace Approximation | SUSTech | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10274722) [PDF](https://arxiv.org/abs/2102.01936) [CODE](https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation) |
+| Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning | WHU | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10295990)] [[PDF](https://arxiv.org/abs/2309.16286)] [[CODE](https://github.com/WenkeHuang/FCCL)] |
+| Multi-Stage Asynchronous Federated Learning With Adaptive Differential Privacy | HPU; XJTU | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10316599)] [[PDF](https://arxiv.org/abs/1912.07902)] [[CODE](https://github.com/IoTDATALab/MAPA)] |
+| A Bayesian Federated Learning Framework With Online Laplace Approximation | SUSTech | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10274722)] [[PDF](https://arxiv.org/abs/2102.01936)] [[CODE](https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation)] |
 | Privacy-preserving graph convolution network for federated item recommendation | SZU | AI | 2023 | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S000437022300142X)] |
 | Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation | CAS; UCAS; JD Technology; JD Intelligent Cities Research | AAAI | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/25531)] |
 | Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense | USTC; State Key Laboratory of Cognitive Intelligence | AAAI | 2023 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/25611)] [[PDF](https://arxiv.org/abs/2212.05399)] [[CODE](https://github.com/yflyl613/fedrec)] |
@@ -1510,10 +1510,10 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ------------------------------------------------------------ |
-|FedComp: A Federated Learning Compression Framework for Resource-Constrained Edge Computing Devices |  | TCAD | 2024 | [PUB](https://ieeexplore.ieee.org/document/10226409) |
-|Age-Aware Data Selection and Aggregator Placement for Timely Federated Continual Learning in Mobile Edge Computing |  | TC | 2024 | [PUB](https://ieeexplore.ieee.org/document/10324368) |
-|FedGKD: Toward Heterogeneous Federated Learning via Global Knowledge Distillation |  | TC | 2024 | [PUB](https://ieeexplore.ieee.org/document/10252049) |
-|Digital Twin-Assisted Federated Learning Service Provisioning Over Mobile Edge Networks |  | TC | 2024 | [PUB](https://ieeexplore.ieee.org/document/10335637) |
+| FedComp: A Federated Learning Compression Framework for Resource-Constrained Edge Computing Devices |  | TCAD | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10226409)] |
+| Age-Aware Data Selection and Aggregator Placement for Timely Federated Continual Learning in Mobile Edge Computing |  | TC | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10324368)] |
+| FedGKD: Toward Heterogeneous Federated Learning via Global Knowledge Distillation |  | TC | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10252049)] |
+| Digital Twin-Assisted Federated Learning Service Provisioning Over Mobile Edge Networks |  | TC | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10335637)] |
 | REFL: Resource-Efficient Federated Learning | QMUL | EuroSys | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3552326.3567485)] [[PDF](https://arxiv.org/abs/2111.01108)] [[CODE](https://github.com/ahmedcs/refl)] |
 | A First Look at the Impact of Distillation Hyper-Parameters in Federated Knowledge Distillation |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592590)] |
 | Towards Practical Few-shot Federated NLP |  | EuroSys workshop | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592575)] |
