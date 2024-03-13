@@ -8591,28 +8591,34 @@ fl-in-top-cv-conference-and-journal:
       SUPP: https://openaccess.thecvf.com/content/ICCV2023/supplemental/Do_Reducing_Training_Time_in_Cross-Silo_Federated_Learning_Using_Multigraph_Topology_ICCV_2023_supplemental.pdf
   - title: Window-based Model Averaging Improves Generalization in Heterogeneous Federated
       Learning.
-    affiliation: ''
+    affiliation: Politecnico di Torino
     venue: ICCV workshop
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10350693
+      PDF: https://arxiv.org/abs/2310.01366
   - title: Experience Replay as an Effective Strategy for Optimizing Decentralized
       Federated Learning.
-    affiliation: ''
+    affiliation: University of Catania
     venue: ICCV workshop
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10350429
   - title: 'FedRCIL: Federated Knowledge Distillation for Representation based Contrastive
       Incremental Learning.'
-    affiliation: ''
+    affiliation: Centre for Research and Technology Hellas; University of West Attica
     venue: ICCV workshop
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10350898
+      CODE: https://github.com/chatzikon/FedRCIL
   - title: 'FedLID: Self-Supervised Federated Learning for Leveraging Limited Image
       Data.'
-    affiliation: ''
+    affiliation: Centre for Research and Technology Hellas; University of West Attica
     venue: ICCV workshop
     year: '2023'
-    materials: {}
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10350371
   - title: 'Rethinking Federated Learning With Domain Shift: A Prototype View'
     affiliation: WHU
     venue: CVPR
@@ -10641,27 +10647,28 @@ fl-in-top-system-conference-and-journal:
   body:
   - title: 'FedComp: A Federated Learning Compression Framework for Resource-Constrained
       Edge Computing Devices'
-    affiliation: ''
+    affiliation: HIT
     venue: TCAD
     year: '2024'
     materials:
       PUB: https://ieeexplore.ieee.org/document/10226409
   - title: Age-Aware Data Selection and Aggregator Placement for Timely Federated
       Continual Learning in Mobile Edge Computing
-    affiliation: ''
+    affiliation: DLUT
     venue: TC
     year: '2024'
     materials:
       PUB: https://ieeexplore.ieee.org/document/10324368
   - title: 'FedGKD: Toward Heterogeneous Federated Learning via Global Knowledge Distillation'
-    affiliation: ''
+    affiliation: HUST
     venue: TC
     year: '2024'
     materials:
       PUB: https://ieeexplore.ieee.org/document/10252049
+      PDF: https://arxiv.org/abs/2107.00051
   - title: Digital Twin-Assisted Federated Learning Service Provisioning Over Mobile
       Edge Networks
-    affiliation: ''
+    affiliation: SDU
     venue: TC
     year: '2024'
     materials:
