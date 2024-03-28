@@ -1966,266 +1966,439 @@ fl-in-top-ai-conference-and-journal:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29179
       PAGE: https://underline.io/lecture/92327-fedfixer-mitigating-heterogeneous-label-noise-in-federated-learning
       PDF: https://arxiv.org/abs/2403.16561
-  - title: ''
-    affiliation: ''
+  - title: 'FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local
+      Parameter Sharing'
+    affiliation: NJU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29181
+      PAGE: https://underline.io/lecture/93122-fedlps-heterogeneous-federated-learning-for-multiple-tasks-with-local-parameter-sharing
+      PDF: https://arxiv.org/abs/2402.08578
+      CODE: https://github.com/jyzgh/FedLPS
+  - title: Provably Convergent Federated Trilevel Learning
+    affiliation: TJU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29190
+      PDF: https://arxiv.org/abs/2312.11835
+  - title: 'Performative Federated Learning: A Solution to Model-Dependent and Heterogeneous
+      Distribution Shifts'
+    affiliation: U-M
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29191
+      PAGE: https://underline.io/lecture/93963-performative-federated-learning-a-solution-to-model-dependent-and-heterogeneous-distribution-shifts
+  - title: 'General Commerce Intelligence: Glocally Federated NLP-Based Engine for
+      Privacy-Preserving and Sustainable Personalized  Services of Multi-Merchants'
+    affiliation: Kyung Hee University;  Harex InfoTech
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30309
+      PAGE: https://underline.io/lecture/91475-general-commerce-intelligence-glocally-federated-nlp-based-engine-for-privacy-preserving-and-sustainable-personalized-services-of-multi-merchants
+  - title: 'EMGAN: Early-Mix-GAN on Extracting Server-Side Model in Split Federated
+      Learning'
+    affiliation: Sony AI
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29258
+      PAGE: https://underline.io/lecture/91709-emgan-early-mix-gan-on-extracting-server-side-model-in-split-federated-learning
+      CODE: https://github.com/zlijingtao/SFL-MEA
+  - title: 'FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy
+      Labels'
+    affiliation: SYSU; HKU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28095
+      PAGE: https://underline.io/lecture/91764-feddiv-collaborative-noise-filtering-for-federated-learning-with-noisy-labels
+      PDF: https://arxiv.org/abs/2312.12263
+      CODE: https://github.com/lijichang/FLNL-FedDiv
+  - title: Point Transformer with Federated Learning for  Predicting Breast Cancer
+      HER2 Status from Hematoxylin and Eosin-Stained  Whole Slide Images
+    affiliation: USTC; CAS
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28082
+      PAGE: https://underline.io/lecture/92706-point-transformer-with-federated-learning-for-predicting-breast-cancer-her2-status-from-hematoxylin-and-eosin-stained-whole-slide-images
+      PDF: https://arxiv.org/abs/2312.06454
+      CODE: https://github.com/Boyden/PointTransformerFL
+  - title: 'FedNS: A Fast Sketching Newton-Type Algorithm for Federated Learning'
+    affiliation: CAS
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29254
+      PDF: https://arxiv.org/abs/2401.02734
+      CODE: https://github.com/superlj666/fedns
+  - title: Federated X-armed Bandit
+    affiliation: Purdue University
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29267
+      PAGE: https://underline.io/lecture/93049-federated-x-armed-bandit
+      PDF: https://arxiv.org/abs/2205.15268
+      CODE: https://github.com/williamlwj/pyxab
+  - title: Algorithmic Foundation of Federated Learning with Sequential Data
+    affiliation: GMU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30291
+  - title: 'UFDA: Universal Federated Domain Adaptation with Practical Assumptions'
+    affiliation: XJTU; University of Sydney
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29311
+      PAGE: https://underline.io/lecture/93578-ufda-universal-federated-domain-adaptation-with-practical-assumptions
+      PDF: https://arxiv.org/abs/2311.15570
+      CODE: https://github.com/Xinhui-99/UFDA
+  - title: 'FedASMU: Efficient Asynchronous Federated Learning with Dynamic Staleness-Aware
+      Model Update'
+    affiliation: Hithink RoyalFlush Information Network Co
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29297
+      PAGE: https://underline.io/lecture/92855-fedasmu-efficient-asynchronous-federated-learning-with-dynamic-staleness-aware-model-update
+      PDF: https://arxiv.org/abs/2312.05770
+  - title: Language-Guided Transformer for Federated Multi-Label Classification
+    affiliation: NTU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29295
+      PAGE: https://underline.io/lecture/93447-language-guided-transformer-for-federated-multi-label-classification
+      PDF: https://arxiv.org/abs/2312.07165
+      CODE: https://github.com/Jack24658735/FedLGT
+  - title: 'FedCD: Federated Semi-Supervised Learning with Class Awareness Balance
+      via Dual Teachers'
+    affiliation: SZU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28175
+      PAGE: https://underline.io/lecture/92166-fedcd-federated-semi-supervised-learning-with-class-awareness-balance-via-dual-teachers
+      CODE: https://github.com/YunzZ-Liu/FedCD/
+  - title: 'Beyond Traditional Threats: A Persistent Backdoor Attack on Federated
+      Learning'
+    affiliation: HEU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30131
+      PAGE: https://underline.io/lecture/94230-beyond-traditional-threats-a-persistent-backdoor-attack-on-federated-learning
+      CODE: https://github.com/PhD-TaoLiu/FCBA
+  - title: Federated Learning with Extremely Noisy Clients via Negative Distillation
+    affiliation: XMU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29329
+      PAGE: https://underline.io/lecture/93309-federated-learning-with-extremely-noisy-clients-via-negative-distillation
+      PDF: https://arxiv.org/abs/2312.12703
+      CODE: https://github.com/linChen99/FedNed
+  - title: 'FedST: Federated Style Transfer Learning for Non-IID Image Segmentation'
+    affiliation: USTB
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28199
+      PAGE: https://underline.io/lecture/93609-fedst-federated-style-transfer-learning-for-non-iid-image-segmentation
+      学报: https://journal.bupt.edu.cn/CN/abstract/abstract5178.shtml
+      CODE: https://github.com/YoferChen/FedST
+  - title: 'PPIDSG: A Privacy-Preserving Image Distribution Sharing Scheme with GAN
+      in Federated Learning'
+    affiliation: USTC
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29339
+      PAGE: https://underline.io/lecture/92243-ppidsg-a-privacy-preserving-image-distribution-sharing-scheme-with-gan-in-federated-learning
+      PDF: https://arxiv.org/abs/2312.10380
+      CODE: https://github.com/ytingma/PPIDSG
+  - title: A Privacy Preserving Federated Learning (PPFL) Based Cognitive Digital
+      Twin (CDT) Framework for Smart Cities
+    affiliation: DCU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30400
+  - title: A Primal-Dual Algorithm for Hybrid Federated Learning
+    affiliation: Northwestern University
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29363
+      PAGE: https://underline.io/lecture/93144-a-primal-dual-algorithm-for-hybrid-federated-learning
+      PDF: https://arxiv.org/abs/2210.08106
+  - title: 'FedLF: Layer-Wise Fair Federated Learning'
+    affiliation: CUHK; Shenzhen Institute of Artificial Intelligence and Robotics
+      for Society
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29368
+      PAGE: https://underline.io/lecture/93087-fedlf-layer-wise-fair-federated-learning
+  - title: Towards Fair Graph Federated Learning via Incentive Mechanisms
+    affiliation: ZJU; FDU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29365
+      PAGE: https://underline.io/lecture/92583-towards-fair-graph-federated-learning-via-incentive-mechanisms
+      PDF: https://arxiv.org/abs/2312.13306
+      CODE: https://github.com/Chenglu0426/FairGraphFL
+  - title: Towards the Robustness of Differentially Private Federated Learning
+    affiliation: THU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29967
+      PAGE: https://underline.io/lecture/92491-towards-the-robustness-of-differentially-private-federated-learning
+  - title: Resisting Backdoor Attacks in Federated Learning via Bidirectional Elections
+      and Individual Perspective
+    affiliation: ZJU; HUAWEI
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29385
+      PAGE: https://underline.io/lecture/94020-resisting-backdoor-attacks-in-federated-learning-via-bidirectional-elections-and-individual-perspective
+      PDF: https://arxiv.org/abs/2309.16456
+      CODE: https://github.com/zhenqincn/Snowball
+  - title: 'Integer Is Enough: When Vertical Federated Learning Meets Rounding'
+    affiliation: ZJU; Ant Group
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29388
+      PAGE: https://underline.io/lecture/93362-integer-is-enough-when-vertical-federated-learning-meets-rounding
+  - title: CLIP-Guided Federated Learning on Heterogeneity and Long-Tailed Data
+    affiliation: XMU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29416
+      PAGE: https://underline.io/lecture/92441-clip-guided-federated-learning-on-heterogeneity-and-long-tailed-data
+      PDF: https://arxiv.org/abs/2312.08648
+      CODE: https://github.com/shijiangming1/CLIP2FL
+  - title: Federated Adaptive Prompt Tuning for Multi-Domain Collaborative Learning
+    affiliation: FDU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29434
+      PAGE: https://underline.io/lecture/92772-federated-adaptive-prompt-tuning-for-multi-domain-collaborative-learning
+      PDF: https://arxiv.org/abs/2211.07864
+      CODE: https://github.com/leondada/fedapt
+  - title: Multi-Dimensional Fair Federated Learning
+    affiliation: SDU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29430
+      PAGE: https://underline.io/lecture/92619-multi-dimensional-fair-federated-learning
+      PDF: https://arxiv.org/abs/2312.05551
+  - title: 'HiFi-Gas: Hierarchical Federated Learning Incentive Mechanism Enhanced
+      Gas Usage Estimation'
+    affiliation: ENN Group
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30317
+  - title: On the Role of Server Momentum in Federated Learning
+    affiliation: University of Virginia
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29439
+      PDF: https://arxiv.org/abs/2312.12670
+  - title: 'FedCompetitors: Harmonious Collaboration in Federated Learning with Competing
+      Participants'
+    affiliation: BUPT
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29446
+      PAGE: https://underline.io/lecture/93158-fedcompetitors-harmonious-collaboration-in-federated-learning-with-competing-participants
+      PDF: https://arxiv.org/abs/2312.11391
+  - title: 'z-SignFedAvg: A Unified Stochastic Sign-Based Compression for Federated
+      Learning'
+    affiliation: CUHK; China Shenzhen Research Institute of Big Data
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29454
+      PAGE: https://underline.io/lecture/93975-z-signfedavg-a-unified-stochastic-sign-based-compression-for-federated-learning
+      PDF: https://arxiv.org/abs/2302.02589
+  - title: Data Disparity and Temporal Unavailability Aware  Asynchronous Federated
+      Learning for Predictive Maintenance on  Transportation Fleets
+    affiliation: Volkswagen Group
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29467
+      PAGE: https://underline.io/lecture/92405-data-disparity-and-temporal-unavailability-aware-asynchronous-federated-learning-for-predictive-maintenance-on-transportation-fleets
+  - title: Federated Graph Learning under Domain Shift with Generalizable Prototypes
+    affiliation: WHU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29468
+      PAGE: https://underline.io/lecture/92526-federated-graph-learning-under-domain-shift-with-generalizable-prototypes
+  - title: 'TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy
+      Clients'
+    affiliation: Technical University of Munich
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29481
+      PAGE: https://underline.io/lecture/91900-turbosvm-fl-boosting-federated-learning-through-svm-aggregation-for-lazy-clients
+      PDF: https://arxiv.org/abs/2401.12012
+      CODE: https://github.com/Kasneci-Lab/TurboSVM-FL
+  - title: Multi-Source Collaborative Gradient Discrepancy Minimization for Federated
+      Domain Generalization
+    affiliation: TJU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29510
+      PDF: https://arxiv.org/abs/2401.10272
+      CODE: https://github.com/weiyikang/FedGM
+  - title: Concealing Sensitive Samples against Gradient Leakage in Federated Learning
+    affiliation: Monash University
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30171
+      PAGE: https://underline.io/lecture/94147-concealing-sensitive-samples-against-gradient-leakage-in-federated-learning
+      PDF: https://arxiv.org/abs/2209.05724
+      CODE: https://github.com/JingWu321/DCS-2
+  - title: 'FedA3I: Annotation Quality-Aware Aggregation for Federated Medical Image
+      Segmentation against Heterogeneous Annotation Noise'
+    affiliation: HUST
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29525
+      PAGE: https://underline.io/lecture/92926-feda3i-annotation-quality-aware-aggregation-for-federated-medical-image-segmentation-against-heterogeneous-annotation-noise
+      PDF: https://arxiv.org/abs/2312.12838
+      CODE: https://github.com/wnn2000/FedAAAI
+  - title: Federated Causality Learning with Explainable Adaptive Optimization
+    affiliation: SDU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29566
+      PAGE: https://underline.io/lecture/93217-federated-causality-learning-with-explainable-adaptive-optimization
+      PDF: https://arxiv.org/abs/2312.05540
+  - title: Federated Contextual Cascading Bandits with Asynchronous Communication
+      and Heterogeneous Users
+    affiliation: USTC
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30045
+      PAGE: https://underline.io/lecture/93664-federated-contextual-cascading-bandits-with-asynchronous-communication-and-heterogeneous-users
+      PDF: https://arxiv.org/abs/2402.16312
+  - title: Exploring One-Shot Semi-supervised Federated Learning with Pre-trained
+      Diffusion Models
+    affiliation: FDU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29568
+      PDF: https://arxiv.org/abs/2305.04063
+  - title: Diversity-Authenticity Co-constrained Stylization for Federated Domain
+      Generalization in Person Re-identification
+    affiliation: XMU; University of Trento
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28468
+      PAGE: https://underline.io/lecture/91850-diversity-authenticity-co-constrained-stylization-for-federated-domain-generalization-in-person-re-identification
+  - title: 'PerFedRLNAS: One-for-All Personalized Federated Neural Architecture Search'
+    affiliation: U of T
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29576
+      PAGE: https://underline.io/lecture/92749-perfedrlnas-one-for-all-personalized-federated-neural-architecture-search
+  - title: Efficient Asynchronous Federated Learning with Prospective Momentum Aggregation
+      and Fine-Grained Correction
+    affiliation: BUPT
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29603
+      PAGE: https://underline.io/lecture/92183-efficient-asynchronous-federated-learning-with-prospective-momentum-aggregation-and-fine-grained-correction
+  - title: Adversarial Attacks on Federated-Learned Adaptive Bitrate Algorithms
+    affiliation: HKU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/27796
+  - title: 'FedTGP: Trainable Global Prototypes with  Adaptive-Margin-Enhanced Contrastive
+      Learning for Data and Model  Heterogeneity in Federated Learning'
+    affiliation: SJTU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29617
+      PAGE: https://underline.io/lecture/91976-fedtgp-trainable-global-prototypes-with-adaptive-margin-enhanced-contrastive-learning-for-data-and-model-heterogeneity-in-federated-learning
+      PDF: https://arxiv.org/abs/2401.03230
+      CODE: https://github.com/TsingZ0/FedTGP
+  - title: 'LR-XFL: Logical Reasoning-Based Explainable Federated Learning'
+    affiliation: NTU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30179
+      PDF: https://arxiv.org/abs/2308.12681
+      CODE: https://github.com/yanci87/lr-xfl
+  - title: A Huber Loss Minimization Approach to Byzantine Robust Federated Learning
+    affiliation: Zhejiang Lab
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30181
+      PAGE: https://underline.io/lecture/94170-a-huber-loss-minimization-approach-to-byzantine-robust-federated-learning
+      PDF: https://arxiv.org/abs/2308.12581
+  - title: Knowledge-Aware Parameter Coaching for Personalized Federated Learning
+    affiliation: Northeastern University
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29651
+      PAGE: https://underline.io/lecture/92711-knowledge-aware-parameter-coaching-for-personalized-federated-learning
+  - title: Federated Label-Noise Learning with Local Diversity Product Regularization
+    affiliation: SJTU
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29659
+      PAGE: https://underline.io/lecture/92697-federated-label-noise-learning-with-local-diversity-product-regularization
+      SUPP: https://wanglab.sjtu.edu.cn/userfiles/files/Supp_FedLNL.pdf
+  - title: Adapted Weighted Aggregation in Federated Learning (Student Abstract)
+    affiliation: UBC
     venue: AAAI
     year: '2024'
-    materials: {}
-  - title: ''
-    affiliation: ''
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30557
+  - title: Knowledge Transfer via Compact Model in Federated Learning (Student Abstract)
+    affiliation: University of Sydney
     venue: AAAI
     year: '2024'
-    materials: {}
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30498
+      PAGE: https://underline.io/lecture/91519-knowledge-transfer-via-compact-model-in-federated-learning-student-abstract
   - title: 'PICSR: Prototype-Informed Cross-Silo Router for Federated Learning (Student
       Abstract)'
     affiliation: The Ohio State University Auton Lab, CMU
@@ -2234,32 +2407,6 @@ fl-in-top-ai-conference-and-journal:
     materials:
       PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30438
       PAGE: https://underline.io/lecture/91585-picsr-prototype-informed-cross-silo-router-for-federated-learning-student-abstract
-  - title: Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity
-      Learning
-    affiliation: WHU
-    venue: TPAMI
-    year: '2024'
-    materials:
-      PUB: https://ieeexplore.ieee.org/document/10295990
-      PDF: https://arxiv.org/abs/2309.16286
-      CODE: https://github.com/WenkeHuang/FCCL
-  - title: Multi-Stage Asynchronous Federated Learning With Adaptive Differential
-      Privacy
-    affiliation: HPU; XJTU
-    venue: TPAMI
-    year: '2024'
-    materials:
-      PUB: https://ieeexplore.ieee.org/document/10316599
-      PDF: https://arxiv.org/abs/1912.07902
-      CODE: https://github.com/IoTDATALab/MAPA
-  - title: A Bayesian Federated Learning Framework With Online Laplace Approximation
-    affiliation: SUSTech
-    venue: TPAMI
-    year: '2024'
-    materials:
-      PUB: https://ieeexplore.ieee.org/document/10274722
-      PDF: https://arxiv.org/abs/2102.01936
-      CODE: https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation
   - title: Privacy-preserving graph convolution network for federated item recommendation
     affiliation: SZU
     venue: AI
@@ -3478,6 +3625,40 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'No One Left Behind: Real-World Federated Class-Incremental Learning'
+    affiliation: CAS; UCAS
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10323204
+      PDF: https://arxiv.org/abs/2302.00903
+      CODE: https://github.com/JiahuaDong/LGA
+  - title: Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity
+      Learning
+    affiliation: WHU
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10295990
+      PDF: https://arxiv.org/abs/2309.16286
+      CODE: https://github.com/WenkeHuang/FCCL
+  - title: Multi-Stage Asynchronous Federated Learning With Adaptive Differential
+      Privacy
+    affiliation: HPU; XJTU
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10316599
+      PDF: https://arxiv.org/abs/1912.07902
+      CODE: https://github.com/IoTDATALab/MAPA
+  - title: A Bayesian Federated Learning Framework With Online Laplace Approximation
+    affiliation: SUSTech
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10274722
+      PDF: https://arxiv.org/abs/2102.01936
+      CODE: https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation
   - title: One-shot Empirical Privacy Estimation for Federated Learning
     affiliation: Google
     venue: ICLR
@@ -10000,6 +10181,22 @@ fl-in-top-db-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: A Blockchain System for Clustered Federated Learning with Peer-to-Peer
+      Knowledge Transfer
+    affiliation: NJU
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://www.vldb.org/pvldb/volumes/17/paper/A%20Blockchain%20System%20for%20Clustered%20Federated%20Learning%20with%20Peer-to-Peer%20Knowledge%20Transfer
+      CODE: https://github.com/nju-websoft/FedChain
+  - title: Communication Efficient and Provable Federated Unlearning
+    affiliation: SDU; KAUST
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://www.vldb.org/pvldb/volumes/17/paper/Communication%20Efficient%20and%20Provable%20Federated%20Unlearning
+      PDF: https://arxiv.org/abs/2401.11018
+      CODE: https://github.com/Happy2Git/FATS_supplement
   - title: Enhancing Decentralized Federated Learning for Non-IID Data on Heterogeneous
       Devices
     affiliation: USTC
@@ -11076,6 +11273,35 @@ fl-in-top-system-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'Collaboration in Federated Learning With Differential Privacy: A Stackelberg
+      Game Analysis'
+    affiliation: SYSU
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10400897
+  - title: 'FAST: Enhancing Federated Learning Through Adaptive Data Sampling and
+      Local Training'
+    affiliation: USTC
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10323207
+  - title: 'EcoFed: Efficient Communication for DNN Partitioning-Based Federated Learning'
+    affiliation: University of St Andrews
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10380682
+      PDF: https://arxiv.org/abs/2304.05495
+      CODE: https://github.com/blessonvar/ecofed
+  - title: 'FedHAP: Federated Hashing With Global Prototypes for Cross-Silo Retrieval'
+    affiliation: THU
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10286313
+      PDF: https://arxiv.org/abs/2207.05525
   - title: 'FedComp: A Federated Learning Compression Framework for Resource-Constrained
       Edge Computing Devices'
     affiliation: HIT
@@ -11083,6 +11309,28 @@ fl-in-top-system-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://ieeexplore.ieee.org/document/10226409
+  - title: User-Distribution-Aware Federated Learning for Efficient Communication
+      and Fast Inference
+    affiliation: ECNU; SHU
+    venue: TC
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10308406
+  - title: 'FedRFQ: Prototype-Based Federated Learning With Reduced Redundancy, Minimal
+      Failure, and Enhanced Quality'
+    affiliation: SDU
+    venue: TC
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10398600
+      PDF: https://arxiv.org/abs/2401.07558
+  - title: 'Value of Information: A Comprehensive Metric for Client Selection in Federated
+      Edge Learning'
+    affiliation: SDU
+    venue: TC
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10406184
   - title: Age-Aware Data Selection and Aggregator Placement for Timely Federated
       Continual Learning in Mobile Edge Computing
     affiliation: DLUT
