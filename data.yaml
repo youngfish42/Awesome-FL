@@ -1803,6 +1803,437 @@ fl-in-top-ai-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FedMut: Generalized Federated Learning via Stochastic Mutation'
+    affiliation: NTU
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29146
+  - title: Federated Partial Label Learning with Local-Adaptive Augmentation and Regularization
+    affiliation: Carleton University
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29562
+      PAGE: https://underline.io/lecture/93915-federated-partial-label-learning-with-local-adaptive-augmentation-and-regularization
+  - title: No Prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation
+    affiliation: IIT
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28950
+      PAGE: https://underline.io/lecture/93775-no-prejudice-fair-federated-graph-neural-networks-for-personalized-recommendation
+      PDF: https://arxiv.org/abs/2312.10080
+      CODE: https://github.com/anujksirohi/F2PGNN-AAAI24
+  - title: Formal Logic Enabled Personalized Federated Learning through Property Inference
+    affiliation: Vanderbilt University
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28962
+      PDF: https://arxiv.org/abs/2401.07448
+  - title: Task-Agnostic Privacy-Preserving Representation Learning for Federated
+      Learning against Attribute Inference Attacks
+    affiliation: Illinois Tech
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28965
+      PAGE: https://underline.io/lecture/91722-task-agnostic-privacy-preserving-representation-learning-for-federated-learning-against-attribute-inference-attacks
+      PDF: https://arxiv.org/abs/2312.06989
+      CODE: https://github.com/TAPPFL/TAPPFL
+  - title: 'FairTrade: Achieving Pareto-Optimal Trade-Offs between Balanced Accuracy
+      and Fairness in Federated Learning'
+    affiliation: Leibniz University
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28971
+      PAGE: https://underline.io/lecture/93537-fairtrade-achieving-pareto-optimal-trade-offs-between-balanced-accuracy-and-fairness-in-federated-learning
+  - title: Combating Data Imbalances in Federated Semi-supervised Learning with Dual
+      Regulators
+    affiliation: HKUST
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/28974
+      PAGE: https://underline.io/lecture/92397-combating-data-imbalances-in-federated-semi-supervised-learning-with-dual-regulators
+      PDF: https://arxiv.org/abs/2307.05358
+  - title: 'Fed-QSSL: A Framework for Personalized Federated Learning under Bitwidth
+      and Data Heterogeneity'
+    affiliation: UT
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29025
+      PAGE: https://underline.io/lecture/93417-fed-qssl-a-framework-for-personalized-federated-learning-under-bitwidth-and-data-heterogeneity
+      PDF: https://arxiv.org/abs/2312.13380
+  - title: On Disentanglement of Asymmetrical Knowledge Transfer for Modality-Task
+      Agnostic Federated Learning
+    affiliation: University of Virginia
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29010
+  - title: 'FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous
+      Federated Learning'
+    affiliation: LMU Munich Siemens AG
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29007
+      PAGE: https://underline.io/lecture/91710-feddat-an-approach-for-foundation-model-finetuning-in-multi-modal-heterogeneous-federated-learning
+      PDF: https://arxiv.org/abs/2308.12305
+      CODE: https://github.com/HaokunChen245/FedDAT
+  - title: 'Watch Your Head: Assembling Projection Heads to Save the Reliability of
+      Federated Models'
+    affiliation: Xi'an Jiaotong University Shaanxi Joint Key Laboratory for Artificial
+      Intelligence
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29012
+      PAGE: https://underline.io/lecture/91776-watch-your-head-assembling-projection-heads-to-save-the-reliability-of-federated-models
+      PDF: https://arxiv.org/abs/2402.16255
+  - title: 'FedGCR: Achieving Performance and Fairness for  Federated Learning with
+      Distinct Client Types via Group Customization  and Reweighting'
+    affiliation: NTU
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29031
+      PAGE: https://underline.io/lecture/92275-fedgcr-achieving-performance-and-fairness-for-federated-learning-with-distinct-client-types-via-group-customization-and-reweighting
+      CODE: https://github.com/celinezheng/fedgcr
+  - title: Federated Modality-Specific Encoders and Multimodal Anchors for Personalized
+      Brain Tumor Segmentation
+    affiliation: Xiamen University
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/27909
+      PAGE: https://underline.io/lecture/91824-federated-modality-specific-encoders-and-multimodal-anchors-for-personalized-brain-tumor-segmentation
+      PDF: https://arxiv.org/abs/2403.11803
+      CODE: https://github.com/qdaiing/fedmema
+  - title: Exploiting Label Skews in Federated Learning with Model Concatenation
+    affiliation: NUS
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29063
+      PAGE: https://underline.io/lecture/92569-exploiting-label-skews-in-federated-learning-with-model-concatenation
+      PDF: https://arxiv.org/abs/2312.06290
+      CODE: https://github.com/sjtudyq/FedConcat
+  - title: Complementary Knowledge Distillation for Robust and Privacy-Preserving
+      Model Serving in Vertical Federated Learning
+    affiliation: SUST; HKUST
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29958
+      PAGE: https://underline.io/lecture/92937-complementary-knowledge-distillation-for-robust-and-privacy-preserving-model-serving-in-vertical-federated-learning
+  - title: Federated Learning via Input-Output Collaborative Distillation
+    affiliation: University at Buffalo; USA Harvard Medical School
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30209
+      PAGE: https://underline.io/lecture/94089-federated-learning-via-input-output-collaborative-distillation
+      PDF: https://arxiv.org/abs/2312.14478
+      CODE: https://github.com/lsl001006/fediod
+  - title: Calibrated One Round Federated Learning with Bayesian Inference in the
+      Predictive Space
+    affiliation: University of Waterloo Vector Institute
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29122
+      PAGE: https://underline.io/lecture/92727-calibrated-one-round-federated-learning-with-bayesian-inference-in-the-predictive-space
+      PDF: https://arxiv.org/abs/2312.09817
+      CODE: https://github.com/hasanmohsin/betaPredBayesFL
+  - title: 'FedCSL: A Scalable and Accurate Approach to Federated Causal Structure
+      Learning'
+    affiliation: HFUT
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29113
+      PDF: https://github.com/Xianjie-Guo/FedCSL
+  - title: 'FedFixer: Mitigating Heterogeneous Label Noise in Federated Learning'
+    affiliation: Xi'an Jiaotong University;  Leiden University
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/29179
+      PAGE: https://underline.io/lecture/92327-fedfixer-mitigating-heterogeneous-label-noise-in-federated-learning
+      PDF: https://arxiv.org/abs/2403.16561
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: ''
+    affiliation: ''
+    venue: AAAI
+    year: '2024'
+    materials: {}
+  - title: 'PICSR: Prototype-Informed Cross-Silo Router for Federated Learning (Student
+      Abstract)'
+    affiliation: The Ohio State University Auton Lab, CMU
+    venue: AAAI
+    year: '2024'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/30438
+      PAGE: https://underline.io/lecture/91585-picsr-prototype-informed-cross-silo-router-for-federated-learning-student-abstract
   - title: Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity
       Learning
     affiliation: WHU

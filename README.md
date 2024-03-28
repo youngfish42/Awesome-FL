@@ -193,78 +193,78 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 |Title                                                           |    Affiliation                                                     |    Venue      |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ------------------------------------------------------------ |
-|FedMut: Generalized Federated Learning via Stochastic Mutation | NTU | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29146) PAGE |
-|Federated Partial Label Learning with Local-Adaptive Augmentation and Regularization | Carleton University | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29562) [PAGE](https://underline.io/lecture/93915-federated-partial-label-learning-with-local-adaptive-augmentation-and-regularization) |
-|No Prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation | IIT | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28950) [PAGE](https://underline.io/lecture/93775-no-prejudice-fair-federated-graph-neural-networks-for-personalized-recommendation) [PDF](https://arxiv.org/abs/2312.10080) [CODE](https://github.com/anujksirohi/F2PGNN-AAAI24) |
-|Formal Logic Enabled Personalized Federated Learning through Property Inference | Vanderbilt University | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28962) [PDF](https://arxiv.org/abs/2401.07448) |
-|Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning against Attribute Inference Attacks | Illinois Tech | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28965) [PAGE](https://underline.io/lecture/91722-task-agnostic-privacy-preserving-representation-learning-for-federated-learning-against-attribute-inference-attacks) [PDF](https://arxiv.org/abs/2312.06989) [CODE](https://github.com/TAPPFL/TAPPFL) |
-|FairTrade: Achieving Pareto-Optimal Trade-Offs between Balanced Accuracy and Fairness in Federated Learning | Leibniz University | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28971) [PAGE](https://underline.io/lecture/93537-fairtrade-achieving-pareto-optimal-trade-offs-between-balanced-accuracy-and-fairness-in-federated-learning) |
-|Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators | HKUST | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28974) [PAGE](https://underline.io/lecture/92397-combating-data-imbalances-in-federated-semi-supervised-learning-with-dual-regulators) [PDF](https://arxiv.org/abs/2307.05358) |
-|Fed-QSSL: A Framework for Personalized Federated Learning under Bitwidth and Data Heterogeneity | UT | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29025) [PAGE](https://underline.io/lecture/93417-fed-qssl-a-framework-for-personalized-federated-learning-under-bitwidth-and-data-heterogeneity) [PDF](https://arxiv.org/abs/2312.13380) |
-|On Disentanglement of Asymmetrical Knowledge Transfer for Modality-Task Agnostic Federated Learning | University of Virginia | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29010) PAGE |
-|FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning | LMU Munich Siemens AG | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29007) [PAGE](https://underline.io/lecture/91710-feddat-an-approach-for-foundation-model-finetuning-in-multi-modal-heterogeneous-federated-learning) [PDF](https://arxiv.org/abs/2308.12305) [CODE](https://github.com/HaokunChen245/FedDAT) |
-|Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models | Xi'an Jiaotong University Shaanxi Joint Key Laboratory for Artificial Intelligence | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29012) [PAGE](https://underline.io/lecture/91776-watch-your-head-assembling-projection-heads-to-save-the-reliability-of-federated-models) [PDF](https://arxiv.org/abs/2402.16255) |
-|FedGCR: Achieving Performance and Fairness for  Federated Learning with Distinct Client Types via Group Customization  and Reweighting | NTU | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29031) [PAGE](https://underline.io/lecture/92275-fedgcr-achieving-performance-and-fairness-for-federated-learning-with-distinct-client-types-via-group-customization-and-reweighting) [CODE](https://github.com/celinezheng/fedgcr) |
-|Federated Modality-Specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation | Xiamen University | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/27909) [PAGE](https://underline.io/lecture/91824-federated-modality-specific-encoders-and-multimodal-anchors-for-personalized-brain-tumor-segmentation) [PDF](https://arxiv.org/abs/2403.11803) [CODE](https://github.com/qdaiing/fedmema) |
-|Exploiting Label Skews in Federated Learning with Model Concatenation | NUS | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29063) [PAGE](https://underline.io/lecture/92569-exploiting-label-skews-in-federated-learning-with-model-concatenation) [PDF](https://arxiv.org/abs/2312.06290) [CODE](https://github.com/sjtudyq/FedConcat) |
-|Complementary Knowledge Distillation for Robust and Privacy-Preserving Model Serving in Vertical Federated Learning | SUST; HKUST | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29958) [PAGE](https://underline.io/lecture/92937-complementary-knowledge-distillation-for-robust-and-privacy-preserving-model-serving-in-vertical-federated-learning) |
-|Federated Learning via Input-Output Collaborative Distillation | University at Buffalo; USA Harvard Medical School | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/30209) [PAGE](https://underline.io/lecture/94089-federated-learning-via-input-output-collaborative-distillation) [PDF](https://arxiv.org/abs/2312.14478) [CODE](https://github.com/lsl001006/fediod) |
-|Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space | University of Waterloo Vector Institute | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29122) [PAGE](https://underline.io/lecture/92727-calibrated-one-round-federated-learning-with-bayesian-inference-in-the-predictive-space) [PDF](https://arxiv.org/abs/2312.09817) [CODE](https://github.com/hasanmohsin/betaPredBayesFL) |
-|FedCSL: A Scalable and Accurate Approach to Federated Causal Structure Learning | HFUT | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29113) [PDF](https://github.com/Xianjie-Guo/FedCSL) |
-|FedFixer: Mitigating Heterogeneous Label Noise in Federated Learning | Xi'an Jiaotong University;  Leiden University | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29179) [PAGE](https://underline.io/lecture/92327-fedfixer-mitigating-heterogeneous-label-noise-in-federated-learning) [PDF](https://arxiv.org/abs/2403.16561) |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-| |  | AAAI | 2024 | PUB PAGE |
-|PICSR: Prototype-Informed Cross-Silo Router for Federated Learning (Student Abstract) | The Ohio State University Auton Lab, CMU | AAAI | 2024 | [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/30438) [PAGE](https://underline.io/lecture/91585-picsr-prototype-informed-cross-silo-router-for-federated-learning-student-abstract) |
+| FedMut: Generalized Federated Learning via Stochastic Mutation | NTU | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29146)] |
+| Federated Partial Label Learning with Local-Adaptive Augmentation and Regularization | Carleton University | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29562)] [[PAGE](https://underline.io/lecture/93915-federated-partial-label-learning-with-local-adaptive-augmentation-and-regularization)] |
+| No Prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation | IIT | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28950)] [[PAGE](https://underline.io/lecture/93775-no-prejudice-fair-federated-graph-neural-networks-for-personalized-recommendation)] [[PDF](https://arxiv.org/abs/2312.10080)] [[CODE](https://github.com/anujksirohi/F2PGNN-AAAI24)] |
+| Formal Logic Enabled Personalized Federated Learning through Property Inference | Vanderbilt University | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28962)] [[PDF](https://arxiv.org/abs/2401.07448)] |
+| Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning against Attribute Inference Attacks | Illinois Tech | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28965)] [[PAGE](https://underline.io/lecture/91722-task-agnostic-privacy-preserving-representation-learning-for-federated-learning-against-attribute-inference-attacks)] [[PDF](https://arxiv.org/abs/2312.06989)] [[CODE](https://github.com/TAPPFL/TAPPFL)] |
+| FairTrade: Achieving Pareto-Optimal Trade-Offs between Balanced Accuracy and Fairness in Federated Learning | Leibniz University | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28971)] [[PAGE](https://underline.io/lecture/93537-fairtrade-achieving-pareto-optimal-trade-offs-between-balanced-accuracy-and-fairness-in-federated-learning)] |
+| Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators | HKUST | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/28974)] [[PAGE](https://underline.io/lecture/92397-combating-data-imbalances-in-federated-semi-supervised-learning-with-dual-regulators)] [[PDF](https://arxiv.org/abs/2307.05358)] |
+| Fed-QSSL: A Framework for Personalized Federated Learning under Bitwidth and Data Heterogeneity | UT | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29025)] [[PAGE](https://underline.io/lecture/93417-fed-qssl-a-framework-for-personalized-federated-learning-under-bitwidth-and-data-heterogeneity)] [[PDF](https://arxiv.org/abs/2312.13380)] |
+| On Disentanglement of Asymmetrical Knowledge Transfer for Modality-Task Agnostic Federated Learning | University of Virginia | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29010)] |
+| FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning | LMU Munich Siemens AG | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29007)] [[PAGE](https://underline.io/lecture/91710-feddat-an-approach-for-foundation-model-finetuning-in-multi-modal-heterogeneous-federated-learning)] [[PDF](https://arxiv.org/abs/2308.12305)] [[CODE](https://github.com/HaokunChen245/FedDAT)] |
+| Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models | Xi'an Jiaotong University Shaanxi Joint Key Laboratory for Artificial Intelligence | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29012)] [[PAGE](https://underline.io/lecture/91776-watch-your-head-assembling-projection-heads-to-save-the-reliability-of-federated-models)] [[PDF](https://arxiv.org/abs/2402.16255)] |
+| FedGCR: Achieving Performance and Fairness for  Federated Learning with Distinct Client Types via Group Customization  and Reweighting | NTU | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29031)] [[PAGE](https://underline.io/lecture/92275-fedgcr-achieving-performance-and-fairness-for-federated-learning-with-distinct-client-types-via-group-customization-and-reweighting)] [[CODE](https://github.com/celinezheng/fedgcr)] |
+| Federated Modality-Specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation | Xiamen University | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/27909)] [[PAGE](https://underline.io/lecture/91824-federated-modality-specific-encoders-and-multimodal-anchors-for-personalized-brain-tumor-segmentation)] [[PDF](https://arxiv.org/abs/2403.11803)] [[CODE](https://github.com/qdaiing/fedmema)] |
+| Exploiting Label Skews in Federated Learning with Model Concatenation | NUS | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29063)] [[PAGE](https://underline.io/lecture/92569-exploiting-label-skews-in-federated-learning-with-model-concatenation)] [[PDF](https://arxiv.org/abs/2312.06290)] [[CODE](https://github.com/sjtudyq/FedConcat)] |
+| Complementary Knowledge Distillation for Robust and Privacy-Preserving Model Serving in Vertical Federated Learning | SUST; HKUST | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29958)] [[PAGE](https://underline.io/lecture/92937-complementary-knowledge-distillation-for-robust-and-privacy-preserving-model-serving-in-vertical-federated-learning)] |
+| Federated Learning via Input-Output Collaborative Distillation | University at Buffalo; USA Harvard Medical School | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/30209)] [[PAGE](https://underline.io/lecture/94089-federated-learning-via-input-output-collaborative-distillation)] [[PDF](https://arxiv.org/abs/2312.14478)] [[CODE](https://github.com/lsl001006/fediod)] |
+| Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space | University of Waterloo Vector Institute | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29122)] [[PAGE](https://underline.io/lecture/92727-calibrated-one-round-federated-learning-with-bayesian-inference-in-the-predictive-space)] [[PDF](https://arxiv.org/abs/2312.09817)] [[CODE](https://github.com/hasanmohsin/betaPredBayesFL)] |
+| FedCSL: A Scalable and Accurate Approach to Federated Causal Structure Learning | HFUT | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29113)] [[PDF](https://github.com/Xianjie-Guo/FedCSL)] |
+| FedFixer: Mitigating Heterogeneous Label Noise in Federated Learning | Xi'an Jiaotong University;  Leiden University | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29179)] [[PAGE](https://underline.io/lecture/92327-fedfixer-mitigating-heterogeneous-label-noise-in-federated-learning)] [[PDF](https://arxiv.org/abs/2403.16561)] |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+|  |  | AAAI | 2024 |  |
+| PICSR: Prototype-Informed Cross-Silo Router for Federated Learning (Student Abstract) | The Ohio State University Auton Lab, CMU | AAAI | 2024 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/30438)] [[PAGE](https://underline.io/lecture/91585-picsr-prototype-informed-cross-silo-router-for-federated-learning-student-abstract)] |
 | Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning | WHU | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10295990)] [[PDF](https://arxiv.org/abs/2309.16286)] [[CODE](https://github.com/WenkeHuang/FCCL)] |
 | Multi-Stage Asynchronous Federated Learning With Adaptive Differential Privacy | HPU; XJTU | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10316599)] [[PDF](https://arxiv.org/abs/1912.07902)] [[CODE](https://github.com/IoTDATALab/MAPA)] |
 | A Bayesian Federated Learning Framework With Online Laplace Approximation | SUSTech | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10274722)] [[PDF](https://arxiv.org/abs/2102.01936)] [[CODE](https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation)] |
