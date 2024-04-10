@@ -443,7 +443,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
-|Aligning model outputs for class imbalanced non-IID federated learning | NJU | Mach Learn | 2024 | [[PUB](https://link.springer.com/article/10.1007/s10994-022-06241-5)] |
+| Aligning model outputs for class imbalanced non-IID federated learning | NJU | Mach Learn | 2024 | [[PUB](https://link.springer.com/article/10.1007/s10994-022-06241-5)] |
 | No One Left Behind: Real-World Federated Class-Incremental Learning | CAS; UCAS | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10323204)] [[PDF](https://arxiv.org/abs/2302.00903)] [[CODE](https://github.com/JiahuaDong/LGA)] |
 | Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning | WHU | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10295990)] [[PDF](https://arxiv.org/abs/2309.16286)] [[CODE](https://github.com/WenkeHuang/FCCL)] |
 | Multi-Stage Asynchronous Federated Learning With Adaptive Differential Privacy | HPU; XJTU | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10316599)] [[PDF](https://arxiv.org/abs/1912.07902)] [[CODE](https://github.com/IoTDATALab/MAPA)] |
@@ -1005,8 +1005,8 @@ Federated Learning papers accepted by top DM(Data Mining) conference and journal
 
 |Title                                                           |    Affiliation                                                   |    Venue                     |    Year    |    Materials|
 | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- | ---- | ------------------------------------------------------------ |
-|User Consented Federated Recommender System Against Personalized Attribute Inference Attack | HKUST | WSDM | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3616855.3635830) [PDF](https://arxiv.org/abs/2312.16203) [CODE](https://github.com/hkust-knowcomp/uc-fedrec) |
-|Guardian: Guarding against Gradient Leakage with Provable Defense for Federated Learning | ECNU | WSDM | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3616855.3635758) |
+| User Consented Federated Recommender System Against Personalized Attribute Inference Attack | HKUST | WSDM | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3616855.3635830)] [[PDF](https://arxiv.org/abs/2312.16203)] [[CODE](https://github.com/hkust-knowcomp/uc-fedrec)] |
+| Guardian: Guarding against Gradient Leakage with Provable Defense for Federated Learning | ECNU | WSDM | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3616855.3635758)] |
 | Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation | University of Cambridge | KDD | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3580305.3599475)] [[PDF](https://arxiv.org/abs/2210.11050)] |
 | FedDefender: Client-Side Attack-Tolerant Federated Learning | KAIST | KDD | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3580305.3599346)] [[PDF](https://arxiv.org/abs/2307.09048)] [[CODE](https://github.com/deu30303/feddefender)] |
 | FedAPEN: Personalized Cross-silo Federated Learning with Adaptability to Statistical Heterogeneity | ZJU | KDD | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3580305.3599344)] [[CODE](https://github.com/zhenqincn/FedAPEN)] |

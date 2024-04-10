@@ -3625,6 +3625,12 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Aligning model outputs for class imbalanced non-IID federated learning
+    affiliation: NJU
+    venue: Mach Learn
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-022-06241-5
   - title: 'No One Left Behind: Real-World Federated Class-Incremental Learning'
     affiliation: CAS; UCAS
     venue: TPAMI
@@ -7945,6 +7951,22 @@ fl-in-top-dm-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: User Consented Federated Recommender System Against Personalized Attribute
+      Inference Attack
+    affiliation: HKUST
+    venue: WSDM
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3616855.3635830
+      PDF: https://arxiv.org/abs/2312.16203
+      CODE: https://github.com/hkust-knowcomp/uc-fedrec
+  - title: 'Guardian: Guarding against Gradient Leakage with Provable Defense for
+      Federated Learning'
+    affiliation: ECNU
+    venue: WSDM
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3616855.3635758
   - title: 'Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy
       Protected Recommendation'
     affiliation: University of Cambridge
