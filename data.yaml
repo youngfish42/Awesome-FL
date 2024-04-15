@@ -1567,6 +1567,20 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: 'PPML-Omics: A privacy-preserving federated machine learning method protects
+      patients’ privacy in omic data'
+    affiliation: KAUST
+    venue: Science Advances
+    year: '2024'
+    materials:
+      PUB: https://www.science.org/doi/10.1126/sciadv.adh8601
+      CODE: https://github.com/JoshuaChou2018/PPML-Omics
+  - title: Federated learning is not a cure-all for data ethics
+    affiliation: TUM; UvA
+    venue: Nat. Mach. Intell.(Comment)
+    year: '2024'
+    materials:
+      PUB: https://www.nature.com/articles/s42256-024-00813-x
   - title: Robustly federated learning model for identifying high-risk patients with
       postoperative gastric cancer recurrence
     affiliation: Jiangmen Central Hospital; Guilin University of Aerospace Technology;
@@ -3631,6 +3645,20 @@ fl-in-top-ml-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://link.springer.com/article/10.1007/s10994-022-06241-5
+  - title: 'The Impact of Adversarial Attacks on Federated Learning: A Survey'
+    affiliation: IIT
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10274102
+  - title: Understanding and Mitigating Dimensional Collapse in Federated Learning
+    affiliation: NUS
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10336535
+      PDF: https://arxiv.org/abs/2210.00226
+      CODE: https://github.com/bytedance/FedDecorr
   - title: 'No One Left Behind: Real-World Federated Class-Incremental Learning'
     affiliation: CAS; UCAS
     venue: TPAMI
@@ -10203,6 +10231,13 @@ fl-in-top-db-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Performance-Based Pricing of Federated Learning via Auction
+    affiliation: Alibaba Group
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://www.vldb.org/pvldb/volumes/17/paper/Performance-Based%20Pricing%20of%20Federated%20Learning%20via%20Auction
+      CODE: https://github.com/ZiTao-Li/fl_auction
   - title: A Blockchain System for Clustered Federated Learning with Peer-to-Peer
       Knowledge Transfer
     affiliation: NJU

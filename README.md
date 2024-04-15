@@ -141,8 +141,8 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | ------------------------------------------------------------ |
-|PPML-Omics: A privacy-preserving federated machine learning method protects patients’ privacy in omic data | KAUST | Science Advances | 2024 | [PUB](https://www.science.org/doi/10.1126/sciadv.adh8601) [CODE](https://github.com/JoshuaChou2018/PPML-Omics) |
-|Federated learning is not a cure-all for data ethics | TUM; UvA | Nat. Mach. Intell.(Comment) | 2024 | [PUB](https://www.nature.com/articles/s42256-024-00813-x) |
+| PPML-Omics: A privacy-preserving federated machine learning method protects patients’ privacy in omic data | KAUST | Science Advances | 2024 | [[PUB](https://www.science.org/doi/10.1126/sciadv.adh8601)] [[CODE](https://github.com/JoshuaChou2018/PPML-Omics)] |
+| Federated learning is not a cure-all for data ethics | TUM; UvA | Nat. Mach. Intell.(Comment) | 2024 | [[PUB](https://www.nature.com/articles/s42256-024-00813-x)] |
 | Robustly federated learning model for identifying high-risk patients with postoperative gastric cancer recurrence | Jiangmen Central Hospital; Guilin University of Aerospace Technology; Guilin University of Electronic Technology; | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-024-44946-4)] [[CODE](https://github.com/baofengguat/RFLM-project/)] |
 | Selective knowledge sharing for privacy-preserving federated distillation without a good teacher | HKUST | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-023-44383-9)] [[PDF](https://arxiv.org/abs/2304.01731)] [[CODE](https://github.com/shaojiawei07/Selective-FD)] |
 | A federated learning system for precision oncology in Europe: DigiONE | IQVIA Cancer Research BV | Nat. Med. (Comment) | 2024 | [[PUB](https://www.nature.com/articles/s41591-023-02715-8)] |
@@ -446,8 +446,8 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
 | Aligning model outputs for class imbalanced non-IID federated learning | NJU | Mach Learn | 2024 | [[PUB](https://link.springer.com/article/10.1007/s10994-022-06241-5)] |
-| The Impact of Adversarial Attacks on Federated Learning: A Survey | IIT | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10274102) |
-| Understanding and Mitigating Dimensional Collapse in Federated Learning | NUS | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10336535) [PDF](https://arxiv.org/abs/2210.00226) [CODE](https://github.com/bytedance/FedDecorr) |
+| The Impact of Adversarial Attacks on Federated Learning: A Survey | IIT | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10274102)] |
+| Understanding and Mitigating Dimensional Collapse in Federated Learning | NUS | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10336535)] [[PDF](https://arxiv.org/abs/2210.00226)] [[CODE](https://github.com/bytedance/FedDecorr)] |
 | No One Left Behind: Real-World Federated Class-Incremental Learning | CAS; UCAS | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10323204)] [[PDF](https://arxiv.org/abs/2302.00903)] [[CODE](https://github.com/JiahuaDong/LGA)] |
 | Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning | WHU | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10295990)] [[PDF](https://arxiv.org/abs/2309.16286)] [[CODE](https://github.com/WenkeHuang/FCCL)] |
 | Multi-Stage Asynchronous Federated Learning With Adaptive Differential Privacy | HPU; XJTU | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10316599)] [[PDF](https://arxiv.org/abs/1912.07902)] [[CODE](https://github.com/IoTDATALab/MAPA)] |
@@ -1399,7 +1399,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                        | Affiliation                     | Venue           | Year | Materials|
 | ------------------------------------------------------------ | ------------------------------- | --------------- | ---- | ------------------------------------------------------------ |
-|Performance-Based Pricing of Federated Learning via Auction | Alibaba Group | VLDB | 2024 | [PUB](https://www.vldb.org/pvldb/volumes/17/paper/Performance-Based%20Pricing%20of%20Federated%20Learning%20via%20Auction) [CODE](https://github.com/ZiTao-Li/fl_auction) |
+| Performance-Based Pricing of Federated Learning via Auction | Alibaba Group | VLDB | 2024 | [[PUB](https://www.vldb.org/pvldb/volumes/17/paper/Performance-Based%20Pricing%20of%20Federated%20Learning%20via%20Auction)] [[CODE](https://github.com/ZiTao-Li/fl_auction)] |
 | A Blockchain System for Clustered Federated Learning with Peer-to-Peer Knowledge Transfer | NJU | VLDB | 2024 | [[PUB](https://www.vldb.org/pvldb/volumes/17/paper/A%20Blockchain%20System%20for%20Clustered%20Federated%20Learning%20with%20Peer-to-Peer%20Knowledge%20Transfer)] [[CODE](https://github.com/nju-websoft/FedChain)] |
 | Communication Efficient and Provable Federated Unlearning | SDU; KAUST | VLDB | 2024 | [[PUB](https://www.vldb.org/pvldb/volumes/17/paper/Communication%20Efficient%20and%20Provable%20Federated%20Unlearning)] [[PDF](https://arxiv.org/abs/2401.11018)] [[CODE](https://github.com/Happy2Git/FATS_supplement)] |
 | Enhancing Decentralized Federated Learning for Non-IID Data on Heterogeneous Devices | USTC | ICDE | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10184749)] |
