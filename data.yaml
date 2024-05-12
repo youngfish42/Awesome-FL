@@ -1817,6 +1817,164 @@ fl-in-top-ai-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'BOBA: Byzantine-Robust Federated Learning with Label Skewness'
+    affiliation: UIUC
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/bao24a.html
+      PDF: https://arxiv.org/abs/2208.12932
+      CODE: https://github.com/baowenxuan/BOBA
+  - title: Federated Linear Contextual Bandits with Heterogeneous Clients
+    affiliation: University of Virginia
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/blaser24a.html
+      PDF: https://arxiv.org/abs/2403.00116
+      CODE: https://github.com/blaserethan/HetoFedBandit
+  - title: Federated Experiment Design under Distributed Differential Privacy
+    affiliation: Stanford University; Meta
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/chen24c.html
+      PDF: https://arxiv.org/abs/2311.04375
+      CODE: https://drive.google.com/file/d/1ugYQQEIOwqc1oH8cUe6rf1mV91c-cF_g/view?usp=drive_link
+  - title: Escaping Saddle Points in Heterogeneous Federated Learning via Distributed
+      SGD with Communication Compression
+    affiliation: Princeton University
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/chen24d.html
+      PDF: https://arxiv.org/abs/2310.19059
+  - title: 'Asynchronous SGD on Graphs: a Unified Framework for Asynchronous Decentralized
+      and Federated Optimization'
+    affiliation: INRIA
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/even24a.html
+      PDF: https://arxiv.org/abs/2311.00465
+  - title: 'SIFU: Sequential Informed Federated Unlearning for Efficient and Provable
+      Client Unlearning in Federated Optimization'
+    affiliation: INRIA
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/fraboni24a.html
+      PDF: https://arxiv.org/abs/2211.11656
+      CODE: https://github.com/Accenture/Labs-Federated-Learning/tree/SIFU
+  - title: Compression with Exact Error Distribution for Federated Learning
+    affiliation: École Polytechnique
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/hegazy24a.html
+      PDF: https://arxiv.org/abs/2310.20682
+      CODE: https://github.com/mahegz/CompWithExactError
+  - title: Adaptive Federated Minimax Optimization with Lower Complexities
+    affiliation: NJU; MIIT Key Laboratory of Pattern Analysis and Machine Intelligence
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/huang24c.html
+      PDF: https://arxiv.org/abs/2211.07303
+  - title: Adaptive Compression in Federated Learning via Side Information
+    affiliation: Stanford University; University of Padova
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/isik24a.html
+      PDF: https://arxiv.org/abs/2306.12625
+      CODE: https://github.com/FrancescoPase/Federated-KLMS
+  - title: On-Demand Federated Learning for Arbitrary Target Class Distributions
+    affiliation: UNIST
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/jeong24a.html
+      CODE: https://github.com/eai-lab/On-DemandFL
+  - title: 'FedFisher: Leveraging Fisher Information for One-Shot Federated Learning'
+    affiliation: CMU
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/jhunjhunwala24a.html
+      PDF: https://arxiv.org/abs/2403.12329
+      CODE: https://github.com/Divyansh03/FedFisher
+  - title: Queuing dynamics of asynchronous Federated Learning
+    affiliation: Huawei
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/leconte24a.html
+      PDF: https://arxiv.org/abs/2405.00017
+  - title: Personalized Federated X-armed Bandit
+    affiliation: Purdue University
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/li24a.html
+      PDF: https://arxiv.org/abs/2310.16323
+      CODE: https://github.com/WilliamLwj/PyXAB
+  - title: Federated Learning For Heterogeneous Electronic Health Records Utilising
+      Augmented Temporal Graph Attention Networks
+    affiliation: University of Oxford
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/molaei24a.html
+      CODE: https://github.com/AnshThakur/FL4HeterogenousEHRs
+  - title: Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization
+    affiliation: University of Virginia
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/shen24c.html
+      PDF: https://arxiv.org/abs/2311.00944
+  - title: 'Understanding Generalization of Federated Learning via Stability: Heterogeneity
+      Matters'
+    affiliation: Northwestern University
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/sun24a.html
+      PDF: https://arxiv.org/abs/2306.03824
+      CODE: https://github.com/fedcodexx/Generalization-of-Federated-Learning
+  - title: Provable Mutual Benefits from Federated Learning in Privacy-Sensitive Domains
+    affiliation: Sofia University
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/tsoy24a.html
+      PDF: https://arxiv.org/abs/2403.06672
+      CODE: https://github.com/nikita-tsoy98/mutually-beneficial-federated-learning-replication
+  - title: Analysis of Privacy Leakage in Federated Large Language Models
+    affiliation: University of Florida
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/vu24a.html
+      PDF: https://arxiv.org/abs/2403.04784
+      CODE: https://github.com/vunhatminh/FL_Attacks.git
+  - title: Invariant Aggregator for Defending against Federated Backdoor Attacks
+    affiliation: UIUC
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/wang24e.html
+      PDF: https://arxiv.org/abs/2210.01834
+      CODE: https://github.com/Xiaoyang-Wang/InvariantAggregator
+  - title: Communication-Efficient Federated Learning With Data and Client Heterogeneity
+    affiliation: ISTA
+    venue: AISTATS
+    year: '2024'
+    materials:
+      PUB: https://proceedings.mlr.press/v238/zakerinia24a.html
+      PDF: https://arxiv.org/abs/2206.10032
+      CODE: https://github.com/ShayanTalaei/QuAFL
   - title: 'FedMut: Generalized Federated Learning via Stochastic Mutation'
     affiliation: NTU
     venue: AAAI
@@ -3639,6 +3797,14 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Federated learning with superquantile aggregation for heterogeneous data.
+    affiliation: Google Research
+    venue: Mach Learn
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-023-06332-x
+      PDF: https://arxiv.org/abs/2112.09429
+      CODE: https://github.com/krishnap25/simplicial-fl
   - title: Aligning model outputs for class imbalanced non-IID federated learning
     affiliation: NJU
     venue: Mach Learn
@@ -11330,6 +11496,54 @@ fl-in-top-system-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'DeTA: Minimizing Data Leaks in Federated Learning via Decentralized and
+      Trustworthy Aggregation'
+    affiliation: IBM Research
+    venue: EuroSys
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3627703.3650082
+  - title: 'FLOAT: Federated Learning Optimizations with Automated Tuning'
+    affiliation: Virginia Tech
+    venue: EuroSys
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3627703.3650081
+      CODE: https://github.com/AFKD98/FLOAT/
+  - title: 'Totoro: A Scalable Federated Learning Engine for the Edge'
+    affiliation: UCSC
+    venue: EuroSys
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3627703.3629575
+  - title: 'Dordis: Efficient Federated Learning with Dropout-Resilient Differential
+      Privacy'
+    affiliation: HKUST
+    venue: EuroSys
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3627703.3629559
+      PDF: https://arxiv.org/abs/2209.12528
+      CODE: https://github.com/samuelgong/dordis
+  - title: 'FLIGAN: Enhancing Federated Learning with Incomplete Data using GAN'
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3642968.3654813
+  - title: ALS Algorithm for Robust and Communication-Efficient Federated Learning
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3642970.3655842
+  - title: 'FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked
+      RDMA Transmission.'
+    affiliation: ''
+    venue: EuroSys workshop
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3642970.3655834
   - title: 'Collaboration in Federated Learning With Differential Privacy: A Stackelberg
       Game Analysis'
     affiliation: SYSU
@@ -11359,6 +11573,14 @@ fl-in-top-system-conference-and-journal:
     materials:
       PUB: https://ieeexplore.ieee.org/document/10286313
       PDF: https://arxiv.org/abs/2207.05525
+  - title: Lithography Hotspot Detection Based on Heterogeneous Federated Learning
+      With Local Adaptation and Feature Selection
+    affiliation: ZJU
+    venue: TCAD
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10319303
+      PDF: https://arxiv.org/abs/2107.04367
   - title: 'FedComp: A Federated Learning Compression Framework for Resource-Constrained
       Edge Computing Devices'
     affiliation: HIT
