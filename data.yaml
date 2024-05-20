@@ -3797,6 +3797,12 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Communication-efficient clustered federated learning via model distance
+    affiliation: USTC; State Key Laboratory of Cognitive Intelligence
+    venue: Mach Learn
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-023-06443-5
   - title: Federated learning with superquantile aggregation for heterogeneous data.
     affiliation: Google Research
     venue: Mach Learn
@@ -3811,6 +3817,15 @@ fl-in-top-ml-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://link.springer.com/article/10.1007/s10994-022-06241-5
+  - title: 'Federated Gaussian Process: Convergence, Automatic Personalization and
+      Multi-Fidelity Modeling'
+    affiliation: Northeastern University; UoM
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10402074
+      PDF: https://arxiv.org/abs/2111.14008
+      CODE: https://github.com/UMDataScienceLab/Federated_Gaussian_Process
   - title: 'The Impact of Adversarial Attacks on Federated Learning: A Survey'
     affiliation: IIT
     venue: TPAMI
@@ -10755,6 +10770,219 @@ fl-in-top-network-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Accelerating the Decentralized Federated Learning via Manipulating Edges
+    affiliation: SZU
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645509
+  - title: Prompt-enhanced Federated Content Representation Learning for Cross-domain
+      Recommendation
+    affiliation: SDNU
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645337
+      PDF: https://arxiv.org/abs/2401.14678
+      CODE: https://github.com/ckano/pfcr
+  - title: 'PAGE: Equilibrate Personalization and Generalization in Federated Learning'
+    affiliation: XDU
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645513
+      PDF: https://arxiv.org/abs/2310.08961
+      CODE: https://github.com/ivy-h7/PAGE
+  - title: 'Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion
+      Probabilistic Models'
+    affiliation: ECNU
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645514
+  - title: Co-clustering for Federated Recommender System
+    affiliation: UIUC
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645626
+  - title: Incentive and Dynamic Client Selection for Federated Unlearning
+    affiliation: BUPT
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645462
+  - title: Towards Efficient Communication and Secure Federated Recommendation System
+      via Low-rank Training
+    affiliation: VinUniversity
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645702
+      PDF: https://arxiv.org/abs/2401.03748
+      CODE: https://github.com/nnhieu/colr-fedrec
+  - title: 'BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated
+      Learning Framework'
+    affiliation: ZJU
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645425
+      PDF: https://arxiv.org/abs/2205.10568
+  - title: 'Towards Personalized Privacy: User-Governed Data Contribution for Federated
+      Recommendation'
+    affiliation: UQ
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645690
+      PDF: https://arxiv.org/abs/2401.17630
+  - title: 'FedDSE: Distribution-aware Sub-model Extraction for Federated Learning
+      over Resource-constrained Devices'
+    affiliation: NTU
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645416
+  - title: 'Cardinality Counting in "Alcatraz": A Privacy-aware Federated Learning
+      Approach'
+    affiliation: CSIRO’s Data61
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645655
+  - title: Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation
+    affiliation: BUPT
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645693
+      PDF: https://arxiv.org/abs/2310.11730
+  - title: Poisoning Federated Recommender Systems with Fake Users
+    affiliation: USTC
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645492
+      PDF: https://arxiv.org/abs/2402.11637
+  - title: Towards Energy-efficient Federated Learning via INT8-based Training on
+      Mobile DSPs
+    affiliation: BUPT
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645341
+  - title: Privacy-Preserving and Fairness-Aware Federated Learning for Critical Infrastructure
+      Protection and Resilience
+    affiliation: UTS
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645545
+      CODE: https://github.com/CGD-release/cgd
+  - title: 'When Federated Recommendation Meets Cold-Start Problem: Separating Item
+      Attributes and User Interactions'
+    affiliation: JLU
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645525
+      PDF: https://arxiv.org/abs/2305.12650
+      CODE: https://github.com/Zhangcx19/IFedRec
+  - title: 'How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed
+      Edge Computing Environments'
+    affiliation: UCSD
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645544
+      CODE: https://github.com/jiayunz/RecipFL
+      VIDEO: https://www.youtube.com/watch?v=nN1UjYw_6uQ
+  - title: Poisoning Attack on Federated Knowledge Graph Embedding
+    affiliation: PolyU
+    venue: WWW
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589334.3645422
+      CODE: https://github.com/jisooma/FKGEPoison
+  - title: 'FL@FM-TheWebConf''24: International Workshop on Federated Foundation Models
+      for the Web'
+    affiliation: CUHK
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3641298
+      PAGE: https://federated-learning.org/fl@fm-www-2024/
+  - title: An Investigation into the Feasibility of Performing Federated Learning
+      on Social Linked Data Servers
+    affiliation: University of Southampton
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651950
+  - title: Exploring Representational Similarity Analysis to Protect Federated Learning
+      from Data Poisoning
+    affiliation: SYSU
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651503
+  - title: 'Only Send What You Need: Learning to Communicate Efficiently in Federated
+      Multilingual Machine Translation'
+    affiliation: Purdue University
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651931
+      PDF: https://arxiv.org/abs/2401.07456
+  - title: 'FedHLT: Efficient Federated Low-Rank Adaption with Hierarchical Language
+      Tree for Multilingual Modeling'
+    affiliation: CUHK
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651933
+  - title: 'HBIAS FedAvg: Smooth Federated Learning Transition for In-use Edge Models'
+    affiliation: IIT
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651518
+  - title: 'Phoenix: A Federated Generative Diffusion Model'
+    affiliation: UW
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651935
+  - title: 'Federated Learning in Large Model Era: Vision-Language Model for Smart
+      City Safety Operation Management'
+    affiliation: ENN; UPC
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651939
+  - title: Robust Federated Learning Mitigates Client-side Training Data Distribution
+      Inference Attacks
+    affiliation: USTC
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651555
+      PDF: https://arxiv.org/abs/2403.03149
+  - title: 'GradFilt: Class-wise Targeted Data Reconstruction from Gradients in Federated
+      Learning'
+    affiliation: PolyU
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651514
+  - title: Detecting Poisoning Attacks on Federated Learning Using Gradient-Weighted
+      Class Activation Mapping
+    affiliation: ISEP
+    venue: WWW (Companion Volume)
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3589335.3651490
   - title: 'AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust
       Autonomous Driving'
     affiliation: NTU
@@ -11544,6 +11772,20 @@ fl-in-top-system-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3642970.3655834
+  - title: 'Taking Advantage of the Mistakes: Rethinking Clustered Federated Learning
+      for IoT Anomaly Detection'
+    affiliation: UVIC
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10476751
+  - title: 'FedICT: Federated Multi-Task Distillation for Multi-Access Edge Computing'
+    affiliation: UCAS
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10163770
+      PDF: http://export.arxiv.org/abs/2301.00389
   - title: 'Collaboration in Federated Learning With Differential Privacy: A Stackelberg
       Game Analysis'
     affiliation: SYSU
