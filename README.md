@@ -101,7 +101,7 @@ We use another project to automatically track updates to FL papers, click on [FL
 | [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) | [23](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference), [22](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference), [21](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html), [20](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html) | [19](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 18 |
 | [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) | [23](https://www.sigmobile.org/mobicom/2023/accepted.html), [22](https://www.sigmobile.org/mobicom/2022/accepted.html), [21](https://www.sigmobile.org/mobicom/2021/accepted.html), [20](https://www.sigmobile.org/mobicom/2020/accepted.php) |                                                              |
 | [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) | 23([1](https://www.usenix.org/conference/nsdi23/spring-accepted-papers), [2](https://www.usenix.org/conference/nsdi23/fall-accepted-papers)) | -                                                            |
-| [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) | [23](https://www2023.thewebconf.org/program/accepted-papers/), [22](https://www2022.thewebconf.org/accepted-papers/), [21](https://www2021.thewebconf.org/program/papers-program/links/index.html) |                                                              |
+| [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) | [24](https://www2024.thewebconf.org/accepted/research-tracks/), [23](https://www2023.thewebconf.org/program/accepted-papers/), [22](https://www2022.thewebconf.org/accepted-papers/), [21](https://www2021.thewebconf.org/program/papers-program/links/index.html) |                                                              |
 | [OSDI](https://dblp.org/search?q=federated%20venue%3AOSDI%3A) | 21                                                           | -                                                            |
 | [SOSP](https://dblp.org/search?q=federated%20venue%3ASOSP%3A) | 21                                                           | -                                                            |
 | [ISCA](https://dblp.org/search?q=federated%20venue%3AISCA%3A) | -                                                            | -                                                            |
@@ -457,7 +457,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 - [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) [2023](https://www.auai.org/uai2023/accepted_papers), [2022](https://www.auai.org/uai2022/accepted_papers), [2021](https://www.auai.org/uai2021/accepted_papers)
 - [Machine Learning](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fml%3A) 2024, 2023, 2022
 - [JMLR](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fjmlr%3A) 2023([v24](https://jmlr.org/papers/v24/)), 2021([v22](https://jmlr.org/papers/v22/))
-- [TPAMI](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fpami%3A) 2023, 2022
+- [TPAMI](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fpami%3A) 2024, 2023, 2022
 
 <details open>
 <summary>fl in top ml conference and journal</summary>
@@ -465,8 +465,10 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
+|Communication-efficient clustered federated learning via model distance | USTC; State Key Laboratory of Cognitive Intelligence | Mach Learn | 2024 | [PUB](https://link.springer.com/article/10.1007/s10994-023-06443-5) |
 | Federated learning with superquantile aggregation for heterogeneous data. | Google Research | Mach Learn | 2024 | [[PUB](https://link.springer.com/article/10.1007/s10994-023-06332-x)] [[PDF](https://arxiv.org/abs/2112.09429)] [[CODE](https://github.com/krishnap25/simplicial-fl)] |
 | Aligning model outputs for class imbalanced non-IID federated learning | NJU | Mach Learn | 2024 | [[PUB](https://link.springer.com/article/10.1007/s10994-022-06241-5)] |
+| Federated Gaussian Process: Convergence, Automatic Personalization and Multi-Fidelity Modeling | Northeastern University; UoM | TPAMI | 2024 | [PUB](https://ieeexplore.ieee.org/document/10402074) [PDF](https://arxiv.org/abs/2111.14008) [CODE](https://github.com/UMDataScienceLab/Federated_Gaussian_Process) |
 | The Impact of Adversarial Attacks on Federated Learning: A Survey | IIT | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10274102)] |
 | Understanding and Mitigating Dimensional Collapse in Federated Learning | NUS | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10336535)] [[PDF](https://arxiv.org/abs/2210.00226)] [[CODE](https://github.com/bytedance/FedDecorr)] |
 | No One Left Behind: Real-World Federated Class-Incremental Learning | CAS; UCAS | TPAMI | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10323204)] [[PDF](https://arxiv.org/abs/2302.00903)] [[CODE](https://github.com/JiahuaDong/LGA)] |
@@ -1480,7 +1482,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 - [INFOCOM](https://dblp.uni-trier.de/search?q=federate%20venue%3AINFOCOM%3A) [2023](https://infocom2023.ieee-infocom.org/program/accepted-paper-list-main-conference), [2022](https://infocom2022.ieee-infocom.org/program/accepted-paper-list-main-conference)([Page](https://infocom.info/day/3/track/Track%20B#B-7)), [2021](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom21)), [2020](https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference.html)([Page](https://duetone.org/infocom20)), [2019](https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference.html), 2018
 - [MobiCom](https://dblp.uni-trier.de/search?q=federate%20venue%3AMobiCom%3A) [2023](https://www.sigmobile.org/mobicom/2023/accepted.html), [2022](https://www.sigmobile.org/mobicom/2022/accepted.html), [2021](https://www.sigmobile.org/mobicom/2021/accepted.html), [2020](https://www.sigmobile.org/mobicom/2020/accepted.php)
 - [NSDI](https://dblp.uni-trier.de/search?q=federate%20venue%3ANSDI%3A) 2023([Spring](https://www.usenix.org/conference/nsdi23/spring-accepted-papers), [Fall](https://www.usenix.org/conference/nsdi23/fall-accepted-papers))
-- [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2023](https://www2023.thewebconf.org/program/accepted-papers/), [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
+- [WWW](https://dblp.uni-trier.de/search?q=federate%20venue%3AWWW%3A) [2024](https://www2024.thewebconf.org/accepted/research-tracks/), [2023](https://www2023.thewebconf.org/program/accepted-papers/), [2022](https://www2022.thewebconf.org/accepted-papers/), [2021](https://www2021.thewebconf.org/program/papers-program/links/index.html)
 
 <details open>
 <summary>fl in top network conference and journal</summary>
@@ -1489,6 +1491,35 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ------------------------------------------------------------ |
+|Accelerating the Decentralized Federated Learning via Manipulating Edges | SZU | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645509) |
+|Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation | SDNU | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645337) [PDF](https://arxiv.org/abs/2401.14678) [CODE](https://github.com/ckano/pfcr) |
+|PAGE: Equilibrate Personalization and Generalization in Federated Learning | XDU | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645513) [PDF](https://arxiv.org/abs/2310.08961) [CODE](https://github.com/ivy-h7/PAGE) |
+|Federated Learning Vulnerabilities: Privacy Attacks with Denoising Diffusion Probabilistic Models | ECNU | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645514) |
+|Co-clustering for Federated Recommender System | UIUC | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645626) |
+|Incentive and Dynamic Client Selection for Federated Unlearning | BUPT | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645462) |
+|Towards Efficient Communication and Secure Federated Recommendation System via Low-rank Training | VinUniversity | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645702) [PDF](https://arxiv.org/abs/2401.03748) [CODE](https://github.com/nnhieu/colr-fedrec) |
+|BlockDFL: A Blockchain-based Fully Decentralized Peer-to-Peer Federated Learning Framework | ZJU | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645425) [PDF](https://arxiv.org/abs/2205.10568) |
+|Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation | UQ | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645690) [PDF](https://arxiv.org/abs/2401.17630) |
+|FedDSE: Distribution-aware Sub-model Extraction for Federated Learning over Resource-constrained Devices | NTU | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645416) |
+|Cardinality Counting in "Alcatraz": A Privacy-aware Federated Learning Approach | CSIRO’s Data61 | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645655) |
+|Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation | BUPT | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645693) [PDF](https://arxiv.org/abs/2310.11730) |
+|Poisoning Federated Recommender Systems with Fake Users | USTC | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645492) [PDF](https://arxiv.org/abs/2402.11637) |
+|Towards Energy-efficient Federated Learning via INT8-based Training on Mobile DSPs | BUPT | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645341) |
+|Privacy-Preserving and Fairness-Aware Federated Learning for Critical Infrastructure Protection and Resilience | UTS | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645545) [CODE](https://github.com/CGD-release/cgd) |
+|When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions | JLU | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645525) [PDF](https://arxiv.org/abs/2305.12650) [CODE](https://github.com/Zhangcx19/IFedRec) |
+|How Few Davids Improve One Goliath: Federated Learning in Resource-Skewed Edge Computing Environments | UCSD | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645544) [CODE](https://github.com/jiayunz/RecipFL) [VIDEO](https://www.youtube.com/watch?v=nN1UjYw_6uQ) |
+|Poisoning Attack on Federated Knowledge Graph Embedding | PolyU | WWW | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589334.3645422) [CODE](https://github.com/jisooma/FKGEPoison) |
+|FL@FM-TheWebConf'24: International Workshop on Federated Foundation Models for the Web | CUHK | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3641298) [PAGE](https://federated-learning.org/fl@fm-www-2024/) |
+|An Investigation into the Feasibility of Performing Federated Learning on Social Linked Data Servers | University of Southampton | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651950) |
+|Exploring Representational Similarity Analysis to Protect Federated Learning from Data Poisoning | SYSU | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651503) |
+|Only Send What You Need: Learning to Communicate Efficiently in Federated Multilingual Machine Translation | Purdue University | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651931) [PDF](https://arxiv.org/abs/2401.07456) |
+|FedHLT: Efficient Federated Low-Rank Adaption with Hierarchical Language Tree for Multilingual Modeling | CUHK | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651933) |
+|HBIAS FedAvg: Smooth Federated Learning Transition for In-use Edge Models | IIT | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651518) |
+|Phoenix: A Federated Generative Diffusion Model | UW | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651935) |
+|Federated Learning in Large Model Era: Vision-Language Model for Smart City Safety Operation Management | ENN; UPC | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651939) |
+|Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks | USTC | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651555) [PDF](https://arxiv.org/abs/2403.03149) |
+|GradFilt: Class-wise Targeted Data Reconstruction from Gradients in Federated Learning | PolyU | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651514) |
+|Detecting Poisoning Attacks on Federated Learning Using Gradient-Weighted Class Activation Mapping | ISEP | WWW (Companion Volume) | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3589335.3651490) |
 | AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving | NTU | MobiCom | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3570361.3592517)] [[PDF](https://arxiv.org/abs/2302.08646)] |
 | Efficient Federated Learning for Modern NLP | Beiyou                                        Shenzhen Institute | MobiCom | 2023 | [[PDF](https://arxiv.org/abs/2205.10162)] [[解读](https://zhuanlan.zhihu.com/p/638270746)] |
 | FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning | HKUST; Clustar | NSDI | 2023 | [[PUB](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue)] [[SLIDE](https://www.usenix.org/system/files/nsdi23_slides_zhang.pdf)] [[VIDEO](https://www.youtube.com/watch?v=I5V3r-8sY-Y)] |
@@ -1621,6 +1652,8 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | FLIGAN: Enhancing Federated Learning with Incomplete Data using GAN |  | EuroSys workshop | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3642968.3654813)] |
 | ALS Algorithm for Robust and Communication-Efficient Federated Learning |  | EuroSys workshop | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3642970.3655842)] |
 | FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission. |  | EuroSys workshop | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3642970.3655834)] |
+| Taking Advantage of the Mistakes: Rethinking Clustered Federated Learning for IoT Anomaly Detection | UVIC | TPDS | 2024 | [PUB](https://ieeexplore.ieee.org/document/10476751) |
+| FedICT: Federated Multi-Task Distillation for Multi-Access Edge Computing | UCAS | TPDS | 2024 | [PUB](https://ieeexplore.ieee.org/document/10163770) [PDF](http://export.arxiv.org/abs/2301.00389) |
 | Collaboration in Federated Learning With Differential Privacy: A Stackelberg Game Analysis | SYSU | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10400897)] |
 | FAST: Enhancing Federated Learning Through Adaptive Data Sampling and Local Training | USTC | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10323207)] |
 | EcoFed: Efficient Communication for DNN Partitioning-Based Federated Learning | University of St Andrews | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10380682)] [[PDF](https://arxiv.org/abs/2304.05495)] [[CODE](https://github.com/blessonvar/ecofed)] |
@@ -2291,6 +2324,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- *2024/05/20 - add WWW 2024 papers*
 - *2024/05/12 - add AISTATS, EuroSys 2024 papers*
 - *2024/04/15 - add TPAMI,  VLDB 2024 papers*
 - *2024/04/10 - add WSDM, Mach Learn 2024 papers*
