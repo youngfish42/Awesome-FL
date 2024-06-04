@@ -2411,9 +2411,9 @@ Many thanks :heart: to the other awesome list:
 ```text
 @misc{Awesome-FL,
     title = {Awesome-FL},
-    author = {Yuwen Yang, Bingjie Yan, Xuefeng Jiang, Hongcheng Li, Jian Wang, Jiao Chen, Xiangmou Qu, Chang Liu and others},
+    author = {Yuwen Yang and Bingjie Yan and Xuefeng Jiang and Hongcheng Li and Jian Wang and Jiao Chen and Xiangmou Qu and Chang Liu and others},
     year = {2022},
-    howpublished = {\\url{https://github.com/youngfish42/Awesome-FL}
+    url = {https://github.com/youngfish42/Awesome-FL}
 }
 ```
 
