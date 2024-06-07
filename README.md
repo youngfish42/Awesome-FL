@@ -2281,8 +2281,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 - [[FL-CVPR'23](https://fedvision.github.io/fedvision-workshop/)], 2nd Workshop on Federated Learning for Computer Vision
 - [[FL@FM-AJCAI'23](https://federated-learning.org/fl@fm-ajcai-2023/)], Workshop on Federated Learning in Australasia: When FL meets Foundation Models in Conjunction with AJCAI 2023, Brisbane, Australia
 - [[FL-IJCAI'23](https://federated-learning.org/fl-ijcai-2023/)], International Workshop on Trustworthy Federated Learning  in Conjunction with IJCAI 2023 (FL-IJCAI'23), Macau 
-- [[FL-KDD'23](https://fl4data-mining.github.io/)], International Workshop on Federated Learning for Distributed Data Mining
-  Co-located with the 29th ACM SIGKDD Conference (KDD 2023), Long Beach, CA, USA 
+- [[FL-KDD'23](https://fl4data-mining.github.io/)], International Workshop on Federated Learning for Distributed Data Mining Co-located with the 29th ACM SIGKDD Conference (KDD 2023), Long Beach, CA, USA 
 - [[FL-ICML'23](https://fl-icml2023.github.io/)],Federated Learning and Analytics in Practice: Algorithms, Systems, Applications, and Opportunities Workshop at ICML 2023, Honolulu, HI, USA 
 - [[FLIRT-SIGIR'23](https://sites.google.com/view/flirt-sigir23/)],1st Workshop on Federated Learning for Information ReTrieval, Taipei, Taiwan 
 - [[FLSys'23](https://flsys.github.io/)], the Federated Learning Systems (FLSys) Workshop @ MLSys 2023, Miami, FL, USA 
