@@ -2269,8 +2269,16 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
 ## workshops
 
+- [[FL@FM-IJCAI'24](https://federated-learning.org/fl@fm-ijcai-2024/)], International Workshop on Federated Learning in the Age of Foundation Models   In Conjunction with IJCAI 2024, Jeju Island, South Korea 
+- [[FL@FM-ICME'24](https://federated-learning.org/fl@fm-icme-2024/)],International Workshop on Federated Learning and Foundation Models for Multi-Media, Niagara Falls, ON, Canada
+- [[FL@FM-TheWebConf'24](https://federated-learning.org/fl@fm-www-2024/)], International Workshop on Federated Foundation Models for the Web 2024 , Singapore
+- [[FL@FM-Singapore'24](https://federated-learning.org/fl@fm-singapore-2024/)], Federated Learning in the Age of Foundation Models, Summer School @ Singapore 2024, Singapore
+- [[TTIC Chicago Summer Workshop](https://sites.google.com/view/tticfl-summerworkshop2023/home)] New Frontiers in Federated Learning (Recent Theoretical Advances & Practice), TTIC Chicago, USA
+- [[Federated and Collaborative Learning](https://simons.berkeley.edu/workshops/federated-collaborative-learning)] Calvin Lab Auditorium
 - [[FL@FM-NeurIPS'23](https://federated-learning.org/fl@fm-neurips-2023/)],International Workshop on Federated Learning in the Age of Foundation Models in Conjunction with NeurIPS 2023(FL@FM-NeurIPS’23), New Orleans, LA, USA
+- [[2nd MBZUAI Workshop](https://mbzuai-cl.github.io/2023/)] 2nd MBZUAI Workshop on Collaborative Learning: Empowering Sustainable Futures, Abu Dhabi, UAE
 - [[FL-CVPR'23](https://fedvision.github.io/fedvision-workshop/)], 2nd Workshop on Federated Learning for Computer Vision
+- [[FL@FM-AJCAI'23](https://federated-learning.org/fl@fm-ajcai-2023/)], Workshop on Federated Learning in Australasia: When FL meets Foundation Models in Conjunction with AJCAI 2023, Brisbane, Australia
 - [[FL-IJCAI'23](https://federated-learning.org/fl-ijcai-2023/)], International Workshop on Trustworthy Federated Learning  in Conjunction with IJCAI 2023 (FL-IJCAI'23), Macau 
 - [[FL-KDD'23](https://fl4data-mining.github.io/)], International Workshop on Federated Learning for Distributed Data Mining
   Co-located with the 29th ACM SIGKDD Conference (KDD 2023), Long Beach, CA, USA 
@@ -2305,6 +2313,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
 ## journal special issues
 
+- [Special Issue on Trustworthy Federated Learning](https://cis.ieee.org/images/files/Publications/TNNLS/special-issues/IEEE_TNNLS_Special_Issue_on_Trustworthy_Federated_Learning_CFP.pdf), *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2023.
 - [Special Issue on Trustable, Verifiable, and Auditable Federated Learning](https://www.computer.org/digital-library/journals/bd/call-for-papers-special-issue-on-trustable-verifiable-and-auditable-federated-learning), *IEEE Transactions on Big Data (TBD)*, 2022.
 - [Special Issue on Federated Learning: Algorithms, Systems, and Applications](https://dl.acm.org/pb-assets/static_journal_pages/tist/cfps/tist-si-cfp-12-2020-federated-learning-extended2-1617161513293.pdf), *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2021.
 - [Special Issue on Federated Machine Learning](https://www.computer.org/digital-library/magazines/ex/call-for-papers-federated-machine-learning), *IEEE Intelligent Systems (IS)*, 2019.
