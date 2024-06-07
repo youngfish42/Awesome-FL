@@ -12861,6 +12861,13 @@ federated-learning-framework:
     sg: ''
     st: ''
     materials: {}
+  - platform: '[PersonalizedFL](https://github.com/microsoft/PersonalizedFL)<br />[![Stars](https://img.shields.io/github/stars/microsoft/PersonalizedFL.svg?color=blue)](https://github.com/microsoft/PersonalizedFL/stargazers)<br
+      />![img](https://img.shields.io/github/last-commit/microsoft/PersonalizedFL)'
+    papers: ''
+    affiliations: microsoft
+    sg: ''
+    st: ''
+    materials: {}
   - platform: '[plato](https://github.com/TL-System/plato)<br />[![Stars](https://img.shields.io/github/stars/TL-System/plato.svg?color=blue)](https://github.com/TL-System/plato/stargazers)<br
       />![](https://img.shields.io/github/last-commit/TL-System/plato)'
     papers: '[Plato: An Open-Source Research Framework for Production Federated Learning](https://dl.acm.org/doi/10.1145/3603165.3607364)'
