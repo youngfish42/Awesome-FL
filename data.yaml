@@ -13148,6 +13148,15 @@ federated-learning-framework:
     sg: ''
     st: ''
     materials: {}
+  - platform: '[GOLF](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator)
+      <br />[![Stars](https://img.shields.io/github/stars/IntelligentSystemsLab/generic_and_open_learning_federator.svg?color=blue)](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/IntelligentSystemsLab/generic_and_open_learning_federator)'
+    papers: ''
+    affiliations: SYSU
+    sg: ''
+    st: ''
+    materials:
+      DOC: https://generic-and-open-learning-federator.readthedocs.io/en/latest/
   - platform: '[Federated-Learning-source](https://github.com/MTC-ETH/Federated-Learning-source)
       <br />[![Stars](https://img.shields.io/github/stars/MTC-ETH/Federated-Learning-source.svg?color=blue)](https://github.com/MTC-ETH/Federated-Learning-source/stargazers)<br
       />![](https://img.shields.io/github/last-commit/MTC-ETH/Federated-Learning-source)'
