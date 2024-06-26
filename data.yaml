@@ -12692,11 +12692,11 @@ federated-learning-framework:
   - platform: '[Flower](https://github.com/adap/flower)<br />[![Stars](https://img.shields.io/github/stars/adap/flower.svg?color=red)](https://github.com/adap/flower/stargazers)<br
       />![](https://img.shields.io/github/last-commit/adap/flower)'
     papers: '[Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2104.03042.pdf)'
-    affiliations: '[flower.dev](https://flower.dev/) [adap](https://adap.com/en)'
+    affiliations: '[flower.ai](https://flower.ai/)'
     sg: ''
     st: ''
     materials:
-      DOC: https://flower.dev/docs/
+      DOC: https://flower.ai/docs/
   - platform: '[FedML](https://github.com/FedML-AI/FedML)<br />[![Stars](https://img.shields.io/github/stars/FedML-AI/FedML.svg?color=red)](https://github.com/FedML-AI/FedML/stargazers)<br
       />![](https://img.shields.io/github/last-commit/FedML-AI/FedML)'
     papers: '[FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518)'
