@@ -93,7 +93,7 @@ We use another project to automatically track updates to FL papers, click on [FL
 | [NAACL](https://dblp.uni-trier.de/search?q=federate%20venue%3ANAACL-HLT%3A) | [22](https://aclanthology.org/events/naacl-2022/), [21](https://aclanthology.org/events/naacl-2021/) | -                                                            |
 | [EMNLP](https://dblp.uni-trier.de/search?q=federate%20venue%3AEMNLP%3A) | [23](https://aclanthology.org/events/emnlp-2023/), [22](https://aclanthology.org/events/emnlp-2022/), [21](https://aclanthology.org/events/emnlp-2021/), [20](https://aclanthology.org/events/emnlp-2020/) | -                                                            |
 | [COLING](https://dblp.uni-trier.de/search?q=federate%20venue%3ACOLING%3A) | [20](https://aclanthology.org/events/coling-2020/)           | -                                                            |
-| [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) | [23](https://dl.acm.org/doi/proceedings/10.1145/3539618), [22](https://dl.acm.org/doi/proceedings/10.1145/3477495), [21](https://dl.acm.org/doi/proceedings/10.1145/3404835), [20](https://dl.acm.org/doi/proceedings/10.1145/3397271) | -                                                            |
+| [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) | [24](https://dl.acm.org/doi/proceedings/10.1145/3626772), [23](https://dl.acm.org/doi/proceedings/10.1145/3539618), [22](https://dl.acm.org/doi/proceedings/10.1145/3477495), [21](https://dl.acm.org/doi/proceedings/10.1145/3404835), [20](https://dl.acm.org/doi/proceedings/10.1145/3397271) | -                                                            |
 | [SIGMOD](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fsigmod%3A) | [22](https://2022.sigmod.org/sigmod_research_list.shtml), [21](https://2021.sigmod.org/sigmod_research_list.shtml) | -                                                            |
 | [ICDE](https://dblp.uni-trier.de/search?q=federate%20venue%3AICDE%3A) | [23](https://icde2023.ics.uci.edu/papers-research-track/), [22](https://icde2022.ieeecomputer.my/accepted-research-track/), [21](https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding) | -                                                            |
 | [VLDB](https://dblp.org/search?q=federated%20streamid%3Ajournals%2Fpvldb%3A) | [23](https://vldb.org/pvldb/volumes/17), [22](https://vldb.org/pvldb/vol16-volume-info/), [21](https://vldb.org/pvldb/vol15-volume-info/), [21](http://www.vldb.org/pvldb/vol14/), [20](http://vldb.org/pvldb/vol13-volume-info/) | -                                                            |
@@ -1414,7 +1414,7 @@ Federated Learning papers accepted by top AI and NLP conference and journal, inc
 
 Federated Learning papers accepted by top Information Retrieval conference and journal, including [SIGIR](https://dblp.org/db/conf/sigir/index.html)(Annual International ACM SIGIR Conference on Research and Development in Information Retrieval).
 
-- [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) [2023](https://dl.acm.org/doi/proceedings/10.1145/3539618), [2022](https://dl.acm.org/doi/proceedings/10.1145/3477495), [2021](https://dl.acm.org/doi/proceedings/10.1145/3404835), [2020](https://dl.acm.org/doi/proceedings/10.1145/3397271)
+- [SIGIR](https://dblp.uni-trier.de/search?q=federate%20venue%3ASIGIR%3A) [2024](https://dl.acm.org/doi/proceedings/10.1145/3626772), [2023](https://dl.acm.org/doi/proceedings/10.1145/3539618), [2022](https://dl.acm.org/doi/proceedings/10.1145/3477495), [2021](https://dl.acm.org/doi/proceedings/10.1145/3404835), [2020](https://dl.acm.org/doi/proceedings/10.1145/3397271)
 
 <details open>
 <summary>fl in top ir conference and journal</summary>
@@ -1423,6 +1423,10 @@ Federated Learning papers accepted by top Information Retrieval conference and j
 
 |Title                                                           |    Affiliation                        |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------- | ----- | ---- | ------------------------------------------------------------ |
+|ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit | THU | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657763)] |
+|Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport | ZJU | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657764)] |
+|FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented Generation | UQ | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657853)] [PDF](https://arxiv.org/abs/2402.11891) [CODE](https://github.com/ielab/FeB4RAG) |
+|FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction | Alibaba Group | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657941)] |
 | Personalized Federated Relation Classification over Heterogeneous Texts | NUDT | SIGIR | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3539618.3591748)] |
 | Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity | SDU | SIGIR | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3539618.3591688)] |
 | Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures | UQ | SIGIR | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3539618.3591722)] [[PDF](https://arxiv.org/abs/2304.03054)] |
@@ -2377,7 +2381,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
-- 2024/07/12 - add CVPR, MLSys, MobiCom 2024 papers
+- 2024/07/14 - add CVPR, MLSys, MobiCom, SIGIR 2024 papers
 - *2024/05/20 - add WWW 2024 papers*
 - *2024/05/12 - add AISTATS, EuroSys 2024 papers*
 - *2024/04/15 - add TPAMI,  VLDB 2024 papers*
