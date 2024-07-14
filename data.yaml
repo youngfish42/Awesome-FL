@@ -13551,6 +13551,36 @@ fl-in-top-ir-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set
+      User Benefit'
+    affiliation: THU
+    venue: SIGIR
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3626772.3657763
+  - title: 'Revisit Targeted Model Poisoning on Federated Recommendation: Optimize
+      via Multi-objective Transport'
+    affiliation: ZJU
+    venue: SIGIR
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3626772.3657764
+  - title: 'FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented
+      Generation'
+    affiliation: UQ
+    venue: SIGIR
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3626772.3657853
+      PDF: https://arxiv.org/abs/2402.11891
+      CODE: https://github.com/ielab/FeB4RAG
+  - title: 'FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through
+      Rate Prediction'
+    affiliation: Alibaba Group
+    venue: SIGIR
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3626772.3657941
   - title: Personalized Federated Relation Classification over Heterogeneous Texts
     affiliation: NUDT
     venue: SIGIR

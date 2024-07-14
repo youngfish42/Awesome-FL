@@ -1423,10 +1423,10 @@ Federated Learning papers accepted by top Information Retrieval conference and j
 
 |Title                                                           |    Affiliation                        |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------- | ----- | ---- | ------------------------------------------------------------ |
-|ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit | THU | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657763)] |
-|Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport | ZJU | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657764)] |
-|FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented Generation | UQ | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657853)] [PDF](https://arxiv.org/abs/2402.11891) [CODE](https://github.com/ielab/FeB4RAG) |
-|FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction | Alibaba Group | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657941)] |
+| ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit | THU | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657763)] |
+| Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport | ZJU | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657764)] |
+| FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented Generation | UQ | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657853)] [[PDF](https://arxiv.org/abs/2402.11891)] [[CODE](https://github.com/ielab/FeB4RAG)] |
+| FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction | Alibaba Group | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657941)] |
 | Personalized Federated Relation Classification over Heterogeneous Texts | NUDT | SIGIR | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3539618.3591748)] |
 | Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity | SDU | SIGIR | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3539618.3591688)] |
 | Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures | UQ | SIGIR | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3539618.3591722)] [[PDF](https://arxiv.org/abs/2304.03054)] |
