@@ -9341,6 +9341,37 @@ fl-in-top-cv-conference-and-journal:
       PAGE: https://carkham.github.io/FL_Het_Bench/
       POSTER: https://drive.google.com/file/d/1Ln0cnptSn5EfML6ughQ7NowwjjLfMYgu/view?usp=sharing
       VIDEO: https://www.youtube.com/watch?v=zDGPt3929l8
+  - title: Collaborative Visual Place Recognition through Federated Learning
+    affiliation: ''
+    venue: CVPR workshop
+    year: '2024'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Dutto_Collaborative_Visual_Place_Recognition_through_Federated_Learning_CVPRW_2024_paper.html
+      SUPP: https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/supplemental/Dutto_Collaborative_Visual_Place_CVPRW_2024_supplemental.pdf
+      PDF: http://arxiv.org/abs/2404.13324
+  - title: 'FedProK: Trustworthy Federated Class-Incremental Learning via Prototypical
+      Feature Knowledge Transfer'
+    affiliation: ''
+    venue: CVPR workshop
+    year: '2024'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Gao_FedProK_Trustworthy_Federated_Class-Incremental_Learning_via_Prototypical_Feature_Knowledge_Transfer_CVPRW_2024_paper.html
+      SUPP: https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/supplemental/Gao_FedProK_Trustworthy_Federated_CVPRW_2024_supplemental.pdf
+      PDF: http://arxiv.org/abs/2405.02685
+  - title: 'Federated Hyperparameter Optimization Through Reward-Based Strategies:
+      Challenges and Insights'
+    affiliation: ''
+    venue: CVPR workshop
+    year: '2024'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Nakka_Federated_Hyperparameter_Optimization_Through_Reward-Based_Strategies_Challenges_and_Insights_CVPRW_2024_paper.html
+  - title: On the Efficiency of Privacy Attacks in Federated Learning
+    affiliation: ''
+    venue: CVPR workshop
+    year: '2024'
+    materials:
+      PUB: https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Tabassum_On_the_Efficiency_of_Privacy_Attacks_in_Federated_Learning_CVPRW_2024_paper.html
+      PDF: http://arxiv.org/abs/2404.09430
   - title: 'FedCE: Personalized Federated Learning Method based on Clustering Ensembles'
     affiliation: BJTU
     venue: MM
