@@ -3797,6 +3797,413 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FedCBO: Reaching Group Consensus in Clustered Federated Learning through
+      Consensus-based Optimization'
+    affiliation: ''
+    venue: JMLR
+    year: '2024'
+    materials:
+      PUB: https://jmlr.org/papers/v25/23-0764.html
+  - title: Effective Federated Graph Matching
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=rSfzchjIYu
+  - title: Understanding Server-Assisted Federated Learning in the Presence of Incomplete
+      Client Participation
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=zwUEk9WpsR
+  - title: 'Beyond the Federation: Topology-aware Federated Learning for Generalization
+      to Unseen Clients'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=2zLt2Odckx
+  - title: 'FedBPT: Efficient Federated Black-box Prompt Tuning for Large Language
+      Models'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=AoYhtJ4A90
+  - title: Bridging Model Heterogeneity in Federated Learning via Uncertainty-based
+      Asymmetrical Reciprocity Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=p0MGN0LSnx
+  - title: A New Theoretical Perspective on Data Heterogeneity in Federated Optimization
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=re6es2atbl
+  - title: Enhancing Storage and Computational Efficiency in Federated Multimodal
+      Learning for Large-Scale Models
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      ? ''
+      : https://openreview.net/forum?id=QgvBcOsF4B
+  - title: 'Momentum for the Win: Collaborative Federated Reinforcement Learning across
+      Heterogeneous Environments'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=g43yUNWX4V
+  - title: 'Byzantine-Robust Federated Learning: Impact of Client Subsampling and
+      Local Updates'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Izv7gBnap3
+  - title: 'Provable Benefits of Local Steps in Heterogeneous Federated Learning for
+      Neural Networks: A Feature Learning Perspective'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=yHRxnhKyEJ
+  - title: Accelerating Federated Learning with Quick Distributed Mean Estimation
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=gWEwIlZrbQ
+  - title: Fair Federated Learning via the Proportional Veto Core
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6Zgjrowepn
+  - title: 'AegisFL: Efficient and Flexible Privacy-Preserving Byzantine-Robust Cross-silo
+      Federated Learning'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=PHUAG63Efe
+  - title: Recovering Labels from Local Updates in Federated Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=E41gvBG4s6
+  - title: 'FedMBridge: Bridgeable Multimodal Federated Learning'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=jrHUbftLd6
+  - title: Harmonizing Generalization and Personalization in Federated Prompt Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=YYwERRXsJW
+  - title: Locally Estimated Global Perturbations are Better than Local Perturbations
+      for Federated Sharpness-aware Minimization
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6axTFAlzRV
+  - title: Accelerating Heterogeneous Federated Learning with Closed-form Classifiers
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=cMige5MK1N
+  - title: Federated Combinatorial Multi-Agent Multi-Armed Bandits
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=lrFwPeDdEQ
+  - title: A Doubly Recursive Stochastic Compositional Gradient Descent Method for
+      Federated Multi-Level Compositional Optimization
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=GentO2E4ID
+  - title: 'Private Heterogeneous Federated Learning  Without a Trusted Server Revisited:
+      Error-Optimal and  Communication-Efficient Algorithms for Convex Losses'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=sSAEhcdB9N
+  - title: 'FedRC: Tackling Diverse Distribution Shifts Challenge in Federated Learning
+      by Robust Clustering'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=kc4dZYJlJG
+  - title: Pursuing Overall Welfare in Federated Learning through Sequential Decision
+      Making
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=foPMkomvk1
+  - title: 'PrE-Text: Training Language Models on Private Federated Data in the Age
+      of LLMs'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=3WCvnkHnxV
+  - title: Self-Driven Entropy Aggregation for Byzantine-Robust Heterogeneous Federated
+      Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=k2axqNsVVO
+  - title: Overcoming Data and Model heterogeneities in Decentralized Federated Learning
+      via Synthetic Anchors
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=mNzkumTSVL
+  - title: Federated Optimization with Doubly Regularized Drift Correction
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=JD03zxWZzs
+  - title: 'FedSC: Provable Federated Self-supervised Learning with Spectral Contrastive
+      Objective over Non-i.i.d. Data'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=0nMzOmkBHC
+  - title: Certifiably Byzantine-Robust Federated Conformal Prediction
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=4axAQHwBOE
+  - title: Achieving Lossless Gradient Sparsification via Mapping to Alternative Space
+      in Federated Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=vQmVmMN5ft
+  - title: Clustered Federated Learning via Gradient-based Partitioning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=J4HJUF70qm
+  - title: Recurrent Early Exits for Federated Learning with Heterogeneous Clients
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=w4B42sxNq3
+  - title: Rethinking the Flat Minima Searching in Federated Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6TM62kpI5c
+  - title: 'FedBAT: Communication-Efficient Federated Learning via Learnable Binarization'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=x2zxPwCkAZ
+  - title: Federated Representation Learning in the Under-Parameterized Regime
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=LIQYhV45D4
+  - title: 'FedLMT: Tackling System Heterogeneity of Federated Learning via Low-Rank
+      Model Training with Theoretical Guarantees'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=akyElNlUVA
+  - title: Noise-Aware Algorithm for Heterogeneous Differentially Private Federated
+      Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=wuQ2DRPAuy
+  - title: 'SILVER: Single-loop variance reduction and application to federated learning'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=pOgMluzEIH
+  - title: 'SignSGD with Federated Defense: Harnessing Adversarial Attacks through
+      Gradient Sign Decoding'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=zEqeNEuiJr
+  - title: 'FedCal: Achieving Local and Global Calibration in Federated Learning via
+      Aggregated Parameterized Scaler'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=XecUTmB9yD
+  - title: Federated Continual Learning via Prompt-based Dual Knowledge Transfer
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Kqa5JakTjB
+  - title: Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication
+      Cost under 18 Kilobytes
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=cit0hg4sEz
+  - title: Decomposable Submodular Maximization in Federated Setting
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=SAbZExIIgG
+  - title: 'Private and Federated Stochastic Convex Optimization: Efficient Strategies
+      for Centralized Systems'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=sTVSyqD6XX
+  - title: Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=01M0N8VgfB
+  - title: 'Lessons from Generalization Error Analysis of Federated Learning: You
+      May Communicate Less Often!'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=ffS0aYP6mk
+  - title: Byzantine Resilient and Fast Federated Few-Shot Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=q5q59s2WJy
+  - title: Causally Motivated Personalized Federated Invariant Learning with Shortcut-Averse
+      Information-Theoretic Regularization
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Kbd9A4lVoX
+  - title: Ranking-based Client Imitation Selection for Efficient Federated Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=FMEhnS0948
+  - title: 'Towards the Theory of Unsupervised Federated Learning: Non-asymptotic
+      Analysis of Federated EM Algorithms'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=kVgpa1rfLO
+  - title: 'FADAS: Towards Federated Adaptive Asynchronous Optimization'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=j56JAd29uH
+  - title: 'Federated Offline Reinforcement Learning: Collaborative Single-Policy
+      Coverage Suffices'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=LIPGadocTe
+  - title: 'FedREDefense: Defending against Model Poisoning Attacks for Federated
+      Learning using Model Update Reconstruction Error'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Wjq2bS7fTK
+  - title: 'MH-pFLID: Model Heterogeneous personalized Federated Learning via Injection
+      and Distillation for Medical Data Analysis'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Jvh8HM9YEJ
+  - title: Federated Neuro-Symbolic Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=EQXZqBXeW9
+  - title: Adaptive Group Personalization for Federated Mutual Transfer Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=DqC9XiI71U
+  - title: Balancing Similarity and Complementarity for Federated Learning
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=v6tAdeCXKH
+  - title: Federated Self-Explaining GNNs with Anti-shortcut Augmentations
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=ZxDqSBgFSM
+  - title: A Federated Stochastic Multi-level Compositional Minimax Algorithm for
+      Deep AUC Maximization
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=NkN6wrYXe5
+  - title: 'COALA: A Practical and Vision-Centric Federated Learning Platform'
+    affiliation: ''
+    venue: ICML
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=ATRnM8PyQX
+  - title: Secure and fast asynchronous Vertical Federated Learning via cascaded hybrid
+      optimization
+    affiliation: ''
+    venue: Mach Learn
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-024-06541-y
   - title: Communication-efficient clustered federated learning via model distance
     affiliation: USTC; State Key Laboratory of Cognitive Intelligence
     venue: Mach Learn
@@ -3817,6 +4224,18 @@ fl-in-top-ml-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://link.springer.com/article/10.1007/s10994-022-06241-5
+  - title: Federated Learning of Generalized Linear Causal Networks
+    affiliation: ''
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10480288
+  - title: Cross-Modal Federated Human Activity Recognition
+    affiliation: ''
+    venue: TPAMI
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10440498
   - title: 'Federated Gaussian Process: Convergence, Automatic Personalization and
       Multi-Fidelity Modeling'
     affiliation: Northeastern University; UoM
@@ -5832,6 +6251,13 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://jmlr.org/papers/v24/22-0440.html
       PDF: https://arxiv.org/abs/2107.11621
       CODE: https://github.com/SMILELab-FL/FedLab
+  - title: 'Minimax Estimation for Personalized Federated Learning: An Alternative
+      between FedAvg and Local Training?'
+    affiliation: ''
+    venue: JMLR
+    year: '2023'
+    materials:
+      PUB: https://jmlr.org/papers/v24/21-0224.html
   - title: Memory-Based Optimization Methods for Model-Agnostic Meta-Learning and
       Personalized Federated Learning
     affiliation: TAMU
@@ -8160,6 +8586,178 @@ fl-in-top-dm-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FedKDD: International Joint Workshop on Federated Learning for Data Mining
+      and Graph Analytics'
+    affiliation: ''
+    venue: KDD Workshop
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671490
+  - title: Is Aggregation the Only Choice? Federated Learning via Layer-wise Model
+      Recombination
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671722
+  - title: '*BadSampler:* Harnessing the Power of Catastrophic Forgetting to Poison
+      Byzantine-robust Federated Learning'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671879
+  - title: Federated Graph Learning with Structure Proxy Alignment
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671717
+  - title: 'HiFGL: A Hierarchical Framework for Cross-silo Cross-device Federated
+      Graph Learning'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671660
+  - title: 'FedSecurity: A Benchmark for Attacks and Defenses in Federated Learning
+      and Federated LLMs'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671545
+  - title: 'Distributed Harmonization: Federated Clustered Batch Effect Adjustment
+      and Generalization'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671590
+  - title: 'FederatedScope-LLM: A Comprehensive Package for Fine-tuning Large Language
+      Models in Federated Learning'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671573
+  - title: On the Convergence of Zeroth-Order Federated Tuning for Large Language
+      Models
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671865
+  - title: 'CASA: Clustered Federated Learning with Asynchronous Clients'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671979
+  - title: 'FLAIM: AIM-based Synthetic Data Generation in the Federated Setting'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671990
+  - title: Privacy-Preserving Federated Learning using Flower Framework
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671447
+  - title: 'FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated
+      Learning'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671748
+  - title: 'FedNLR: Federated Learning with Neuron-wise Learning Rates'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3672042
+  - title: 'FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671897
+  - title: 'FLea: Addressing Data Scarcity and Label Skew in Federated Learning via
+      Privacy-preserving Feature Augmentation'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671899
+  - title: Preventing Strategic Behaviors in Collaborative Inference for Vertical
+      Federated Learning
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671663
+  - title: 'PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly
+      Detection'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671753
+  - title: 'FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based
+      Aggregation'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671906
+  - title: 'FedGTP: Exploiting Inter-Client Spatial Dependency in Federated Graph-based
+      Traffic Prediction'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671613
+  - title: 'OpenFedLLM: Training Large Language Models on Decentralized Private Data
+      via Federated Learning'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671582
+  - title: Personalized Federated Continual Learning via Multi-Granularity Prompt
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671948
+  - title: Enabling Collaborative Test-Time Adaptation in Dynamic Environment via
+      Federated Learning
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671908
+  - title: 'GPFedRec: Graph-Guided Personalization for Federated Recommendation'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671702
+  - title: Asynchronous Vertical Federated Learning for Kernelized AUC Maximization
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671930
+  - title: 'VertiMRF: Differentially Private Vertical Federated Data Synthesis'
+    affiliation: ''
+    venue: KDD
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3637528.3671771
   - title: User Consented Federated Recommender System Against Personalized Attribute
       Inference Attack
     affiliation: HKUST
@@ -8672,6 +9270,78 @@ fl-in-top-secure-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting'
+    affiliation: ''
+    venue: NDSS
+    year: '2024'
+    materials:
+      PUB: https://www.ndss-symposium.org/ndss-paper/fp-fed-privacy-preserving-federated-detection-of-browser-fingerprinting/
+  - title: 'FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning
+      Attacks in Federated Learning'
+    affiliation: ''
+    venue: NDSS
+    year: '2024'
+    materials:
+      PUB: https://www.ndss-symposium.org/ndss-paper/freqfed-a-frequency-analysis-based-approach-for-mitigating-poisoning-attacks-in-federated-learning/
+  - title: Automatic Adversarial Adaption for Stealthy Poisoning Attacks in Federated
+      Learning
+    affiliation: ''
+    venue: NDSS
+    year: '2024'
+    materials:
+      PUB: https://www.ndss-symposium.org/ndss-paper/automatic-adversarial-adaption-for-stealthy-poisoning-attacks-in-federated-learning/
+  - title: 'CrowdGuard: Federated Backdoor Detection in Federated Learning'
+    affiliation: ''
+    venue: NDSS
+    year: '2024'
+    materials:
+      PUB: https://www.ndss-symposium.org/ndss-paper/crowdguard-federated-backdoor-detection-in-federated-learning/
+  - title: Protecting Label Distribution in Cross-Silo Federated Learning
+    affiliation: ''
+    venue: S&P
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10646748
+  - title: 'FLShield: A Validation Based Federated Learning Framework to Defend Against
+      Poisoning Attacks'
+    affiliation: ''
+    venue: S&P
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10646613
+  - title: 'BadVFL: Backdoor Attacks in Vertical Federated Learning'
+    affiliation: ''
+    venue: S&P
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10646664
+  - title: 'SHERPA: Explainable Robust Algorithms for Privacy-Preserved Federated
+      Learning  in Future Networks to Defend Against Data Poisoning Attacks'
+    affiliation: ''
+    venue: S&P
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10646830
+  - title: 'Loki: Large-scale Data Reconstruction Attack against Federated Learning
+      through Model Manipulation'
+    affiliation: ''
+    venue: S&P
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10646724
+  - title: 'Poster: Towards Privacy-Preserving Federated Recommendation via Synthetic
+      Interactions.'
+    affiliation: ''
+    venue: S&P Workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10579513/
+  - title: A Performance Analysis for Confidential Federated Learning.
+    affiliation: ''
+    venue: S&P Workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10579526
   - title: Turning Privacy-preserving Mechanisms against Federated Learning
     affiliation: University of Pavia
     venue: CCS
@@ -10415,6 +11085,52 @@ fl-in-top-nlp-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Generalizable Multilingual Hate Speech Detection on Low Resource Indian
+      Languages using Fair Selection in Federated Learning
+    affiliation: ''
+    venue: NAACL
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.naacl-long.400/
+  - title: Open-Vocabulary Federated Learning with Multimodal Prototyping
+    affiliation: ''
+    venue: NAACL
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.naacl-long.314/
+  - title: Navigation as Attackers Wish? Towards Building Robust Embodied Agents under
+      Federated Learning
+    affiliation: ''
+    venue: NAACL
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.naacl-long.57/
+  - title: 'FedLFC: Towards Efficient Federated Multilingual Modeling with LoRA-based
+      Language Family Clustering.'
+    affiliation: ''
+    venue: NAACL Findings
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.findings-naacl.98/
+  - title: Personalized Federated Learning for Text Classification with Gradient-Free
+      Prompt Tuning.
+    affiliation: ''
+    venue: NAACL Findings
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.findings-naacl.286/
+  - title: Can Public Large Language Models Help Private Cross-device Federated Learning?
+    affiliation: ''
+    venue: NAACL Findings
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.findings-naacl.59/
+  - title: Fair Federated Learning with Biased Vision-Language Models
+    affiliation: ''
+    venue: ACL Findings
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.findings-acl.595/
   - title: Federated Learning of Large Language Models with Parameter-Efficient Prompt
       Tuning and Adaptive Optimization
     affiliation: Auburn University
@@ -10735,6 +11451,103 @@ fl-in-top-db-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FedMix: Boosting with Data Mixture for Vertical Federated Learning'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597834
+  - title: 'FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597740
+  - title: 'Clients Help Clients: Alternating Collaboration for Semi-Supervised Federated
+      Learning'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10598007
+  - title: Semi-Asynchronous Online Federated Crowdsourcing
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10598143
+  - title: 'AdaFGL: A New Paradigm for Federated Node Classification with Topology
+      Heterogeneity'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597891
+  - title: 'MergeSFL: Split Federated Learning with Feature Merging and Batch Size
+      Regulation'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597905
+  - title: 'LightTR: A Lightweight Framework for Federated Trajectory Recovery'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10598171
+  - title: 'Feed: Towards Personalization-Effective Federated Learning'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597724
+  - title: 'Label Noise Correction for Federated Learning: A Secure, Efficient and
+      Reliable Realization'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597841
+  - title: Fast, Robust and Interpretable Participant Contribution Estimation for
+      Federated Learning
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597940
+  - title: 'HeteFedRec: Federated Recommender Systems with Model Heterogeneity'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10598074
+  - title: 'Hide Your Model: A Parameter Transmission-free Federated Recommender System'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597708
+  - title: 'FedCTQ: A Federated-Based Framework for Accurate and Efficient Contact
+      Tracing Query'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10598064
+  - title: Preventing the Popular Item Embedding Based Attack in Federated Recommendations
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597721
+  - title: 'RobFL: Robust Federated Learning via Feature Center Separation and Malicious
+      Center Detection'
+    affiliation: ''
+    venue: ICDE
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10597878
   - title: 'Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the
       Ugly'
     affiliation: TUM
@@ -10742,6 +11555,37 @@ fl-in-top-db-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3650203.3663331
+  - title: 'Contributions Estimation in Federated Learning: A Comprehensive Experimental
+      Evaluation'
+    affiliation: ''
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://www.vldb.org/pvldb/vol17/p2077-li.pdf
+  - title: 'OFL-W3: A One-shot Federated Learning System on Web 3.0'
+    affiliation: ''
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://www.vldb.org/pvldb/vol17/p4461-jiang.pdf
+  - title: 'Uldp-FL: Federated Learning with Across Silo User-Level Differential Privacy.'
+    affiliation: ''
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://www.vldb.org/pvldb/vol17/p2826-kato.pdf
+  - title: 'FedSM: A Practical Federated Shared Mobility System.'
+    affiliation: ''
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://www.vldb.org/pvldb/vol17/p4445-wei.pdf
+  - title: 'FedSQ: A Secure System for Federated Vector Similarity Queries'
+    affiliation: ''
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://www.vldb.org/pvldb/vol17/p4441-zhu.pdf
   - title: Performance-Based Pricing of Federated Learning via Auction
     affiliation: Alibaba Group
     venue: VLDB
@@ -11100,6 +11944,306 @@ fl-in-top-network-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'Breaking Secure Aggregation: Label Leakage from Aggregated Gradients in
+      Federated Learning'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621090
+  - title: Strategic Data Revocation in Federated Unlearning
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621201
+  - title: 'FedTC: Enabling Communication-Efficient Federated Learning via Transform
+      Coding'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621176
+  - title: 'Federated Learning While Providing Model as a Service: Joint Training
+      and Inference Optimization'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621105
+  - title: 'FairFed: Improving Fairness and Efficiency of Contribution Evaluation
+      in Federated Learning via Cooperative Shapley Value'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621438
+  - title: 'DPBalance: Efficient and Fair Privacy Budget Scheduling for Federated
+      Learning as a Service'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621227
+  - title: 'Tomtit: Hierarchical Federated Fine-Tuning of Giant Models based on Autonomous
+      Synchronization'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621369
+  - title: 'BR-DeFedRL: Byzantine-Robust Decentralized Federated Reinforcement Learning
+      with Fast Convergence and Communication Efficiency'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621347
+  - title: 'Titanic: Towards Production Federated Learning with Large Language Models'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621164
+  - title: Expediting In-Network Federated Learning by Voting-Based Consensus Model
+      Compression
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621376
+  - title: 'Fed-CVLC: Compressing Federated Learning Communications with Variable-Length
+      Codes'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621361
+  - title: Federated Analytics-Empowered Frequent Pattern Mining for Decentralized
+      Web 3.0 Applications
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621294
+  - title: 'GraphProxy: Communication-Efficient Federated Graph Learning with Adaptive
+      Proxy'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621171
+  - title: 'Agglomerative Federated Learning: Empowering Larger Model Training via
+      End-Edge-Cloud Collaboration'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621254
+      CODE: https://github.com/wuzhiyuan2000/FedAgg
+  - title: 'AeroRec: An Efficient On-Device Recommendation Framework using Federated
+      Self-Supervised Knowledge Distillation'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621240
+  - title: Efficient and Straggler-Resistant Homomorphic Encryption for Heterogeneous
+      Federated Learning
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621440
+  - title: 'Heroes: Lightweight Federated Learning with Neural Composition and Adaptive
+      Local Update in Heterogeneous Edge Networks'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621351
+  - title: Momentum-Based Federated Reinforcement Learning with Interaction and Communication
+      Efficiency
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621260
+  - title: Federated Offline Policy Optimization with Dual Regularization
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621140
+  - title: A Semi-Asynchronous Decentralized Federated Learning Framework via Tree-Graph
+      Blockchain
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621425
+  - title: 'SpreadFGL: Edge-Client Collaborative Federated Graph Learning with Adaptive
+      Neighbor Generation'
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621368
+  - title: Towards Efficient Asynchronous Federated Learning in Heterogeneous Edge
+      Environments
+    affiliation: ''
+    venue: INFOCOM
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10621333
+  - title: Federated Learning Based Integrated Sensing, Communications, and Powering
+      Over 6G Massive-MIMO Mobile Networks
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620738
+  - title: 'Decentralized Federated Learning Under Free-riders: Credibility Analysis'
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620869
+  - title: 'TrustBandit: Optimizing Client Selection for Robust Federated Learning
+      Against Poisoning Attacks'
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620802
+  - title: 'Cascade: Enhancing Reinforcement Learning with Curriculum Federated Learning
+      and Interference Avoidance — A Case Study in Adaptive Bitrate Selection'
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620892
+  - title: Efficient Adapting for Vision-language Foundation Model in Edge Computing
+      Based  on Personalized and Multi-Granularity Federated Learning
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620835
+  - title: Distributed Link Heterogeneity Exploitation for Attention-Weighted Robust
+      Federated Learning in 6G Networks
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620673
+  - title: GAN-Based Privacy Abuse Attack on Federated Learning in IoT Networks
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620772
+  - title: 'Fedkit: Enabling Cross-Platform Federated Learning for Android and iOS'
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620662
+      CODE: https://github.com/FedCampus/FedKit
+  - title: 'ASR-FED: Agnostic Straggler Resilient Federated Algorithm for Drone Networks
+      Security'
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620729
+  - title: Unbiased Federated Learning for Heterogeneous Data Under Unreliable Links
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620699
+  - title: Efficient Client Sampling with Compression in Heterogeneous Federated Learning
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620859
+  - title: 'Reputation-Aware Scheduling for Secure Internet of Drones: A Federated
+      Multi-Agent Deep Reinforcement Learning Approach'
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620746
+  - title: Two-Timescale Energy Optimization for Wireless Federated Learning
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620777
+  - title: A Data Reconstruction Attack Against Vertical Federated Learning Based
+      on Knowledge Transfer
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620788
+  - title: Federated Learning for Energy-efficient Cooperative Perception in Connected
+      and Autonomous Vehicles
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620757
+  - title: Federated Learning-Based Cooperative Model Training for Task-Oriented Semantic
+      Communication
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620817
+  - title: 'FedBF16-Dynamic: Communication-Efficient Federated Learning with Adaptive
+      Transmission'
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620860
+  - title: Designing Robust 6G Networks with Bimodal Distribution for Decentralized
+      Federated Learning
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620706
+  - title: Federated Distributed Deep Reinforcement Learning for Recommendation-enabled
+      Edge Caching
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620845
+  - title: Joint Optimization of Charging Time and Resource Allocation in Wireless
+      Power Transfer Assisted Federated Learning
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620792
+  - title: Joint Client Selection and Privacy Compensation for Differentially Private
+      Federated Learning
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620900
+  - title: Wireless Hierarchical Federated Aggregation Weights Design with Loss-Based-Heterogeneity
+    affiliation: ''
+    venue: INFOCOM workshop
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620731
   - title: 'ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital
       Biomarkers of Alzheimer''s Disease'
     affiliation: CUHK
@@ -12063,6 +13207,13 @@ fl-in-top-system-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated
+      Learning Aggregation'
+    affiliation: ''
+    venue: ISCA
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10609633
   - title: 'FedTrans: Efficient Federated Learning via Multi-Model Transformation'
     affiliation: UIUC
     venue: MLSys
@@ -12134,6 +13285,26 @@ fl-in-top-system-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3642970.3655834
+  - title: 'SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning'
+    affiliation: ''
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10620614
+  - title: High-Performance Hardware Acceleration Architecture for Cross-Silo Federated
+      Learning
+    affiliation: ''
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10556815
+  - title: Joint Participant and Learning Topology Selection for Federated Learning
+      in Edge Clouds
+    affiliation: ''
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10557133
   - title: 'Synchronize Only the Immature Parameters: Communication-Efficient Federated
       Learning By Freezing Parameters Adaptively'
     affiliation: SJTU
@@ -12219,6 +13390,13 @@ fl-in-top-system-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://ieeexplore.ieee.org/document/10226409
+  - title: 'BSR-FL: An Efficient Byzantine-Robust Privacy-Preserving Federated Learning
+      Framework'
+    affiliation: ''
+    venue: TC
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10536902
   - title: User-Distribution-Aware Federated Learning for Efficient Communication
       and Fast Inference
     affiliation: ECNU; SHU
@@ -13112,6 +14290,13 @@ federated-learning-framework:
     st: ':white_check_mark:'
     materials:
       DOC: https://secretflow.readthedocs.io/en/latest/getting_started/index.html
+  - platform: '[PFLlib](https://github.com/TsingZ0/PFLlib)<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFLlib.svg?color=blue)](https://github.com/TsingZ0/PFLlib/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/TsingZ0/PFLlib)'
+    papers: '[PFLlib: Personalized Federated Learning Algorithm Library](https://arxiv.org/abs/2312.04992)'
+    affiliations: SJTU
+    sg: ''
+    st: ''
+    materials: {}
   - platform: '[Primihub](https://github.com/primihub/primihub)<br />[![Stars](https://img.shields.io/github/stars/primihub/primihub.svg?color=blue)](https://github.com/primihub/primihub/stargazers)<br
       />![](https://img.shields.io/github/last-commit/primihub/primihub)'
     papers: ''
@@ -13129,13 +14314,6 @@ federated-learning-framework:
     materials:
       DOC: https://federatedscope.io/refs/index
       PAGE: https://federatedscope.io/
-  - platform: '[PFLlib](https://github.com/TsingZ0/PFLlib)<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFLlib.svg?color=blue)](https://github.com/TsingZ0/PFLlib/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/TsingZ0/PFLlib)'
-    papers: '[PFLlib: Personalized Federated Learning Algorithm Library](https://arxiv.org/abs/2312.04992)'
-    affiliations: SJTU
-    sg: ''
-    st: ''
-    materials: {}
   - platform: '[Fedlearner](https://github.com/bytedance/fedlearner)<br />[![Stars](https://img.shields.io/github/stars/bytedance/fedlearner.svg?color=blue)](https://github.com/bytedance/fedlearner/stargazers)<br
       />![](https://img.shields.io/github/last-commit/bytedance/fedlearner)'
     papers: ''
@@ -13168,15 +14346,6 @@ federated-learning-framework:
     st: ''
     materials:
       DOC: https://openfl.readthedocs.io/en/latest/install.html
-  - platform: '[Rosetta](https://github.com/LatticeX-Foundation/Rosetta)<br />[![Stars](https://img.shields.io/github/stars/LatticeX-Foundation/Rosetta.svg?color=blue)](https://github.com/LatticeX-Foundation/Rosetta/stargazers)<br
-      />![](https://img.shields.io/github/last-commit/LatticeX-Foundation/Rosetta)'
-    papers: ''
-    affiliations: '[matrixelements](https://www.matrixelements.com/product/rosetta)'
-    sg: ''
-    st: ''
-    materials:
-      DOC: https://github.com/LatticeX-Foundation/Rosetta/blob/master/doc/DEPLOYMENT.md
-      PAGE: https://github.com/LatticeX-Foundation/Rosetta
   - platform: '[NVFlare](https://github.com/NVIDIA/NVFlare)<br />[![Stars](https://img.shields.io/github/stars/NVIDIA/NVFlare.svg?color=blue)](https://github.com/NVIDIA/NVFlare/stargazers)<br
       />![](https://img.shields.io/github/last-commit/NVIDIA/NVFlare)'
     papers: '[NVIDIA FLARE: Federated Learning from Simulation to Real-World](http://sites.computer.org/debull/A23mar/p170.pdf)'
@@ -13194,6 +14363,15 @@ federated-learning-framework:
     sg: ''
     st: ''
     materials: {}
+  - platform: '[Rosetta](https://github.com/LatticeX-Foundation/Rosetta)<br />[![Stars](https://img.shields.io/github/stars/LatticeX-Foundation/Rosetta.svg?color=blue)](https://github.com/LatticeX-Foundation/Rosetta/stargazers)<br
+      />![](https://img.shields.io/github/last-commit/LatticeX-Foundation/Rosetta)'
+    papers: ''
+    affiliations: '[matrixelements](https://www.matrixelements.com/product/rosetta)'
+    sg: ''
+    st: ''
+    materials:
+      DOC: https://github.com/LatticeX-Foundation/Rosetta/blob/master/doc/DEPLOYMENT.md
+      PAGE: https://github.com/LatticeX-Foundation/Rosetta
   - platform: '[NIID-Bench](https://github.com/Xtra-Computing/NIID-Bench)<br />[![Stars](https://img.shields.io/github/stars/Xtra-Computing/NIID-Bench.svg?color=blue)](https://github.com/Xtra-Computing/NIID-Bench/stargazers)<br
       />![](https://img.shields.io/github/last-commit/Xtra-Computing/NIID-Bench)'
     papers: '[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079.pdf)'
