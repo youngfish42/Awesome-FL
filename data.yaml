@@ -9719,6 +9719,103 @@ fl-in-top-cv-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Federated Learning with Local Openset Noisy Labels
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-72754-2_3
+  - title: 'FedTSA: A Cluster-Based Two-Stage Aggregation Method for Model-Heterogeneous
+      Federated Learning.'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73010-8_22
+  - title: Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality
+      Selection
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73004-7_11
+  - title: 'BAFFLE: A Baseline of Backpropagation-Free Federated Learning'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73226-3_6
+  - title: 'PILoRA: Prototype Guided Incremental LoRA for Federated Class-Incremental
+      Learning'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73650-6_9
+  - title: Fisher Calibration for Backdoor-Robust Heterogeneous Federated Learning
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-72633-0_14
+  - title: 'Unlocking the Potential of Federated Learning: The Symphony of Dataset
+      Distillation via Deep Generative Latents'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73229-4_2
+  - title: 'FedHARM: Harmonizing Model Architectural Diversity in Federated Learning'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73036-8_3
+  - title: 'SuperFedNAS: Cost-Efficient Federated Neural Architecture Search for On-device
+      Inference.'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-72986-7_10
+  - title: Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge
+      Matching.
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-72952-2_8
+  - title: 'Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in
+      Federated Class Continual Learning'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73404-5_18
+  - title: Towards Multi-modal Transformers in Federated Learning
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-72633-0_13
+  - title: Local and Global Flatness for Federated Domain Generalization
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73010-8_5
+  - title: Feature Diversification and Adaptation for Federated Domain Generalization
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73220-1_4
+  - title: 'PFEDEDIT: Personalized Federated Learning via Automated Model Editing'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-72986-7_6
   - title: 'FedHCA2: Towards Hetero-Client Federated Multi-Task Learning'
     affiliation: SJTU
     venue: CVPR
@@ -13285,12 +13382,46 @@ fl-in-top-system-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3642970.3655834
+  - title: Breaking the Memory Wall for Heterogeneous Federated Learning via Model
+      Splitting.
+    affiliation: ''
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10716559
   - title: 'SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning'
     affiliation: ''
     venue: TPDS
     year: '2024'
     materials:
       PUB: https://ieeexplore.ieee.org/document/10620614
+  - title: 'FedVeca: Federated Vectorized Averaging on Non-IID Data With Adaptive
+      Bi-Directional Global Objective'
+    affiliation: ''
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10664503
+  - title: Trusted Model Aggregation With Zero-Knowledge Proofs in Federated Learning.
+    affiliation: ''
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10669208
+  - title: Accelerating Communication-Efficient Federated Multi-Task Learning With
+      Personalization and Fairness.
+    affiliation: ''
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10552428
+  - title: Privacy-Preserving Data Selection for Horizontal and Vertical Federated
+      Learning.
+    affiliation: ''
+    venue: TPDS
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10639479
   - title: High-Performance Hardware Acceleration Architecture for Cross-Silo Federated
       Learning
     affiliation: ''
@@ -13369,6 +13500,33 @@ fl-in-top-system-conference-and-journal:
     materials:
       PUB: https://ieeexplore.ieee.org/document/10286313
       PDF: https://arxiv.org/abs/2207.05525
+  - title: 'FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning
+      in Uncertain Scenarios.'
+    affiliation: ''
+    venue: TCAD
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10745864
+  - title: Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring
+    affiliation: ''
+    venue: TCAD
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10499975
+  - title: 'NebulaFL: Self-Organizing Efficient Multilayer Federated Learning Framework
+      With Adaptive Load Tuning in Heterogeneous Edge Systems'
+    affiliation: ''
+    venue: TCAD
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10745810
+  - title: 'CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature
+      Balance'
+    affiliation: ''
+    venue: TCAD
+    year: '2024'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10745831
   - title: 'FedStar: Efficient Federated Learning on Heterogeneous Communication Networks'
     affiliation: USTC
     venue: TCAD

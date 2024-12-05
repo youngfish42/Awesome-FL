@@ -1312,21 +1312,21 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
-|Federated Learning with Local Openset Noisy Labels |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-72754-2_3) |
-|FedTSA: A Cluster-Based Two-Stage Aggregation Method for Model-Heterogeneous Federated Learning. |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_22) |
-|Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_11) |
-|BAFFLE: A Baseline of Backpropagation-Free Federated Learning |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73226-3_6) |
-|PILoRA: Prototype Guided Incremental LoRA for Federated Class-Incremental Learning |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73650-6_9) |
-|Fisher Calibration for Backdoor-Robust Heterogeneous Federated Learning |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-72633-0_14) |
-|Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73229-4_2) |
-|FedHARM: Harmonizing Model Architectural Diversity in Federated Learning |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73036-8_3) |
-|SuperFedNAS: Cost-Efficient Federated Neural Architecture Search for On-device Inference. |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-72986-7_10) |
-|Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge Matching. |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-72952-2_8) |
-|Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73404-5_18) |
-|Towards Multi-modal Transformers in Federated Learning |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-72633-0_13) |
-|Local and Global Flatness for Federated Domain Generalization |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_5) |
-|Feature Diversification and Adaptation for Federated Domain Generalization |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-73220-1_4) |
-|PFEDEDIT: Personalized Federated Learning via Automated Model Editing |  | ECCV | 2024 | [PUB](https://link.springer.com/chapter/10.1007/978-3-031-72986-7_6) |
+| Federated Learning with Local Openset Noisy Labels |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72754-2_3)] |
+| FedTSA: A Cluster-Based Two-Stage Aggregation Method for Model-Heterogeneous Federated Learning. |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_22)] |
+| Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_11)] |
+| BAFFLE: A Baseline of Backpropagation-Free Federated Learning |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73226-3_6)] |
+| PILoRA: Prototype Guided Incremental LoRA for Federated Class-Incremental Learning |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73650-6_9)] |
+| Fisher Calibration for Backdoor-Robust Heterogeneous Federated Learning |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72633-0_14)] |
+| Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73229-4_2)] |
+| FedHARM: Harmonizing Model Architectural Diversity in Federated Learning |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73036-8_3)] |
+| SuperFedNAS: Cost-Efficient Federated Neural Architecture Search for On-device Inference. |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72986-7_10)] |
+| Personalized Federated Domain-Incremental Learning Based on Adaptive Knowledge Matching. |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72952-2_8)] |
+| Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73404-5_18)] |
+| Towards Multi-modal Transformers in Federated Learning |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72633-0_13)] |
+| Local and Global Flatness for Federated Domain Generalization |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_5)] |
+| Feature Diversification and Adaptation for Federated Domain Generalization |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73220-1_4)] |
+| PFEDEDIT: Personalized Federated Learning via Automated Model Editing |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72986-7_6)] |
 | FedHCA2: Towards Hetero-Client Federated Multi-Task Learning | SJTU | CVPR | 2024 | [[PUB](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_FedHCA2_Towards_Hetero-Client_Federated_Multi-Task_Learning_CVPR_2024_paper.html)] [[SUPP](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lu_FedHCA2_Towards_Hetero-Client_CVPR_2024_supplemental.pdf)] [[PDF](https://arxiv.org/abs/2311.13250)] [[CODE](https://github.com/innovator-zero/FedHCA2)] |
 | Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity | WHU | CVPR | 2024 | [[PUB](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Fair_Federated_Learning_under_Domain_Skew_with_Local_Consistency_and_CVPR_2024_paper.html)] [[PDF](http://arxiv.org/abs/2405.16585)] [[CODE](https://github.com/yuhangchen0/FedHEAL)] |
 | Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts | NWPU; HKUST | CVPR | 2024 | [[PUB](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Think_Twice_Before_Selection_Federated_Evidential_Active_Learning_for_Medical_CVPR_2024_paper.html)] [[SUPP](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Chen_Think_Twice_Before_CVPR_2024_supplemental.pdf)] [[PDF](http://arxiv.org/abs/2312.02567)] [[CODE](https://github.com/JiayiChen815/FEAL)] |
@@ -1907,12 +1907,12 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | FLIGAN: Enhancing Federated Learning with Incomplete Data using GAN |  | EuroSys workshop | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3642968.3654813)] |
 | ALS Algorithm for Robust and Communication-Efficient Federated Learning |  | EuroSys workshop | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3642970.3655842)] |
 | FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission. |  | EuroSys workshop | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3642970.3655834)] |
-| Breaking the Memory Wall for Heterogeneous Federated Learning via Model Splitting. | | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10716559)] |
+| Breaking the Memory Wall for Heterogeneous Federated Learning via Model Splitting. |  | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10716559)] |
 | SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning |  | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10620614)] |
-| FedVeca: Federated Vectorized Averaging on Non-IID Data With Adaptive Bi-Directional Global Objective | | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10664503)] |
-| Trusted Model Aggregation With Zero-Knowledge Proofs in Federated Learning. | | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10669208)] |
-| Accelerating Communication-Efficient Federated Multi-Task Learning With Personalization and Fairness. | | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10552428)] |
-| Privacy-Preserving Data Selection for Horizontal and Vertical Federated Learning. | | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10639479)] |
+| FedVeca: Federated Vectorized Averaging on Non-IID Data With Adaptive Bi-Directional Global Objective |  | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10664503)] |
+| Trusted Model Aggregation With Zero-Knowledge Proofs in Federated Learning. |  | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10669208)] |
+| Accelerating Communication-Efficient Federated Multi-Task Learning With Personalization and Fairness. |  | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10552428)] |
+| Privacy-Preserving Data Selection for Horizontal and Vertical Federated Learning. |  | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10639479)] |
 | High-Performance Hardware Acceleration Architecture for Cross-Silo Federated Learning |  | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10556815)] |
 | Joint Participant and Learning Topology Selection for Federated Learning in Edge Clouds |  | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10557133)] |
 | Synchronize Only the Immature Parameters: Communication-Efficient Federated Learning By Freezing Parameters Adaptively | SJTU | TPDS | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10036106)] |
