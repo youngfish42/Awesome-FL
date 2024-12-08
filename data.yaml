@@ -1567,6 +1567,29 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: 'MatSwarm: trusted swarm transfer learning driven materials computation
+      for secure big data sharing'
+    affiliation: USTB; NTU
+    venue: Nat. Commun.
+    year: '2024'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-024-53431-x
+      CODE: https://github.com/SICC-Group/MatSwarm
+  - title: Introducing edge intelligence to smart meters via federated split learning
+    affiliation: HKU
+    venue: Nat. Commun.
+    year: '2024'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-024-53352-9
+      新闻: https://www.ces.org.cn/html/report/24110829-1.htm
+  - title: An international study presenting a federated learning AI platform for
+      pediatric brain tumors
+    affiliation: Stanford University
+    venue: Nat. Commun.
+    year: '2024'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-024-51172-5
+      CODE: https://github.com/edhlee/FLPedBrain
   - title: 'PPML-Omics: A privacy-preserving federated machine learning method protects
       patients’ privacy in omic data'
     affiliation: KAUST
