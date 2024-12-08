@@ -1817,6 +1817,259 @@ fl-in-top-ai-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Federated Multi-View Clustering via Tensor Factorization
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/438
+  - title: Efficient Federated Multi-View Clustering with Integrated Matrix Factorization
+      and K-Means
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/439
+  - title: 'LG-FGAD: An Effective Federated Graph Anomaly Detection Framework'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/416
+  - title: Federated Prompt Learning for Weather Foundation Models on Devices
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/638
+  - title: 'Breaking Barriers of System Heterogeneity: Straggler-Tolerant Multimodal
+      Federated Learning via Knowledge Distillation'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/419
+  - title: 'Unlearning during Learning: An Efficient Federated Machine Unlearning
+      Method'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/446
+  - title: Practical Hybrid Gradient Compression for Federated Learning Systems
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/458
+  - title: Sample Quality Heterogeneity-aware Federated Causal Discovery through Adaptive
+      Variable Space Selection
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/450
+      CODE: https://github.com/Xianjie-Guo/FedACD
+  - title: 'Feature Norm Regularized Federated Learning: Utilizing Data Disparities
+      for Model Performance Gains'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/457
+      CODE: https://github.com/Xianjie-Guo/FedACD
+  - title: Dirichlet-based Uncertainty Quantification for Personalized Federated Learning
+      with Improved Posterior Networks
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/788
+  - title: 'FedConPE: Efficient Federated Conversational Bandits with Heterogeneous
+      Clients'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/501
+  - title: 'DarkFed: A Data-Free Backdoor Attack in Federated Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/491
+  - title: Scalable Federated Unlearning via Isolated and Coded Sharding
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/503
+  - title: Enhancing Dual-Target Cross-Domain Recommendation with Federated Privacy-Preserving
+      Learning
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/238
+  - title: 'Label Leakage in Vertical Federated Learning: A Survey'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/902
+  - title: 'The Rise of Federated Intelligence: From Federated Foundation Models Toward
+      Collective Intelligence'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/980
+  - title: 'LEAP: Optimization Hierarchical Federated Learning on Non-IID Data with
+      Coalition Formation Game'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/515
+  - title: 'EAB-FL: Exacerbating Algorithmic Bias through Model Poisoning Attacks
+      in Federated Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/51
+  - title: 'Knowledge Distillation in Federated Learning: A Practical Guide'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/905
+  - title: 'FedGCS: A Generative Framework for Efficient Client Selection in Federated
+      Learning via Gradient-based Optimization'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/526
+  - title: 'FedPFT: Federated Proxy Fine-Tuning of Foundation Models'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/531
+      CODE: https://github.com/pzp-dzd/FedPFT
+  - title: A Systematic Survey on Federated Semi-supervised Learning
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/911
+  - title: 'Intelligent Agents for Auction-based Federated Learning: A Survey'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/912
+  - title: A Bias-Free Revenue-Maximizing Bidding Strategy for Data Consumers in Auction-based
+      Federated Learning
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/552
+  - title: Dual Calibration-based Personalised Federated Learning
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/551
+  - title: Stakeholder-oriented Decision Support for Auction-based Federated Learning
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/972
+  - title: 'Redefining Contributions: Shapley-Driven Federated Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/554
+      CODE: https://github.com/tnurbek/shapfed}{https://github.com/tnurbek/shapfed
+  - title: A Survey on Efficient Federated Learning Methods for Foundation Model Training
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/919
+  - title: 'From Optimization to Generalization: Fair Federated Learning against Quality
+      Shift via Inter-Client Sharpness Matching'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/575
+      CODE: https://github.com/wnn2000/FFL4MIA
+  - title: 'FBLG: A Local Graph Based Approach for Handling Dual Skewed Non-IID Data
+      in Federated Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/585
+  - title: 'FedFa: A Fully Asynchronous Training Paradigm for Federated Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/584
+  - title: 'FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous
+      Personalized Federated Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/594
+  - title: 'FedES: Federated Early-Stopping for Hindering Memorizing Heterogeneous
+      Label Noise'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/599
+  - title: Personalized Federated Learning for Cross-City Traffic Prediction
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/611
+  - title: Federated Adaptation for Foundation Model-based Recommendations
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/603
+  - title: 'BADFSS: Backdoor Attacks on Federated Self-Supervised Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/61
+  - title: 'Estimating before Debiasing: A Bayesian Approach to Detaching Prior Bias
+      in Federated Semi-Supervised Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/290
+      CODE: https://github.com/GuogangZhu/FedDB
+  - title: 'FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated
+      Learning'
+    affiliation: ''
+    venue: IJCAI
+    year: '2024'
+    materials:
+      PUB: https://www.ijcai.org/proceedings/2024/632
   - title: 'BOBA: Byzantine-Robust Federated Learning with Label Skewness'
     affiliation: UIUC
     venue: AISTATS
@@ -4293,6 +4546,12 @@ fl-in-top-ml-conference-and-journal:
       PUB: https://ieeexplore.ieee.org/document/10274722
       PDF: https://arxiv.org/abs/2102.01936
       CODE: https://github.com/Klitter/A-Bayesian-Federated-Learning-Framework-with-Online-Laplace-Approximation
+  - title: Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting
+    affiliation: USTC; HKBU
+    venue: ICLR
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=tm8s3696Ox
   - title: One-shot Empirical Privacy Estimation for Federated Learning
     affiliation: Google
     venue: ICLR
@@ -9719,6 +9978,145 @@ fl-in-top-cv-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'DualFed: Enjoying both Generalization and Personalization in Federated
+      Learning via Hierachical Representations'
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681260
+  - title: One-shot-but-not-degraded Federated Learning
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3680715
+  - title: Overcoming Spatial-Temporal Catastrophic Forgetting for Federated Class-Incremental
+      Learning
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681384
+  - title: 'FedDEO: Description-Enhanced One-Shot Federated Learning with Diffusion
+      Models'
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681490
+  - title: Decoupling General and Personalized Knowledge in Federated Learning via
+      Additive and Low-rank Decomposition
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681588
+  - title: 'CoAst: Validation-Free Contribution Assessment for Federated Learning
+      based on Cross-Round Valuation'
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3680867
+  - title: Spatio-temporal Heterogeneous Federated Learning for Time Series Classification
+      with Multi-view Orthogonal Training
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3680733
+  - title: 'FedEvalFair: A Privacy-Preserving and Statistically Grounded Federated
+      Fairness Evaluation Framework'
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681545
+  - title: One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local
+      Model Diversity
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681054
+  - title: 'FedSLS: Exploring Federated Aggregation in Saliency Latent Space'
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681278
+  - title: Cluster-driven Personalized Federated Recommendation with Interest-aware
+      Graph Convolution Network for Multimedia
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3680788
+  - title: 'FedBCGD: Communication-Efficient Accelerated Block Coordinate Gradient
+      Descent for Federated Learning'
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3664647.3681094
+  - title: Federated Morozov Regularization for Shortcut Learning in Privacy Preserving
+      Learning with Watermarked Image Data
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3664647.3681480
+  - title: Cross-Modal Meta Consensus for Heterogeneous Federated Learning
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681510
+  - title: Masked Random Noise for Communication-Efficient Federated Learning
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3680608
+  - title: Heterogeneity-Aware Federated Deep Multi-View Clustering towards Diverse
+      Feature Representations
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681302
+  - title: Adaptive Hierarchical Aggregation for Federated Object Detection
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681158
+  - title: 'FedCAFE: Federated Cross-Modal Hashing with Adaptive Feature Enhancement'
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681319
+  - title: Federated Fuzzy C-means with Schatten-p Norm Minimization
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681557
+  - title: Towards Effective Federated Graph Anomaly Detection via Self-boosted Knowledge
+      Distillation
+    affiliation: ''
+    venue: MM
+    year: '2024'
+    materials:
+      PUB: https://doi.org/10.1145/3664647.3681415
+  - title: Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification
+    affiliation: ''
+    venue: IJCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s11263-024-02077-9
   - title: Federated Learning with Local Openset Noisy Labels
     affiliation: ''
     venue: ECCV
@@ -11182,6 +11580,53 @@ fl-in-top-nlp-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: A Hassle-free Algorithm for Strong Differential Privacy in Federated Learning
+      Systems
+    affiliation: ''
+    venue: EMNLP
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.emnlp-industry.64/
+  - title: 'Safely Learning with Private Data: A Federated Learning Framework for
+      Large Language Model'
+    affiliation: ''
+    venue: EMNLP
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.emnlp-main.303
+  - title: 'FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation
+      Models'
+    affiliation: ''
+    venue: EMNLP
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.emnlp-main.464
+  - title: Fisher Information-based Efficient Curriculum Federated Learning with Large
+      Language Models
+    affiliation: ''
+    venue: EMNLP
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.emnlp-main.587
+  - title: Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models
+    affiliation: ''
+    venue: EMNLP
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.emnlp-main.717
+  - title: Promoting Data and Model Privacy in Federated Learning through Quantized
+      LoRA
+    affiliation: ''
+    venue: EMNLP Findings
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.findings-emnlp.615
+  - title: Heterogeneous LoRA for Federated Fine-tuning of On-Device Foundation Models
+    affiliation: ''
+    venue: EMNLP Findings
+    year: '2024'
+    materials:
+      PUB: https://aclanthology.org/2024.emnlp-main.717
   - title: Generalizable Multilingual Hate Speech Detection on Low Resource Indian
       Languages using Fair Selection in Federated Learning
     affiliation: ''
@@ -11652,6 +12097,24 @@ fl-in-top-db-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://dl.acm.org/doi/10.1145/3650203.3663331
+  - title: 'FedSQ: A Secure System for Federated Vector Similarity Queries'
+    affiliation: ''
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.14778/3685800.3685895
+  - title: 'FedSM: A Practical Federated Shared Mobility System'
+    affiliation: ''
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.14778/3685800.3685896
+  - title: 'OFL-W3: A One-Shot Federated Learning System on Web 3.0'
+    affiliation: ''
+    venue: VLDB
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.14778/3685800.3685900
   - title: 'Contributions Estimation in Federated Learning: A Comprehensive Experimental
       Evaluation'
     affiliation: ''
@@ -13304,6 +13767,20 @@ fl-in-top-system-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained
+      AIoT Systems.'
+    affiliation: ''
+    venue: DAC
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3649329.3655917
+  - title: Fake Node-Based Perception Poisoning Attacks against Federated Object Detection
+      Learning in Mobile Computing Networks
+    affiliation: ''
+    venue: DAC
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3649329.3655934
   - title: 'Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated
       Learning Aggregation'
     affiliation: ''
