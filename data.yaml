@@ -4073,6 +4073,711 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: One-shot Federated Learning via Synthetic Distiller-Distillate Communication
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6292sp7HiE
+  - title: Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous
+      Data
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=uO53206oLJ
+  - title: 'FedGMKD: An Efficient Prototype Federated Learning Framework through Knowledge
+      Distillation and Discrepancy-Aware Aggregation'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=c3OZBJpN7M
+  - title: 'Improving Generalization in Federated Learning with Model-Data Mutual
+      Information Regularization: A Posterior Inference Approach'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6lx34fpanw
+  - title: Federated Model Heterogeneous Matryoshka Representation Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=5yboFMpvHf
+  - title: Federated Graph Learning for Cross-Domain Recommendation
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=UBpPOqrBKE
+  - title: 'FedGMark: Certifiably Robust Watermarking for Federated Graph Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=xeviQPXTMU
+  - title: Dual-Personalizing Adapter for Federated Foundation Models
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=nkwPiBSw1f
+  - title: Federated Natural Policy Gradient and Actor Critic Methods for Multi-task
+      Reinforcement Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=DUFD6vsyF8
+  - title: Taming the Long Tail in Human Mobility Prediction
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=wT2TIfHKp8
+  - title: 'Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated
+      Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=EVw8Jh5Et9
+  - title: Graph-enhanced Optimizers for Structure-aware Recommendation Embedding
+      Evolution
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=55zLbH7dE1
+  - title: 'DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic
+      Forgetting'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=FDfrPugkGU
+  - title: Efficient Federated Learning against Heterogeneous and Non-stationary Client
+      Unavailability
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=DLNOBJa7TM
+  - title: 'Federated Transformer: Multi-Party Vertical Federated Learning on Practical
+      Fuzzily Linked Data'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=FqWyzyErVT
+  - title: 'FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel
+      Extraction'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=bMbteQRhDI
+  - title: Probabilistic Federated Prompt-Tuning with Non-IID and Imbalanced Data
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=nw6ANsC66G
+  - title: 'FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous
+      Low-Rank Adaptations'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=TcCorXxNJQ
+  - title: Taming Cross-Domain Representation Variance in Federated Prototype Learning
+      with Heterogeneous Data Domains
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6SRPizFuaE
+  - title: 'pFedClub: Controllable Heterogeneous Model Aggregation for Personalized
+      Federated Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=xW6ga9i4eA
+  - title: Why Go Full? Elevating Federated Learning Through Partial Network Updates
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6OK8Qy9yVu
+  - title: 'FuseFL: One-Shot Federated Learning through the Lens of Causality with
+      Progressive Model Fusion'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=E7fZOoiEKl
+  - title: 'FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized
+      Preference'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=I96GFYalFO
+  - title: Handling Learnwares from Heterogeneous Feature Spaces with Explicit Label
+      Exploitation
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=3YIyB82rjX
+  - title: 'A-FedPD: Aligning Dual-Drift is All Federated Primal-Dual Learning Needs'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=h1iMVi2iEM
+  - title: Private and Personalized Frequency Estimation in a Federated Setting
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=0nzKznCjFG
+  - title: The Sample-Communication Complexity Trade-off in Federated Q-Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6YIpvnkjUK
+  - title: Federated Ensemble-Directed Offline Reinforcement Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=ypaqE8UwsC
+  - title: Federated Black-Box Adaptation for Semantic Segmentation
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Fp3JVz5XE7
+  - title: 'Thinking Forward: Memory-Efficient Federated Finetuning of Language Models'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=dGQtja9X2C
+  - title: 'Federated Learning from Vision-Language Foundation Models: Theoretical
+      Analysis and Method'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Y4L8GQXZZO
+  - title: Optimal Design for Human Preference Elicitation
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=cCGWj61Ael
+  - title: Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic
+      Knowledge Integration
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=y6JotynERr
+  - title: Personalized Federated Learning via Feature Distribution Adaptation
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Wl2optQcng
+  - title: 'SCAFFLSA: Taming Heterogeneity in Federated Linear Stochastic Approximation
+      and TD Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=HeJ1cBAgiV
+  - title: A Bayesian Approach for Personalized Federated Learning in Heterogeneous
+      Settings
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=hilGwNabqB
+  - title: 'RFLPA: A Robust Federated Learning Framework against Poisoning Attacks
+      with Secure Aggregation'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=js74ZCddxG
+  - title: 'FedGTST: Boosting Global Transferability of Federated Models via Statistics
+      Tuning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=QXkFC7D6p4
+  - title: End-to-end Learnable Clustering for Intent Learning in Recommendation
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=As91fJvY9E
+  - title: 'FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=I3IuclVLFZ
+  - title: 'Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series
+      Forecasting'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=HS0faHRhWD
+  - title: 'FOOGD: Federated Collaboration for Both Out-of-distribution Generalization
+      and Detection'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=D6MQrw9HFu
+  - title: 'A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling
+      via Trace Norm'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=3YkeHuT1o6
+  - title: 'FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality
+      Reduction'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=zBMKodNgKX
+  - title: Low Precision Local Training is Enough for Federated Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=vvpewjtnvm
+  - title: Resource-Aware Federated Self-Supervised Learning with Global Class Representations
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Of4iNAIUSe
+  - title: On the Necessity of Collaboration for Online Model Selection with Decentralized
+      Data
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=uqWfLgZpV1
+  - title: The Power of Extrapolation in Federated Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=FuTfZK7PK3
+  - title: '(FL)$^2$: Overcoming Few Labels in Federated Semi-Supervised Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=lflwtGE6Vf
+  - title: On Sampling Strategies for Spectral Model Sharding
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=PgTHgLUFi3
+  - title: Customizing Language Models with Instance-wise LoRA for Sequential Recommendation
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=isZ8XRe3De
+  - title: 'SpaFL: Communication-Efficient Federated Learning With Sparse Models And
+      Low Computational Overhead'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=dAXuir2ets
+  - title: 'HYDRA-FL: Hybrid Knowledge Distillation for Robust and Accurate Federated
+      Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6LVxO1C819
+  - title: Stabilized Proximal-Point Methods for Federated Optimization
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=WukSyFSzDt
+  - title: 'DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning
+      for Edge Devices'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Pezt0xttae
+  - title: Parameter Disparities Dissection for Backdoor Defense in Heterogeneous
+      Federated Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=g8wnC1E1OS
+  - title: Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in
+      Unified Distributed SGD
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=j6Zsoj544N
+  - title: 'FedAvP: Augment Local Data via Shared Policy in Federated Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=M1PRU0x1Iz
+  - title: 'CoBo: Collaborative Learning via Bilevel Optimization'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=SjQ1iIqpfU
+  - title: Convergence Analysis of Split Federated Learning on Heterogeneous Data
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=ud0RBkdBfE
+  - title: Communication-Efficient Federated Group Distributionally Robust Optimization
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=xNZEjFe0mh
+  - title: 'Ferrari: Federated Feature Unlearning via Optimizing Feature Sensitivity'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=YxyYTcv3hp
+  - title: Federated Learning over Connected Modes
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=JL2eMCfDW8
+  - title: Personalized Federated Learning with Mixture of Models for Adaptive Prediction
+      and Model Fine-Tuning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=yvUHnBkCzd
+  - title: Does Egalitarian Fairness Lead to Instability? The Fairness Bounds in Stable
+      Federated Learning Under Altruistic Behaviors
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=1kyc4TSOFZ
+  - title: 'Federated Online Prediction from Experts with Differential Privacy: Separations
+      and Regret Speed-ups'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=T826pwZLci
+  - title: 'DataStealing: Steal Data from Diffusion Models in Federated Learning with
+      Multiple Trojans'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=792txRlKit
+  - title: 'Federated Behavioural Planes: Explaining the Evolution of Client Behaviour
+      in Federated Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=5FHzrRGOKR
+  - title: Hierarchical Federated Learning with Multi-Timescale Gradient Correction
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=aCAb1qNXI0
+  - title: 'HyperPrism: An Adaptive Non-linear Aggregation Framework for Distributed
+      Machine Learning over Non-IID Data and Time-varying Communication Links'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=3ie8NWA1El
+  - title: 'SPEAR: Exact Gradient Inversion of Batches in Federated Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=lPDxPVS6ix
+  - title: 'Federated Learning under Periodic Client Participation and Heterogeneous
+      Data: A New Communication-Efficient Algorithm and Analysis'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=WftaVkL6G2
+  - title: 'Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid
+      Views'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=GVlJVX3iiq
+  - title: Confusion-Resistant Federated Learning via Diffusion-Based Data Harmonization
+      on Non-IID Data
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=G89r8Mgi5r
+  - title: 'Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated
+      Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=0LfgE6kvKZ
+  - title: Free-Rider and Conflict Aware Collaboration Formation for Cross-Silo Federated
+      Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=MwJo3zuiTm
+  - title: Classifier Clustering and Feature Alignment for Federated Learning under
+      Distributed Concept Drift
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6ejpSVIiIl
+  - title: 'Heterogeneity-Guided Client Sampling: Towards Fast and Efficient Non-IID
+      Federated Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=HhnpPISAUH
+  - title: 'FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=JiRGxrqHh0
+  - title: Active preference learning for ordering items in- and out-of-sample
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=PSLH5q7PFo
+  - title: Federated Fine-tuning of Large Language Models under Heterogeneous Tasks
+      and Client Resources
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=gkOzoHBXUw
+  - title: Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial
+      Clients
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=WBLPlszJI5
+  - title: Revisiting Ensembling in One-Shot Federated Learning
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=7rWTS2wuYX
+  - title: Momentum Approximation in Asynchronous Private Federated Learning
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=pEpjKicxFk
+  - title: 'Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device
+      Federated Learning'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=8TrYvsbw1f
+  - title: Federated Learning with Generative Content
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=hMbgXHjWrg
+  - title: Leveraging Unstructured Text Data for Federated Instruction Tuning of Large
+      Language Models
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=pxP2M3xiE6
+  - title: Emerging Safety Attack and Defense in Federated Instruction Tuning of Large
+      Language Models
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=1JGa1OIRjQ
+  - title: Defection-Free Collaboration between Competitors in a Learning System
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=2Sd5xNv1sm
+  - title: On the Convergence Rates of Federated Q-Learning across Heterogeneous Environments
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Eph8dS188u
+  - title: 'EncCluster: Bringing Functional Encryption in Federated Foundational Models'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=7bgJ7t5kkW
+  - title: 'Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=SXMsg44Znz
+  - title: Hot Pluggable Federated Learning
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=FazIrAXoM6
+  - title: Federated Dynamical Low-Rank Training with Global Loss Convergence Guarantees
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=MxgmAil8ud
+  - title: The Future of Large Language Model Pre-training is Federated
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=hfeH5AP9NY
+  - title: 'Collaborative Learning with Shared Linear Representations: Statistical
+      Rates and Optimal Algorithms'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=jNZEIQsJes
+  - title: 'The SynapticCity Phenomenon: When All Foundation Models Marry Federated
+      Learning and Blockchain'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=RoUUV2wLdn
+  - title: 'ZOOPFL: Exploring Black-box Foundation Models for Personalized Federated
+      Learning'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=zpEQUbYZPc
+  - title: 'DeComFL: Federated Learning with Dimension-Free Communication'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Vy9ltlTXXd
+  - title: Improving Group Connectivity for Generalization of Federated Deep Learning
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=vGyB8PVl4C
+  - title: 'MAP: Model Merging with Amortized Pareto Front Using Limited Computation'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=KfOdVp4pfm
+  - title: 'OPA: One-shot Private Aggregation with Single Client Interaction and its
+      Applications to Federated Learning'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=qQdPSuW7qx
+  - title: Adaptive Hybrid Model Pruning in Federated Learning through Loss Exploration
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=OxpWu6J0TW
+  - title: Worldwide Federated Training of Language Models
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=YMSLZUmQVV
+  - title: 'FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein
+      Estimator'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=uBooD9HQQu
+  - title: Enhancing Causal Discovery in Federated Settings with Limited Local Samples
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=Js64okXDUE
+  - title: '$\texttt{pfl-research}$: simulation framework for accelerating research
+      in Private Federated Learning'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=6WNNB9TaVw
+  - title: 'DMM: Distributed Matrix Mechanism for Differentially-Private Federated
+      Learning using Packed Secret Sharing'
+    affiliation: ''
+    venue: NeurIPS workshop
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=GdzTE7eruH
   - title: 'FedCBO: Reaching Group Consensus in Clustered Federated Learning through
       Consensus-based Optimization'
     affiliation: ''
