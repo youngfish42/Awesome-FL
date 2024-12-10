@@ -93,7 +93,7 @@ We use another project to automatically track updates to FL papers, click on [FL
 | [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) | [24](http://proceedings.mlr.press/v238/), [23](http://proceedings.mlr.press/v206/), [22](http://proceedings.mlr.press/v151/), [21](http://proceedings.mlr.press/v130/), [20](http://proceedings.mlr.press/v108/) | -                                                            |
 | [ALT](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Falt%3A) | 22                                                           | -                                                            |
 | [AI](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fai%3A) (J) | 23                                                           | -                                                            |
-| [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) | [23](https://openreview.net/group?id=NeurIPS.cc/2023/Conference#tab-accept-oral), [22](https://papers.nips.cc/paper_files/paper/2022), [21](https://papers.nips.cc/paper/2021), [20](https://papers.nips.cc/paper/2020) | [18](https://papers.nips.cc/paper/2018), [17](https://papers.nips.cc/paper/17) |
+| [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) | [24](https://openreview.net/group?id=NeurIPS.cc/2024/Conference#tab-accept-oral), [23](https://openreview.net/group?id=NeurIPS.cc/2023/Conference#tab-accept-oral), [22](https://papers.nips.cc/paper_files/paper/2022), [21](https://papers.nips.cc/paper/2021), [20](https://papers.nips.cc/paper/2020) | [18](https://papers.nips.cc/paper/2018), [17](https://papers.nips.cc/paper/17) |
 | [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) | [24](https://icml.cc/Conferences/2024/Schedule?type=Poster), [23](https://icml.cc/Conferences/2023/Schedule?type=Poster), [22](https://icml.cc/Conferences/2022/Schedule?type=Poster), [21](https://icml.cc/Conferences/2021/Schedule?type=Poster), [20](https://icml.cc/Conferences/2020/Schedule?type=Poster) | [19](https://icml.cc/Conferences/2019/Schedule?type=Poster)  |
 | [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) | [24](https://openreview.net/group?id=ICLR.cc/2024/Conference), [23](https://openreview.net/group?id=ICLR.cc/2023/Conference), [22](https://openreview.net/group?id=ICLR.cc/2022/Conference), [21](https://openreview.net/group?id=ICLR.cc/2021/Conference), [20](https://openreview.net/group?id=ICLR.cc/2020/Conference) | -                                                            |
 | [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) | [23](https://proceedings.mlr.press/v195/)                    | -                                                            |
@@ -514,7 +514,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 Federated Learning papers accepted by top ML(machine learning) conference and journal, Including [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/index.html)(Annual Conference on Neural Information Processing Systems), [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html)(International Conference on Machine Learning), [ICLR](https://dblp.uni-trier.de/db/conf/iclr/index.html)(International Conference on Learning Representations), [COLT](https://dblp.org/db/conf/colt/index.html)(Annual Conference Computational Learning Theory) , [UAI](https://dblp.org/db/conf/uai/index.html)(Conference on Uncertainty in Artificial Intelligence),[Machine Learning](https://dblp.org/db/journals/ml/index.html), [JMLR](https://dblp.uni-trier.de/db/journals/jmlr/index.html)(Journal of Machine Learning Research), [TPAMI](https://dblp.uni-trier.de/db/journals/pami/index.html)(IEEE Transactions on Pattern Analysis and Machine Intelligence).
 
-- [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) [2023](https://papers.nips.cc/paper_files/paper/2023)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Conference#tab-accept-oral)), [2022](https://papers.nips.cc/paper_files/paper/2022)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)), [2021](https://papers.nips.cc/paper/2021)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Conference)), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
+- [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) [2024](https://papers.nips.cc/paper_files/paper/2024)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Conference#tab-accept-oral)), [2023](https://papers.nips.cc/paper_files/paper/2023)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Conference#tab-accept-oral)), [2022](https://papers.nips.cc/paper_files/paper/2022)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2022/Conference)), [2021](https://papers.nips.cc/paper/2021)([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Conference)), [2020](https://papers.nips.cc/paper/2020), [2018](https://papers.nips.cc/paper/2018), [2017](https://papers.nips.cc/paper/2017)
 - [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) [2024](https://icml.cc/Conferences/2024/Schedule?type=Poster), [2023](https://icml.cc/Conferences/2023/Schedule?type=Poster), [2022](https://icml.cc/Conferences/2022/Schedule?type=Poster), [2021](https://icml.cc/Conferences/2021/Schedule?type=Poster), [2020](https://icml.cc/Conferences/2020/Schedule?type=Poster), [2019](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 - [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) [2024](https://openreview.net/group?id=ICLR.cc/2024/Conference), [2023](https://openreview.net/group?id=ICLR.cc/2023/Conference), [2022](https://openreview.net/group?id=ICLR.cc/2022/Conference), [2021](https://openreview.net/group?id=ICLR.cc/2021/Conference), [2020](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 - [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) [2023](https://proceedings.mlr.press/v195/)
@@ -529,6 +529,114 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
+|One-shot Federated Learning via Synthetic Distiller-Distillate Communication |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=6292sp7HiE) |
+|Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=uO53206oLJ) |
+|FedGMKD: An Efficient Prototype Federated Learning Framework through Knowledge Distillation and Discrepancy-Aware Aggregation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=c3OZBJpN7M) |
+|Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=6lx34fpanw) |
+|Federated Model Heterogeneous Matryoshka Representation Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=5yboFMpvHf) |
+|Federated Graph Learning for Cross-Domain Recommendation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=UBpPOqrBKE) |
+|FedGMark: Certifiably Robust Watermarking for Federated Graph Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=xeviQPXTMU) |
+|Dual-Personalizing Adapter for Federated Foundation Models |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=nkwPiBSw1f) |
+|Federated Natural Policy Gradient and Actor Critic Methods for Multi-task Reinforcement Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=DUFD6vsyF8) |
+|Taming the Long Tail in Human Mobility Prediction |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=wT2TIfHKp8) |
+|Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=EVw8Jh5Et9) |
+|Graph-enhanced Optimizers for Structure-aware Recommendation Embedding Evolution |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=55zLbH7dE1) |
+|DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=FDfrPugkGU) |
+|Efficient Federated Learning against Heterogeneous and Non-stationary Client Unavailability |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=DLNOBJa7TM) |
+|Federated Transformer: Multi-Party Vertical Federated Learning on Practical Fuzzily Linked Data |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=FqWyzyErVT) |
+|FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel Extraction |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=bMbteQRhDI) |
+|Probabilistic Federated Prompt-Tuning with Non-IID and Imbalanced Data |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=nw6ANsC66G) |
+|FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=TcCorXxNJQ) |
+|Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=6SRPizFuaE) |
+|pFedClub: Controllable Heterogeneous Model Aggregation for Personalized Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=xW6ga9i4eA) |
+|Why Go Full? Elevating Federated Learning Through Partial Network Updates |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=6OK8Qy9yVu) |
+|FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=E7fZOoiEKl) |
+|FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=I96GFYalFO) |
+|Handling Learnwares from Heterogeneous Feature Spaces with Explicit Label Exploitation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=3YIyB82rjX) |
+|A-FedPD: Aligning Dual-Drift is All Federated Primal-Dual Learning Needs |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=h1iMVi2iEM) |
+|Private and Personalized Frequency Estimation in a Federated Setting |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=0nzKznCjFG) |
+|The Sample-Communication Complexity Trade-off in Federated Q-Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=6YIpvnkjUK) |
+|Federated Ensemble-Directed Offline Reinforcement Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=ypaqE8UwsC) |
+|Federated Black-Box Adaptation for Semantic Segmentation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=Fp3JVz5XE7) |
+|Thinking Forward: Memory-Efficient Federated Finetuning of Language Models |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=dGQtja9X2C) |
+|Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=Y4L8GQXZZO) |
+|Optimal Design for Human Preference Elicitation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=cCGWj61Ael) |
+|Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=y6JotynERr) |
+|Personalized Federated Learning via Feature Distribution Adaptation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=Wl2optQcng) |
+|SCAFFLSA: Taming Heterogeneity in Federated Linear Stochastic Approximation and TD Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=HeJ1cBAgiV) |
+|A Bayesian Approach for Personalized Federated Learning in Heterogeneous Settings |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=hilGwNabqB) |
+|RFLPA: A Robust Federated Learning Framework against Poisoning Attacks with Secure Aggregation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=js74ZCddxG) |
+|FedGTST: Boosting Global Transferability of Federated Models via Statistics Tuning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=QXkFC7D6p4) |
+|End-to-end Learnable Clustering for Intent Learning in Recommendation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=As91fJvY9E) |
+|FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=I3IuclVLFZ) |
+|Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=HS0faHRhWD) |
+|FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=D6MQrw9HFu) |
+|A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=3YkeHuT1o6) |
+|FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=zBMKodNgKX) |
+|Low Precision Local Training is Enough for Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=vvpewjtnvm) |
+|Resource-Aware Federated Self-Supervised Learning with Global Class Representations |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=Of4iNAIUSe) |
+|On the Necessity of Collaboration for Online Model Selection with Decentralized Data |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=uqWfLgZpV1) |
+|The Power of Extrapolation in Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=FuTfZK7PK3) |
+|(FL)$^2$: Overcoming Few Labels in Federated Semi-Supervised Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=lflwtGE6Vf) |
+|On Sampling Strategies for Spectral Model Sharding |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=PgTHgLUFi3) |
+|Customizing Language Models with Instance-wise LoRA for Sequential Recommendation |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=isZ8XRe3De) |
+|SpaFL: Communication-Efficient Federated Learning With Sparse Models And Low Computational Overhead |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=dAXuir2ets) |
+|HYDRA-FL: Hybrid Knowledge Distillation for Robust and Accurate Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=6LVxO1C819) |
+|Stabilized Proximal-Point Methods for Federated Optimization |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=WukSyFSzDt) |
+|DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=Pezt0xttae) |
+|Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=g8wnC1E1OS) |
+|Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=j6Zsoj544N) |
+|FedAvP: Augment Local Data via Shared Policy in Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=M1PRU0x1Iz) |
+|CoBo: Collaborative Learning via Bilevel Optimization |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=SjQ1iIqpfU) |
+|Convergence Analysis of Split Federated Learning on Heterogeneous Data |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=ud0RBkdBfE) |
+|Communication-Efficient Federated Group Distributionally Robust Optimization |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=xNZEjFe0mh) |
+|Ferrari: Federated Feature Unlearning via Optimizing Feature Sensitivity |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=YxyYTcv3hp) |
+|Federated Learning over Connected Modes |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=JL2eMCfDW8) |
+|Personalized Federated Learning with Mixture of Models for Adaptive Prediction and Model Fine-Tuning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=yvUHnBkCzd) |
+|Does Egalitarian Fairness Lead to Instability? The Fairness Bounds in Stable Federated Learning Under Altruistic Behaviors |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=1kyc4TSOFZ) |
+|Federated Online Prediction from Experts with Differential Privacy: Separations and Regret Speed-ups |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=T826pwZLci) |
+|DataStealing: Steal Data from Diffusion Models in Federated Learning with Multiple Trojans |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=792txRlKit) |
+|Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=5FHzrRGOKR) |
+|Hierarchical Federated Learning with Multi-Timescale Gradient Correction |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=aCAb1qNXI0) |
+|HyperPrism: An Adaptive Non-linear Aggregation Framework for Distributed Machine Learning over Non-IID Data and Time-varying Communication Links |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=3ie8NWA1El) |
+|SPEAR: Exact Gradient Inversion of Batches in Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=lPDxPVS6ix) |
+|Federated Learning under Periodic Client Participation and Heterogeneous Data: A New Communication-Efficient Algorithm and Analysis |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=WftaVkL6G2) |
+|Bridging Gaps: Federated Multi-View Clustering in Heterogeneous Hybrid Views |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=GVlJVX3iiq) |
+|Confusion-Resistant Federated Learning via Diffusion-Based Data Harmonization on Non-IID Data |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=G89r8Mgi5r) |
+|Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=0LfgE6kvKZ) |
+|Free-Rider and Conflict Aware Collaboration Formation for Cross-Silo Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=MwJo3zuiTm) |
+|Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=6ejpSVIiIl) |
+|Heterogeneity-Guided Client Sampling: Towards Fast and Efficient Non-IID Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=HhnpPISAUH) |
+|FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding? |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=JiRGxrqHh0) |
+|Active preference learning for ordering items in- and out-of-sample |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=PSLH5q7PFo) |
+|Federated Fine-tuning of Large Language Models under Heterogeneous Tasks and Client Resources |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=gkOzoHBXUw) |
+|Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial Clients |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=WBLPlszJI5) |
+|Revisiting Ensembling in One-Shot Federated Learning |  | NeurIPS | 2024 | [PUB](https://openreview.net/forum?id=7rWTS2wuYX) |
+|Momentum Approximation in Asynchronous Private Federated Learning |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=pEpjKicxFk) |
+|Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device Federated Learning |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=8TrYvsbw1f) |
+|Federated Learning with Generative Content |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=hMbgXHjWrg) |
+|Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=pxP2M3xiE6) |
+|Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=1JGa1OIRjQ) |
+|Defection-Free Collaboration between Competitors in a Learning System |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=2Sd5xNv1sm) |
+|On the Convergence Rates of Federated Q-Learning across Heterogeneous Environments |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=Eph8dS188u) |
+|EncCluster: Bringing Functional Encryption in Federated Foundational Models |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=7bgJ7t5kkW) |
+|Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=SXMsg44Znz) |
+|Hot Pluggable Federated Learning |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=FazIrAXoM6) |
+|Federated Dynamical Low-Rank Training with Global Loss Convergence Guarantees |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=MxgmAil8ud) |
+|The Future of Large Language Model Pre-training is Federated |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=hfeH5AP9NY) |
+|Collaborative Learning with Shared Linear Representations: Statistical Rates and Optimal Algorithms |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=jNZEIQsJes) |
+|The SynapticCity Phenomenon: When All Foundation Models Marry Federated Learning and Blockchain |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=RoUUV2wLdn) |
+|ZOOPFL: Exploring Black-box Foundation Models for Personalized Federated Learning |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=zpEQUbYZPc) |
+|DeComFL: Federated Learning with Dimension-Free Communication |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=Vy9ltlTXXd) |
+|Improving Group Connectivity for Generalization of Federated Deep Learning |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=vGyB8PVl4C) |
+|MAP: Model Merging with Amortized Pareto Front Using Limited Computation |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=KfOdVp4pfm) |
+|OPA: One-shot Private Aggregation with Single Client Interaction and its Applications to Federated Learning |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=qQdPSuW7qx) |
+|Adaptive Hybrid Model Pruning in Federated Learning through Loss Exploration |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=OxpWu6J0TW) |
+|Worldwide Federated Training of Language Models |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=YMSLZUmQVV) |
+|FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=uBooD9HQQu) |
+|Enhancing Causal Discovery in Federated Settings with Limited Local Samples |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=Js64okXDUE) |
+|$\texttt{pfl-research}$: simulation framework for accelerating research in Private Federated Learning |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=6WNNB9TaVw) |
+|DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing |  | NeurIPS workshop | 2024 | [PUB](https://openreview.net/forum?id=GdzTE7eruH) |
 | FedCBO: Reaching Group Consensus in Clustered Federated Learning through Consensus-based Optimization |  | JMLR | 2024 | [[PUB](https://jmlr.org/papers/v25/23-0764.html)] |
 | Effective Federated Graph Matching |  | ICML | 2024 | [[PUB](https://openreview.net/forum?id=rSfzchjIYu)] |
 | Understanding Server-Assisted Federated Learning in the Presence of Incomplete Client Participation |  | ICML | 2024 | [[PUB](https://openreview.net/forum?id=zwUEk9WpsR)] |
@@ -2683,6 +2791,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- 2024/12/10 - add NeurIPS 2024 papers
 - 2024/12/08 - add IJCV, IJCAI, MM, EMNLP, DAC 2024 papers
 - 2024/12/05 - add TPDS, TCAD, ECCV 2024 papers
 - 2024/09/30 - add JMLR, KDD, S&P, NDSS, NAACL, INFOCOM, ISCA, TC, ICML 2024 papers
