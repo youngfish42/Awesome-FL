@@ -4618,6 +4618,27 @@ fl-in-top-ml-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://openreview.net/forum?id=7rWTS2wuYX
+  - title: 'FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language
+      Models'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=djGx0hucok
+  - title: '$\texttt{pfl-research}$: simulation framework for accelerating research
+      in Private Federated Learning'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=I79q7wIRkS
+  - title: 'FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated
+      Knowledge Injection'
+    affiliation: ''
+    venue: NeurIPS
+    year: '2024'
+    materials:
+      PUB: https://openreview.net/forum?id=rovpCs3ZEO
   - title: Momentum Approximation in Asynchronous Private Federated Learning
     affiliation: ''
     venue: NeurIPS workshop
@@ -4764,8 +4785,8 @@ fl-in-top-ml-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://openreview.net/forum?id=Js64okXDUE
-  - title: '$\texttt{pfl-research}$: simulation framework for accelerating research
-      in Private Federated Learning'
+  - title: "$\texttt{pfl-research}$: simulation framework for accelerating research\
+      \ in Private Federated Learning"
     affiliation: ''
     venue: NeurIPS workshop
     year: '2024'
