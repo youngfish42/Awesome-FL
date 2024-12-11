@@ -612,6 +612,9 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 | Federated Fine-tuning of Large Language Models under Heterogeneous Tasks and Client Resources |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=gkOzoHBXUw)] |
 | Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial Clients |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=WBLPlszJI5)] |
 | Revisiting Ensembling in One-Shot Federated Learning |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=7rWTS2wuYX)] |
+| FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models | | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=djGx0hucok)] |
+| $\texttt{pfl-research}$: simulation framework for accelerating research in Private Federated Learning | | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=I79q7wIRkS)] |
+| FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection | | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=rovpCs3ZEO)] |
 | Momentum Approximation in Asynchronous Private Federated Learning |  | NeurIPS workshop | 2024 | [[PUB](https://openreview.net/forum?id=pEpjKicxFk)] |
 | Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device Federated Learning |  | NeurIPS workshop | 2024 | [[PUB](https://openreview.net/forum?id=8TrYvsbw1f)] |
 | Federated Learning with Generative Content |  | NeurIPS workshop | 2024 | [[PUB](https://openreview.net/forum?id=hMbgXHjWrg)] |
