@@ -4073,6 +4073,19 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Stabilizing and Accelerating Federated Learning on Heterogeneous Data With
+      Partial Client Participation
+    affiliation: ''
+    venue: TPAMI
+    year: '2025'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10696955
+  - title: Medical Federated Model With Mixture of Personalized and Shared Components
+    affiliation: ''
+    venue: TPAMI
+    year: '2025'
+    materials:
+      PUB: https://ieeexplore.ieee.org/document/10697408
   - title: One-shot Federated Learning via Synthetic Distiller-Distillate Communication
     affiliation: ''
     venue: NeurIPS
@@ -4625,8 +4638,8 @@ fl-in-top-ml-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://openreview.net/forum?id=djGx0hucok
-  - title: '$\texttt{pfl-research}$: simulation framework for accelerating research
-      in Private Federated Learning'
+  - title: "$\texttt{pfl-research}$: simulation framework for accelerating research\
+      \ in Private Federated Learning"
     affiliation: ''
     venue: NeurIPS
     year: '2024'
@@ -10278,6 +10291,67 @@ fl-in-top-secure-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Byzantine-Robust Decentralized Federated Learning
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3670307
+  - title: 'Not One Less: Exploring Interplay between User Profiles and Items in Untargeted
+      Attacks against Federated Recommendation'
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3670365
+  - title: Cross-silo Federated Learning with Record-level Personalized Differential
+      Privacy.
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3670351
+  - title: Samplable Anonymous Aggregation for Private Federated Data Analysis
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3690224
+  - title: 'Camel: Communication-Efficient and Maliciously Secure Federated Learning
+      in the Shuffle Model of Differential Privacy'
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3690200
+  - title: Distributed Backdoor Attacks on Federated Graph Learning and Certified
+      Defenses
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3690187
+  - title: Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated
+      Learning.
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3690191
+  - title: 'Poster: Protection against Source Inference Attacks in Federated Learning
+      using Unary Encoding and Shuffling.'
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3691411
+  - title: 'Poster: End-to-End Privacy-Preserving Vertical Federated Learning using
+      Private Cross-Organizational Data Collaboration.'
+    affiliation: ''
+    venue: CCS
+    year: '2024'
+    materials:
+      PUB: https://dl.acm.org/doi/10.1145/3658644.3691383
   - title: 'FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting'
     affiliation: ''
     venue: NDSS
@@ -10866,6 +10940,33 @@ fl-in-top-cv-conference-and-journal:
     year: '2024'
     materials:
       PUB: https://link.springer.com/article/10.1007/s11263-024-02077-9
+  - title: 'FedHide: Federated Learning by Hiding in the Neighbors'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-72897-6_23
+  - title: 'FedVAD: Enhancing Federated Video Anomaly Detection with GPT-Driven Semantic
+      Distillation'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73668-1_14
+  - title: 'FedRA: A Random Allocation Strategy for Federated Tuning to Unleash the
+      Power of Heterogeneous Clients'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73195-2_20
+  - title: 'Pick-a-Back: Selective Device-to-Device Knowledge Transfer in Federated
+      Continual Learning'
+    affiliation: ''
+    venue: ECCV
+    year: '2024'
+    materials:
+      PUB: https://link.springer.com/chapter/10.1007/978-3-031-73030-6_10
   - title: Federated Learning with Local Openset Noisy Labels
     affiliation: ''
     venue: ECCV

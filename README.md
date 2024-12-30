@@ -529,8 +529,8 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
-|Stabilizing and Accelerating Federated Learning on Heterogeneous Data With Partial Client Participation |  | TPAMI | 2025 | [PUB](https://ieeexplore.ieee.org/document/10696955) |
-|Medical Federated Model With Mixture of Personalized and Shared Components |  | TPAMI | 2025 | [PUB](https://ieeexplore.ieee.org/document/10697408) |
+| Stabilizing and Accelerating Federated Learning on Heterogeneous Data With Partial Client Participation |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10696955)] |
+| Medical Federated Model With Mixture of Personalized and Shared Components |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10697408)] |
 | One-shot Federated Learning via Synthetic Distiller-Distillate Communication |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=6292sp7HiE)] |
 | Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=uO53206oLJ)] |
 | FedGMKD: An Efficient Prototype Federated Learning Framework through Knowledge Distillation and Discrepancy-Aware Aggregation |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=c3OZBJpN7M)] |
@@ -1387,15 +1387,15 @@ Federated Learning papers accepted by top Secure conference and journal, Includi
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
-|Byzantine-Robust Decentralized Federated Learning |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3670307) |
-|Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3670365) |
-|Cross-silo Federated Learning with Record-level Personalized Differential Privacy. |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3670351) |
-|Samplable Anonymous Aggregation for Private Federated Data Analysis |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3690224) |
-|Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3690200) |
-|Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3690187) |
-|Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning. |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3690191) |
-|Poster: Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling. |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3691411) |
-|Poster: End-to-End Privacy-Preserving Vertical Federated Learning using Private Cross-Organizational Data Collaboration. |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3691383) |
+| Byzantine-Robust Decentralized Federated Learning |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3670307)] |
+| Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3670365)] |
+| Cross-silo Federated Learning with Record-level Personalized Differential Privacy. |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3670351)] |
+| Samplable Anonymous Aggregation for Private Federated Data Analysis |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3690224)] |
+| Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3690200)] |
+| Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3690187)] |
+| Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning. |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3690191)] |
+| Poster: Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling. |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3691411)] |
+| Poster: End-to-End Privacy-Preserving Vertical Federated Learning using Private Cross-Organizational Data Collaboration. |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3691383)] |
 | FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting |  | NDSS | 2024 | [[PUB](https://www.ndss-symposium.org/ndss-paper/fp-fed-privacy-preserving-federated-detection-of-browser-fingerprinting/)] |
 | FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning |  | NDSS | 2024 | [[PUB](https://www.ndss-symposium.org/ndss-paper/freqfed-a-frequency-analysis-based-approach-for-mitigating-poisoning-attacks-in-federated-learning/)] |
 | Automatic Adversarial Adaption for Stealthy Poisoning Attacks in Federated Learning |  | NDSS | 2024 | [[PUB](https://www.ndss-symposium.org/ndss-paper/automatic-adversarial-adaption-for-stealthy-poisoning-attacks-in-federated-learning/)] |
@@ -1497,10 +1497,10 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 | Federated Fuzzy C-means with Schatten-p Norm Minimization |  | MM | 2024 | [[PUB](https://doi.org/10.1145/3664647.3681557)] |
 | Towards Effective Federated Graph Anomaly Detection via Self-boosted Knowledge Distillation |  | MM | 2024 | [[PUB](https://doi.org/10.1145/3664647.3681415)] |
 | Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification |  | IJCV | 2024 | [[PUB](https://link.springer.com/article/10.1007/s11263-024-02077-9)] |
-| FedHide: Federated Learning by Hiding in the Neighbors | | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72897-6_23)] |
-| FedVAD: Enhancing Federated Video Anomaly Detection with GPT-Driven Semantic Distillation | | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73668-1_14)] |
-| FedRA: A Random Allocation Strategy for Federated Tuning to Unleash the Power of Heterogeneous Clients | | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73195-2_20)] |
-| Pick-a-Back: Selective Device-to-Device Knowledge Transfer in Federated Continual Learning | | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73030-6_10)] |
+| FedHide: Federated Learning by Hiding in the Neighbors |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72897-6_23)] |
+| FedVAD: Enhancing Federated Video Anomaly Detection with GPT-Driven Semantic Distillation |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73668-1_14)] |
+| FedRA: A Random Allocation Strategy for Federated Tuning to Unleash the Power of Heterogeneous Clients |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73195-2_20)] |
+| Pick-a-Back: Selective Device-to-Device Knowledge Transfer in Federated Continual Learning |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73030-6_10)] |
 | Federated Learning with Local Openset Noisy Labels |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72754-2_3)] |
 | FedTSA: A Cluster-Based Two-Stage Aggregation Method for Model-Heterogeneous Federated Learning. |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_22)] |
 | Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_11)] |
