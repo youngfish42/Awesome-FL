@@ -100,11 +100,11 @@ We use another project to automatically track updates to FL papers, click on [FL
 | [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A)  | [23](https://www.auai.org/uai2023/accepted_papers), [22](https://www.auai.org/uai2022/accepted_papers), [21](https://www.auai.org/uai2021/accepted_papers) | -                                                            |
 | [Machine Learning](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fml%3A) (J) | 24, 23, 22                                                   | -                                                            |
 | [JMLR](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fjmlr%3A) (J) | 24, 23, 22                                                   | -                                                            |
-| [TPAMI](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fpami%3A) (J) | 23, 22                                                       | -                                                            |
+| [TPAMI](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fpami%3A) (J) | 25, 24, 23, 22                                               | -                                                            |
 | [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) | [24](https://dl.acm.org/doi/proceedings/10.1145/3637528), [23](https://dl.acm.org/doi/proceedings/10.1145/3580305), [22](https://kdd.org/kdd2022/paperRT.html), [21](https://kdd.org/kdd2021/accepted-papers/index), [20](https://www.kdd.org/kdd2020/accepted-papers) |                                                              |
 | [WSDM](https://dblp.uni-trier.de/search?q=federate%20venue%3AWSDM%3A) | [24](https://www.wsdm-conference.org/2024/accepted-papers/), [23](https://www.wsdm-conference.org/2023/program/accepted-papers), [22](https://www.wsdm-conference.org/2022/accepted-papers/), [21](https://www.wsdm-conference.org/2021/accepted-papers.php) | [19](https://www.wsdm-conference.org/2019/accepted-papers.php) |
 | [S&P](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fsp%3A) | [24](https://sp2024.ieee-security.org/program-papers.html), [23](https://sp2023.ieee-security.org/program-papers.html), [22](https://www.ieee-security.org/TC/SP2022/program-papers.html) | [19](https://www.ieee-security.org/TC/SP2019/program-papers.html) |
-| [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) | [23](https://dl.acm.org/doi/proceedings/10.1145/3576915), [22](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html), [21](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [19](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/) | [17](https://acmccs.github.io/papers/)                       |
+| [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) | [24](https://dl.acm.org/doi/proceedings/10.1145/3658644), [23](https://dl.acm.org/doi/proceedings/10.1145/3576915), [22](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html), [21](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [19](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/) | [17](https://acmccs.github.io/papers/)                       |
 | [USENIX Security](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fuss%3A) | [23](https://www.usenix.org/conference/usenixsecurity23/technical-sessions), [22](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [20](https://www.usenix.org/conference/usenixsecurity20/technical-sessions) | -                                                            |
 | [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) | [24](https://www.ndss-symposium.org/ndss2024/accepted-papers/), [23](https://www.ndss-symposium.org/ndss2023/accepted-papers/), [22](https://www.ndss-symposium.org/ndss2022/accepted-papers/), [21](https://www.ndss-symposium.org/ndss2021/accepted-papers/) | -                                                            |
 | [CVPR](https://dblp.uni-trier.de/search?q=federate%20venue%3ACVPR%3A) | [24](https://openaccess.thecvf.com/CVPR2024?day=all), [23](https://openaccess.thecvf.com/CVPR2023?day=all), [22](https://openaccess.thecvf.com/CVPR2022), [21](https://openaccess.thecvf.com/CVPR2021?day=all) | -                                                            |
@@ -521,7 +521,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 - [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A) [2023](https://www.auai.org/uai2023/accepted_papers), [2022](https://www.auai.org/uai2022/accepted_papers), [2021](https://www.auai.org/uai2021/accepted_papers)
 - [Machine Learning](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fml%3A) 2024, 2023, 2022
 - [JMLR](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fjmlr%3A) 2024([v25](https://jmlr.org/papers/v25/)), 2023([v24](https://jmlr.org/papers/v24/)), 2021([v22](https://jmlr.org/papers/v22/))
-- [TPAMI](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fpami%3A) 2024, 2023, 2022
+- [TPAMI](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fpami%3A) 2025, 2024, 2023, 2022
 
 <details open>
 <summary>fl in top ml conference and journal</summary>
@@ -529,6 +529,8 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
+|Stabilizing and Accelerating Federated Learning on Heterogeneous Data With Partial Client Participation |  | TPAMI | 2025 | [PUB](https://ieeexplore.ieee.org/document/10696955) |
+|Medical Federated Model With Mixture of Personalized and Shared Components |  | TPAMI | 2025 | [PUB](https://ieeexplore.ieee.org/document/10697408) |
 | One-shot Federated Learning via Synthetic Distiller-Distillate Communication |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=6292sp7HiE)] |
 | Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=uO53206oLJ)] |
 | FedGMKD: An Efficient Prototype Federated Learning Framework through Knowledge Distillation and Discrepancy-Aware Aggregation |  | NeurIPS | 2024 | [[PUB](https://openreview.net/forum?id=c3OZBJpN7M)] |
@@ -1375,7 +1377,7 @@ Federated Learning papers accepted by top DM(Data Mining) conference and journal
 Federated Learning papers accepted by top Secure conference and journal, Including [S&P](https://dblp.uni-trier.de/db/conf/sp/index.html)(IEEE Symposium on Security and Privacy), [CCS](https://dblp.uni-trier.de/db/conf/ccs/index.html)(Conference on Computer and Communications Security), [USENIX Security](https://dblp.uni-trier.de/db/conf/uss/index.html)(Usenix Security Symposium) and [NDSS](https://dblp.uni-trier.de/db/conf/ndss/index.html)(Network and Distributed System Security Symposium).
 
 - [S&P](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fsp%3A) [2024](https://sp2024.ieee-security.org/program-papers.html), [2023](https://sp2023.ieee-security.org/program-papers.html), [2022](https://www.ieee-security.org/TC/SP2022/program-papers.html), [2019](https://www.ieee-security.org/TC/SP2019/program-papers.html)
-- [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) [2023](https://dl.acm.org/doi/proceedings/10.1145/3576915), [2022](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html), [2021](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [2019](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/), [2017](https://acmccs.github.io/papers/)
+- [CCS](https://dblp.uni-trier.de/search?q=federate%20venue%3ACCS%3A) [2024](https://dl.acm.org/doi/proceedings/10.1145/3658644), [2023](https://dl.acm.org/doi/proceedings/10.1145/3576915), [2022](https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html), [2021](https://sigsac.org/ccs/CCS2021/accepted-papers.html), [2019](https://www.sigsac.org/ccs/CCS2019/index.php/program/accepted-papers/), [2017](https://acmccs.github.io/papers/)
 - [USENIX Security](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Fuss%3A) [2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions), [2022](https://www.usenix.org/conference/usenixsecurity22/technical-sessions), [2020](https://www.usenix.org/conference/usenixsecurity20/technical-sessions)
 - [NDSS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANDSS%3A) [2024](https://www.ndss-symposium.org/ndss2024/accepted-papers/), [2023](https://www.ndss-symposium.org/ndss2023/accepted-papers/), [2022](https://www.ndss-symposium.org/ndss2022/accepted-papers/), [2021](https://www.ndss-symposium.org/ndss2021/accepted-papers/)
 
@@ -1385,6 +1387,15 @@ Federated Learning papers accepted by top Secure conference and journal, Includi
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
+|Byzantine-Robust Decentralized Federated Learning |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3670307) |
+|Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3670365) |
+|Cross-silo Federated Learning with Record-level Personalized Differential Privacy. |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3670351) |
+|Samplable Anonymous Aggregation for Private Federated Data Analysis |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3690224) |
+|Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3690200) |
+|Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3690187) |
+|Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning. |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3690191) |
+|Poster: Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling. |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3691411) |
+|Poster: End-to-End Privacy-Preserving Vertical Federated Learning using Private Cross-Organizational Data Collaboration. |  | CCS | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3658644.3691383) |
 | FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting |  | NDSS | 2024 | [[PUB](https://www.ndss-symposium.org/ndss-paper/fp-fed-privacy-preserving-federated-detection-of-browser-fingerprinting/)] |
 | FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning |  | NDSS | 2024 | [[PUB](https://www.ndss-symposium.org/ndss-paper/freqfed-a-frequency-analysis-based-approach-for-mitigating-poisoning-attacks-in-federated-learning/)] |
 | Automatic Adversarial Adaption for Stealthy Poisoning Attacks in Federated Learning |  | NDSS | 2024 | [[PUB](https://www.ndss-symposium.org/ndss-paper/automatic-adversarial-adaption-for-stealthy-poisoning-attacks-in-federated-learning/)] |
@@ -1486,6 +1497,10 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 | Federated Fuzzy C-means with Schatten-p Norm Minimization |  | MM | 2024 | [[PUB](https://doi.org/10.1145/3664647.3681557)] |
 | Towards Effective Federated Graph Anomaly Detection via Self-boosted Knowledge Distillation |  | MM | 2024 | [[PUB](https://doi.org/10.1145/3664647.3681415)] |
 | Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification |  | IJCV | 2024 | [[PUB](https://link.springer.com/article/10.1007/s11263-024-02077-9)] |
+| FedHide: Federated Learning by Hiding in the Neighbors | | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72897-6_23)] |
+| FedVAD: Enhancing Federated Video Anomaly Detection with GPT-Driven Semantic Distillation | | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73668-1_14)] |
+| FedRA: A Random Allocation Strategy for Federated Tuning to Unleash the Power of Heterogeneous Clients | | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73195-2_20)] |
+| Pick-a-Back: Selective Device-to-Device Knowledge Transfer in Federated Continual Learning | | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73030-6_10)] |
 | Federated Learning with Local Openset Noisy Labels |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-72754-2_3)] |
 | FedTSA: A Cluster-Based Two-Stage Aggregation Method for Model-Heterogeneous Federated Learning. |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_22)] |
 | Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection |  | ECCV | 2024 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_11)] |
@@ -2794,6 +2809,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- 2024/12/30 - add CCS 2024 papers
 - 2024/12/10 - add NeurIPS 2024 papers
 - 2024/12/08 - add IJCV, IJCAI, MM, EMNLP, DAC 2024 papers
 - 2024/12/05 - add TPDS, TCAD, ECCV 2024 papers
