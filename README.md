@@ -1962,6 +1962,13 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | Joint Optimization of Charging Time and Resource Allocation in Wireless Power Transfer Assisted Federated Learning |  | INFOCOM workshop | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10620792)] |
 | Joint Client Selection and Privacy Compensation for Differentially Private Federated Learning |  | INFOCOM workshop | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10620900)] |
 | Wireless Hierarchical Federated Aggregation Weights Design with Loss-Based-Heterogeneity |  | INFOCOM workshop | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10620731)] |
+| Federated Black-box Prompt Tuning System for Large Language Models on the Edge | | MobiCom | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3636534.3698856) |
+| Proximal Federated Learning for Body Mass Index Monitoring using Commodity WiFi | | MobiCom | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3636534.3694735) |
+| ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues | | MobiCom | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3636534.3690665) |
+| Joint Horizontal and Vertical Federated Learning for Multimodal IoT | | MobiCom | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3636534.3698245) |
+| LATTE: Layer Algorithm-aware Training Time Estimation for Heterogeneous Federated Learning | | MobiCom | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3636534.3690705) |
+| A Client Detection and Parameter Correction Algorithm for Clustering Defense in Clustered Federated Learning | | MobiCom | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3636534.3698247) |
+| Exploring Visual Explanations for Defending Federated Learning against Poisoning Attacks | | MobiCom | 2024 | [PUB](https://dl.acm.org/doi/10.1145/3636534.3697430) |
 | ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease | CUHK | MobiCom | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3636534.3649370)] [[PDF](https://arxiv.org/abs/2310.15301)] [[CODE](https://github.com/xmouyang/ADMarker)] |
 | Accelerating the Decentralized Federated Learning via Manipulating Edges | SZU | WWW | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3589334.3645509)] |
 | Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation | SDNU | WWW | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3589334.3645337)] [[PDF](https://arxiv.org/abs/2401.14678)] [[CODE](https://github.com/ckano/pfcr)] |
