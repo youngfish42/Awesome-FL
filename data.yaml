@@ -1567,6 +1567,43 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: Achieving flexible fairness metrics in federated medical imaging
+    affiliation: CUHK
+    venue: Nat. Commun.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-025-58549-0
+      CODE: https://zenodo.org/records/15203267
+  - title: Towards fairness-aware and privacy-preserving enhanced collaborative learning
+      for healthcare
+    affiliation: HIT
+    venue: Nat. Commun.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-025-58055-3
+      CODE: https://github.com/paridis-11/DynamicFL
+  - title: Data-driven federated learning in drug discovery with knowledge distillation
+    affiliation: Lhasa Limited
+    venue: Nat. Mach. Intell.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s42256-025-00991-2
+      CODE: https://github.com/LhasaLimited/FLuID_POC
+  - title: Distributed cross-learning for equitable federated models - privacy-preserving
+      prediction on data from five California hospitals
+    affiliation: Yale University; UCSD
+    venue: Nat. Commun.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-025-56510-9
+  - title: Physical unclonable in-memory computing for simultaneous protecting private
+      data and deep learning models
+    affiliation: PKU
+    venue: Nat. Commun.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-025-56412-w
+      新闻: https://ic.pku.edu.cn/kxyj/kycg1/d2c084006150492c93ae3e6b0cb1d7df.htm
   - title: 'MatSwarm: trusted swarm transfer learning driven materials computation
       for secure big data sharing'
     affiliation: USTB; NTU
@@ -4073,6 +4110,323 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Energy-based Backdoor Defense Against Federated Graph Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=5Jc7r5aqHJ
+  - title: 'DEPT: Decoupled Embeddings for Pre-training Language Models'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=vf5aUZT0Fz
+  - title: Subgraph Federated Learning for Local Generalization
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=cH65nS5sOz
+      CODE: https://github.com/sung-won-kim/FedLoG
+  - title: Problem-Parameter-Free Federated Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=ZuazHmXTns
+  - title: Adaptive Gradient Clipping for Robust Federated Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=03OkC0LKDD
+  - title: 'Decentralized Sporadic Federated Learning: A Unified Algorithmic Framework
+      with Convergence Guarantees'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=cznqgb4DNv
+  - title: 'LoCoDL: Communication-Efficient Distributed Learning with Local Training
+      and Compression'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=PpYy0dR3Qw
+  - title: Group Distributionally Robust Dataset Distillation with Risk Minimization
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=3JsU5QXNru
+  - title: 'GRAIN: Exact Graph Reconstruction from Gradients'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=7bAjVh3CG3
+  - title: Towards Faster Decentralized Stochastic Optimization with Communication
+      Compression
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=CMMpcs9prj
+  - title: Leveraging Variable Sparsity to Refine Pareto Stationarity in Multi-Objective
+      Optimization
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=Bl3e8HV9xW
+  - title: Many-Objective Multi-Solution Transport
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=Neb17mimVH
+  - title: Query-based Knowledge Transfer for Heterogeneous Learning Environments
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=XKv29sMyjF
+  - title: 'Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars
+      and Data-Free Techniques to Address Local and Global Forgetting'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=ydREOIttdC
+  - title: Federated Granger Causality Learning For Interdependent Clients With State
+      Space Representation
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=KTgQGXz5xj
+  - title: Achieving Dimension-Free Communication in Federated Learning via Zeroth-Order
+      Optimization
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=omrLHFzC37
+  - title: Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex
+      Federated Optimization
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=TrJ36UfD9P
+  - title: On the Importance of Language-driven Representation Learning for Heterogeneous
+      Federated Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=7pDI74iOyu
+  - title: 'PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative
+      Models'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=B9kUJuWrYC
+  - title: Differentially Private Federated Learning with Time-Adaptive Privacy Spending
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=W0nydevOlG
+  - title: 'Enhancing Clustered Federated Learning: Integration of Strategies and
+      Improved Methodologies'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=zPDpdk3V8L
+  - title: 'Asynchronous Federated Reinforcement Learning with Policy Gradient Updates:
+      Algorithm Design and Convergence Analysis'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=5DUekOKWcS
+  - title: On the Byzantine-Resilience of Distillation-Based Federated Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=of6EuHT7de
+  - title: Emerging Safety Attack and Defense in Federated Instruction Tuning of Large
+      Language Models
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=sYNWqQYJhz
+  - title: Event-Driven Online Vertical Federated Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=FCBbh0HCrF
+  - title: On the Linear Speedup of Personalized Federated Reinforcement Learning
+      with Shared Representations
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=BfUDZGqCAu
+  - title: Federated Domain Generalization with Data-free On-server Matching Gradient
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=8TERgu1Lb2
+  - title: Unlocking the Potential of Model Calibration in Federated Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=Osr0KZJeTX
+  - title: 'FedLWS: Federated Learning with Adaptive Layer-wise Weight Shrinking'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=6RjQ54M1rM
+  - title: Understanding the Stability-based Generalization of Personalized Federated
+      Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=znhZbonEoe
+  - title: Federated Residual Low-Rank Adaption of Large Language Models
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=e0rQRMUhs7
+  - title: 'FedTMOS: Efficient One-Shot Federated Learning with Tsetlin Machine'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=44hcrfzydU
+  - title: Vertical Federated Learning with Missing Features During Training and Inference
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=OXi1FmHGzz
+  - title: 'Federated $Q$-Learning with Reference-Advantage Decomposition: Almost
+      Optimal Regret and Logarithmic Communication Cost'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=FoUpv84hMw
+  - title: Selective Aggregation for Low-Rank Adaptation in Federated Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=iX3uESGdsO
+  - title: Privacy-Preserving Personalized Federated Prompt Learning for Multimodal
+      Large Language Models
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=Equ277PBN0
+  - title: 'Hot-pluggable Federated Learning: Bridging General and Personalized FL
+      via Dynamic Selection'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=B8akWa62Da
+  - title: Debiasing Federated Learning with Correlated Client Participation
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=9h45qxXEx0
+  - title: Decoupled Subgraph Federated Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=v1rFkElnIn
+  - title: 'Bad-PFL: Exploiting Backdoor Attacks against Personalized Federated Learning'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=79nO2DPjVX
+  - title: Towards Federated RLHF with Aggregated Client Preference for LLMs
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=mqNKiEB6pd
+  - title: 'SparsyFed: Sparse Adaptive Federated Learning'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=OBUQNASaWw
+  - title: Can Textual Gradient Work in Federated Learning?
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=Cy5IKvYbR3
+  - title: 'Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language
+      Models'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=xiDJaTim3P
+  - title: Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based
+      Federated Fine-Tuning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=3wEGdrV5Cb
+  - title: Connecting Federated ADMM to Bayes
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=ipQrjRsl11
+  - title: Closed-Form Merging of Parameter-Efficient Modules for Federated Continual
+      Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=ROpY0qRUXL
+  - title: 'Federated Continual Learning Goes Online: Uncertainty-Aware Memory Management
+      for Vision Tasks and Beyond'
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=f65RuQgVlp
+  - title: Federated Few-Shot Class-Incremental Learning
+    affiliation: ''
+    venue: ICLR
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=ZiPoAlKf9Y
   - title: Efficient federated unlearning under plausible deniability
     affiliation: ''
     venue: Mach Learn
