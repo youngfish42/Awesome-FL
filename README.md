@@ -164,7 +164,7 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | ------------------------------------------------------------ |
-|A framework reforming personalized Internet of Things by federated meta-learning | SYSU | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-59217-z)] [[CODE](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator/)] |
+| A framework reforming personalized Internet of Things by federated meta-learning | SYSU | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-59217-z)] [[CODE](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator/)] |
 | Achieving flexible fairness metrics in federated medical imaging | CUHK | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-58549-0)] [[CODE](https://zenodo.org/records/15203267)] |
 | Towards fairness-aware and privacy-preserving enhanced collaborative learning for healthcare | HIT | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-58055-3)] [[CODE](https://github.com/paridis-11/DynamicFL)] |
 | Data-driven federated learning in drug discovery with knowledge distillation | Lhasa Limited | Nat. Mach. Intell. | 2025 | [[PUB](https://www.nature.com/articles/s42256-025-00991-2)] [[CODE](https://github.com/LhasaLimited/FLuID_POC)] |
@@ -1981,27 +1981,27 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ------------------------------------------------------------ |
-|Dynamic Graph Unlearning: A General and Efficient Post-Processing Method via Gradient Transformation |  | WWW | 2025 | [PUB](https://doi.org/10.1145/3696410.3714911) |
-|Empowering Federated Graph Rationale Learning with Latent Environments |  | WWW | 2025 | [PUB](https://doi.org/10.1145/3696410.3714929) |
-|Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714823) |
-|P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714721) |
-|Local Differentially Private Release of Infinite Streams With Temporal Relevance |  | WWW | 2025 | [PUB](https://doi.org/10.1145/3696410.3714619) |
-|Unlearning Incentivizes Learning under Privacy Risk |  | WWW | 2025 | [PUB](https://doi.org/10.1145/3696410.3714740) |
-|Maverick: Personalized Edge-Assisted Federated Learning with Contrastive Training |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714884) |
-|Horizontal Federated Heterogeneous Graph Learning: A Multi-Scale Adaptive Solution to Data Distribution Challenges |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714722) |
-|Dealing with Noisy Data in Federated Learning: An Incentive Mechanism with Flexible Pricing |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714961) |
-|Self-Comparison for Dataset-Level Membership Inference in Large (Vision-)Language Model |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714703) |
-|Federated Graph Anomaly Detection via Disentangled Representation Learning |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714567) |
-|FedMobile: Enabling Knowledge Contribution-aware Multi-modal Federated Learning with Incomplete Modalities |  | WWW | 2025 | [PUB](https://doi.org/10.1145/3696410.3714623) |
-|Subgraph Federated Unlearning |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714821) |
-|Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714635) |
-|NI-GDBA: Non-Intrusive Distributed Backdoor Attack Based on Adaptive Perturbation on Federated Graph Learning |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714630) |
-|FedRIR: Rethinking Information Representation in Federated Learning |  | WWW | 2025 | [PUB](https://doi.org/10.1145/3696410.3714612) |
-|PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714561) |
-|Provably Robust Federated Reinforcement Learning |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714728) |
-|MoCFL: Mobile Cluster Federated Learning Framework for Highly Dynamic Network |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714515) |
-|FLock: Robust and Privacy-Preserving Federated Learning based on Practical Blockchain State Channels |  | WWW | 2025 | [PUB](https://dl.acm.org/doi/10.1145/3696410.3714666) |
-|PAPAYA Federated Analytics Stack: Engineering Privacy, Scalability and Practicality |  | NSDI | 2025 | [PUB](https://www.usenix.org/conference/nsdi25/presentation/srinivas) [SLIDE](https://www.usenix.org/system/files/nsdi25_slides-srinivas.pdf) |
+| Dynamic Graph Unlearning: A General and Efficient Post-Processing Method via Gradient Transformation |  | WWW | 2025 | [[PUB](https://doi.org/10.1145/3696410.3714911)] |
+| Empowering Federated Graph Rationale Learning with Latent Environments |  | WWW | 2025 | [[PUB](https://doi.org/10.1145/3696410.3714929)] |
+| Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714823)] |
+| P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714721)] |
+| Local Differentially Private Release of Infinite Streams With Temporal Relevance |  | WWW | 2025 | [[PUB](https://doi.org/10.1145/3696410.3714619)] |
+| Unlearning Incentivizes Learning under Privacy Risk |  | WWW | 2025 | [[PUB](https://doi.org/10.1145/3696410.3714740)] |
+| Maverick: Personalized Edge-Assisted Federated Learning with Contrastive Training |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714884)] |
+| Horizontal Federated Heterogeneous Graph Learning: A Multi-Scale Adaptive Solution to Data Distribution Challenges |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714722)] |
+| Dealing with Noisy Data in Federated Learning: An Incentive Mechanism with Flexible Pricing |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714961)] |
+| Self-Comparison for Dataset-Level Membership Inference in Large (Vision-)Language Model |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714703)] |
+| Federated Graph Anomaly Detection via Disentangled Representation Learning |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714567)] |
+| FedMobile: Enabling Knowledge Contribution-aware Multi-modal Federated Learning with Incomplete Modalities |  | WWW | 2025 | [[PUB](https://doi.org/10.1145/3696410.3714623)] |
+| Subgraph Federated Unlearning |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714821)] |
+| Personalized Federated Recommendation for Cold-Start Users via Adaptive Knowledge Fusion |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714635)] |
+| NI-GDBA: Non-Intrusive Distributed Backdoor Attack Based on Adaptive Perturbation on Federated Graph Learning |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714630)] |
+| FedRIR: Rethinking Information Representation in Federated Learning |  | WWW | 2025 | [[PUB](https://doi.org/10.1145/3696410.3714612)] |
+| PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714561)] |
+| Provably Robust Federated Reinforcement Learning |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714728)] |
+| MoCFL: Mobile Cluster Federated Learning Framework for Highly Dynamic Network |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714515)] |
+| FLock: Robust and Privacy-Preserving Federated Learning based on Practical Blockchain State Channels |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714666)] |
+| PAPAYA Federated Analytics Stack: Engineering Privacy, Scalability and Practicality |  | NSDI | 2025 | [[PUB](https://www.usenix.org/conference/nsdi25/presentation/srinivas)] [[SLIDE](https://www.usenix.org/system/files/nsdi25_slides-srinivas.pdf)] |
 | Breaking Secure Aggregation: Label Leakage from Aggregated Gradients in Federated Learning |  | INFOCOM | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10621090)] |
 | Strategic Data Revocation in Federated Unlearning |  | INFOCOM | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10621201)] |
 | FedTC: Enabling Communication-Efficient Federated Learning via Transform Coding |  | INFOCOM | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10621176)] |
@@ -2310,7 +2310,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism |  | EuroSys | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3689031.3717467)] |
 | FedLoRE: Communication-Efficient and Personalized Edge Intelligence Framework via Federated Low-Rank Estimation |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10916512)] |
 | DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10756624)] |
-| Pruning-Based Adaptive Federated Learning at the Edge | | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10852519)] |
+| Pruning-Based Adaptive Federated Learning at the Edge |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10852519)] |
 | Federated Learning Based DDoS Attacks Detection in Large Scale Software-Defined Network |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10705345)] |
 | Collaborative Neural Architecture Search for Personalized Federated Learning |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10713262)] |
 | FedQClip: Accelerating Federated Learning via Quantized Clipped SGD |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10713249)] |
