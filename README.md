@@ -535,6 +535,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
+| Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off | SYSU, TAMU, HITSZ, ZSTU | ICML | 2025 | [[PUB](https://arxiv.org/pdf/2402.07002)] |
 | Energy-based Backdoor Defense Against Federated Graph Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=5Jc7r5aqHJ)] |
 | DEPT: Decoupled Embeddings for Pre-training Language Models |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=vf5aUZT0Fz)] |
 | Subgraph Federated Learning for Local Generalization |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=cH65nS5sOz)] [[CODE](https://github.com/sung-won-kim/FedLoG)] |
