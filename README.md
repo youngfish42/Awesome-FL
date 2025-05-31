@@ -26,6 +26,8 @@
 
 We use another project to automatically track updates to FL papers, click on [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker) if you need it.
 
+Please note that if this page does not display the full content, **please visit [the official homepage](https://youngfish42.github.io/Awesome-FL) for full information.**
+
 **More items will be added to the repository**. Please feel free to suggest other key resources by opening an [issue](https://github.com/youngfish42/Awesome-FL/issues) report, submitting a pull request, or dropping me an email @ ([im.young@foxmail.com](mailto:im.young@foxmail.com)). If you want to communicate with more friends in the field of federated learning, please join the QQ group [联邦学习交流群], the group number is 833638275. Enjoy reading!
 
 
@@ -92,13 +94,13 @@ We use another project to automatically track updates to FL papers, click on [FL
 | [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) | [25](https://dblp.org/db/conf/aaai/aaai2025.html), [24](https://dblp.org/db/conf/aaai/aaai2024.html), [23](https://dblp.org/db/conf/aaai/aaai2023), [22](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf), [21](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf), [20](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) | -                                                            |
 | [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) | [24](http://proceedings.mlr.press/v238/), [23](http://proceedings.mlr.press/v206/), [22](http://proceedings.mlr.press/v151/), [21](http://proceedings.mlr.press/v130/), [20](http://proceedings.mlr.press/v108/) | -                                                            |
 | [ALT](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Falt%3A) | 22                                                           | -                                                            |
-| [AI](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fai%3A) (J) | 23                                                           | -                                                            |
+| [AI](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fai%3A) (J) | 25, 23                                                       | -                                                            |
 | [NeurIPS](https://dblp.uni-trier.de/search?q=federate%20venue%3ANeurIPS%3A) | [24](https://openreview.net/group?id=NeurIPS.cc/2024/Conference#tab-accept-oral), [23](https://openreview.net/group?id=NeurIPS.cc/2023/Conference#tab-accept-oral), [22](https://papers.nips.cc/paper_files/paper/2022), [21](https://papers.nips.cc/paper/2021), [20](https://papers.nips.cc/paper/2020) | [18](https://papers.nips.cc/paper/2018), [17](https://papers.nips.cc/paper/17) |
 | [ICML](https://dblp.uni-trier.de/search?q=federate%20venue%3AICML%3A) | [24](https://icml.cc/Conferences/2024/Schedule?type=Poster), [23](https://icml.cc/Conferences/2023/Schedule?type=Poster), [22](https://icml.cc/Conferences/2022/Schedule?type=Poster), [21](https://icml.cc/Conferences/2021/Schedule?type=Poster), [20](https://icml.cc/Conferences/2020/Schedule?type=Poster) | [19](https://icml.cc/Conferences/2019/Schedule?type=Poster)  |
 | [ICLR](https://dblp.uni-trier.de/search?q=federate%20venue%3AICLR%3A) | [25](https://openreview.net/group?id=ICLR.cc/2025), [24](https://openreview.net/group?id=ICLR.cc/2024/Conference), [23](https://openreview.net/group?id=ICLR.cc/2023/Conference), [22](https://openreview.net/group?id=ICLR.cc/2022/Conference), [21](https://openreview.net/group?id=ICLR.cc/2021/Conference), [20](https://openreview.net/group?id=ICLR.cc/2020/Conference) | -                                                            |
 | [COLT](https://dblp.org/search?q=federated%20venue%3ACOLT%3A) | [23](https://proceedings.mlr.press/v195/)                    | -                                                            |
 | [UAI](https://dblp.org/search?q=federated%20venue%3AUAI%3A)  | [24](https://www.auai.org/uai2024/accepted_papers), [23](https://www.auai.org/uai2023/accepted_papers), [22](https://www.auai.org/uai2022/accepted_papers), [21](https://www.auai.org/uai2021/accepted_papers) | -                                                            |
-| [Machine Learning](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fml%3A) (J) | 24, 23, 22                                                   | -                                                            |
+| [Machine Learning](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fml%3A) (J) | 25, 24, 23, 22                                               | -                                                            |
 | [JMLR](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fjmlr%3A) (J) | 24, 23, 22                                                   | -                                                            |
 | [TPAMI](https://dblp.uni-trier.de/search?q=federated%20streamid%3Ajournals%2Fpami%3A) (J) | 25, 24, 23, 22                                               | -                                                            |
 | [KDD](https://dblp.uni-trier.de/search?q=federate%20venue%3AKDD%3A) | [25](https://dl.acm.org/doi/proceedings/10.1145/3690624), [24](https://dl.acm.org/doi/proceedings/10.1145/3637528), [23](https://dl.acm.org/doi/proceedings/10.1145/3580305), [22](https://kdd.org/kdd2022/paperRT.html), [21](https://kdd.org/kdd2021/accepted-papers/index), [20](https://www.kdd.org/kdd2020/accepted-papers) |                                                              |
@@ -134,7 +136,7 @@ We use another project to automatically track updates to FL papers, click on [FL
 | [DAC](https://dblp.uni-trier.de/search?q=federate%20venue%3ADAC%3A) | 24, 22, 21                                                   | -                                                            |
 | [TOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftocs%3A) | -                                                            | -                                                            |
 | [TOS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftos%3A) | -                                                            | -                                                            |
-| [TCAD](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftcad%3A) | 24, 23, 22, 21                                               | -                                                            |
+| [TCAD](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftcad%3A) | 25, 24, 23, 22, 21                                           | -                                                            |
 | [TC](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftc%3A) | 25, 24, 23, 22, 21                                           | -                                                            |
 | [ICSE](https://dblp.uni-trier.de/search?q=federated%20streamid%3Aconf%2Ficse%3A) | [23](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#event-overview), 21 | -                                                            |
 | [FOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ffocs%3A) | -                                                            | -                                                            |
@@ -219,7 +221,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 - [AAAI](https://dblp.uni-trier.de/search?q=federate%20venue%3AAAAI%3A) [2025](https://dblp.org/db/conf/aaai/aaai2025.html), [2024](https://dblp.org/db/conf/aaai/aaai2024.html), [2023](https://dblp.org/db/conf/aaai/aaai2023), [2022](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf), [2021](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf), [2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf)
 - [AISTATS](https://dblp.uni-trier.de/search?q=federate%20venue%3AAISTATS%3A) [2024](http://proceedings.mlr.press/v238/), [2023](http://proceedings.mlr.press/v206/), [2022](http://proceedings.mlr.press/v151/), [2021](http://proceedings.mlr.press/v130/), [2020](http://proceedings.mlr.press/v108/)
 - [ALT](https://dblp.uni-trier.de/search?q=federate%20streamid%3Aconf%2Falt%3A) 2022
-- [AI](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fai%3A) 2023
+- [AI](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Fai%3A) 2025, 2023
 
 <details open>
 <summary>fl in top ai conference and journal</summary>
@@ -227,6 +229,106 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 |Title                                                           |    Affiliation                                                     |    Venue      |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ------------------------------------------------------------ |
+|FedHM: Efficient federated learning for heterogeneous models via low-rank factorization |  | AI | 2025 | [PUB](https://www.sciencedirect.com/science/article/pii/S0004370225000529) |
+| Learning Together Securely: Prototype-Based Federated Multi-Modal Hashing for Safe and Efficient Multi-Modal Retrieval |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34475)] |
+| Single-Loop Federated Actor-Critic across Heterogeneous Environments |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34469)] |
+| Improving Federated Domain Generalization Through Dynamical Weights Calculated from Data Influences on Global Model Update |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34468)] |
+| FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34464)] |
+| FedGOG: Federated Graph Out-of-Distribution Generalization with Diffusion Data Exploration and Latent Embedding Decorrelation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34459)] |
+| ConFREE: Conflict-free Client Update Aggregation for Personalized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34449)] |
+| Personalized Label Inference Attack in Federated Transfer Learning via Contrastive Meta Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34438)] |
+| Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33455)] |
+| Asynchronous Federated Clustering with Unknown Number of Clusters |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34429)] |
+| Generating Synthetic Data for Unsupervised Federated Learning of Cross-Modal Retrieval |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34415)] |
+| HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34409)] |
+| LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34404)] |
+| Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33440)] |
+| Modeling Inter-Intra Heterogeneity for Graph Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34378)] |
+| pFedES: Generalized Proxy Feature Extractor Sharing for Model Heterogeneous Personalized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34368)] |
+| First-Order Federated Bilevel Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34355)] |
+| GAS: Generative Activation-Aided Asynchronous Split Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35503)] |
+| FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35497)] |
+| Federated Graph Condensation with Information Bottleneck Principles |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33417)] |
+| A High-Efficiency Federated Learning Method Using Complementary Pruning for D2D Communication (Student Abstract) |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35318)] |
+| Federated Learning with Sample-level Client Drift Mitigation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35480)] |
+| Pilot: Building the Federated Multimodal Instruction Tuning Framework |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35476)] |
+| Flexible Sharpness-Aware Personalized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35475)] |
+| MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32076)] |
+| PFedCS: A Personalized Federated Learning Method for Enhancing Collaboration among Similar Classifiers |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35460)] |
+| Federated Graph Anomaly Detection Through Contrastive Learning with Global Negative Pairs |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35458)] |
+| Fed-DFA: Federated Distillation for Heterogeneous Model Fusion Through the Adversarial Lens |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35444)] |
+| Federated Recommendation with Explicitly Encoding Item Bias |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33395)] |
+| Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34733)] |
+| Decentralized Federated Learning with Model Caching on Mobile Agents |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35429)] |
+| Cluster Based Heterogeneous Federated Foundation Model Adaptation and Fine-Tuning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35426)] |
+| FedFSL-CFRD: Personalized Federated Few-Shot Learning with Collaborative Feature Representation Disentanglement |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35423)] |
+| Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35409)] |
+| Tackling Intertwined Data and Device Heterogeneities in Federated Learning with Unlimited Staleness |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35405)] |
+| Federated Weakly Supervised Video Anomaly Detection with Multimodal Prompt |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35398)] |
+| Overcoming Heterogeneous Data in Federated Medical Vision-Language Pre-training: A Triple-Embedding Model Selector Approach |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32807)] |
+| Reputation-aware Revenue Allocation for Auction-based Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34296)] |
+| Learn How to Query from Unlabeled Data Streams in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34287)] |
+| Efficient Federated Learning via Clients-to-Server Knowledge Distillation (Student Abstract) |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35304)] |
+| Graph Consistency and Diversity Measurement for Federated Multi-View Clustering |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34277)] |
+| WHALE-FL: Wireless and Heterogeneity Aware Latency Efficient Federated Learning over Mobile Devices via Adaptive Subnetwork Scheduling |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34272)] |
+| Label-Free Backdoor Attacks in Vertical Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34246)] |
+| Incongruent Multimodal Federated Learning for Medical Vision and Language-based Multi-label Disease Detection |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35054)] |
+| FedPIA – Permuting and Integrating Adapters Leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34228)] |
+| Fair Federated Survival Analysis |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34214)] |
+| Federated t-SNE and UMAP for Distributed Data Visualization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34204)] |
+| Cross-Silo Feature Space Alignment for Federated Learning on Clients with Imbalanced Data |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34201)] |
+| Federated Unsupervised Domain Generalization Using Global and Local Alignment of Gradients |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34197)] |
+| In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34192)] |
+| Look Back for More: Harnessing Historical Sequential Updates for Personalized Federated Adapter Tuning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34187)] |
+| Breaking Data Silos in Parkinson’s Disease Diagnosis: An Adaptive Federated Learning Approach for Privacy-Preserving Facial Expression Analysis |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33572)] |
+| Federated Unlearning with Gradient Descent and Conflict Mitigation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34181)] |
+| Dual-calibrated Co-training Framework for Personalized Federated Semi-Supervised Medical Image Segmentation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32671)] |
+| FedSPU: Personalized Federated Learning for Resource-Constrained Devices with Stochastic Parameter Update |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34172)] |
+| FedSum: Data-Efficient Federated Learning Under Data Scarcity Scenario for Text Summarization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34129)] |
+| Data-Free Black-Box Federated Learning via Zeroth-Order Gradient Estimation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34126)] |
+| FedCross: Intertemporal Federated Learning Under Evolutionary Games |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34104)] |
+| Exploit Gradient Skewness to Circumvent Byzantine Defenses for Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34094)] |
+| SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34090)] |
+| Personalized Federated Learning for Spatio-Temporal Forecasting: A Dual Semantic Alignment-Based Contrastive Approach |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33328)] |
+| Federated Graph-Level Clustering Network |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34077)] |
+| LiD-FL: Towards List-Decodable Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34072)] |
+| Convergence Analysis of Federated Learning Methods Using Backward Error Analysis |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34060)] |
+| Progressive Distribution Matching for Federated Semi-Supervised Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32551)] |
+| TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generalization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34053)] |
+| Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34047)] |
+| EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34046)] |
+| FedMSGL: A Self-Expressive Hypergraph Based Federated Multi-View Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34007)] |
+| pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33980)] |
+| FCOM: A Federated Collaborative Online Monitoring Framework via Representation Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33975)] |
+| FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33942)] |
+| Federated Learning with Heterogeneous LLMs: Integrating Small Student Client Models with a Large Hungry Model |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35332)] |
+| PA3Fed: Period-Aware Adaptive Aggregation for Improved Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33912)] |
+| TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33524)] |
+| FedAA: A Reinforcement Learning Perspective on Adaptive Aggregation for Fair and Robust Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33878)] |
+| DCHM: Dynamic Collaboration of Heterogeneous Models Through Isomerism Learning in a Blockchain-Powered Federated Learning Framework |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33877)] |
+| Federated Assemblies |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33520)] |
+| Federated Causally Invariant Feature Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33866)] |
+| A New Federated Learning Framework Against Gradient Inversion Attacks |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33865)] |
+| Exploring Vacant Classes in Label-Skewed Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33864)] |
+| Capture Global Feature Statistics for One-Shot Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33862)] |
+| Multimodal Fusion Using Multi-View Domains for Data Heterogeneity in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33839)] |
+| MFL-Owner: Ownership Protection for Multi-modal Federated Learning via Orthogonal Transform Watermark |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32313)] |
+| Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33830)] |
+| Beyond Federated Prototype Learning: Learnable Semantic Anchors with Hyperspherical Contrast for Domain-Skewed Data |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33829)] |
+| Scalable Federated One-Step Multi-View Clustering with Tensorized Regularization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33822)] |
+| SADBA: Self-Adaptive Distributed Backdoor Attack Against Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33820)] |
+| Large Language Models Enhanced Personalized Graph Neural Architecture Search in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33814)] |
+| How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning? |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33788)] |
+| Attribute Inference Attacks for Federated Regression Tasks |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33787)] |
+| Federated Binary Matrix Factorization Using Proximal Optimization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33773)] |
+| Creating Coherence in Federated Non-Negative Matrix Factorization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33772)] |
+| Rethinking the Starting Point: Collaborative Pre-Training for Federated Downstream Tasks |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33764)] |
+| DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33746)] |
+| Federated Foundation Models on Heterogeneous Time Series |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33739)] |
+| FedPop: Federated Population-based Hyperparameter Tuning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33732)] |
+| Enhancing Privacy in the Early Detection of Sexual Predators Through Federated Learning and Differential Privacy |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35005)] |
+| EFSkip: A New Error Feedback with Linear Speedup for Compressed Federated Learning with Arbitrary Data Heterogeneity |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33700)] |
+| Little Is Enough: Boosting Privacy by Sharing Only Hard Labels in Federated Semi-Supervised Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33678)] |
 | Federated Multi-View Clustering via Tensor Factorization |  | IJCAI | 2024 | [[PUB](https://www.ijcai.org/proceedings/2024/438)] |
 | Efficient Federated Multi-View Clustering with Integrated Matrix Factorization and K-Means |  | IJCAI | 2024 | [[PUB](https://www.ijcai.org/proceedings/2024/439)] |
 | LG-FGAD: An Effective Federated Graph Anomaly Detection Framework |  | IJCAI | 2024 | [[PUB](https://www.ijcai.org/proceedings/2024/416)] |
@@ -535,6 +637,8 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
+|Improve global generalization for personalized federated learning within a Stackelberg game |  | Mach Learn | 2025 | [PUB](https://link.springer.com/article/10.1007/s10994-025-06770-9) |
+|Efficient federated unlearning under plausible deniability |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-024-06685-x)] [[CODE](https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability)] |
 | Energy-based Backdoor Defense Against Federated Graph Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=5Jc7r5aqHJ)] |
 | DEPT: Decoupled Embeddings for Pre-training Language Models |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=vf5aUZT0Fz)] |
 | Subgraph Federated Learning for Local Generalization |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=cH65nS5sOz)] [[CODE](https://github.com/sung-won-kim/FedLoG)] |
@@ -584,7 +688,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 | Closed-Form Merging of Parameter-Efficient Modules for Federated Continual Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=ROpY0qRUXL)] |
 | Federated Continual Learning Goes Online: Uncertainty-Aware Memory Management for Vision Tasks and Beyond |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=f65RuQgVlp)] |
 | Federated Few-Shot Class-Incremental Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=ZiPoAlKf9Y)] |
-| Efficient federated unlearning under plausible deniability |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-024-06685-x)] [[CODE](https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability)] |
+| DFedADMM: Dual Constraint Controlled Model Inconsistency for Decentralize Federated Learning | | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10908045)] |
 | Robust Asymmetric Heterogeneous Federated Learning With Corrupted Clients |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10833756)] |
 | Federated Multi-View K-Means Clustering |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10810504)] |
 | Stabilizing and Accelerating Federated Learning on Heterogeneous Data With Partial Client Participation |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10696955)] |
@@ -2199,7 +2303,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 - [DAC](https://dblp.uni-trier.de/search?q=federate%20venue%3ADAC%3A) 2024, 2022, 2021
 - [TOCS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftocs%3A) NULL
 - [TOS](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftos%3A) NULL
-- [TCAD](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftcad%3A) 2024, 2023, 2022, 2021
+- [TCAD](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftcad%3A) 2025, 2024, 2023, 2022, 2021
 - [TC](https://dblp.uni-trier.de/search?q=federate%20streamid%3Ajournals%2Ftc%3A) 2025, 2024, 2023, 2022, 2021
 
 <details open>
@@ -2208,105 +2312,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ------------------------------------------------------------ |
-| Learning Together Securely: Prototype-Based Federated Multi-Modal Hashing for Safe and Efficient Multi-Modal Retrieval |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34475)] |
-| Single-Loop Federated Actor-Critic across Heterogeneous Environments |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34469)] |
-| Improving Federated Domain Generalization Through Dynamical Weights Calculated from Data Influences on Global Model Update |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34468)] |
-| FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34464)] |
-| FedGOG: Federated Graph Out-of-Distribution Generalization with Diffusion Data Exploration and Latent Embedding Decorrelation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34459)] |
-| ConFREE: Conflict-free Client Update Aggregation for Personalized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34449)] |
-| Personalized Label Inference Attack in Federated Transfer Learning via Contrastive Meta Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34438)] |
-| Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33455)] |
-| Asynchronous Federated Clustering with Unknown Number of Clusters |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34429)] |
-| Generating Synthetic Data for Unsupervised Federated Learning of Cross-Modal Retrieval |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34415)] |
-| HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34409)] |
-| LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34404)] |
-| Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33440)] |
-| Modeling Inter-Intra Heterogeneity for Graph Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34378)] |
-| pFedES: Generalized Proxy Feature Extractor Sharing for Model Heterogeneous Personalized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34368)] |
-| First-Order Federated Bilevel Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34355)] |
-| GAS: Generative Activation-Aided Asynchronous Split Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35503)] |
-| FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35497)] |
-| Federated Graph Condensation with Information Bottleneck Principles |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33417)] |
-| A High-Efficiency Federated Learning Method Using Complementary Pruning for D2D Communication (Student Abstract) |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35318)] |
-| Federated Learning with Sample-level Client Drift Mitigation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35480)] |
-| Pilot: Building the Federated Multimodal Instruction Tuning Framework |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35476)] |
-| Flexible Sharpness-Aware Personalized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35475)] |
-| MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32076)] |
-| PFedCS: A Personalized Federated Learning Method for Enhancing Collaboration among Similar Classifiers |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35460)] |
-| Federated Graph Anomaly Detection Through Contrastive Learning with Global Negative Pairs |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35458)] |
-| Fed-DFA: Federated Distillation for Heterogeneous Model Fusion Through the Adversarial Lens |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35444)] |
-| Federated Recommendation with Explicitly Encoding Item Bias |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33395)] |
-| Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34733)] |
-| Decentralized Federated Learning with Model Caching on Mobile Agents |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35429)] |
-| Cluster Based Heterogeneous Federated Foundation Model Adaptation and Fine-Tuning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35426)] |
-| FedFSL-CFRD: Personalized Federated Few-Shot Learning with Collaborative Feature Representation Disentanglement |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35423)] |
-| Reinforcement Active Client Selection for Federated Heterogeneous Graph Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35409)] |
-| Tackling Intertwined Data and Device Heterogeneities in Federated Learning with Unlimited Staleness |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35405)] |
-| Federated Weakly Supervised Video Anomaly Detection with Multimodal Prompt |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35398)] |
-| Overcoming Heterogeneous Data in Federated Medical Vision-Language Pre-training: A Triple-Embedding Model Selector Approach |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32807)] |
-| Reputation-aware Revenue Allocation for Auction-based Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34296)] |
-| Learn How to Query from Unlabeled Data Streams in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34287)] |
-| Efficient Federated Learning via Clients-to-Server Knowledge Distillation (Student Abstract) |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35304)] |
-| Graph Consistency and Diversity Measurement for Federated Multi-View Clustering |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34277)] |
-| WHALE-FL: Wireless and Heterogeneity Aware Latency Efficient Federated Learning over Mobile Devices via Adaptive Subnetwork Scheduling |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34272)] |
-| Label-Free Backdoor Attacks in Vertical Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34246)] |
-| Incongruent Multimodal Federated Learning for Medical Vision and Language-based Multi-label Disease Detection |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35054)] |
-| FedPIA – Permuting and Integrating Adapters Leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34228)] |
-| Fair Federated Survival Analysis |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34214)] |
-| Federated t-SNE and UMAP for Distributed Data Visualization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34204)] |
-| Cross-Silo Feature Space Alignment for Federated Learning on Clients with Imbalanced Data |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34201)] |
-| Federated Unsupervised Domain Generalization Using Global and Local Alignment of Gradients |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34197)] |
-| In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34192)] |
-| Look Back for More: Harnessing Historical Sequential Updates for Personalized Federated Adapter Tuning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34187)] |
-| Breaking Data Silos in Parkinson’s Disease Diagnosis: An Adaptive Federated Learning Approach for Privacy-Preserving Facial Expression Analysis |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33572)] |
-| Federated Unlearning with Gradient Descent and Conflict Mitigation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34181)] |
-| Dual-calibrated Co-training Framework for Personalized Federated Semi-Supervised Medical Image Segmentation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32671)] |
-| FedSPU: Personalized Federated Learning for Resource-Constrained Devices with Stochastic Parameter Update |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34172)] |
-| FedSum: Data-Efficient Federated Learning Under Data Scarcity Scenario for Text Summarization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34129)] |
-| Data-Free Black-Box Federated Learning via Zeroth-Order Gradient Estimation |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34126)] |
-| FedCross: Intertemporal Federated Learning Under Evolutionary Games |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34104)] |
-| Exploit Gradient Skewness to Circumvent Byzantine Defenses for Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34094)] |
-| SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34090)] |
-| Personalized Federated Learning for Spatio-Temporal Forecasting: A Dual Semantic Alignment-Based Contrastive Approach |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33328)] |
-| Federated Graph-Level Clustering Network |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34077)] |
-| LiD-FL: Towards List-Decodable Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34072)] |
-| Convergence Analysis of Federated Learning Methods Using Backward Error Analysis |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34060)] |
-| Progressive Distribution Matching for Federated Semi-Supervised Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32551)] |
-| TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generalization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34053)] |
-| Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34047)] |
-| EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34046)] |
-| FedMSGL: A Self-Expressive Hypergraph Based Federated Multi-View Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34007)] |
-| pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33980)] |
-| FCOM: A Federated Collaborative Online Monitoring Framework via Representation Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33975)] |
-| FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33942)] |
-| Federated Learning with Heterogeneous LLMs: Integrating Small Student Client Models with a Large Hungry Model |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35332)] |
-| PA3Fed: Period-Aware Adaptive Aggregation for Improved Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33912)] |
-| TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33524)] |
-| FedAA: A Reinforcement Learning Perspective on Adaptive Aggregation for Fair and Robust Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33878)] |
-| DCHM: Dynamic Collaboration of Heterogeneous Models Through Isomerism Learning in a Blockchain-Powered Federated Learning Framework |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33877)] |
-| Federated Assemblies |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33520)] |
-| Federated Causally Invariant Feature Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33866)] |
-| A New Federated Learning Framework Against Gradient Inversion Attacks |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33865)] |
-| Exploring Vacant Classes in Label-Skewed Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33864)] |
-| Capture Global Feature Statistics for One-Shot Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33862)] |
-| Multimodal Fusion Using Multi-View Domains for Data Heterogeneity in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33839)] |
-| MFL-Owner: Ownership Protection for Multi-modal Federated Learning via Orthogonal Transform Watermark |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/32313)] |
-| Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33830)] |
-| Beyond Federated Prototype Learning: Learnable Semantic Anchors with Hyperspherical Contrast for Domain-Skewed Data |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33829)] |
-| Scalable Federated One-Step Multi-View Clustering with Tensorized Regularization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33822)] |
-| SADBA: Self-Adaptive Distributed Backdoor Attack Against Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33820)] |
-| Large Language Models Enhanced Personalized Graph Neural Architecture Search in Federated Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33814)] |
-| How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning? |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33788)] |
-| Attribute Inference Attacks for Federated Regression Tasks |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33787)] |
-| Federated Binary Matrix Factorization Using Proximal Optimization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33773)] |
-| Creating Coherence in Federated Non-Negative Matrix Factorization |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33772)] |
-| Rethinking the Starting Point: Collaborative Pre-Training for Federated Downstream Tasks |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33764)] |
-| DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33746)] |
-| Federated Foundation Models on Heterogeneous Time Series |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33739)] |
-| FedPop: Federated Population-based Hyperparameter Tuning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33732)] |
-| Enhancing Privacy in the Early Detection of Sexual Predators Through Federated Learning and Differential Privacy |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/35005)] |
-| EFSkip: A New Error Feedback with Linear Speedup for Compressed Federated Learning with Arbitrary Data Heterogeneity |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33700)] |
-| Little Is Enough: Boosting Privacy by Sharing Only Hard Labels in Federated Semi-Supervised Learning |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/33678)] |
+|SAFE: A Scalable Homomorphic Encryption Accelerator for Vertical Federated Learning |  | TCAD | 2025 | [PUB](https://ieeexplore.ieee.org/document/10750502) |
 | Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism |  | EuroSys | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3689031.3717467)] |
 | FedLoRE: Communication-Efficient and Personalized Edge Intelligence Framework via Federated Low-Rank Estimation |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10916512)] |
 | DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10756624)] |
@@ -3031,6 +3037,7 @@ This section partially refers to [The Federated Learning Portal](https://federat
 
  ![](https://img.shields.io/github/last-commit/youngfish42/Awesome-FL)
 
+- 2025/05/31 - add AI, ML 2025 papers
 - 2025/05/01 - add WWW, NSDI 2025 papers
 - 2025/04/24 - add AAAI, KDD, ICLR 2025 papers
 - 2025/04/04 - add UAI 2024, WSDM, NDSS, COLING, TPDS, ML 2025 papers
