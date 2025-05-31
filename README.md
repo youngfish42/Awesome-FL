@@ -229,7 +229,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 
 |Title                                                           |    Affiliation                                                     |    Venue      |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ------------------------------------------------------------ |
-|FedHM: Efficient federated learning for heterogeneous models via low-rank factorization |  | AI | 2025 | [PUB](https://www.sciencedirect.com/science/article/pii/S0004370225000529) |
+| FedHM: Efficient federated learning for heterogeneous models via low-rank factorization |  | AI | 2025 | [[PUB](https://www.sciencedirect.com/science/article/pii/S0004370225000529)] |
 | Learning Together Securely: Prototype-Based Federated Multi-Modal Hashing for Safe and Efficient Multi-Modal Retrieval |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34475)] |
 | Single-Loop Federated Actor-Critic across Heterogeneous Environments |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34469)] |
 | Improving Federated Domain Generalization Through Dynamical Weights Calculated from Data Influences on Global Model Update |  | AAAI | 2025 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/34468)] |
@@ -637,8 +637,8 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
-|Improve global generalization for personalized federated learning within a Stackelberg game |  | Mach Learn | 2025 | [PUB](https://link.springer.com/article/10.1007/s10994-025-06770-9) |
-|Efficient federated unlearning under plausible deniability |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-024-06685-x)] [[CODE](https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability)] |
+| Improve global generalization for personalized federated learning within a Stackelberg game |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-025-06770-9)] |
+| Efficient federated unlearning under plausible deniability |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-024-06685-x)] [[CODE](https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability)] |
 | Energy-based Backdoor Defense Against Federated Graph Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=5Jc7r5aqHJ)] |
 | DEPT: Decoupled Embeddings for Pre-training Language Models |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=vf5aUZT0Fz)] |
 | Subgraph Federated Learning for Local Generalization |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=cH65nS5sOz)] [[CODE](https://github.com/sung-won-kim/FedLoG)] |
@@ -688,7 +688,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 | Closed-Form Merging of Parameter-Efficient Modules for Federated Continual Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=ROpY0qRUXL)] |
 | Federated Continual Learning Goes Online: Uncertainty-Aware Memory Management for Vision Tasks and Beyond |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=f65RuQgVlp)] |
 | Federated Few-Shot Class-Incremental Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=ZiPoAlKf9Y)] |
-| DFedADMM: Dual Constraint Controlled Model Inconsistency for Decentralize Federated Learning | | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10908045)] |
+| DFedADMM: Dual Constraint Controlled Model Inconsistency for Decentralize Federated Learning |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10908045)] |
 | Robust Asymmetric Heterogeneous Federated Learning With Corrupted Clients |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10833756)] |
 | Federated Multi-View K-Means Clustering |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10810504)] |
 | Stabilizing and Accelerating Federated Learning on Heterogeneous Data With Partial Client Participation |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10696955)] |
@@ -2312,7 +2312,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ------------------------------------------------------------ |
-|SAFE: A Scalable Homomorphic Encryption Accelerator for Vertical Federated Learning |  | TCAD | 2025 | [PUB](https://ieeexplore.ieee.org/document/10750502) |
+| SAFE: A Scalable Homomorphic Encryption Accelerator for Vertical Federated Learning |  | TCAD | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10750502)] |
 | Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism |  | EuroSys | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3689031.3717467)] |
 | FedLoRE: Communication-Efficient and Personalized Edge Intelligence Framework via Federated Low-Rank Estimation |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10916512)] |
 | DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10756624)] |
