@@ -1884,6 +1884,662 @@ fl-in-top-ai-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FedHM: Efficient federated learning for heterogeneous models via low-rank
+      factorization'
+    affiliation: ''
+    venue: AI
+    year: '2025'
+    materials:
+      PUB: https://www.sciencedirect.com/science/article/pii/S0004370225000529
+  - title: 'Learning Together Securely: Prototype-Based Federated Multi-Modal Hashing
+      for Safe and Efficient Multi-Modal Retrieval'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34475
+  - title: Single-Loop Federated Actor-Critic across Heterogeneous Environments
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34469
+  - title: Improving Federated Domain Generalization Through Dynamical Weights Calculated
+      from Data Influences on Global Model Update
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34468
+  - title: 'FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based
+      Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34464
+  - title: 'FedGOG: Federated Graph Out-of-Distribution Generalization with Diffusion
+      Data Exploration and Latent Embedding Decorrelation'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34459
+  - title: 'ConFREE: Conflict-free Client Update Aggregation for Personalized Federated
+      Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34449
+  - title: Personalized Label Inference Attack in Federated Transfer Learning via
+      Contrastive Meta Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34438
+  - title: Rethinking Byzantine Robustness in Federated Recommendation from Sparse
+      Aggregation Perspective
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33455
+  - title: Asynchronous Federated Clustering with Unknown Number of Clusters
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34429
+  - title: Generating Synthetic Data for Unsupervised Federated Learning of Cross-Modal
+      Retrieval
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34415
+  - title: 'HaCore: Efficient Coreset Construction with Locality Sensitive Hashing
+      for Vertical Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34409
+  - title: 'LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34404
+  - title: 'Multifaceted User Modeling in Recommendation: A Federated Foundation Models
+      Approach'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33440
+  - title: Modeling Inter-Intra Heterogeneity for Graph Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34378
+  - title: 'pFedES: Generalized Proxy Feature Extractor Sharing for Model Heterogeneous
+      Personalized Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34368
+  - title: First-Order Federated Bilevel Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34355
+  - title: 'GAS: Generative Activation-Aided Asynchronous Split Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35503
+  - title: 'FedVCK: Non-IID Robust and Communication-Efficient Federated Learning
+      via Valuable Condensed Knowledge for Medical Image Analysis'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35497
+  - title: Federated Graph Condensation with Information Bottleneck Principles
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33417
+  - title: A High-Efficiency Federated Learning Method Using Complementary Pruning
+      for D2D Communication (Student Abstract)
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35318
+  - title: Federated Learning with Sample-level Client Drift Mitigation
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35480
+  - title: 'Pilot: Building the Federated Multimodal Instruction Tuning Framework'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35476
+  - title: Flexible Sharpness-Aware Personalized Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35475
+  - title: 'MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation
+      and Knowledge Replay'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32076
+  - title: 'PFedCS: A Personalized Federated Learning Method for Enhancing Collaboration
+      among Similar Classifiers'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35460
+  - title: Federated Graph Anomaly Detection Through Contrastive Learning with Global
+      Negative Pairs
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35458
+  - title: 'Fed-DFA: Federated Distillation for Heterogeneous Model Fusion Through
+      the Adversarial Lens'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35444
+  - title: Federated Recommendation with Explicitly Encoding Item Bias
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33395
+  - title: Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation
+      in Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34733
+  - title: Decentralized Federated Learning with Model Caching on Mobile Agents
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35429
+  - title: Cluster Based Heterogeneous Federated Foundation Model Adaptation and Fine-Tuning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35426
+  - title: 'FedFSL-CFRD: Personalized Federated Few-Shot Learning with Collaborative
+      Feature Representation Disentanglement'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35423
+  - title: Reinforcement Active Client Selection for Federated Heterogeneous Graph
+      Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35409
+  - title: Tackling Intertwined Data and Device Heterogeneities in Federated Learning
+      with Unlimited Staleness
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35405
+  - title: Federated Weakly Supervised Video Anomaly Detection with Multimodal Prompt
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35398
+  - title: 'Overcoming Heterogeneous Data in Federated Medical Vision-Language Pre-training:
+      A Triple-Embedding Model Selector Approach'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32807
+  - title: Reputation-aware Revenue Allocation for Auction-based Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34296
+  - title: Learn How to Query from Unlabeled Data Streams in Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34287
+  - title: Efficient Federated Learning via Clients-to-Server Knowledge Distillation
+      (Student Abstract)
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35304
+  - title: Graph Consistency and Diversity Measurement for Federated Multi-View Clustering
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34277
+  - title: 'WHALE-FL: Wireless and Heterogeneity Aware Latency Efficient Federated
+      Learning over Mobile Devices via Adaptive Subnetwork Scheduling'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34272
+  - title: Label-Free Backdoor Attacks in Vertical Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34246
+  - title: Incongruent Multimodal Federated Learning for Medical Vision and Language-based
+      Multi-label Disease Detection
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35054
+  - title: FedPIA – Permuting and Integrating Adapters Leveraging Wasserstein Barycenters
+      for Finetuning Foundation Models in Multi-Modal Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34228
+  - title: Fair Federated Survival Analysis
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34214
+  - title: Federated t-SNE and UMAP for Distributed Data Visualization
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34204
+  - title: Cross-Silo Feature Space Alignment for Federated Learning on Clients with
+      Imbalanced Data
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34201
+  - title: Federated Unsupervised Domain Generalization Using Global and Local Alignment
+      of Gradients
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34197
+  - title: In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34192
+  - title: 'Look Back for More: Harnessing Historical Sequential Updates for Personalized
+      Federated Adapter Tuning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34187
+  - title: 'Breaking Data Silos in Parkinson’s Disease Diagnosis: An Adaptive Federated
+      Learning Approach for Privacy-Preserving Facial Expression Analysis'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33572
+  - title: Federated Unlearning with Gradient Descent and Conflict Mitigation
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34181
+  - title: Dual-calibrated Co-training Framework for Personalized Federated Semi-Supervised
+      Medical Image Segmentation
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32671
+  - title: 'FedSPU: Personalized Federated Learning for Resource-Constrained Devices
+      with Stochastic Parameter Update'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34172
+  - title: 'FedSum: Data-Efficient Federated Learning Under Data Scarcity Scenario
+      for Text Summarization'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34129
+  - title: Data-Free Black-Box Federated Learning via Zeroth-Order Gradient Estimation
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34126
+  - title: 'FedCross: Intertemporal Federated Learning Under Evolutionary Games'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34104
+  - title: Exploit Gradient Skewness to Circumvent Byzantine Defenses for Federated
+      Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34094
+  - title: 'SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34090
+  - title: 'Personalized Federated Learning for Spatio-Temporal Forecasting: A Dual
+      Semantic Alignment-Based Contrastive Approach'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33328
+  - title: Federated Graph-Level Clustering Network
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34077
+  - title: 'LiD-FL: Towards List-Decodable Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34072
+  - title: Convergence Analysis of Federated Learning Methods Using Backward Error
+      Analysis
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34060
+  - title: Progressive Distribution Matching for Federated Semi-Supervised Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32551
+  - title: 'TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain
+      Generalization'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34053
+  - title: 'Personalized Federated Collaborative Filtering: A Variational AutoEncoder
+      Approach'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34047
+  - title: 'EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34046
+  - title: 'FedMSGL: A Self-Expressive Hypergraph Based Federated Multi-View Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34007
+  - title: 'pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized
+      Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33980
+  - title: 'FCOM: A Federated Collaborative Online Monitoring Framework via Representation
+      Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33975
+  - title: 'FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual
+      Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33942
+  - title: 'Federated Learning with Heterogeneous LLMs: Integrating Small Student
+      Client Models with a Large Hungry Model'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35332
+  - title: 'PA3Fed: Period-Aware Adaptive Aggregation for Improved Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33912
+  - title: 'TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated
+      Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33524
+  - title: 'FedAA: A Reinforcement Learning Perspective on Adaptive Aggregation for
+      Fair and Robust Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33878
+  - title: 'DCHM: Dynamic Collaboration of Heterogeneous Models Through Isomerism
+      Learning in a Blockchain-Powered Federated Learning Framework'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33877
+  - title: Federated Assemblies
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33520
+  - title: Federated Causally Invariant Feature Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33866
+  - title: A New Federated Learning Framework Against Gradient Inversion Attacks
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33865
+  - title: Exploring Vacant Classes in Label-Skewed Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33864
+  - title: Capture Global Feature Statistics for One-Shot Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33862
+  - title: Multimodal Fusion Using Multi-View Domains for Data Heterogeneity in Federated
+      Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33839
+  - title: 'MFL-Owner: Ownership Protection for Multi-modal Federated Learning via
+      Orthogonal Transform Watermark'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32313
+  - title: 'Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph
+      Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33830
+  - title: 'Beyond Federated Prototype Learning: Learnable Semantic Anchors with Hyperspherical
+      Contrast for Domain-Skewed Data'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33829
+  - title: Scalable Federated One-Step Multi-View Clustering with Tensorized Regularization
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33822
+  - title: 'SADBA: Self-Adaptive Distributed Backdoor Attack Against Federated Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33820
+  - title: Large Language Models Enhanced Personalized Graph Neural Architecture Search
+      in Federated Learning
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33814
+  - title: How Does the Smoothness Approximation Method Facilitate Generalization
+      for Federated Adversarial Learning?
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33788
+  - title: Attribute Inference Attacks for Federated Regression Tasks
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33787
+  - title: Federated Binary Matrix Factorization Using Proximal Optimization
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33773
+  - title: Creating Coherence in Federated Non-Negative Matrix Factorization
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33772
+  - title: 'Rethinking the Starting Point: Collaborative Pre-Training for Federated
+      Downstream Tasks'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33764
+  - title: 'DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33746
+  - title: Federated Foundation Models on Heterogeneous Time Series
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33739
+  - title: 'FedPop: Federated Population-based Hyperparameter Tuning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33732
+  - title: Enhancing Privacy in the Early Detection of Sexual Predators Through Federated
+      Learning and Differential Privacy
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35005
+  - title: 'EFSkip: A New Error Feedback with Linear Speedup for Compressed Federated
+      Learning with Arbitrary Data Heterogeneity'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33700
+  - title: 'Little Is Enough: Boosting Privacy by Sharing Only Hard Labels in Federated
+      Semi-Supervised Learning'
+    affiliation: ''
+    venue: AAAI
+    year: '2025'
+    materials:
+      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33678
   - title: Federated Multi-View Clustering via Tensor Factorization
     affiliation: ''
     venue: IJCAI
@@ -4117,6 +4773,20 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: Improve global generalization for personalized federated learning within
+      a Stackelberg game
+    affiliation: ''
+    venue: Mach Learn
+    year: '2025'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-025-06770-9
+  - title: Efficient federated unlearning under plausible deniability
+    affiliation: ''
+    venue: Mach Learn
+    year: '2025'
+    materials:
+      PUB: https://link.springer.com/article/10.1007/s10994-024-06685-x
+      CODE: https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability
   - title: Energy-based Backdoor Defense Against Federated Graph Learning
     affiliation: ''
     venue: ICLR
@@ -4434,13 +5104,13 @@ fl-in-top-ml-conference-and-journal:
     year: '2025'
     materials:
       PUB: https://openreview.net/forum?id=ZiPoAlKf9Y
-  - title: Efficient federated unlearning under plausible deniability
+  - title: 'DFedADMM: Dual Constraint Controlled Model Inconsistency for Decentralize
+      Federated Learning'
     affiliation: ''
-    venue: Mach Learn
+    venue: TPAMI
     year: '2025'
     materials:
-      PUB: https://link.springer.com/article/10.1007/s10994-024-06685-x
-      CODE: https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability
+      PUB: https://ieeexplore.ieee.org/document/10908045
   - title: Robust Asymmetric Heterogeneous Federated Learning With Corrupted Clients
     affiliation: ''
     venue: TPAMI
@@ -15370,655 +16040,13 @@ fl-in-top-system-conference-and-journal:
     year: 4
     materials: 60
   body:
-  - title: 'Learning Together Securely: Prototype-Based Federated Multi-Modal Hashing
-      for Safe and Efficient Multi-Modal Retrieval'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34475
-  - title: Single-Loop Federated Actor-Critic across Heterogeneous Environments
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34469
-  - title: Improving Federated Domain Generalization Through Dynamical Weights Calculated
-      from Data Influences on Global Model Update
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34468
-  - title: 'FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based
-      Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34464
-  - title: 'FedGOG: Federated Graph Out-of-Distribution Generalization with Diffusion
-      Data Exploration and Latent Embedding Decorrelation'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34459
-  - title: 'ConFREE: Conflict-free Client Update Aggregation for Personalized Federated
+  - title: 'SAFE: A Scalable Homomorphic Encryption Accelerator for Vertical Federated
       Learning'
     affiliation: ''
-    venue: AAAI
+    venue: TCAD
     year: '2025'
     materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34449
-  - title: Personalized Label Inference Attack in Federated Transfer Learning via
-      Contrastive Meta Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34438
-  - title: Rethinking Byzantine Robustness in Federated Recommendation from Sparse
-      Aggregation Perspective
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33455
-  - title: Asynchronous Federated Clustering with Unknown Number of Clusters
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34429
-  - title: Generating Synthetic Data for Unsupervised Federated Learning of Cross-Modal
-      Retrieval
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34415
-  - title: 'HaCore: Efficient Coreset Construction with Locality Sensitive Hashing
-      for Vertical Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34409
-  - title: 'LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34404
-  - title: 'Multifaceted User Modeling in Recommendation: A Federated Foundation Models
-      Approach'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33440
-  - title: Modeling Inter-Intra Heterogeneity for Graph Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34378
-  - title: 'pFedES: Generalized Proxy Feature Extractor Sharing for Model Heterogeneous
-      Personalized Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34368
-  - title: First-Order Federated Bilevel Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34355
-  - title: 'GAS: Generative Activation-Aided Asynchronous Split Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35503
-  - title: 'FedVCK: Non-IID Robust and Communication-Efficient Federated Learning
-      via Valuable Condensed Knowledge for Medical Image Analysis'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35497
-  - title: Federated Graph Condensation with Information Bottleneck Principles
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33417
-  - title: A High-Efficiency Federated Learning Method Using Complementary Pruning
-      for D2D Communication (Student Abstract)
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35318
-  - title: Federated Learning with Sample-level Client Drift Mitigation
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35480
-  - title: 'Pilot: Building the Federated Multimodal Instruction Tuning Framework'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35476
-  - title: Flexible Sharpness-Aware Personalized Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35475
-  - title: 'MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation
-      and Knowledge Replay'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32076
-  - title: 'PFedCS: A Personalized Federated Learning Method for Enhancing Collaboration
-      among Similar Classifiers'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35460
-  - title: Federated Graph Anomaly Detection Through Contrastive Learning with Global
-      Negative Pairs
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35458
-  - title: 'Fed-DFA: Federated Distillation for Heterogeneous Model Fusion Through
-      the Adversarial Lens'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35444
-  - title: Federated Recommendation with Explicitly Encoding Item Bias
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33395
-  - title: Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation
-      in Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34733
-  - title: Decentralized Federated Learning with Model Caching on Mobile Agents
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35429
-  - title: Cluster Based Heterogeneous Federated Foundation Model Adaptation and Fine-Tuning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35426
-  - title: 'FedFSL-CFRD: Personalized Federated Few-Shot Learning with Collaborative
-      Feature Representation Disentanglement'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35423
-  - title: Reinforcement Active Client Selection for Federated Heterogeneous Graph
-      Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35409
-  - title: Tackling Intertwined Data and Device Heterogeneities in Federated Learning
-      with Unlimited Staleness
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35405
-  - title: Federated Weakly Supervised Video Anomaly Detection with Multimodal Prompt
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35398
-  - title: 'Overcoming Heterogeneous Data in Federated Medical Vision-Language Pre-training:
-      A Triple-Embedding Model Selector Approach'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32807
-  - title: Reputation-aware Revenue Allocation for Auction-based Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34296
-  - title: Learn How to Query from Unlabeled Data Streams in Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34287
-  - title: Efficient Federated Learning via Clients-to-Server Knowledge Distillation
-      (Student Abstract)
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35304
-  - title: Graph Consistency and Diversity Measurement for Federated Multi-View Clustering
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34277
-  - title: 'WHALE-FL: Wireless and Heterogeneity Aware Latency Efficient Federated
-      Learning over Mobile Devices via Adaptive Subnetwork Scheduling'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34272
-  - title: Label-Free Backdoor Attacks in Vertical Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34246
-  - title: Incongruent Multimodal Federated Learning for Medical Vision and Language-based
-      Multi-label Disease Detection
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35054
-  - title: FedPIA – Permuting and Integrating Adapters Leveraging Wasserstein Barycenters
-      for Finetuning Foundation Models in Multi-Modal Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34228
-  - title: Fair Federated Survival Analysis
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34214
-  - title: Federated t-SNE and UMAP for Distributed Data Visualization
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34204
-  - title: Cross-Silo Feature Space Alignment for Federated Learning on Clients with
-      Imbalanced Data
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34201
-  - title: Federated Unsupervised Domain Generalization Using Global and Local Alignment
-      of Gradients
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34197
-  - title: In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34192
-  - title: 'Look Back for More: Harnessing Historical Sequential Updates for Personalized
-      Federated Adapter Tuning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34187
-  - title: 'Breaking Data Silos in Parkinson’s Disease Diagnosis: An Adaptive Federated
-      Learning Approach for Privacy-Preserving Facial Expression Analysis'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33572
-  - title: Federated Unlearning with Gradient Descent and Conflict Mitigation
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34181
-  - title: Dual-calibrated Co-training Framework for Personalized Federated Semi-Supervised
-      Medical Image Segmentation
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32671
-  - title: 'FedSPU: Personalized Federated Learning for Resource-Constrained Devices
-      with Stochastic Parameter Update'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34172
-  - title: 'FedSum: Data-Efficient Federated Learning Under Data Scarcity Scenario
-      for Text Summarization'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34129
-  - title: Data-Free Black-Box Federated Learning via Zeroth-Order Gradient Estimation
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34126
-  - title: 'FedCross: Intertemporal Federated Learning Under Evolutionary Games'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34104
-  - title: Exploit Gradient Skewness to Circumvent Byzantine Defenses for Federated
-      Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34094
-  - title: 'SemiDFL: A Semi-Supervised Paradigm for Decentralized Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34090
-  - title: 'Personalized Federated Learning for Spatio-Temporal Forecasting: A Dual
-      Semantic Alignment-Based Contrastive Approach'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33328
-  - title: Federated Graph-Level Clustering Network
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34077
-  - title: 'LiD-FL: Towards List-Decodable Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34072
-  - title: Convergence Analysis of Federated Learning Methods Using Backward Error
-      Analysis
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34060
-  - title: Progressive Distribution Matching for Federated Semi-Supervised Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32551
-  - title: 'TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain
-      Generalization'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34053
-  - title: 'Personalized Federated Collaborative Filtering: A Variational AutoEncoder
-      Approach'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34047
-  - title: 'EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34046
-  - title: 'FedMSGL: A Self-Expressive Hypergraph Based Federated Multi-View Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/34007
-  - title: 'pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized
-      Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33980
-  - title: 'FCOM: A Federated Collaborative Online Monitoring Framework via Representation
-      Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33975
-  - title: 'FedCFA: Alleviating Simpson’s Paradox in Model Aggregation with Counterfactual
-      Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33942
-  - title: 'Federated Learning with Heterogeneous LLMs: Integrating Small Student
-      Client Models with a Large Hungry Model'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35332
-  - title: 'PA3Fed: Period-Aware Adaptive Aggregation for Improved Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33912
-  - title: 'TRAIL: Trust-Aware Client Scheduling for Semi-Decentralized Federated
-      Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33524
-  - title: 'FedAA: A Reinforcement Learning Perspective on Adaptive Aggregation for
-      Fair and Robust Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33878
-  - title: 'DCHM: Dynamic Collaboration of Heterogeneous Models Through Isomerism
-      Learning in a Blockchain-Powered Federated Learning Framework'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33877
-  - title: Federated Assemblies
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33520
-  - title: Federated Causally Invariant Feature Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33866
-  - title: A New Federated Learning Framework Against Gradient Inversion Attacks
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33865
-  - title: Exploring Vacant Classes in Label-Skewed Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33864
-  - title: Capture Global Feature Statistics for One-Shot Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33862
-  - title: Multimodal Fusion Using Multi-View Domains for Data Heterogeneity in Federated
-      Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33839
-  - title: 'MFL-Owner: Ownership Protection for Multi-modal Federated Learning via
-      Orthogonal Transform Watermark'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/32313
-  - title: 'Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph
-      Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33830
-  - title: 'Beyond Federated Prototype Learning: Learnable Semantic Anchors with Hyperspherical
-      Contrast for Domain-Skewed Data'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33829
-  - title: Scalable Federated One-Step Multi-View Clustering with Tensorized Regularization
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33822
-  - title: 'SADBA: Self-Adaptive Distributed Backdoor Attack Against Federated Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33820
-  - title: Large Language Models Enhanced Personalized Graph Neural Architecture Search
-      in Federated Learning
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33814
-  - title: How Does the Smoothness Approximation Method Facilitate Generalization
-      for Federated Adversarial Learning?
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33788
-  - title: Attribute Inference Attacks for Federated Regression Tasks
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33787
-  - title: Federated Binary Matrix Factorization Using Proximal Optimization
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33773
-  - title: Creating Coherence in Federated Non-Negative Matrix Factorization
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33772
-  - title: 'Rethinking the Starting Point: Collaborative Pre-Training for Federated
-      Downstream Tasks'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33764
-  - title: 'DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33746
-  - title: Federated Foundation Models on Heterogeneous Time Series
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33739
-  - title: 'FedPop: Federated Population-based Hyperparameter Tuning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33732
-  - title: Enhancing Privacy in the Early Detection of Sexual Predators Through Federated
-      Learning and Differential Privacy
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/35005
-  - title: 'EFSkip: A New Error Feedback with Linear Speedup for Compressed Federated
-      Learning with Arbitrary Data Heterogeneity'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33700
-  - title: 'Little Is Enough: Boosting Privacy by Sharing Only Hard Labels in Federated
-      Semi-Supervised Learning'
-    affiliation: ''
-    venue: AAAI
-    year: '2025'
-    materials:
-      PUB: https://ojs.aaai.org/index.php/AAAI/article/view/33678
+      PUB: https://ieeexplore.ieee.org/document/10750502
   - title: 'Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism'
     affiliation: ''
     venue: EuroSys
