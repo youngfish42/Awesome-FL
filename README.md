@@ -637,7 +637,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
-| Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off | SYSU, TAMU, HITSZ, ZSTU | ICML | 2025 | [[PUB](https://openreview.net/forum?id=C7dmhyTDrx)] [[CODE](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] |
+| Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off | SYSU | ICML | 2025 | [[PUB](https://openreview.net/forum?id=C7dmhyTDrx)] [[CODE](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] |
 | Improve global generalization for personalized federated learning within a Stackelberg game |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-025-06770-9)] |
 | Efficient federated unlearning under plausible deniability |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-024-06685-x)] [[CODE](https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability)] |
 | Energy-based Backdoor Defense Against Federated Graph Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=5Jc7r5aqHJ)] |
