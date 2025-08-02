@@ -4773,6 +4773,14 @@ fl-in-top-ml-conference-and-journal:
     year: 4
     materials: 60
   body:
+  - title: 'Clients Collaborate: Flexible Differentially Private Federated Learning
+      with Guaranteed Improvement of Utility-Privacy Trade-off'
+    affiliation: SYSU
+    venue: ICML
+    year: '2025'
+    materials:
+      PUB: https://openreview.net/forum?id=C7dmhyTDrx
+      CODE: https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other
   - title: Improve global generalization for personalized federated learning within
       a Stackelberg game
     affiliation: ''
