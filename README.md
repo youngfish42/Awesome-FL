@@ -638,78 +638,78 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 |Title                                                           |    Affiliation                                                     |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ---- | ------------------------------------------------------------ |
 | Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off | SYSU | ICML | 2025 | [[PUB](https://openreview.net/forum?id=C7dmhyTDrx)] [[CODE](https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other)] |
-| Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity from A Causal Perspective |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=wleRTUQj07)] [CODE] |
+| Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity from A Causal Perspective |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=wleRTUQj07)] |
 | SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender System with Large Embedding |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=j7H4mbeOI1)] [[CODE](https://github.com/NusIoraPrivacy/SecEmb)] |
-| Causality Inspired Federated Learning for OOD Generalization |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=pWWUJw2qew)] [CODE] |
+| Causality Inspired Federated Learning for OOD Generalization |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=pWWUJw2qew)] |
 | Improving Generalization in Federated Learning with Highly Heterogeneous Data via Momentum-Based 	Stochastic Controlled Weight Averaging |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=HqmXiuFaOr)] [[CODE](https://github.com/junkangLiu0/FedSWA)] |
 | One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion Models |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=PqJFVbJAMR)] [[CODE](https://github.com/MingzhaoYang/FedLMG)] |
-| FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=XCLZgbm99O)] [CODE] |
+| FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=XCLZgbm99O)] |
 | An Effective and Secure Federated Multi-View Clustering Method with Information-Theoretic Perspective |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=eLkkXaPFEP)] [[CODE](https://github.com/5Martina5/ESFMC)] |
-| Gap-Dependent Bounds for Federated $Q$-Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=0n2nXmOxZS)] [CODE] |
+| Gap-Dependent Bounds for Federated $Q$-Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=0n2nXmOxZS)] |
 | FedBEns: One-Shot Federated Learning based on Bayesian Ensemble |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=oTCiv1bkjG)] [[CODE](https://github.com/jacopot96/FedBEns)] |
 | NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings via Neural Tangent Kernel |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=hC7zCFk5Dp)] [[CODE](https://github.com/Gabe-Thomp/ntk-dfl)] |
 | Federated Learning for Feature Generalization with Convex Constraints |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=pI4AbQ7pg1)] [[CODE](https://github.com/skku-dhkim/FedTorch.git)] |
 | Uncertainty-Based Extensible Codebook for Discrete Federated Learning in Heterogeneous Data Silos |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=EU5lci90fF)] [[CODE](https://github.com/destiny301/uefl)] |
-| Towards Trustworthy Federated Learning with Untrusted Participants |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=PjadKnUson)] [CODE] |
-| Multi-Session Budget Optimization for Forward Auction-based Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=bFB0N8ABIr)] [CODE] |
+| Towards Trustworthy Federated Learning with Untrusted Participants |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=PjadKnUson)] |
+| Multi-Session Budget Optimization for Forward Auction-based Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=bFB0N8ABIr)] |
 | Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=0p86Mhg014)] [[CODE](https://github.com/MoratalYang/FedDDA)] |
-| LBI-FL: Low-Bit Integerized Federated Learning with Temporally Dynamic Bit-Width Allocation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=li59703WbA)] [CODE] |
-| Momentum-Driven Adaptivity: Towards Tuning-Free Asynchronous Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=cgHfR7bt0V)] [CODE] |
+| LBI-FL: Low-Bit Integerized Federated Learning with Temporally Dynamic Bit-Width Allocation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=li59703WbA)] |
+| Momentum-Driven Adaptivity: Towards Tuning-Free Asynchronous Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=cgHfR7bt0V)] |
 | Differentially Private Federated $k$-Means Clustering with Server-Side Data |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=EFLPHl5RGJ)] [[CODE](https://github.com/jonnyascott/fed-dp-kmeans)] |
-| CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=lvkVhZ776k)] [CODE] |
+| CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=lvkVhZ776k)] |
 | Understanding the Statistical Accuracy-Communication Trade-off in Personalized Federated Learning with Minimax Guarantees |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=MM6ZWF7gl9)] [[CODE](https://github.com/ZLHe0/fedclup)] |
 | $S^2$FGL: Spatial Spectral Federated Graph Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=pFQ3MnyIT6)] [[CODE](https://github.com/Wonder7racer/S2FGL.git)] |
 | FSL-SAGE: Accelerating Federated Split Learning via Smashed Activation Gradient Estimation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=HnwcrtoDd4)] [[CODE](https://github.com/srijith1996/FSL-SAGE)] |
 | Interaction-Aware Gaussian Weighting for Clustered Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=dZAQxNFKGg)] [[CODE](https://openreview.net/forum?id=XCLZgbm99O)] |
-| Efficient Heterogeneity-Aware Federated Active Data Selection |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=pSdWTED0ZZ)] [CODE] |
+| Efficient Heterogeneity-Aware Federated Active Data Selection |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=pSdWTED0ZZ)] |
 | Splitting with Importance-aware Updating for Heterogeneous Federated Learning with Large Language Models |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=ny0m8YEUzH)] [[CODE](https://github.com/liaosunny123/FedICU)] |
-| Rethinking the Temperature for Federated Heterogeneous Distillation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=f9xsNQ8oSd)] [CODE] |
-| FedClean: A General Robust Label Noise Correction for Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=4kF2ZZcePc)] [CODE] |
-| Federated Causal Structure Learning with Non-identical Variable Sets |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=QlEx8f3S61)] [CODE] |
-| FedECADO: A Dynamical System Model of Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=gujuGnbhZr)] [CODE] |
+| Rethinking the Temperature for Federated Heterogeneous Distillation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=f9xsNQ8oSd)] |
+| FedClean: A General Robust Label Noise Correction for Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=4kF2ZZcePc)] |
+| Federated Causal Structure Learning with Non-identical Variable Sets |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=QlEx8f3S61)] |
+| FedECADO: A Dynamical System Model of Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=gujuGnbhZr)] |
 | Efficient Federated Incomplete Multi-View Clustering |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=sylDbssCU9)] [[CODE](https://github.com/Tracesource/EFIMVC)] |
 | Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=7qvYLnJDRd)] [[CODE](https://github.com/PaddiHunter/FIMCFG)] |
-| Local Pan-privacy for Federated Analytics |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=M18dhHTFf8)] [CODE] |
+| Local Pan-privacy for Federated Analytics |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=M18dhHTFf8)] |
 | FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=QwTDQXllam)] [[CODE](https://github.com/GanyuWang/FedOne-BDPL)] |
 | Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=zV5pkTMHPP)] [[CODE](https://github.com/Hongyao-Chen/HybridBN)] |
 | Private Federated Learning using Preference-Optimized Synthetic Data |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=ZuaU2bYzlc)] [[CODE](https://github.com/meiyuw/POPri)] |
-| Enhancing Foundation Models with Federated Domain Knowledge Infusion |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=6SIVFmjIm4)] [CODE] |
+| Enhancing Foundation Models with Federated Domain Knowledge Infusion |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=6SIVFmjIm4)] |
 | FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=y7pDvbi9xz)] [[CODE](https://github.com/CYFang6/FedPHA)] |
 | Federated Oriented Learning: A Practical One-Shot Personalized Federated Learning Framework |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=jwjvkWsePB)] [[CODE](https://app.box.com/s/phf6bhjy6owcr6b1rvfe412fiw059pxk)] |
-| Federated Node-Level Clustering Network with Cross-Subgraph Link Mending |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=38Nh0TebXZ)] [CODE] |
+| Federated Node-Level Clustering Network with Cross-Subgraph Link Mending |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=38Nh0TebXZ)] |
 | Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=mzPArjGqrs)] [[CODE](https://github.com/allen4747/Ferret)] |
-| FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=9hFQvmCl7P)] [CODE] |
+| FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic Intelligence |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=9hFQvmCl7P)] |
 | Federated Generalised Variational Inference: A Robust Probabilistic Federated Learning Framework |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=M7mVzCV6uU)] [[CODE](https://github.com/Terje-M/FedGVI)] |
-| DTZO: Distributed Trilevel Zeroth Order Learning with Provable Non-Asymptotic Convergence |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=EvzArsKUww)] [CODE] |
-| On-Device Collaborative Language Modeling via a Mixture of Generalists and Specialists |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=Eog0kXX7hW)] [CODE] |
+| DTZO: Distributed Trilevel Zeroth Order Learning with Provable Non-Asymptotic Convergence |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=EvzArsKUww)] |
+| On-Device Collaborative Language Modeling via a Mixture of Generalists and Specialists |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=Eog0kXX7hW)] |
 | Safe-EF: Error Feedback for Non-smooth Constrained Optimization |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=9D5aM5LQ3Y)] [[CODE](https://github.com/yardenas/safe-ef)] |
 | Gradient Inversion of Multimodal Models |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=j4IELrBhoG)] [[CODE](https://github.com/AlonZolfi/gi-dqa)] |
 | Widening the Network Mitigates the Impact of Data Heterogeneity on FedAvg |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=0p04srg7uf)] [[CODE](https://github.com/kkhuge/ICML2025)] |
-| Decoupled SGDA for Games with Intermittent Strategy Communication |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=ZYkFTSEZ6k)] [CODE] |
-| Private Model Personalization Revisited |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=hw1kGPcSZ5)] [CODE] |
-| Leveraging Randomness in Model and Data Partitioning for Privacy Amplification |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=3K6BkFZ7ka)] [CODE] |
+| Decoupled SGDA for Games with Intermittent Strategy Communication |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=ZYkFTSEZ6k)] |
+| Private Model Personalization Revisited |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=hw1kGPcSZ5)] |
+| Leveraging Randomness in Model and Data Partitioning for Privacy Amplification |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=3K6BkFZ7ka)] |
 | Scaffold with Stochastic Gradients: New Analysis with Linear Speed-Up |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=2XvOJvUlKc)] [[CODE](https://github.com/pmangold/scaffold-speed-up)] |
 | Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=hrBfufwMzg)] [[CODE](https://github.com/buptcmm/phnhvvs)] |
 | FedSMU: Communication-Efficient and Generalization-Enhanced Federated Learning through Symbolic Model Updates |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=V18WOxHRMq)] [[CODE](https://github.com/lxy66888/fedsmu.git)] |
 | One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=80mK2Mqaph)] [[CODE](https://github.com/harrylee999/FL-SAM)] |
-| Certifiably Robust Model Evaluation in Federated Learning under Meta-Distributional Shifts |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=dKfq3JbjnE)] [CODE] |
+| Certifiably Robust Model Evaluation in Federated Learning under Meta-Distributional Shifts |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=dKfq3JbjnE)] |
 | Does One-shot Give the Best Shot? Mitigating Model Inconsistency in One-shot Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=2XvF67vbCK)] [[CODE](https://github.com/zenghui9977/FAFI_ICML25)] |
 | GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=nAk0ENu8LS)] [[CODE](https://github.com/JiaruQian/GHOST)] |
-| DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning Based on Constant-Overhead Linear Secret Resharing |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=Nv6mOSqUVA)] [CODE] |
-| BSemiFL: Semi-supervised Federated Learning via a Bayesian Approach |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=fmlol78Qqf)] [CODE] |
-| Janus: Dual-Server Multi-Round Secure Aggregation with Verifiability for Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=HdS6tZwwa7)] [CODE] |
+| DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning Based on Constant-Overhead Linear Secret Resharing |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=Nv6mOSqUVA)] |
+| BSemiFL: Semi-supervised Federated Learning via a Bayesian Approach |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=fmlol78Qqf)] |
+| Janus: Dual-Server Multi-Round Secure Aggregation with Verifiability for Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=HdS6tZwwa7)] |
 | EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=Bd9JlrqZhN)] [[CODE](https://github.com/ZitongShi/EAGLES)] |
 | Harnessing Heterogeneous Statistical Strength for Personalized Federated Learning via Hierarchical Bayesian Inference |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=Zn6hmmBnAa)] [[CODE](https://github.com/mahendrathapa/pFedHB)] |
 | Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in Federated Vision Models |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=R7gCixl2xR)] [[CODE](https://github.com/GivralNguyen/FL-LDP-AMI)] |
-| Generalization in Federated Learning: A Conditional Mutual Information Framework |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=kOttDCDYJp)] [CODE] |
+| Generalization in Federated Learning: A Conditional Mutual Information Framework |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=kOttDCDYJp)] |
 | The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=aooq3tQIX9)] [[CODE](https://github.com/Leopold1423/fedmud-icml25)] |
 | Improved Coresets for Vertical Federated Learning: Regularized Linear and Logistic Regressions |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=rCJNbDXkvC)] [[CODE](https://github.com/dcll-iiitd/CoresetForVFL)] |
-| Privacy-Preserving Federated Convex Optimization: Balancing Partial-Participation and Efficiency via Noise Cancellation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=ULZHqJU4ZC)] [CODE] |
-| Federated In-Context Learning: Iterative Refinement for Improved Answer Quality |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=TUk7gCqtmf)] [CODE] |
+| Privacy-Preserving Federated Convex Optimization: Balancing Partial-Participation and Efficiency via Noise Cancellation |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=ULZHqJU4ZC)] |
+| Federated In-Context Learning: Iterative Refinement for Improved Answer Quality |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=TUk7gCqtmf)] |
 | SPMC: Self-Purifying Federated Backdoor Defense via Margin Contribution |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=Kjz03pmyW0)] [[CODE](https://github.com/WenddHe0119/SPMC)] |
-| You Get What You Give: Reciprocally Fair Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=ZdmMDz33Io)] [CODE] |
+| You Get What You Give: Reciprocally Fair Federated Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=ZdmMDz33Io)] |
 | Provably Near-Optimal Federated Ensemble Distillation with Negligible Overhead |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=6znPjYn11w)] [[CODE](https://github.com/pupiu45/FedGO)] |
-| Byzantine-Resilient Federated Alternating Gradient Descent and Minimization for Partly-Decoupled Low Rank Matrix Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=iBOMvaa2aN)] [CODE] |
+| Byzantine-Resilient Federated Alternating Gradient Descent and Minimization for Partly-Decoupled Low Rank Matrix Learning |  | ICML | 2025 | [[PUB](https://openreview.net/forum?id=iBOMvaa2aN)] |
 | HFIA: a parasitic feature inference attack and gradient-based defense strategy in SplitNN-based vertical federated learning |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-025-06804-2)] |
 | Fedflow: a personalized federated learning framework for passenger flow prediction |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-025-06795-0)] |
 | Federated causal inference from observational data |  | Mach Learn | 2025 | [[PUB](https://link.springer.com/article/10.1007/s10994-025-06819-9)] |
@@ -765,7 +765,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 | Closed-Form Merging of Parameter-Efficient Modules for Federated Continual Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=ROpY0qRUXL)] |
 | Federated Continual Learning Goes Online: Uncertainty-Aware Memory Management for Vision Tasks and Beyond |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=f65RuQgVlp)] |
 | Federated Few-Shot Class-Incremental Learning |  | ICLR | 2025 | [[PUB](https://openreview.net/forum?id=ZiPoAlKf9Y)] |
-| Re-Fed+: A Better Replay Strategy for Federated Incremental Learning | | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10930690)] |
+| Re-Fed+: A Better Replay Strategy for Federated Incremental Learning |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10930690)] |
 | DFedADMM: Dual Constraint Controlled Model Inconsistency for Decentralize Federated Learning |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10908045)] |
 | Robust Asymmetric Heterogeneous Federated Learning With Corrupted Clients |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10833756)] |
 | Federated Multi-View K-Means Clustering |  | TPAMI | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10810504)] |
@@ -1644,11 +1644,11 @@ Federated Learning papers accepted by top Secure conference and journal, Includi
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
-|Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning |  | S&P | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11023255)] |
-|Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning |  | S&P | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11023464)] |
-|An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models |  | S&P Workshop | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11050826)] |
-|Privacy-Preserving Mutual Authentication Protocol for Federated Learning in Intelligent Transportation Systems |  | S&P Workshop | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11050805)] |
-|FedTilt: Towards Multi-Level Fairness-Preserving and Robust Federated Learning |  | S&P Workshop | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11050846)] |
+| Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning |  | S&P | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11023255)] |
+| Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning |  | S&P | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11023464)] |
+| An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models |  | S&P Workshop | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11050826)] |
+| Privacy-Preserving Mutual Authentication Protocol for Federated Learning in Intelligent Transportation Systems |  | S&P Workshop | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11050805)] |
+| FedTilt: Towards Multi-Level Fairness-Preserving and Robust Federated Learning |  | S&P Workshop | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11050846)] |
 | Privacy-Preserving Data Deduplication for Enhancing Federated Learning of Language Models |  | NDSS | 2025 | [[PUB](https://www.ndss-symposium.org/ndss-paper/privacy-preserving-data-deduplication-for-enhancing-federated-learning-of-language-models/)] |
 | Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction |  | NDSS | 2025 | [[PUB](https://www.ndss-symposium.org/ndss-paper/scale-mia-a-scalable-model-inversion-attack-against-secure-federated-learning-via-latent-space-reconstruction/)] [[CODE](https://github.com/unknown123489/Scale-MIA)] |
 | URVFL: Undetectable Data Reconstruction Attack on Vertical Federated Learning |  | NDSS | 2025 | [[PUB](https://www.ndss-symposium.org/ndss-paper/urvfl-undetectable-data-reconstruction-attack-on-vertical-federated-learning/)] |
@@ -1743,33 +1743,33 @@ Federated Learning papers accepted by top CV(computer vision) conference and jou
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
-|Federated Learning with Domain Shift Eraser |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Federated_Learning_with_Domain_Shift_Eraser_CVPR_2025_paper.html) |
-|Beyond Local Sharpness: Communication-Efficient Global Sharpness-aware Minimization for Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Caldarola_Beyond_Local_Sharpness_Communication-Efficient_Global_Sharpness-aware_Minimization_for_Federated_Learning_CVPR_2025_paper.html) [CODE](https://github.com/pietrocagnasso/fedgloss) |
-|FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_FedBiP_Heterogeneous_One-Shot_Federated_Learning_with_Personalized_Latent_Diffusion_Models_CVPR_2025_paper.html) [CODE](https://github.com/HaokunChen245/FedBiP) |
-|FedCS: Coreset Selection for Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Hao_FedCS_Coreset_Selection_for_Federated_Learning_CVPR_2025_paper.html) |
-|AFL: A Single-Round Analytic Approach for Federated Learning with Pre-trained Models |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/He_AFL_A_Single-Round_Analytic_Approach_for_Federated_Learning_with_Pre-trained_CVPR_2025_paper.html) |
-|NoT: Federated Unlearning via Weight Negation |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Khalil_NoT_Federated_Unlearning_via_Weight_Negation_CVPR_2025_paper.html) |
-|Fortifying Federated Learning Towards Trustworthiness via Auditable Data Valuation and Verifiable Client Contribution |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Kumar_Fortifying_Federated_Learning_Towards_Trustworthiness_via_Auditable_Data_Valuation_and_CVPR_2025_paper.html) |
-|Infighting in the Dark: Multi-Label Backdoor Attack in Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Infighting_in_the_Dark_Multi-Label_Backdoor_Attack_in_Federated_Learning_CVPR_2025_paper.html) |
-|Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html) [CODE](https://github.com/Jay-Codeman/SAGE) |
-|Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ma_Geometric_Knowledge-Guided_Localized_Global_Distribution_Alignment_for_Federated_Learning_CVPR_2025_paper.html) |
-|HistoFS: Non-IID Histopathologic Whole Slide Image Classification via Federated Style Transfer with RoI-Preserving |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Raswa_HistoFS_Non-IID_Histopathologic_Whole_Slide_Image_Classification_via_Federated_Style_CVPR_2025_paper.html) [COCE](https://lalakitchen.github.io/HistoFS/) |
-|F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective  Meta-Heuristics |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html) [PAGE](https://pramitsaha.github.io/FOCUS/) |
-|FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Shi_FedAWA_Adaptive_Optimization_of_Aggregation_Weights_in_Federated_Learning_Using_CVPR_2025_paper.html) |
-|FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Tan_FedSPA_Generalizable_Federated_Graph_Learning_under_Homophily_Heterogeneity_CVPR_2025_paper.html) [CODE](https://github.com/OakleyTan/FedSPA) |
-|Population Normalization for Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Population_Normalization_for_Federated_Learning_CVPR_2025_paper.html) |
-|Model Poisoning Attacks to Federated Learning via Multi-Round Consistency |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Model_Poisoning_Attacks_to_Federated_Learning_via_Multi-Round_Consistency_CVPR_2025_paper.html) [CODE](https://github.com/xyq7/PoisonedFL/) |
-|dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.html) |
-|Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Detecting_Backdoor_Attacks_in_Federated_Learning_via_Direction_Alignment_Inspection_CVPR_2025_paper.html) [CODE](https://anonymous.4open.science/r/AlignIns) |
-|A Simple Data Augmentation for Feature Distribution Skewed Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_A_Simple_Data_Augmentation_for_Feature_Distribution_Skewed_Federated_Learning_CVPR_2025_paper.html) [CODE](https://github.com/IAMJackYan/FedRDN) |
-|Handling Spatial-Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Handling_Spatial-Temporal_Data_Heterogeneity_for_Federated_Continual_Learning_via_Tail_CVPR_2025_paper.html) |
-|Subspace Constraint and Contribution Estimation for Heterogeneous Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Subspace_Constraint_and_Contribution_Estimation_for_Heterogeneous_Federated_Learning_CVPR_2025_paper.html) [CODE](https://github.com/AVC2-UESTC/FedSCE.git) |
-|pFedMxF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_pFedMxF_Personalized_Federated_Class-Incremental_Learning_with_Mixture_of_Frequency_Aggregation_CVPR_2025_paper.html) |
-|FedCALM: Conflict-aware Layer-wise Mitigation for Selective Aggregation in Deeper Personalized Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_FedCALM_Conflict-aware_Layer-wise_Mitigation_for_Selective_Aggregation_in_Deeper_Personalized_CVPR_2025_paper.html) |
-|Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Unlearning_through_Knowledge_Overwriting_Reversible_Federated_Unlearning_via_Selective_Sparse_CVPR_2025_paper.html) |
-|FedMIA: An Effective Membership Inference Attack Exploiting "All for One" Principle in Federated Learning |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_FedMIA_An_Effective_Membership_Inference_Attack_Exploiting_All_for_One_CVPR_2025_paper.html) [CODE](https://github.com/Liar-Mask/FedMIA) |
-|Patient-Level Anatomy Meets Scanning-Level Physics: Personalized  Federated Low-Dose CT Denoising Empowered by Large Language Model |  | CVPR | 2025 | [PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.html) |
-|Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning |  | IJCV | 2025 | [PUB](https://link.springer.com/article/10.1007/s11263-024-02330-1) |
+| Federated Learning with Domain Shift Eraser |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Federated_Learning_with_Domain_Shift_Eraser_CVPR_2025_paper.html)] |
+| Beyond Local Sharpness: Communication-Efficient Global Sharpness-aware Minimization for Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Caldarola_Beyond_Local_Sharpness_Communication-Efficient_Global_Sharpness-aware_Minimization_for_Federated_Learning_CVPR_2025_paper.html)] [[CODE](https://github.com/pietrocagnasso/fedgloss)] |
+| FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_FedBiP_Heterogeneous_One-Shot_Federated_Learning_with_Personalized_Latent_Diffusion_Models_CVPR_2025_paper.html)] [[CODE](https://github.com/HaokunChen245/FedBiP)] |
+| FedCS: Coreset Selection for Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Hao_FedCS_Coreset_Selection_for_Federated_Learning_CVPR_2025_paper.html)] |
+| AFL: A Single-Round Analytic Approach for Federated Learning with Pre-trained Models |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/He_AFL_A_Single-Round_Analytic_Approach_for_Federated_Learning_with_Pre-trained_CVPR_2025_paper.html)] |
+| NoT: Federated Unlearning via Weight Negation |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Khalil_NoT_Federated_Unlearning_via_Weight_Negation_CVPR_2025_paper.html)] |
+| Fortifying Federated Learning Towards Trustworthiness via Auditable Data Valuation and Verifiable Client Contribution |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Kumar_Fortifying_Federated_Learning_Towards_Trustworthiness_via_Auditable_Data_Valuation_and_CVPR_2025_paper.html)] |
+| Infighting in the Dark: Multi-Label Backdoor Attack in Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Infighting_in_the_Dark_Multi-Label_Backdoor_Attack_in_Federated_Learning_CVPR_2025_paper.html)] |
+| Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html)] [[CODE](https://github.com/Jay-Codeman/SAGE)] |
+| Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Ma_Geometric_Knowledge-Guided_Localized_Global_Distribution_Alignment_for_Federated_Learning_CVPR_2025_paper.html)] |
+| HistoFS: Non-IID Histopathologic Whole Slide Image Classification via Federated Style Transfer with RoI-Preserving |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Raswa_HistoFS_Non-IID_Histopathologic_Whole_Slide_Image_Classification_via_Federated_Style_CVPR_2025_paper.html)] [[COCE](https://lalakitchen.github.io/HistoFS/)] |
+| F^3OCUS - Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective  Meta-Heuristics |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html)] [[PAGE](https://pramitsaha.github.io/FOCUS/)] |
+| FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Shi_FedAWA_Adaptive_Optimization_of_Aggregation_Weights_in_Federated_Learning_Using_CVPR_2025_paper.html)] |
+| FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Tan_FedSPA_Generalizable_Federated_Graph_Learning_under_Homophily_Heterogeneity_CVPR_2025_paper.html)] [[CODE](https://github.com/OakleyTan/FedSPA)] |
+| Population Normalization for Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Population_Normalization_for_Federated_Learning_CVPR_2025_paper.html)] |
+| Model Poisoning Attacks to Federated Learning via Multi-Round Consistency |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Model_Poisoning_Attacks_to_Federated_Learning_via_Multi-Round_Consistency_CVPR_2025_paper.html)] [[CODE](https://github.com/xyq7/PoisonedFL/)] |
+| dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.html)] |
+| Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Detecting_Backdoor_Attacks_in_Federated_Learning_via_Direction_Alignment_Inspection_CVPR_2025_paper.html)] [[CODE](https://anonymous.4open.science/r/AlignIns)] |
+| A Simple Data Augmentation for Feature Distribution Skewed Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_A_Simple_Data_Augmentation_for_Feature_Distribution_Skewed_Federated_Learning_CVPR_2025_paper.html)] [[CODE](https://github.com/IAMJackYan/FedRDN)] |
+| Handling Spatial-Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Yu_Handling_Spatial-Temporal_Data_Heterogeneity_for_Federated_Continual_Learning_via_Tail_CVPR_2025_paper.html)] |
+| Subspace Constraint and Contribution Estimation for Heterogeneous Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Subspace_Constraint_and_Contribution_Estimation_for_Heterogeneous_Federated_Learning_CVPR_2025_paper.html)] [[CODE](https://github.com/AVC2-UESTC/FedSCE.git)] |
+| pFedMxF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_pFedMxF_Personalized_Federated_Class-Incremental_Learning_with_Mixture_of_Frequency_Aggregation_CVPR_2025_paper.html)] |
+| FedCALM: Conflict-aware Layer-wise Mitigation for Selective Aggregation in Deeper Personalized Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_FedCALM_Conflict-aware_Layer-wise_Mitigation_for_Selective_Aggregation_in_Deeper_Personalized_CVPR_2025_paper.html)] |
+| Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Unlearning_through_Knowledge_Overwriting_Reversible_Federated_Unlearning_via_Selective_Sparse_CVPR_2025_paper.html)] |
+| FedMIA: An Effective Membership Inference Attack Exploiting "All for One" Principle in Federated Learning |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_FedMIA_An_Effective_Membership_Inference_Attack_Exploiting_All_for_One_CVPR_2025_paper.html)] [[CODE](https://github.com/Liar-Mask/FedMIA)] |
+| Patient-Level Anatomy Meets Scanning-Level Physics: Personalized  Federated Low-Dose CT Denoising Empowered by Large Language Model |  | CVPR | 2025 | [[PUB](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.html)] |
+| Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning |  | IJCV | 2025 | [[PUB](https://link.springer.com/article/10.1007/s11263-024-02330-1)] |
 | DualFed: Enjoying both Generalization and Personalization in Federated Learning via Hierachical Representations |  | MM | 2024 | [[PUB](https://doi.org/10.1145/3664647.3681260)] |
 | One-shot-but-not-degraded Federated Learning |  | MM | 2024 | [[PUB](https://doi.org/10.1145/3664647.3680715)] |
 | Overcoming Spatial-Temporal Catastrophic Forgetting for Federated Class-Incremental Learning |  | MM | 2024 | [[PUB](https://doi.org/10.1145/3664647.3681384)] |
@@ -1994,17 +1994,17 @@ Federated Learning papers accepted by top AI and NLP conference and journal, inc
 
 |Title                                                           |    Affiliation                                          |    Venue             |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------- | -------------- | ---- | ------------------------------------------------------------ |
-|Towards Robust and Efficient Federated Low-Rank Adaptation with Heterogeneous Clients |  | ACL | 2025 | [[PUB](https://aclanthology.org/2025.acl-long.19/)] |
-|FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Large Language Models |  | ACL | 2025 | [[PUB](https://aclanthology.org/2025.acl-long.67/)] |
-|Federated Data-Efficient Instruction Tuning for Large Language Models |  | ACL Findings | 2025 | [[PUB](https://aclanthology.org/2025.findings-acl.803/)] |
-|FedDQC: Data Quality Control in Federated Instruction-tuning of Large Language Models |  | ACL Findings | 2025 | [[PUB](https://aclanthology.org/2025.findings-acl.791/)] |
-|Communication-Efficient and Tensorized Federated Fine-Tuning of Large Language Models |  | ACL Findings | 2025 | [[PUB](https://aclanthology.org/2025.findings-acl.1241/)] |
-|FedLEKE: Federated Locate-then-Edit Knowledge Editing for Multi-Client Collaboration |  | ACL Findings | 2025 | [[PUB](https://aclanthology.org/2025.findings-acl.733/)] |
+| Towards Robust and Efficient Federated Low-Rank Adaptation with Heterogeneous Clients |  | ACL | 2025 | [[PUB](https://aclanthology.org/2025.acl-long.19/)] |
+| FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Large Language Models |  | ACL | 2025 | [[PUB](https://aclanthology.org/2025.acl-long.67/)] |
+| Federated Data-Efficient Instruction Tuning for Large Language Models |  | ACL Findings | 2025 | [[PUB](https://aclanthology.org/2025.findings-acl.803/)] |
+| FedDQC: Data Quality Control in Federated Instruction-tuning of Large Language Models |  | ACL Findings | 2025 | [[PUB](https://aclanthology.org/2025.findings-acl.791/)] |
+| Communication-Efficient and Tensorized Federated Fine-Tuning of Large Language Models |  | ACL Findings | 2025 | [[PUB](https://aclanthology.org/2025.findings-acl.1241/)] |
+| FedLEKE: Federated Locate-then-Edit Knowledge Editing for Multi-Client Collaboration |  | ACL Findings | 2025 | [[PUB](https://aclanthology.org/2025.findings-acl.733/)] |
 | Gradient Inversion Attack in Federated Learning: Exposing Text Data through Discrete Optimization. |  | COLING | 2025 | [[PUB](https://aclanthology.org/2025.coling-main.176/)] |
 | FedMKT: Federated Mutual Knowledge Transfer for Large and Small Language Models. |  | COLING | 2025 | [[PUB](https://aclanthology.org/2025.coling-main.17/)] |
 | Federated Incremental Named Entity Recognition. |  | COLING | 2025 | [[PUB](https://aclanthology.org/2025.coling-main.13/)] |
 | FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning |  | COLING | 2025 | [[PUB](https://aclanthology.org/2025.coling-main.581/)] |
-| Federated Retrieval Augmented Generation for Multi-Product Question Answering | | COLING (Industry) | 2025 | [[PUB](https://aclanthology.org/2025.coling-industry.33/)] |
+| Federated Retrieval Augmented Generation for Multi-Product Question Answering |  | COLING (Industry) | 2025 | [[PUB](https://aclanthology.org/2025.coling-industry.33/)] |
 | A Hassle-free Algorithm for Strong Differential Privacy in Federated Learning Systems |  | EMNLP | 2024 | [[PUB](https://aclanthology.org/2024.emnlp-industry.64/)] |
 | Safely Learning with Private Data: A Federated Learning Framework for Large Language Model |  | EMNLP | 2024 | [[PUB](https://aclanthology.org/2024.emnlp-main.303)] |
 | FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models |  | EMNLP | 2024 | [[PUB](https://aclanthology.org/2024.emnlp-main.464)] |
@@ -2076,10 +2076,10 @@ Federated Learning papers accepted by top Information Retrieval conference and j
 
 |Title                                                           |    Affiliation                        |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------- | ----- | ---- | ------------------------------------------------------------ |
-|FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation |  | SIGIR | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3726302.3729977)] |
-|NodeRec+: A Lightweight Framework for Federated Recommender Systems |  | SIGIR | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3726302.3730138)] |
-|Unlearning for Federated Online Learning to Rank: A Reproducibility Study |  | SIGIR | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3726302.3730336)] |
-|Joint Item Embedding Dual-view Exploration and Adaptive Local-Global Fusion for Federated Recommendation |  | SIGIR | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3726302.3730016)] |
+| FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation |  | SIGIR | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3726302.3729977)] |
+| NodeRec+: A Lightweight Framework for Federated Recommender Systems |  | SIGIR | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3726302.3730138)] |
+| Unlearning for Federated Online Learning to Rank: A Reproducibility Study |  | SIGIR | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3726302.3730336)] |
+| Joint Item Embedding Dual-view Exploration and Adaptive Local-Global Fusion for Federated Recommendation |  | SIGIR | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3726302.3730016)] |
 | ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit | THU | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657763)] |
 | Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport | ZJU | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657764)] |
 | FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented Generation | UQ | SIGIR | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3626772.3657853)] [[PDF](https://arxiv.org/abs/2402.11891)] [[CODE](https://github.com/ielab/FeB4RAG)] |
@@ -2114,7 +2114,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                        | Affiliation                     | Venue           | Year | Materials|
 | ------------------------------------------------------------ | ------------------------------- | --------------- | ---- | ------------------------------------------------------------ |
-|OpenFGL: A Comprehensive Benchmark for Federated Graph Learning |  | VLDB | 2025 | [[PUB](https://www.vldb.org/pvldb/vol18/p1305-li.pdf)] |
+| OpenFGL: A Comprehensive Benchmark for Federated Graph Learning |  | VLDB | 2025 | [[PUB](https://www.vldb.org/pvldb/vol18/p1305-li.pdf)] |
 | FedMix: Boosting with Data Mixture for Vertical Federated Learning |  | ICDE | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10597834)] |
 | FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation |  | ICDE | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10597740)] |
 | Clients Help Clients: Alternating Collaboration for Semi-Supervised Federated Learning |  | ICDE | 2024 | [[PUB](https://ieeexplore.ieee.org/document/10598007)] |
@@ -2204,34 +2204,34 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                                                     |    Venue         |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---- | ------------------------------------------------------------ |
-|Preference Profiling Attacks Against Vertical Federated Learning Over Graph Data |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044459)] |
-|FedGPA: Federated Learning with Global-Personalized Collaboration for Edge Anomaly Detection |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044589)] |
-|Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044641)] |
-|FLM-TopK: Expediting Federated Large Language Model Tuning by Sparsifying Intervalized Gradients |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044514)] |
-|Client Sampling for Communication-Efficient Distributed Minimax Optimization |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044637)] |
-|Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044618)] |
-|ElasticFed: Collaborative Large-Small Transformer Training for Federated Continual Learning at Edge |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044503)] |
-|γ-FedHT: Stepsize-Aware Hard-Threshold Gradient Compression in Federated Learning |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044558)] |
-|PSFL: Parallel-Sequential Federated Learning with Convergence Guarantees |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044534)] |
-|GraphRx: Graph-Based Collaborative Learning Among Multiple Cells for Uplink Neural Receivers |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044726)] |
-|Input Integrity and Authentic Results: Towards Trustworthy Aggregation in Federated Learning |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044719)] |
-|Lightweight Federated Learning with Differential Privacy and Straggler Resilience |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044562)] |
-|Communication Efficient Asynchronous Stochastic Gradient Descent |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044686)] |
-|GeoFL: A Framework for Efficient Geo-Distributed Cross-Device Federated Learning |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044713)] |
-|FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044747)] |
-|LCO-AGQ: A Lightweight Client-Oriented Adaptive Gradient Quantization Algorithm for Federated Learning |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044636)] |
-|FedEXT: Differential Federated Learning with Complementary Extension of Edge Models |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044645)] |
-|FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044717)] |
-|Similarity-Guided Rapid Deployment of Federated Intelligence Over Heterogeneous Edge Computing |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044586)] |
-|CARE: Compatibility-Aware Incentive Mechanisms for Federated Learning with Budgeted Requesters |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044535)] |
-|Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044570)] |
-|Multi-Task Reinforcement Learning for Collaborative Network Optimization in Data Centers |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044699)] |
-|Towards Federated Inference: An Online Model Ensemble Framework for Cooperative Edge AI |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044578)] |
-|VaniKG: Vanishing Key Gradient Attack and Defense for Robust Federated Aggregation |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044620)] |
-|Combating Deep Leakage from Gradients in Cross-Silo Federated Learning with QKD |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044743)] |
-|FedUFD: Personalized Edge Computing Using Federated Uncertainty-Driven Feature Distillation |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044664)] |
-|Accelerating Clustered Federated Learning in Dynamic D2D Networks with Transferable GNN |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044690)] |
-|AoI-Aware Federated Unlearning for Streaming Data with Online Client Selection and Pricing |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044760)] |
+| Preference Profiling Attacks Against Vertical Federated Learning Over Graph Data |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044459)] |
+| FedGPA: Federated Learning with Global-Personalized Collaboration for Edge Anomaly Detection |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044589)] |
+| Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044641)] |
+| FLM-TopK: Expediting Federated Large Language Model Tuning by Sparsifying Intervalized Gradients |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044514)] |
+| Client Sampling for Communication-Efficient Distributed Minimax Optimization |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044637)] |
+| Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044618)] |
+| ElasticFed: Collaborative Large-Small Transformer Training for Federated Continual Learning at Edge |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044503)] |
+| γ-FedHT: Stepsize-Aware Hard-Threshold Gradient Compression in Federated Learning |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044558)] |
+| PSFL: Parallel-Sequential Federated Learning with Convergence Guarantees |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044534)] |
+| GraphRx: Graph-Based Collaborative Learning Among Multiple Cells for Uplink Neural Receivers |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044726)] |
+| Input Integrity and Authentic Results: Towards Trustworthy Aggregation in Federated Learning |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044719)] |
+| Lightweight Federated Learning with Differential Privacy and Straggler Resilience |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044562)] |
+| Communication Efficient Asynchronous Stochastic Gradient Descent |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044686)] |
+| GeoFL: A Framework for Efficient Geo-Distributed Cross-Device Federated Learning |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044713)] |
+| FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044747)] |
+| LCO-AGQ: A Lightweight Client-Oriented Adaptive Gradient Quantization Algorithm for Federated Learning |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044636)] |
+| FedEXT: Differential Federated Learning with Complementary Extension of Edge Models |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044645)] |
+| FedFetch: Faster Federated Learning with Adaptive Downstream Prefetching |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044717)] |
+| Similarity-Guided Rapid Deployment of Federated Intelligence Over Heterogeneous Edge Computing |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044586)] |
+| CARE: Compatibility-Aware Incentive Mechanisms for Federated Learning with Budgeted Requesters |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044535)] |
+| Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044570)] |
+| Multi-Task Reinforcement Learning for Collaborative Network Optimization in Data Centers |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044699)] |
+| Towards Federated Inference: An Online Model Ensemble Framework for Cooperative Edge AI |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044578)] |
+| VaniKG: Vanishing Key Gradient Attack and Defense for Robust Federated Aggregation |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044620)] |
+| Combating Deep Leakage from Gradients in Cross-Silo Federated Learning with QKD |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044743)] |
+| FedUFD: Personalized Edge Computing Using Federated Uncertainty-Driven Feature Distillation |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044664)] |
+| Accelerating Clustered Federated Learning in Dynamic D2D Networks with Transferable GNN |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044690)] |
+| AoI-Aware Federated Unlearning for Streaming Data with Online Client Selection and Pricing |  | INFOCOM | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11044760)] |
 | Dynamic Graph Unlearning: A General and Efficient Post-Processing Method via Gradient Transformation |  | WWW | 2025 | [[PUB](https://doi.org/10.1145/3696410.3714911)] |
 | Empowering Federated Graph Rationale Learning with Latent Environments |  | WWW | 2025 | [[PUB](https://doi.org/10.1145/3696410.3714929)] |
 | Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks |  | WWW | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3696410.3714823)] |
@@ -2459,20 +2459,20 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 
 |Title                                                           |    Affiliation                  |    Venue                        |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------- | ------------------------- | ---- | ------------------------------------------------------------ |
-|Energy-Aware Heterogeneous Federated Learning via Approximate DNN Accelerators |  | TCAD | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10771979)] |
-|pFed-Litho: Lithography Modeling With a Personalized Federated Learning-Based Framework |  | TCAD | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10782991)] |
+| Energy-Aware Heterogeneous Federated Learning via Approximate DNN Accelerators |  | TCAD | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10771979)] |
+| pFed-Litho: Lithography Modeling With a Personalized Federated Learning-Based Framework |  | TCAD | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10782991)] |
 | SAFE: A Scalable Homomorphic Encryption Accelerator for Vertical Federated Learning |  | TCAD | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10750502)] |
 | Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism |  | EuroSys | 2025 | [[PUB](https://dl.acm.org/doi/10.1145/3689031.3717467)] |
-| Boosting Resource-Constrained Federated Learning Systems With Guessed Updates | | TPDS | 2025 | [PUB](https://ieeexplore.ieee.org/document/11029620) |
-| Coordinating Computational Capacity for Adaptive Federated Learning in Heterogeneous Edge Computing Systems | | TPDS | 2025 | [PUB](https://ieeexplore.ieee.org/document/11017399) |
-| FedCSpc: A Cross-Silo Federated Learning System With Error-Bounded Lossy Parameter Compression | | TPDS | 2025 | [PUB](https://ieeexplore.ieee.org/document/10978107) |
-| An Efficient Speculative Federated Tree Learning System With a Lightweight NN-Based Predictor | | TPDS | 2025 | [PUB](https://ieeexplore.ieee.org/document/11045215) |
+| Boosting Resource-Constrained Federated Learning Systems With Guessed Updates |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11029620)] |
+| Coordinating Computational Capacity for Adaptive Federated Learning in Heterogeneous Edge Computing Systems |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11017399)] |
+| FedCSpc: A Cross-Silo Federated Learning System With Error-Bounded Lossy Parameter Compression |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10978107)] |
+| An Efficient Speculative Federated Tree Learning System With a Lightweight NN-Based Predictor |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11045215)] |
 | FedLoRE: Communication-Efficient and Personalized Edge Intelligence Framework via Federated Low-Rank Estimation |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10916512)] |
 | DegaFL: Decentralized Gradient Aggregation for Cross-Silo Federated Learning |  | TPDS | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10756624)] |
-| Asymmetrically Decentralized Federated Learning | | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10998940)] |
-| Adaptive Incentivize for Federated Learning With Cloud-Edge Collaboration Under Multi-Level Information Sharing | | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10985790)] |
-| SAFA: Handling Sparse and Scarce Data in Federated Learning With Accumulative Learning | | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10908581)] |
-| PFed-NS: An Adaptive Personalized Federated Learning Scheme Through Neural Network Segmentation | | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10908576)] |
+| Asymmetrically Decentralized Federated Learning |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10998940)] |
+| Adaptive Incentivize for Federated Learning With Cloud-Edge Collaboration Under Multi-Level Information Sharing |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10985790)] |
+| SAFA: Handling Sparse and Scarce Data in Federated Learning With Accumulative Learning |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10908581)] |
+| PFed-NS: An Adaptive Personalized Federated Learning Scheme Through Neural Network Segmentation |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10908576)] |
 | Pruning-Based Adaptive Federated Learning at the Edge |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10852519)] |
 | Federated Learning Based DDoS Attacks Detection in Large Scale Software-Defined Network |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10705345)] |
 | Collaborative Neural Architecture Search for Personalized Federated Learning |  | TC | 2025 | [[PUB](https://ieeexplore.ieee.org/document/10713262)] |
