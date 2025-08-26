@@ -166,6 +166,11 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 
 |Title                                                           |    Affiliation    |    Venue                    |    Year    |    Materials|
 | ------------------------------------------------------------ | ----------- | --------------------- | ---- | ------------------------------------------------------------ |
+|FedECA: federated external control arms for causal inference with time-to-event data in distributed settings |  | Nat. Commun. | 2025 | [PUB](https://www.nature.com/articles/s41467-025-62525-z) [CODE](https://github.com/owkin/fedeca) |
+|Privacy-preserving multicenter differential protein abundance analysis with FedProt |  | Nat. Comput. Sci. | 2025 | [PUB](https://www.nature.com/articles/s43588-025-00832-7) [CODE](https://github.com/Freddsle/FedProt) |
+|Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge |  | Nat. Commun. | 2025 | [PUB](https://www.nature.com/articles/s41467-025-60466-1) [CODE](https://github.com/mlcommons/medperf/tree/fets-challenge) |
+|A fully open AI foundation model applied to chest radiography |  | Nature | 2025 | [PUB](https://www.nature.com/articles/s41586-025-09079-8) [CODE](https://github.com/jlianglab/Ark) |
+|Federated learning using a memristor compute-in-memory chip with in situ physical unclonable function and true random number generator |  | Nat. Electron. | 2025 | [PUB](https://www.nature.com/articles/s41928-025-01390-6) |
 | A framework reforming personalized Internet of Things by federated meta-learning | SYSU | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-59217-z)] [[CODE](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator/)] |
 | Achieving flexible fairness metrics in federated medical imaging | CUHK | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-58549-0)] [[CODE](https://zenodo.org/records/15203267)] |
 | Towards fairness-aware and privacy-preserving enhanced collaborative learning for healthcare | HIT | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-58055-3)] [[CODE](https://github.com/paridis-11/DynamicFL)] |
