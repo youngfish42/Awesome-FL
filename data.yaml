@@ -1567,6 +1567,44 @@ fl-in-top-tier-journal:
     year: 4
     materials: 60
   body:
+  - title: 'FedECA: federated external control arms for causal inference with time-to-event
+      data in distributed settings'
+    affiliation: ''
+    venue: Nat. Commun.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-025-62525-z
+      CODE: https://github.com/owkin/fedeca
+  - title: Privacy-preserving multicenter differential protein abundance analysis
+      with FedProt
+    affiliation: ''
+    venue: Nat. Comput. Sci.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s43588-025-00832-7
+      CODE: https://github.com/Freddsle/FedProt
+  - title: Towards fair decentralized benchmarking of healthcare AI algorithms with
+      the Federated Tumor Segmentation (FeTS) challenge
+    affiliation: ''
+    venue: Nat. Commun.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s41467-025-60466-1
+      CODE: https://github.com/mlcommons/medperf/tree/fets-challenge
+  - title: A fully open AI foundation model applied to chest radiography
+    affiliation: ''
+    venue: Nature
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s41586-025-09079-8
+      CODE: https://github.com/jlianglab/Ark
+  - title: Federated learning using a memristor compute-in-memory chip with in situ
+      physical unclonable function and true random number generator
+    affiliation: ''
+    venue: Nat. Electron.
+    year: '2025'
+    materials:
+      PUB: https://www.nature.com/articles/s41928-025-01390-6
   - title: A framework reforming personalized Internet of Things by federated meta-learning
     affiliation: SYSU
     venue: Nat. Commun.
