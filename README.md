@@ -164,151 +164,57 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 <summary>fl in top-tier journal</summary>
 <!-- START:fl-in-top-tier-journal -->
 
+|Title                                                           |    Affiliation    |    Venue                    |    Year    |    Materials|
+| ------------------------------------------------------------ | ----------- | --------------------- | ---- | ------------------------------------------------------------ |
+| Towards compute-efficient Byzantine-robust federated learning with fully homomorphic encryption |  | Nat. Mach. Intell. | 2025 | [[PUB](https://www.nature.com/articles/s42256-025-01107-6)] [[PDF](https://arxiv.org/abs/2408.06197)] [[CODE](https://github.com/siyang-jiang/Lancelot)] |
+| Incentivizing inclusive contributions in model sharing markets |  | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-62959-5)] [[CODE](https://github.com/19dx/iPFL)] |
+| FedECA: federated external control arms for causal inference with time-to-event data in distributed settings |  | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-62525-z)] [[CODE](https://github.com/owkin/fedeca)] |
+| Privacy-preserving multicenter differential protein abundance analysis with FedProt |  | Nat. Comput. Sci. | 2025 | [[PUB](https://www.nature.com/articles/s43588-025-00832-7)] [[CODE](https://github.com/Freddsle/FedProt)] |
+| Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge |  | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-60466-1)] [[CODE](https://github.com/mlcommons/medperf/tree/fets-challenge)] |
+| A fully open AI foundation model applied to chest radiography |  | Nature | 2025 | [[PUB](https://www.nature.com/articles/s41586-025-09079-8)] [[CODE](https://github.com/jlianglab/Ark)] |
+| Federated learning using a memristor compute-in-memory chip with in situ physical unclonable function and true random number generator |  | Nat. Electron. | 2025 | [[PUB](https://www.nature.com/articles/s41928-025-01390-6)] |
+| A framework reforming personalized Internet of Things by federated meta-learning | SYSU | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-59217-z)] [[CODE](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator/)] |
+| Achieving flexible fairness metrics in federated medical imaging | CUHK | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-58549-0)] [[CODE](https://zenodo.org/records/15203267)] |
+| Towards fairness-aware and privacy-preserving enhanced collaborative learning for healthcare | HIT | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-58055-3)] [[CODE](https://github.com/paridis-11/DynamicFL)] |
+| Data-driven federated learning in drug discovery with knowledge distillation | Lhasa Limited | Nat. Mach. Intell. | 2025 | [[PUB](https://www.nature.com/articles/s42256-025-00991-2)] [[CODE](https://github.com/LhasaLimited/FLuID_POC)] |
+| Distributed cross-learning for equitable federated models - privacy-preserving prediction on data from five California hospitals | Yale University; UCSD | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-56510-9)] |
+| Physical unclonable in-memory computing for simultaneous protecting private data and deep learning models | PKU | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-56412-w)] [[新闻](https://ic.pku.edu.cn/kxyj/kycg1/d2c084006150492c93ae3e6b0cb1d7df.htm)] |
+| MatSwarm: trusted swarm transfer learning driven materials computation for secure big data sharing | USTB; NTU | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-024-53431-x)] [[CODE](https://github.com/SICC-Group/MatSwarm)] |
+| Introducing edge intelligence to smart meters via federated split learning | HKU | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-024-53352-9)] [[新闻](https://www.ces.org.cn/html/report/24110829-1.htm)] |
+| An international study presenting a federated learning AI platform for pediatric brain tumors | Stanford University | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-024-51172-5)] [[CODE](https://github.com/edhlee/FLPedBrain)] |
+| PPML-Omics: A privacy-preserving federated machine learning method protects patients’ privacy in omic data | KAUST | Science Advances | 2024 | [[PUB](https://www.science.org/doi/10.1126/sciadv.adh8601)] [[CODE](https://github.com/JoshuaChou2018/PPML-Omics)] |
+| Federated learning is not a cure-all for data ethics | TUM; UvA | Nat. Mach. Intell.(Comment) | 2024 | [[PUB](https://www.nature.com/articles/s42256-024-00813-x)] |
+| Robustly federated learning model for identifying high-risk patients with postoperative gastric cancer recurrence | Jiangmen Central Hospital; Guilin University of Aerospace Technology; Guilin University of Electronic Technology; | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-024-44946-4)] [[CODE](https://github.com/baofengguat/RFLM-project/)] |
+| Selective knowledge sharing for privacy-preserving federated distillation without a good teacher | HKUST | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-023-44383-9)] [[PDF](https://arxiv.org/abs/2304.01731)] [[CODE](https://github.com/shaojiawei07/Selective-FD)] |
+| A federated learning system for precision oncology in Europe: DigiONE | IQVIA Cancer Research BV | Nat. Med. (Comment) | 2024 | [[PUB](https://www.nature.com/articles/s41591-023-02715-8)] |
+| Multi-client distributed blind quantum computation with the Qline architecture | Sapienza Università di Roma | Nat. Commun. | 2023 | [[PUB](https://www.nature.com/articles/s41467-023-43617-0)] [[PDF](https://arxiv.org/abs/2306.05195)] |
+| Device-independent quantum randomness–enhanced zero-knowledge proof | USTC | PNAS | 2023 | [[PUB](https://www.pnas.org/doi/10.1073/pnas.2205463120)] [[PDF](https://arxiv.org/abs/2111.06717)] [[新闻](https://www.nsfc.gov.cn/publish/portal0/tab448/info90817.htm)] |
+| Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning | Tsinghua University | Nat. Commun. | 2023 | [[PUB](https://www.nature.com/articles/s41467-023-43883-y)] |
+| Advocating for neurodata privacy and neurotechnology regulation | Columbia University | Nat. Protoc. (Perspective) | 2023 | [[PUB](https://www.nature.com/articles/s41596-023-00873-0)] |
+| Federated benchmarking of medical artificial intelligence with MedPerf | IHU Strasbourg; University of Strasbourg; Dana-Farber Cancer Institute; Weill Cornell Medicine; Harvard T.H. Chan School of Public Health; MIT; Intel | Nat. Mach. Intell. | 2023 | [[PUB](https://www.nature.com/articles/s42256-023-00652-2)] [[PDF](https://arxiv.org/abs/2110.01406)] [[CODE](https://github.com/mlcommons/MedPerf)] |
+| Algorithmic fairness in artificial intelligence for medicine and healthcare | Harvard Medical School; Broad Institute of Harvard and Massachusetts Institute of Technology; Dana-Farber Cancer Institute | Nat. Biomed. Eng. (Perspective) | 2023 | [[PUB](https://www.nature.com/articles/s41551-023-01056-8)] [[PDF](https://arxiv.org/abs/2110.00603)] |
+| Differentially private knowledge transfer for federated learning | THU | Nat. Commun. | 2023 | [[PUB](https://www.nature.com/articles/s41467-023-38794-x)] [[CODE](https://github.com/taoqi98/PrivateKT)] |
+| Decentralized federated learning through proxy model sharing | Layer 6 AI; University of Waterloo; Vector Institute | Nat. Commun. | 2023 | [[PUB](https://www.nature.com/articles/s41467-023-38569-4)] [[PDF](https://arxiv.org/abs/2111.11343)] [[CODE](https://github.com/layer6ai-labs/ProxyFL)] |
+| Federated machine learning in data-protection-compliant research | University of Hamburg | Nat. Mach. Intell.(Comment) | 2023 | [[PUB](https://www.nature.com/articles/s42256-022-00601-5)] |
+| Federated learning for predicting histological response to neoadjuvant chemotherapy in triple-negative breast cancer | Owkin | Nat. Med. | 2023 | [[PUB](https://www.nature.com/articles/s41591-022-02155-w)] [[CODE](https://github.com/Substra/substra)] |
+| Federated learning enables big data for rare cancer boundary detection | University of Pennsylvania | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-33407-5)] [[PDF](https://arxiv.org/abs/2204.10836)] [[CODE](https://github.com/FETS-AI/Front-End)] |
+| Federated learning and Indigenous genomic data sovereignty | Hugging Face | Nat. Mach. Intell. (Comment) | 2022 | [[PUB](https://www.nature.com/articles/s42256-022-00551-y)] |
+| Federated disentangled representation learning for unsupervised brain anomaly detection | TUM | Nat. Mach. Intell. | 2022 | [[PUB](https://www.nature.com/articles/s42256-022-00515-2)] [[PDF](https://doi.org/https://doi.org/10.21203/rs.3.rs-722389/v1)] [[CODE](https://doi.org/10.5281/zenodo.6604161)] |
+| Shifting machine learning for healthcare from development to deployment and from models to data | Stanford University; Greenstone Biosciences | Nat. Biomed. Eng. (Review Article) | 2022 | [[PUB](https://www.nature.com/articles/s41551-022-00898-y)] |
+| A federated graph neural network framework for privacy-preserving personalization | THU | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-30714-9)] [[CODE](https://github.com/wuch15/FedPerGNN)] [[解读](https://zhuanlan.zhihu.com/p/487383715)] |
+| Communication-efficient federated learning via knowledge distillation | THU | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-29763-x)] [[PDF](https://arxiv.org/abs/2108.13323)] [[CODE](https://zenodo.org/record/6383473)] |
+| Lead federated neuromorphic learning for wireless edge artificial intelligence | XMU; NTU | Nat. Commun. | 2022 | [[PUB](https://www.nature.com/articles/s41467-022-32020-w)] [[CODE](https://github.com/GOGODD/FL-EDGE-COMPUTING/releases/tag/federated_learning)] [[解读](https://zhuanlan.zhihu.com/p/549087420)] |
+| A novel decentralized federated learning approach to train on globally  distributed, poor quality, and protected private medical data | University of Wollongong | Sci. Rep. | 2022 | [[PUB](https://www.nature.com/articles/s41598-022-12833-x)] |
+| Advancing COVID-19 diagnosis with privacy-preserving collaboration in artificial intelligence | HUST | Nat. Mach. Intell. | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00421-z)] [[PDF](https://arxiv.org/abs/2111.09461)] [[CODE](https://github.com/HUST-EIC-AI-LAB/UCADI)] |
+| Federated learning for predicting clinical outcomes in patients with COVID-19 | MGH radiology and Harvard Medical School | Nat. Med. | 2021 | [[PUB](https://www.nature.com/articles/s41591-021-01506-3)] [[CODE](https://www.nature.com/articles/s41591-021-01506-3#code-availability)] |
+| Adversarial interference and its mitigations in privacy-preserving collaborative machine learning | Imperial College London; TUM;  OpenMined | Nat. Mach. Intell.(Perspective) | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00390-3)] |
+| Swarm Learning for decentralized and confidential clinical machine learning :star: | DZNE; University of Bonn; | Nature :mortar_board: | 2021 | [[PUB](https://www.nature.com/articles/s41586-021-03583-3)] [[CODE](https://github.com/HewlettPackard/swarm-learning)] [[SOFTWARE](https://myenterpriselicense.hpe.com)] [[解读](https://zhuanlan.zhihu.com/p/379434722)] |
+| End-to-end privacy preserving deep learning on multi-institutional medical imaging | TUM; Imperial College London; OpenMined | Nat. Mach. Intell. | 2021 | [[PUB](https://www.nature.com/articles/s42256-021-00337-8)] [[CODE](https://doi.org/10.5281/zenodo.4545599)] [[解读](https://zhuanlan.zhihu.com/p/484801505)] |
+| Communication-efficient federated learning | CUHK; Princeton University | PANS. | 2021 | [[PUB](https://www.pnas.org/doi/full/10.1073/pnas.2024789118)] [[CODE](https://code.ihub.org.cn/projects/4394/repository/revisions/master/show/PNAS)] |
+| Breaking medical data sharing boundaries by using synthesized radiographs | RWTH Aachen University | Science. Advances. | 2020 | [[PUB](https://www.science.org/doi/10.1126/sciadv.abb7973)] [[CODE](https://github.com/peterhan91/Thorax_GAN)] |
+| Secure, privacy-preserving and federated machine learning in medical imaging :star: | TUM; Imperial College London; OpenMined | Nat. Mach. Intell.(Perspective) | 2020 | [[PUB](https://www.nature.com/articles/s42256-020-0186-1)] |
 
 <!-- END:fl-in-top-tier-journal -->
-
-### 2025
-
-#### Nat. Mach. Intell.
-
-- Towards compute-efficient Byzantine-robust federated learning with fully homomorphic encryption. [[PUB](https://www.nature.com/articles/s42256-025-01107-6)] [[PDF](https://arxiv.org/abs/2408.06197)] [[CODE](https://github.com/siyang-jiang/Lancelot)]
-- Data-driven federated learning in drug discovery with knowledge distillation. [[PUB](https://www.nature.com/articles/s42256-025-00991-2)] [[CODE](https://github.com/LhasaLimited/FLuID_POC)]
-
-#### Nat. Commun.
-
-- Incentivizing inclusive contributions in model sharing markets. [[PUB](https://www.nature.com/articles/s41467-025-62959-5)] [[CODE](https://github.com/19dx/iPFL)]
-- FedECA: federated external control arms for causal inference with time-to-event data in distributed settings. [[PUB](https://www.nature.com/articles/s41467-025-62525-z)] [[CODE](https://github.com/owkin/fedeca)]
-- Towards fair decentralized benchmarking of healthcare AI algorithms with the Federated Tumor Segmentation (FeTS) challenge. [[PUB](https://www.nature.com/articles/s41467-025-60466-1)] [[CODE](https://github.com/mlcommons/medperf/tree/fets-challenge)]
-- A framework reforming personalized Internet of Things by federated meta-learning. [[PUB](https://www.nature.com/articles/s41467-025-59217-z)] [[CODE](https://github.com/IntelligentSystemsLab/generic_and_open_learning_federator/)]
-- Achieving flexible fairness metrics in federated medical imaging. [[PUB](https://www.nature.com/articles/s41467-025-58549-0)] [[CODE](https://zenodo.org/records/15203267)]
-- Towards fairness-aware and privacy-preserving enhanced collaborative learning for healthcare. [[PUB](https://www.nature.com/articles/s41467-025-58055-3)] [[CODE](https://github.com/paridis-11/DynamicFL)]
-- Distributed cross-learning for equitable federated models - privacy-preserving prediction on data from five California hospitals. [[PUB](https://www.nature.com/articles/s41467-025-56510-9)]
-- Physical unclonable in-memory computing for simultaneous protecting private data and deep learning models. [[PUB](https://www.nature.com/articles/s41467-025-56412-w)] [[新闻](https://ic.pku.edu.cn/kxyj/kycg1/d2c084006150492c93ae3e6b0cb1d7df.htm)]
-
-#### Nat. Comput. Sci.
-
-- Privacy-preserving multicenter differential protein abundance analysis with FedProt. [[PUB](https://www.nature.com/articles/s43588-025-00832-7)] [[CODE](https://github.com/Freddsle/FedProt)]
-
-#### Nature
-
-- A fully open AI foundation model applied to chest radiography. [[PUB](https://www.nature.com/articles/s41586-025-09079-8)] [[CODE](https://github.com/jlianglab/Ark)]
-
-#### Nat. Electron.
-
-- Federated learning using a memristor compute-in-memory chip with in situ physical unclonable function and true random number generator. [[PUB](https://www.nature.com/articles/s41928-025-01390-6)]
-
-### 2024
-
-#### Nat. Commun.
-
-- MatSwarm: trusted swarm transfer learning driven materials computation for secure big data sharing. [[PUB](https://www.nature.com/articles/s41467-024-53431-x)] [[CODE](https://github.com/SICC-Group/MatSwarm)]
-- Introducing edge intelligence to smart meters via federated split learning. [[PUB](https://www.nature.com/articles/s41467-024-53352-9)] [[新闻](https://www.ces.org.cn/html/report/24110829-1.htm)]
-- An international study presenting a federated learning AI platform for pediatric brain tumors. [[PUB](https://www.nature.com/articles/s41467-024-51172-5)] [[CODE](https://github.com/edhlee/FLPedBrain)]
-- Robustly federated learning model for identifying high-risk patients with postoperative gastric cancer recurrence. [[PUB](https://www.nature.com/articles/s41467-024-44946-4)] [[CODE](https://github.com/baofengguat/RFLM-project/)]
-- Selective knowledge sharing for privacy-preserving federated distillation without a good teacher. [[PUB](https://www.nature.com/articles/s41467-023-44383-9)] [[PDF](https://arxiv.org/abs/2304.01731)] [[CODE](https://github.com/shaojiawei07/Selective-FD)]
-
-#### Science Advances
-
-- PPML-Omics: A privacy-preserving federated machine learning method protects patients’ privacy in omic data. [[PUB](https://www.science.org/doi/10.1126/sciadv.adh8601)] [[CODE](https://github.com/JoshuaChou2018/PPML-Omics)]
-
-#### Nat. Mach. Intell.(Comment)
-
-- Federated learning is not a cure-all for data ethics. [[PUB](https://www.nature.com/articles/s42256-024-00813-x)]
-
-#### Nat. Med. (Comment)
-
-- A federated learning system for precision oncology in Europe: DigiONE. [[PUB](https://www.nature.com/articles/s41591-023-02715-8)]
-
-### 2023
-
-#### Nat. Commun.
-
-- Multi-client distributed blind quantum computation with the Qline architecture. [[PUB](https://www.nature.com/articles/s41467-023-43617-0)] [[PDF](https://arxiv.org/abs/2306.05195)]
-- Collaborative and privacy-preserving retired battery sorting for profitable direct recycling via federated machine learning. [[PUB](https://www.nature.com/articles/s41467-023-43883-y)]
-- Differentially private knowledge transfer for federated learning. [[PUB](https://www.nature.com/articles/s41467-023-38794-x)] [[CODE](https://github.com/taoqi98/PrivateKT)]
-- Decentralized federated learning through proxy model sharing. [[PUB](https://www.nature.com/articles/s41467-023-38569-4)] [[PDF](https://arxiv.org/abs/2111.11343)] [[CODE](https://github.com/layer6ai-labs/ProxyFL)]
-
-#### PNAS
-
-- Device-independent quantum randomness–enhanced zero-knowledge proof. [[PUB](https://www.pnas.org/doi/10.1073/pnas.2205463120)] [[PDF](https://arxiv.org/abs/2111.06717)] [[新闻](https://www.nsfc.gov.cn/publish/portal0/tab448/info90817.htm)]
-
-#### Nat. Protoc. (Perspective)
-
-- Advocating for neurodata privacy and neurotechnology regulation. [[PUB](https://www.nature.com/articles/s41596-023-00873-0)]
-
-#### Nat. Mach. Intell.
-
-- Federated benchmarking of medical artificial intelligence with MedPerf. [[PUB](https://www.nature.com/articles/s42256-023-00652-2)] [[PDF](https://arxiv.org/abs/2110.01406)] [[CODE](https://github.com/mlcommons/MedPerf)]
-
-#### Nat. Biomed. Eng. (Perspective)
-
-- Algorithmic fairness in artificial intelligence for medicine and healthcare. [[PUB](https://www.nature.com/articles/s41551-023-01056-8)] [[PDF](https://arxiv.org/abs/2110.00603)]
-
-#### Nat. Mach. Intell.(Comment)
-
-- Federated machine learning in data-protection-compliant research. [[PUB](https://www.nature.com/articles/s42256-022-00601-5)]
-
-#### Nat. Med.
-
-- Federated learning for predicting histological response to neoadjuvant chemotherapy in triple-negative breast cancer. [[PUB](https://www.nature.com/articles/s41591-022-02155-w)] [[CODE](https://github.com/Substra/substra)]
-
-### 2022
-
-#### Nat. Commun.
-
-- Federated learning enables big data for rare cancer boundary detection. [[PUB](https://www.nature.com/articles/s41467-022-33407-5)] [[PDF](https://arxiv.org/abs/2204.10836)] [[CODE](https://github.com/FETS-AI/Front-End)]
-- A federated graph neural network framework for privacy-preserving personalization. [[PUB](https://www.nature.com/articles/s41467-022-30714-9)] [[CODE](https://github.com/wuch15/FedPerGNN)] [[解读](https://zhuanlan.zhihu.com/p/487383715)]
-- Communication-efficient federated learning via knowledge distillation. [[PUB](https://www.nature.com/articles/s41467-022-29763-x)] [[PDF](https://arxiv.org/abs/2108.13323)] [[CODE](https://zenodo.org/record/6383473)]
-- Lead federated neuromorphic learning for wireless edge artificial intelligence. [[PUB](https://www.nature.com/articles/s41467-022-32020-w)] [[CODE](https://github.com/GOGODD/FL-EDGE-COMPUTING/releases/tag/federated_learning)] [[解读](https://zhuanlan.zhihu.com/p/549087420)]
-
-#### Nat. Mach. Intell. (Comment)
-
-- Federated learning and Indigenous genomic data sovereignty. [[PUB](https://www.nature.com/articles/s42256-022-00551-y)]
-
-#### Nat. Mach. Intell.
-
-- Federated disentangled representation learning for unsupervised brain anomaly detection. [[PUB](https://www.nature.com/articles/s42256-022-00515-2)] [[PDF](https://doi.org/https://doi.org/10.21203/rs.3.rs-722389/v1)] [[CODE](https://doi.org/10.5281/zenodo.6604161)]
-
-#### Nat. Biomed. Eng. (Review Article)
-
-- Shifting machine learning for healthcare from development to deployment and from models to data. [[PUB](https://www.nature.com/articles/s41551-022-00898-y)]
-
-#### Sci. Rep.
-
-- A novel decentralized federated learning approach to train on globally  distributed, poor quality, and protected private medical data. [[PUB](https://www.nature.com/articles/s41598-022-12833-x)]
-
-### 2021
-
-#### Nat. Mach. Intell.
-
-- Advancing COVID-19 diagnosis with privacy-preserving collaboration in artificial intelligence. [[PUB](https://www.nature.com/articles/s42256-021-00421-z)] [[PDF](https://arxiv.org/abs/2111.09461)] [[CODE](https://github.com/HUST-EIC-AI-LAB/UCADI)]
-- End-to-end privacy preserving deep learning on multi-institutional medical imaging. [[PUB](https://www.nature.com/articles/s42256-021-00337-8)] [[CODE](https://doi.org/10.5281/zenodo.4545599)] [[解读](https://zhuanlan.zhihu.com/p/484801505)]
-
-#### Nat. Med.
-
-- Federated learning for predicting clinical outcomes in patients with COVID-19. [[PUB](https://www.nature.com/articles/s41591-021-01506-3)] [[CODE](https://www.nature.com/articles/s41591-021-01506-3#code-availability)]
-
-#### Nat. Mach. Intell.(Perspective)
-
-- Adversarial interference and its mitigations in privacy-preserving collaborative machine learning. [[PUB](https://www.nature.com/articles/s42256-021-00390-3)]
-
-#### Nature :mortar_board:
-
-- Swarm Learning for decentralized and confidential clinical machine learning :star:. [[PUB](https://www.nature.com/articles/s41586-021-03583-3)] [[CODE](https://github.com/HewlettPackard/swarm-learning)] [[SOFTWARE](https://myenterpriselicense.hpe.com)] [[解读](https://zhuanlan.zhihu.com/p/379434722)]
-
-#### PANS.
-
-- Communication-efficient federated learning. [[PUB](https://www.pnas.org/doi/full/10.1073/pnas.2024789118)] [[CODE](https://code.ihub.org.cn/projects/4394/repository/revisions/master/show/PNAS)]
-
-### 2020
-
-#### Science. Advances.
-
-- Breaking medical data sharing boundaries by using synthesized radiographs. [[PUB](https://www.science.org/doi/10.1126/sciadv.abb7973)] [[CODE](https://github.com/peterhan91/Thorax_GAN)]
-
-#### Nat. Mach. Intell.(Perspective)
-
-- Secure, privacy-preserving and federated machine learning in medical imaging :star:. [[PUB](https://www.nature.com/articles/s42256-020-0186-1)]
 
 </details>
 
@@ -3928,264 +3834,88 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 
 <!-- START:fl-on-tabular-data -->
 
+|Title                                                        | Affiliation                        | Venue                                                | Year | Materials|
+| ------------------------------------------------------------ | ---------------------------------- | ---------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| SGBoost: An Efficient and Privacy-Preserving Vertical Federated Tree Boosting Framework | Xidian University | IEEE Trans. Inf. Forensics Secur. :mortar_board: | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10002374)] [[CODE](https://github.com/nds2022/SGBoost)] |
+| Incentive-boosted Federated Crowdsourcing | SDU | AAAI :mortar_board: | 2023 | [[PDF](https://arxiv.org/abs/2211.14439)] |
+| Explaining predictions and attacks in federated learning via random forests | Universitat Rovira i Virgili | Appl. Intell. | 2023 | [[PUB](https://link.springer.com/article/10.1007/s10489-022-03435-1)] [[CODE](https://github.com/RamiHaf/Explainable-Federated-Learning-via-Random-Forests)] |
+| Boosting Accuracy of Differentially Private Federated Learning in Industrial IoT With Sparse Responses |  | IEEE Trans. Ind. Informatics | 2023 | [[PUB](https://ieeexplore.ieee.org/document/9743613)] |
+| Driver Drowsiness EEG Detection Based on Tree Federated Learning and Interpretable Network. |  | Int. J. Neural Syst. | 2023 | [[PUB](https://www.worldscientific.com/doi/10.1142/S0129065723500090)] |
+| FDPBoost: Federated differential privacy gradient boosting decision trees. |  | J. Inf. Secur. Appl. | 2023 | [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S2214212623000522?via%3Dihub)] |
+| Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates. |  | EuroMLSys | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592579)] [[PDF](https://arxiv.org/abs/2304.07537)] |
+| HT-Fed-GAN: Federated Generative Model for Decentralized Tabular Data Synthesis | HIT | Entropy | 2023 | [[PUB](https://www.mdpi.com/1099-4300/25/1/88)] |
+| Blockchain-Based Swarm Learning for the Mitigation of Gradient Leakage in Federated Learning | University of Udine | IEEE Access | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10047894)] |
+| OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization | ZJU | Proc. VLDB Endow. :mortar_board: | 2022 | [[PUB](https://www.vldb.org/pvldb/volumes/16/paper/OpBoost%3A%20A%20Vertical%20Federated%20Tree%20Boosting%20Framework%20Based%20on%20Order-Preserving%20Desensitization)] [[PDF](https://arxiv.org/abs/2210.01318)] [[CODE](https://github.com/alibaba-edu/mpc4j/tree/main/mpc4j-sml-opboost)] |
+| RevFRF: Enabling Cross-Domain Random Forest Training With Revocable Federated Learning | XIDIAN UNIVERSITY | IEEE Trans. Dependable Secur. Comput. :mortar_board: | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9514457)] [[PDF](https://arxiv.org/abs/1911.03242)] |
+| A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources | University of Pittsburgh | ICML :mortar_board: | 2022 | [[PUB](https://proceedings.mlr.press/v162/tan22a.html)] [[PDF](https://arxiv.org/abs/2103.06261)] [[CODE](https://github.com/ellenxtan/ifedtree)] |
+| Federated Boosted Decision Trees with Differential Privacy | University of Warwick | CCS :mortar_board: | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3548606.3560687)] [[PDF](https://arxiv.org/abs/2210.02910)] [[CODE](https://github.com/Samuel-Maddock/federated-boosted-dp-trees)] |
+| Federated Functional Gradient Boosting | University of Pennsylvania | AISTATS :mortar_board: | 2022 | [[PUB](https://proceedings.mlr.press/v151/shen22a.html)] [[PDF](https://arxiv.org/abs/2103.06972)] [[CODE](https://github.com/shenzebang/Federated-Learning-Pytorch)] |
+| Tree-Based Models for Federated Learning Systems. | IBM Research | Federated Learning | 2022 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-96896-0_2)] |
+| Federated Learning for Tabular Data using TabNet: A Vehicular Use-Case |  | ICCP | 2022 | [[PUB](https://ieeexplore.ieee.org/document/10053975)] |
+| Federated Learning for Tabular Data: Exploring Potential Risk to Privacy | Newcastle University | ISSRE | 2022 | [[PDF](https://arxiv.org/abs/2210.06856)] |
+| Federated Random Forests can improve local performance of predictive models for various healthcare applications | University of Marburg | Bioinform. | 2022 | [[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214)] [[CODE](https://featurecloud.ai/)] |
+| FLForest: Byzantine-robust Federated Learning through Isolated Forest | NUAA | ICPADS | 2022 | [[PUB](https://ieeexplore.ieee.org/document/10077947)] |
+| Boosting the Federation: Cross-Silo Federated Learning without Gradient Descent. | unito | IJCNN | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9892284)] [[CODE](https://github.com/ml-unito/federation_boosting)] |
+| Federated Forest | JD | TBD | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9088965)] [[PDF](https://arxiv.org/abs/1905.10053)] |
+| Sliding Focal Loss for Class Imbalance Classification in Federated XGBoost. | Swinburne University of Technology | ISPA/BDCloud/SocialCom/SustainCom | 2022 | [[PUB](https://ieeexplore.ieee.org/document/10070688)] |
+| Neural gradient boosting in federated learning for hemodynamic instability  prediction: towards a distributed and scalable deep learning-based  solution. |  | AMIA | 2022 | [[PUB](https://knowledge.amia.org/76677-amia-1.4637602/f006-1.4642154/f006-1.4642155/917-1.4642324/604-1.4642321?qr=1)] |
+| Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring | The University of Sydney | e-Energy | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3538637.3538840)] |
+| Verifiable Privacy-Preserving Scheme Based on Vertical Federated Random Forest | NUST | IEEE Internet Things J. | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9461157)] |
+| Statistical Detection of Adversarial examples in Blockchain-based Federated Forest In-vehicle Network Intrusion Detection Systems | CNU | IEEE Access | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9912427)] [[PDF](https://arxiv.org/abs/2207.04843)] |
+| BOFRF: A Novel Boosting-Based Federated Random Forest Algorithm on Horizontally Partitioned Data | METU | IEEE Access | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9867984/)] |
+| eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees | kobe-u | IEEE Access | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9761890)] |
+| An Efficient Learning Framework for Federated XGBoost Using Secret Sharing and Distributed Optimization | TJU | ACM Trans. Intell. Syst. Technol. | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3523061)] [[PDF](https://arxiv.org/abs/2105.05717)] [[CODE](https://github.com/HikariX/MP-FedXGB)] |
+| An optional splitting extraction based gain-AUPRC balanced strategy in  federated XGBoost for mitigating imbalanced credit card fraud detection | Swinburne University of Technology | Int. J. Bio Inspired Comput. | 2022 | [[PUB](https://www.inderscience.com/offer.php?id=126793)] |
+| Random Forest Based on Federated Learning for Intrusion Detection | Malardalen University | AIAI | 2022 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-08333-4_11)] |
+| Cross-silo federated learning based decision trees | ETH Zürich | SAC | 2022 | [[PUB](https://dl.acm.org/doi/10.1145/3477314.3507149)] |
+| Leveraging Spanning Tree to Detect Colluding Attackers in Federated Learning | Missouri S&T | INFCOM Workshops | 2022 | [[PUB](https://ieeexplore.ieee.org/document/9798077)] |
+| VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning | PKU | SIGMOD :mortar_board: | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241)] |
+| Boosting with Multiple Sources | Google | NeurIPS:mortar_board: | 2021 | [[PUB](https://openreview.net/forum?id=1oP1duoZxx)] |
+| SecureBoost: A Lossless Federated Learning Framework :fire: | UC | IEEE Intell. Syst. | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9440789/)] [[PDF](https://arxiv.org/abs/1901.08755)] [[SLIDE](https://fate.readthedocs.io/en/latest/resources/SecureBoost-ijcai2019-workshop.pdf)] [[CODE](https://github.com/FederatedAI/FATE/tree/master/python/federatedml/ensemble/secureboost)] [[解读](https://zhuanlan.zhihu.com/p/545739311)] [[UC](https://github.com/Koukyosyumei/AIJack)] |
+| A Blockchain-Based Federated Forest for SDN-Enabled In-Vehicle Network Intrusion Detection System | CNU | IEEE Access | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9471858)] |
+| Research on privacy protection of multi source data based on improved gbdt federated ensemble method with different metrics | NCUT | Phys. Commun. | 2021 | [[PUB](https://www.sciencedirect.com/science/article/pii/S1874490721000847)] |
+| Fed-EINI: An Efficient and Interpretable Inference Framework for Decision Tree Ensembles in Vertical Federated Learning | UCAS; CAS | IEEE BigData | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9671749)] [[PDF](https://arxiv.org/abs/2105.09540)] |
+| Gradient Boosting Forest: a Two-Stage Ensemble Method Enabling Federated Learning of GBDTs | THU | ICONIP | 2021 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_7)] |
+| A k-Anonymised Federated Learning Framework with Decision Trees | Umeå University | DPM/CBT @ESORICS | 2021 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-93944-1_7)] |
+| AF-DNDF: Asynchronous Federated Learning of Deep Neural Decision Forests | Chalmers | SEAA | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9582575)] |
+| Compression Boosts Differentially Private Federated Learning | Univ. Grenoble Alpes | EuroS&P | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9581200)] [[PDF](https://arxiv.org/abs/2011.05578)] |
+| Practical Federated Gradient Boosting Decision Trees | NUS; UWA | AAAI :mortar_board: | 2020 | [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/5895)] [[PDF](https://arxiv.org/abs/1911.04206)] [[CODE](https://github.com/Xtra-Computing/SimFL)] |
+| Privacy Preserving Vertical Federated Learning for Tree-based Models | NUS | VLDB :mortar_board: | 2020 | [[PUB](http://vldb.org/pvldb/vol13/p2090-wu.pdf)] [[PDF](https://arxiv.org/abs/2008.06170)] [[VIDEO](https://www.youtube.com/watch?v=sjii8oVCqiY)] [[CODE](https://github.com/nusdbsystem/pivot)] |
+| Boosting Privately: Federated Extreme Gradient Boosting for Mobile Crowdsensing | Xidian University | ICDCS | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9355600)] [[PDF](https://arxiv.org/abs/1907.10218)] |
+| FedCluster: Boosting the Convergence of Federated Learning via Cluster-Cycling | University of Utah | IEEE BigData | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9377960)] [[PDF](https://arxiv.org/abs/2009.10748)] |
+| New Approaches to Federated XGBoost Learning for Privacy-Preserving Data Analysis | kobe-u | ICONIP | 2020 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_47)] |
+| Bandwidth Slicing to Boost Federated Learning Over Passive Optical Networks | Chalmers University of Technology | IEEE Communications Letters | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9044640)] |
+| DFedForest: Decentralized Federated Forest | UFRJ | Blockchain | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9284805/)] |
+| Straggler Remission for Federated Learning via Decentralized Redundant Cayley Tree | Stevens Institute of Technology | LATINCOM | 2020 | [[PUB](https://ieeexplore.ieee.org/document/9282334)] |
+| Federated Soft Gradient Boosting Machine for Streaming Data | Sinovation Ventures AI Institute | Federated Learning | 2020 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_7)] [[解读](https://www.leiphone.com/category/academic/4tVdYDuYTA293NCy.html)] |
+| Federated Learning of Deep Neural Decision Forests | Fraunhofer-Chalmers Centre | LOD | 2019 | [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58)] |
+| Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables. |  | preprint | 2023 | [[PDF](https://arxiv.org/abs/2305.12652)] |
+| V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection. |  | preprint | 2023 | [[PDF](https://arxiv.org/abs/2305.11654)] |
+| GTV: Generating Tabular Data via Vertical Federated Learning |  | preprint | 2023 | [[PDF](https://arxiv.org/abs/2302.01706)] |
+| Federated Survival Forests |  | preprint | 2023 | [[PDF](https://arxiv.org/abs/2302.02807)] |
+| Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data | HIT | preprint | 2022 | [[PDF](https://arxiv.org/abs/2211.13116)] |
+| Data Leakage in Tabular Federated Learning | ETH Zurich | preprint | 2022 | [[PDF](https://arxiv.org/abs/2210.01785)] |
+| Boost Decentralized Federated Learning in Vehicular Networks by Diversifying Data Sources |  | preprint | 2022 | [[PDF](https://arxiv.org/abs/2209.01750)] |
+| Federated XGBoost on Sample-Wise Non-IID Data |  | preprint | 2022 | [[PDF](https://arxiv.org/abs/2209.01340)] |
+| Hercules: Boosting the Performance of Privacy-preserving Federated Learning |  | preprint | 2022 | [[PDF](https://arxiv.org/abs/2207.04620)] |
+| FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging |  | preprint | 2022 | [[PDF](https://arxiv.org/abs/2204.00976)] |
+| A Fair and Efficient Hybrid Federated Learning Framework based on XGBoost for Distributed Power Prediction. | THU | preprint | 2022 | [[PDF](https://arxiv.org/abs/2201.02783)] |
+| An Efficient and Robust System for Vertically Federated Random Forest |  | preprint | 2022 | [[PDF](https://arxiv.org/abs/2201.10761)] |
+| Efficient Batch Homomorphic Encryption for Vertically Federated XGBoost. | BUAA | preprint | 2021 | [[PDF](https://arxiv.org/abs/2112.04261)] |
+| Guess what? You can boost Federated Learning for free |  | preprint | 2021 | [[PDF](https://arxiv.org/abs/2110.11486)] |
+| SecureBoost+ : A High Performance Gradient Boosting Tree Framework for Large Scale Vertical Federated Learning :fire: |  | preprint | 2021 | [[PDF](https://arxiv.org/abs/2110.10927)] [[CODE](https://github.com/FederatedAI/FATE)] |
+| Fed-TGAN: Federated Learning Framework for Synthesizing Tabular Data |  | preprint | 2021 | [[PDF](https://arxiv.org/abs/2108.07927)] |
+| FedXGBoost: Privacy-Preserving XGBoost for Federated Learning | TUM | preprint | 2021 | [[PDF](https://arxiv.org/abs/2106.10662)] |
+| Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning |  | preprint | 2020 | [[PDF](https://arxiv.org/abs/2012.06670)] |
+| FederBoost: Private Federated Learning for GBDT | ZJU | preprint | 2020 | [[PDF](https://arxiv.org/abs/2011.02796)] |
+| Privacy Preserving Text Recognition with Gradient-Boosting for Federated Learning |  | preprint | 2020 | [[PDF](https://arxiv.org/abs/2007.07296)] [[CODE](https://github.com/rand2ai/fedboost)] |
+| Cloud-based Federated Boosting for Mobile Crowdsensing |  | preprint | 2020 | [[ARXIV](https://arxiv.org/abs/2005.05304)] |
+| Federated Extra-Trees with Privacy Preserving |  | preprint | 2020 | [[PDF](https://arxiv.org/abs/2002.07323.pdf)] |
+| Bandwidth Slicing to Boost Federated Learning in Edge Computing |  | preprint | 2019 | [[PDF](https://arxiv.org/abs/1911.07615)] |
+| Revocable Federated Learning: A Benchmark of Federated Forest |  | preprint | 2019 | [[PDF](https://arxiv.org/abs/1911.03242)] |
+| The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost | CUHK | preprint | 2019 | [[PDF](https://arxiv.org/abs/1907.07157)] [[CODE](https://github.com/Raymw/Federated-XGBoost)] |
 
 <!-- END:fl-on-tabular-data -->
-
-### 2023
-
-#### IEEE Trans. Inf. Forensics Secur. :mortar_board:
-
-- SGBoost: An Efficient and Privacy-Preserving Vertical Federated Tree Boosting Framework. [[PUB](https://ieeexplore.ieee.org/document/10002374)] [[CODE](https://github.com/nds2022/SGBoost)]
-
-#### AAAI :mortar_board:
-
-- Incentive-boosted Federated Crowdsourcing. [[PDF](https://arxiv.org/abs/2211.14439)]
-
-#### Appl. Intell.
-
-- Explaining predictions and attacks in federated learning via random forests. [[PUB](https://link.springer.com/article/10.1007/s10489-022-03435-1)] [[CODE](https://github.com/RamiHaf/Explainable-Federated-Learning-via-Random-Forests)]
-
-#### IEEE Trans. Ind. Informatics
-
-- Boosting Accuracy of Differentially Private Federated Learning in Industrial IoT With Sparse Responses. [[PUB](https://ieeexplore.ieee.org/document/9743613)]
-
-#### Int. J. Neural Syst.
-
-- Driver Drowsiness EEG Detection Based on Tree Federated Learning and Interpretable Network. [[PUB](https://www.worldscientific.com/doi/10.1142/S0129065723500090)]
-
-#### J. Inf. Secur. Appl.
-
-- FDPBoost: Federated differential privacy gradient boosting decision trees. [[PUB](https://www.sciencedirect.com/science/article/abs/pii/S2214212623000522?via%3Dihub)]
-
-#### EuroMLSys
-
-- Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates. [[PUB](https://dl.acm.org/doi/10.1145/3578356.3592579)] [[PDF](https://arxiv.org/abs/2304.07537)]
-
-#### Entropy
-
-- HT-Fed-GAN: Federated Generative Model for Decentralized Tabular Data Synthesis. [[PUB](https://www.mdpi.com/1099-4300/25/1/88)]
-
-#### IEEE Access
-
-- Blockchain-Based Swarm Learning for the Mitigation of Gradient Leakage in Federated Learning. [[PUB](https://ieeexplore.ieee.org/document/10047894)]
-
-#### preprint
-
-- Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables. [[PDF](https://arxiv.org/abs/2305.12652)]
-- V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection. [[PDF](https://arxiv.org/abs/2305.11654)]
-- GTV: Generating Tabular Data via Vertical Federated Learning. [[PDF](https://arxiv.org/abs/2302.01706)]
-- Federated Survival Forests. [[PDF](https://arxiv.org/abs/2302.02807)]
-
-### 2022
-
-#### Proc. VLDB Endow. :mortar_board:
-
-- OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization. [[PUB](https://www.vldb.org/pvldb/volumes/16/paper/OpBoost%3A%20A%20Vertical%20Federated%20Tree%20Boosting%20Framework%20Based%20on%20Order-Preserving%20Desensitization)] [[PDF](https://arxiv.org/abs/2210.01318)] [[CODE](https://github.com/alibaba-edu/mpc4j/tree/main/mpc4j-sml-opboost)]
-
-#### IEEE Trans. Dependable Secur. Comput. :mortar_board:
-
-- RevFRF: Enabling Cross-Domain Random Forest Training With Revocable Federated Learning. [[PUB](https://ieeexplore.ieee.org/document/9514457)] [[PDF](https://arxiv.org/abs/1911.03242)]
-
-#### ICML :mortar_board:
-
-- A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources. [[PUB](https://proceedings.mlr.press/v162/tan22a.html)] [[PDF](https://arxiv.org/abs/2103.06261)] [[CODE](https://github.com/ellenxtan/ifedtree)]
-
-#### CCS :mortar_board:
-
-- Federated Boosted Decision Trees with Differential Privacy. [[PUB](https://dl.acm.org/doi/10.1145/3548606.3560687)] [[PDF](https://arxiv.org/abs/2210.02910)] [[CODE](https://github.com/Samuel-Maddock/federated-boosted-dp-trees)]
-
-#### AISTATS :mortar_board:
-
-- Federated Functional Gradient Boosting. [[PUB](https://proceedings.mlr.press/v151/shen22a.html)] [[PDF](https://arxiv.org/abs/2103.06972)] [[CODE](https://github.com/shenzebang/Federated-Learning-Pytorch)]
-
-#### Federated Learning
-
-- Tree-Based Models for Federated Learning Systems. [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-96896-0_2)]
-
-#### ICCP
-
-- Federated Learning for Tabular Data using TabNet: A Vehicular Use-Case. [[PUB](https://ieeexplore.ieee.org/document/10053975)]
-
-#### ISSRE
-
-- Federated Learning for Tabular Data: Exploring Potential Risk to Privacy. [[PDF](https://arxiv.org/abs/2210.06856)]
-
-#### Bioinform.
-
-- Federated Random Forests can improve local performance of predictive models for various healthcare applications. [[PUB](https://academic.oup.com/bioinformatics/article-abstract/38/8/2278/6525214)] [[CODE](https://featurecloud.ai/)]
-
-#### ICPADS
-
-- FLForest: Byzantine-robust Federated Learning through Isolated Forest. [[PUB](https://ieeexplore.ieee.org/document/10077947)]
-
-#### IJCNN
-
-- Boosting the Federation: Cross-Silo Federated Learning without Gradient Descent. [[PUB](https://ieeexplore.ieee.org/document/9892284)] [[CODE](https://github.com/ml-unito/federation_boosting)]
-
-#### TBD
-
-- Federated Forest. [[PUB](https://ieeexplore.ieee.org/document/9088965)] [[PDF](https://arxiv.org/abs/1905.10053)]
-
-#### ISPA/BDCloud/SocialCom/SustainCom
-
-- Sliding Focal Loss for Class Imbalance Classification in Federated XGBoost. [[PUB](https://ieeexplore.ieee.org/document/10070688)]
-
-#### AMIA
-
-- Neural gradient boosting in federated learning for hemodynamic instability  prediction: towards a distributed and scalable deep learning-based  solution. [[PUB](https://knowledge.amia.org/76677-amia-1.4637602/f006-1.4642154/f006-1.4642155/917-1.4642324/604-1.4642321?qr=1)]
-
-#### e-Energy
-
-- Fed-GBM: a cost-effective federated gradient boosting tree for non-intrusive load monitoring. [[PUB](https://dl.acm.org/doi/10.1145/3538637.3538840)]
-
-#### IEEE Internet Things J.
-
-- Verifiable Privacy-Preserving Scheme Based on Vertical Federated Random Forest. [[PUB](https://ieeexplore.ieee.org/document/9461157)]
-
-#### IEEE Access
-
-- Statistical Detection of Adversarial examples in Blockchain-based Federated Forest In-vehicle Network Intrusion Detection Systems. [[PUB](https://ieeexplore.ieee.org/document/9912427)] [[PDF](https://arxiv.org/abs/2207.04843)]
-- BOFRF: A Novel Boosting-Based Federated Random Forest Algorithm on Horizontally Partitioned Data. [[PUB](https://ieeexplore.ieee.org/document/9867984/)]
-- eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees. [[PUB](https://ieeexplore.ieee.org/document/9761890)]
-
-#### ACM Trans. Intell. Syst. Technol.
-
-- An Efficient Learning Framework for Federated XGBoost Using Secret Sharing and Distributed Optimization. [[PUB](https://dl.acm.org/doi/10.1145/3523061)] [[PDF](https://arxiv.org/abs/2105.05717)] [[CODE](https://github.com/HikariX/MP-FedXGB)]
-
-#### Int. J. Bio Inspired Comput.
-
-- An optional splitting extraction based gain-AUPRC balanced strategy in  federated XGBoost for mitigating imbalanced credit card fraud detection. [[PUB](https://www.inderscience.com/offer.php?id=126793)]
-
-#### AIAI
-
-- Random Forest Based on Federated Learning for Intrusion Detection. [[PUB](https://link.springer.com/chapter/10.1007/978-3-031-08333-4_11)]
-
-#### SAC
-
-- Cross-silo federated learning based decision trees. [[PUB](https://dl.acm.org/doi/10.1145/3477314.3507149)]
-
-#### INFCOM Workshops
-
-- Leveraging Spanning Tree to Detect Colluding Attackers in Federated Learning. [[PUB](https://ieeexplore.ieee.org/document/9798077)]
-
-#### preprint
-
-- Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data. [[PDF](https://arxiv.org/abs/2211.13116)]
-- Data Leakage in Tabular Federated Learning. [[PDF](https://arxiv.org/abs/2210.01785)]
-- Boost Decentralized Federated Learning in Vehicular Networks by Diversifying Data Sources. [[PDF](https://arxiv.org/abs/2209.01750)]
-- Federated XGBoost on Sample-Wise Non-IID Data. [[PDF](https://arxiv.org/abs/2209.01340)]
-- Hercules: Boosting the Performance of Privacy-preserving Federated Learning. [[PDF](https://arxiv.org/abs/2207.04620)]
-- FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging. [[PDF](https://arxiv.org/abs/2204.00976)]
-- A Fair and Efficient Hybrid Federated Learning Framework based on XGBoost for Distributed Power Prediction. [[PDF](https://arxiv.org/abs/2201.02783)]
-- An Efficient and Robust System for Vertically Federated Random Forest. [[PDF](https://arxiv.org/abs/2201.10761)]
-
-### 2021
-
-#### SIGMOD :mortar_board:
-
-- VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning. [[PUB](https://dl.acm.org/doi/10.1145/3448016.3457241)]
-
-#### NeurIPS:mortar_board:
-
-- Boosting with Multiple Sources. [[PUB](https://openreview.net/forum?id=1oP1duoZxx)]
-
-#### IEEE Intell. Syst.
-
-- SecureBoost: A Lossless Federated Learning Framework :fire:. [[PUB](https://ieeexplore.ieee.org/document/9440789/)] [[PDF](https://arxiv.org/abs/1901.08755)] [[SLIDE](https://fate.readthedocs.io/en/latest/resources/SecureBoost-ijcai2019-workshop.pdf)] [[CODE](https://github.com/FederatedAI/FATE/tree/master/python/federatedml/ensemble/secureboost)] [[解读](https://zhuanlan.zhihu.com/p/545739311)] [[UC](https://github.com/Koukyosyumei/AIJack)]
-
-#### IEEE Access
-
-- A Blockchain-Based Federated Forest for SDN-Enabled In-Vehicle Network Intrusion Detection System. [[PUB](https://ieeexplore.ieee.org/document/9471858)]
-
-#### Phys. Commun.
-
-- Research on privacy protection of multi source data based on improved gbdt federated ensemble method with different metrics. [[PUB](https://www.sciencedirect.com/science/article/pii/S1874490721000847)]
-
-#### IEEE BigData
-
-- Fed-EINI: An Efficient and Interpretable Inference Framework for Decision Tree Ensembles in Vertical Federated Learning. [[PUB](https://ieeexplore.ieee.org/document/9671749)] [[PDF](https://arxiv.org/abs/2105.09540)]
-
-#### ICONIP
-
-- Gradient Boosting Forest: a Two-Stage Ensemble Method Enabling Federated Learning of GBDTs. [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_7)]
-
-#### DPM/CBT @ESORICS
-
-- A k-Anonymised Federated Learning Framework with Decision Trees. [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-93944-1_7)]
-
-#### SEAA
-
-- AF-DNDF: Asynchronous Federated Learning of Deep Neural Decision Forests. [[PUB](https://ieeexplore.ieee.org/document/9582575)]
-
-#### EuroS&P
-
-- Compression Boosts Differentially Private Federated Learning. [[PUB](https://ieeexplore.ieee.org/document/9581200)] [[PDF](https://arxiv.org/abs/2011.05578)]
-
-#### preprint
-
-- Efficient Batch Homomorphic Encryption for Vertically Federated XGBoost. [[PDF](https://arxiv.org/abs/2112.04261)]
-- Guess what? You can boost Federated Learning for free. [[PDF](https://arxiv.org/abs/2110.11486)]
-- SecureBoost+ : A High Performance Gradient Boosting Tree Framework for Large Scale Vertical Federated Learning :fire:. [[PDF](https://arxiv.org/abs/2110.10927)] [[CODE](https://github.com/FederatedAI/FATE)]
-- Fed-TGAN: Federated Learning Framework for Synthesizing Tabular Data. [[PDF](https://arxiv.org/abs/2108.07927)]
-- FedXGBoost: Privacy-Preserving XGBoost for Federated Learning. [[PDF](https://arxiv.org/abs/2106.10662)]
-
-### 2020
-
-#### AAAI :mortar_board:
-
-- Practical Federated Gradient Boosting Decision Trees. [[PUB](https://ojs.aaai.org/index.php/AAAI/article/view/5895)] [[PDF](https://arxiv.org/abs/1911.04206)] [[CODE](https://github.com/Xtra-Computing/SimFL)]
-
-#### VLDB :mortar_board:
-
-- Privacy Preserving Vertical Federated Learning for Tree-based Models. [[PUB](http://vldb.org/pvldb/vol13/p2090-wu.pdf)] [[PDF](https://arxiv.org/abs/2008.06170)] [[VIDEO](https://www.youtube.com/watch?v=sjii8oVCqiY)] [[CODE](https://github.com/nusdbsystem/pivot)]
-
-#### ICDCS
-
-- Boosting Privately: Federated Extreme Gradient Boosting for Mobile Crowdsensing. [[PUB](https://ieeexplore.ieee.org/document/9355600)] [[PDF](https://arxiv.org/abs/1907.10218)]
-
-#### IEEE BigData
-
-- FedCluster: Boosting the Convergence of Federated Learning via Cluster-Cycling. [[PUB](https://ieeexplore.ieee.org/document/9377960)] [[PDF](https://arxiv.org/abs/2009.10748)]
-
-#### ICONIP
-
-- New Approaches to Federated XGBoost Learning for Privacy-Preserving Data Analysis. [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63833-7_47)]
-
-#### IEEE Communications Letters
-
-- Bandwidth Slicing to Boost Federated Learning Over Passive Optical Networks. [[PUB](https://ieeexplore.ieee.org/document/9044640)]
-
-#### Blockchain
-
-- DFedForest: Decentralized Federated Forest. [[PUB](https://ieeexplore.ieee.org/document/9284805/)]
-
-#### LATINCOM
-
-- Straggler Remission for Federated Learning via Decentralized Redundant Cayley Tree. [[PUB](https://ieeexplore.ieee.org/document/9282334)]
-
-#### Federated Learning
-
-- Federated Soft Gradient Boosting Machine for Streaming Data. [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_7)] [[解读](https://www.leiphone.com/category/academic/4tVdYDuYTA293NCy.html)]
-
-#### preprint
-
-- Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning. [[PDF](https://arxiv.org/abs/2012.06670)]
-- FederBoost: Private Federated Learning for GBDT. [[PDF](https://arxiv.org/abs/2011.02796)]
-- Privacy Preserving Text Recognition with Gradient-Boosting for Federated Learning. [[PDF](https://arxiv.org/abs/2007.07296)] [[CODE](https://github.com/rand2ai/fedboost)]
-- Cloud-based Federated Boosting for Mobile Crowdsensing. [[ARXIV](https://arxiv.org/abs/2005.05304)]
-- Federated Extra-Trees with Privacy Preserving. [[PDF](https://arxiv.org/abs/2002.07323.pdf)]
-
-### 2019
-
-#### LOD
-
-- Federated Learning of Deep Neural Decision Forests. [[PUB](https://link.springer.com/chapter/10.1007/978-3-030-37599-7_58)]
-
-#### preprint
-
-- Bandwidth Slicing to Boost Federated Learning in Edge Computing. [[PDF](https://arxiv.org/abs/1911.07615)]
-- Revocable Federated Learning: A Benchmark of Federated Forest. [[PDF](https://arxiv.org/abs/1911.03242)]
-- The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost. [[PDF](https://arxiv.org/abs/1907.07157)] [[CODE](https://github.com/Raymw/Federated-XGBoost)]
 
 </details>
 
