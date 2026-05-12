@@ -4300,6 +4300,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 | [OpenFed](https://github.com/FederalLab/OpenFed/)<br />[![Stars](https://img.shields.io/github/stars/FederalLab/OpenFed.svg?color=blue)](https://github.com/FederalLab/OpenFed/stargazers)<br />![](https://img.shields.io/github/last-commit/FederalLab/OpenFed) | [OpenFed: A Comprehensive and Versatile Open-Source Federated Learning Framework](https://arxiv.org/abs/2109.07852) |  |  |  | [[DOC](https://openfed.readthedocs.io/README.html)] |
 | [FedSim](https://github.com/varnio/fedsim)<br />[![Stars](https://img.shields.io/github/stars/varnio/fedsim.svg?color=blue)](https://github.com/varnio/fedsim/stargazers)<br />![](https://img.shields.io/github/last-commit/varnio/fedsim) |  |  |  |  |  |
 | [Federated-Learning-source](https://github.com/MTC-ETH/Federated-Learning-source) <br />[![Stars](https://img.shields.io/github/stars/MTC-ETH/Federated-Learning-source.svg?color=blue)](https://github.com/MTC-ETH/Federated-Learning-source/stargazers)<br />![](https://img.shields.io/github/last-commit/MTC-ETH/Federated-Learning-source) | [A Practical Federated Learning Framework for Small Number of Stakeholders](https://dl.acm.org/doi/10.1145/3437963.3441702) | ETH Zürich |  |  | [[DOC](https://github.com/MTC-ETH/Federated-Learning-source/blob/master/dashboard/README.md)] |
+| [FedRS-Bench](https://fedrs-bench.github.io/) <br />[![Stars](https://img.shields.io/github/stars/dongdongzhaoUP/FedRS-Bench.svg?color=blue)](https://github.com/dongdongzhaoUP/FedRS-Bench/stargazers)<br />![](https://img.shields.io/github/last-commit/dongdongzhaoUP/FedRS-Bench) | [A Practical Federated Learning Framework for realistic Remote Sensing](https://arxiv.org/abs/2505.08325) | SJTU |  |  | [[DOC](https://github.com/dongdongzhaoUP/FedRS-Bench)] |
 | [Clara](https://developer.nvidia.com/clara) |  | NVIDIA |  |  |  |
 
 <!-- END:federated-learning-framework -->
@@ -4340,12 +4341,13 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 - [Federated AI Dataset](https://dataset.fedai.org/#/) 
 
-  
+- [FedRS](https://fedrs-bench.github.io/)
 
 # surveys
 
 This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning) and [FederatedAI research](https://github.com/FederatedAI/research#survey) , the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
 
+- [2025] Vertical Federated Learning in Practice: The Good, the Bad, and the Ugly [PDF](https://arxiv.org/abs/2502.08160)
 - [Ad Hoc Networks 2024] Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges [PUB](https://www.sciencedirect.com/science/article/abs/pii/S1570870524000684) [PDF](https://arxiv.org/pdf/2304.11643.pdf) [CODE](https://github.com/6lyc/Awesome-Privacy-Computing-in-Metaverse) 
 - [SIGKDD Explor. 2022] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PUB](https://dl.acm.org/doi/10.1145/3575637.3575644) [PDF](https://arxiv.org/abs/2207.11812)
 - [ACM Trans. Interact. Intell. Syst.] Toward Responsible AI: An Overview of Federated Learning for User-centered Privacy-preserving Computing [PUB](https://dl.acm.org/doi/abs/10.1145/3485875)
