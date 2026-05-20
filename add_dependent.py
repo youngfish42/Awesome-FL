@@ -1,6 +1,7 @@
 import re
 import requests
 import time
+import json
 from datetime import datetime 
 
 # Print start time
@@ -65,9 +66,11 @@ for link in github_links:
         time.sleep(61)
         version = get_latest_version_number(owner, repo) 
         commit_hashes[link] = {
+            "full_hash": commit_info["sha"],
             "hash": commit_info["sha"][:12],
             "date": datetime.strptime(commit_info["commit"]["committer"]["date"], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y%m%d%H%M%S"),
-            "version": version 
+            "version": version,
+            "resolved_ref": "main"
         }
         print(f"Got commit hash for {link}: {commit_hashes[link]}")
     except requests.exceptions.HTTPError as e:  
@@ -81,9 +84,11 @@ for link in github_links:
                 time.sleep(61)
                 version = get_latest_version_number(owner, repo) 
                 commit_hashes[link] = {
+                    "full_hash": commit_info["sha"],
                     "hash": commit_info["sha"][:12],
                     "date": datetime.strptime(commit_info["commit"]["committer"]["date"], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y%m%d%H%M%S"),
-                    "version": version 
+                    "version": version,
+                    "resolved_ref": "master"
                 }
                 print(f"Got commit hash for {link}: {commit_hashes[link]}")
             except Exception as e:  
@@ -111,6 +116,25 @@ go_mod += ")\n"
 # Save the go.mod file  
 with open('go.mod', 'w') as f:  
     f.write(go_mod)  
+
+provenance = {
+    "schema_version": 1,
+    "dependencies": [
+        {
+            "module": link,
+            "version": info["version"] if info["version"] else "v0.0.0",
+            "commit_timestamp": info["date"],
+            "short_commit_sha": info["hash"],
+            "full_commit_sha": info["full_hash"],
+            "resolved_ref": info["resolved_ref"],
+        }
+        for link, info in commit_hashes.items()
+    ],
+}
+
+with open('go.mod.provenance.json', 'w') as f:
+    json.dump(provenance, f, indent=2)
+    f.write('\n')
 
 # Print end time
 print(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
