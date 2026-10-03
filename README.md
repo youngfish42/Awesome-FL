@@ -5255,6 +5255,7 @@ This section partially refers to [DBLP](https://dblp.uni-trier.de/search?q=Feder
 
 |Title                                                        | Venue                                                 | Year | Materials|
 | ------------------------------------------------------------ | ----------------------------------------------------- | ---- | ------------------------------------------------------------ |
+| Decoupled Subgraph Federated Learning | ICLR :mortar_board: | 2025 | [[PDF](https://arxiv.org/abs/2402.19163)] [[CODE](https://github.com/JavadAliakbari/FedStruct)] |
 | FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks | NeurIPS :mortar_board: | 2023 | [[PDF](https://arxiv.org/abs/2201.12433)] [[CODE](https://github.com/yh-yao/FedGCN)] |
 | Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking | NeurIPS Dataset Track :mortar_board: | 2023 | [[PDF](https://openreview.net/forum?id=qynH28Y4xE)] [[DATASET](https://huggingface.co/datasets/wyzelabs/RuleRecommendation)] [[CODE](https://github.com/yh-yao/FedRule)] |
 | Federated Visualization: A Privacy-Preserving Strategy for Aggregated Visual Query. | IEEE Trans. Vis. Comput. Graph. :mortar_board: | 2023 | [[PUB](https://ieeexplore.ieee.org/document/10083324)] [[PDF](https://arxiv.org/abs/2007.15227)] |
