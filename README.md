@@ -179,7 +179,6 @@ Papers of federated learning in Nature(and its sub-journals), Cell, Science(and 
 | Distributed cross-learning for equitable federated models - privacy-preserving prediction on data from five California hospitals | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-56510-9)] |
 | Physical unclonable in-memory computing for simultaneous protecting private data and deep learning models | Nat. Commun. | 2025 | [[PUB](https://www.nature.com/articles/s41467-025-56412-w)] [[新闻](https://ic.pku.edu.cn/kxyj/kycg1/d2c084006150492c93ae3e6b0cb1d7df.htm)] |
 | MatSwarm: trusted swarm transfer learning driven materials computation for secure big data sharing | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-024-53431-x)] [[CODE](https://github.com/SICC-Group/MatSwarm)] |
-| Speed Up Federated Learning in Heterogeneous Environments: A Dynamic Tiering Approach | IEEE IoT-J | 2024 | [[PUB](https://doi.org/10.1109/JIOT.2024.3468511)] |
 | Introducing edge intelligence to smart meters via federated split learning | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-024-53352-9)] [[新闻](https://www.ces.org.cn/html/report/24110829-1.htm)] |
 | An international study presenting a federated learning AI platform for pediatric brain tumors | Nat. Commun. | 2024 | [[PUB](https://www.nature.com/articles/s41467-024-51172-5)] [[CODE](https://github.com/edhlee/FLPedBrain)] |
 | PPML-Omics: A privacy-preserving federated machine learning method protects patients’ privacy in omic data | Science Advances | 2024 | [[PUB](https://www.science.org/doi/10.1126/sciadv.adh8601)] [[CODE](https://github.com/JoshuaChou2018/PPML-Omics)] |
@@ -5196,6 +5195,12 @@ Federated Learning papers accepted by top conference and journal in the other fi
 - Merge-Width and First-Order Model Checking. [[PUB](https://doi.org/10.1145/3717823.3718259)]
 ### 2024
 
+#### IEEE Internet Things J.
+- Speed Up Federated Learning in Heterogeneous Environments: A Dynamic Tiering Approach. [[PUB](https://doi.org/10.1109/JIOT.2024.3468511)] [[PDF](https://arxiv.org/abs/2312.05642)]
+
+#### ICDCS
+- Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning. [[PUB](https://doi.org/10.1109/ICDCS60910.2024.00062)] [[PDF](https://arxiv.org/abs/2405.00839)]
+
 #### ICSE
 - F-CodeLLM: A Federated Learning Framework for Adapting Large Language Models to Practical Software Development. [[PUB](https://doi.org/10.1145/3639478.3643533)]
 - Raft Protocol for Fault Tolerance and Self-Recovery in Federated Learning. [[PUB](https://doi.org/10.1145/3643915.3644093)]
@@ -5637,6 +5642,7 @@ For more results, please refer to [Framework Functionality Support](https://unif
 
 This section partially refers to repository [Federated-Learning](https://github.com/lokinko/Federated-Learning) and [FederatedAI research](https://github.com/FederatedAI/research#survey) , the order of the surveys is arranged in reverse order according to the time of first submission (the latest being placed at the top)
 
+- [Global Energy Interconnect. 2026] Advancing Electric Vehicle Ecosystems: A Survey of Generative Artificial Intelligence and Distributed Machine Learning Applications [PUB](https://doi.org/10.1016/j.gloei.2025.10.001)
 - [2025] Vertical Federated Learning in Practice: The Good, the Bad, and the Ugly [PDF](https://arxiv.org/abs/2502.08160)
 - [Ad Hoc Networks 2024] Privacy Computing Meets Metaverse: Necessity, Taxonomy and Challenges [PUB](https://www.sciencedirect.com/science/article/abs/pii/S1570870524000684) [PDF](https://arxiv.org/pdf/2304.11643.pdf) [CODE](https://github.com/6lyc/Awesome-Privacy-Computing-in-Metaverse) 
 - [SIGKDD Explor. 2022] Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [PUB](https://dl.acm.org/doi/10.1145/3575637.3575644) [PDF](https://arxiv.org/abs/2207.11812)
